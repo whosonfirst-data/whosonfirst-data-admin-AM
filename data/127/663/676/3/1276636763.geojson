@@ -1,0 +1,71 @@
+{
+  "id": 1276636763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5365,40.21973,44.5365,40.21973",
+    "geom:latitude":40.21973,
+    "geom:longitude":44.5365,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hovhannesi",
+    "gn:country_code":"AM",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336990,
+    "gn:latitude":40.21973,
+    "gn:longitude":44.5365,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hovhannesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hovhannesi"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u057e\u0570\u0561\u0576\u0576\u0565\u057d\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336990
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"09baadf15dca84e645ccc26b3b7ab659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276636763,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1276636763,
+    "wof:lastmodified":1537584493,
+    "wof:name":"Hovhannesi",
+    "wof:parent_id":85668105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5365,
+    40.21973,
+    44.5365,
+    40.21973
+],
+  "geometry": {"coordinates":[44.5365,40.21973],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259605507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62793,40.89313,44.62793,40.89313",
+    "geom:latitude":40.89313,
+    "geom:longitude":44.62793,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Galusti",
+    "gn:country_code":"AM",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11321392,
+    "gn:latitude":40.89313,
+    "gn:longitude":44.62793,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Galusti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Galusti"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u056c\u0578\u0582\u057d\u057f\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783239,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11321392
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"abe00e14fb80ace5fd95296b30df6ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783239,
+            "locality_id":1259605507,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1259605507,
+    "wof:lastmodified":1537584471,
+    "wof:name":"Galusti",
+    "wof:parent_id":1108783239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62793,
+    40.89313,
+    44.62793,
+    40.89313
+],
+  "geometry": {"coordinates":[44.62793,40.89313],"type":"Point"}
+}

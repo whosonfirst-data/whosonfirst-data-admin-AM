@@ -1,0 +1,73 @@
+{
+  "id": 1242867869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27228,39.8681,45.27228,39.8681",
+    "geom:latitude":39.8681,
+    "geom:longitude":45.27228,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nerk'evi Gyugh",
+    "gn:country_code":"AM",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11190566,
+    "gn:latitude":39.8681,
+    "gn:longitude":45.27228,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Nerk\u2019evi Gyugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nerk\u2019evi Gyugh"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u0584\u0587\u056b \u0563\u0575\u0578\u0582\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783025,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11190566
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e384607c27f41a77ba25dcadbb52cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783025,
+            "locality_id":1242867869,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1242867869,
+    "wof:lastmodified":1537584433,
+    "wof:name":"Nerk'evi Gyugh",
+    "wof:parent_id":1108783025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27228,
+    39.8681,
+    45.27228,
+    39.8681
+],
+  "geometry": {"coordinates":[45.27228,39.8681],"type":"Point"}
+}

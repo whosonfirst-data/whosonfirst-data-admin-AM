@@ -1,0 +1,75 @@
+{
+  "id": 1360170193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4196,39.1719,46.4196,39.1719",
+    "geom:latitude":39.1719,
+    "geom:longitude":46.4196,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"GeGhanush",
+    "gn:country_code":"AM",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174912,
+    "gn:latitude":39.1719,
+    "gn:longitude":46.4196,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"GeGhanush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "GeGhanush"
+    ],
+    "name:und_x_variant":[
+        "Gekhanush",
+        "Gyutkum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784291,
+        85632717,
+        85668659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174912,
+        "wk:page":"Geghanush"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a87a8280e073630ca15d48055f8bbf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784291,
+            "locality_id":1360170193,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1360170193,
+    "wof:lastmodified":1537584351,
+    "wof:name":"GeGhanush",
+    "wof:parent_id":1108784291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4196,
+    39.1719,
+    46.4196,
+    39.1719
+],
+  "geometry": {"coordinates":[46.4196,39.1719],"type":"Point"}
+}

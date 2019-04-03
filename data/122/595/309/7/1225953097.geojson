@@ -1,0 +1,73 @@
+{
+  "id": 1225953097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38892,40.01672,44.38892,40.01672",
+    "geom:latitude":40.01672,
+    "geom:longitude":44.38892,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khotategh",
+    "gn:country_code":"AM",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11110424,
+    "gn:latitude":40.01672,
+    "gn:longitude":44.38892,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Khotategh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khotategh"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0578\u057f\u0561\u057f\u0565\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784207,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110424
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7911ef8e418dd58a2bf804a269f6a8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784207,
+            "locality_id":1225953097,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1225953097,
+    "wof:lastmodified":1537584421,
+    "wof:name":"Khotategh",
+    "wof:parent_id":1108784207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38892,
+    40.01672,
+    44.38892,
+    40.01672
+],
+  "geometry": {"coordinates":[44.38892,40.01672],"type":"Point"}
+}

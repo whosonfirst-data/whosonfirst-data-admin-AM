@@ -1,0 +1,71 @@
+{
+  "id": 421186283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"44.478149,40.229218,44.478149,40.229218",
+    "geom:latitude":40.229218,
+    "geom:longitude":44.478149,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Masis Shrjan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Yerevan",
+    "qs:photos":561,
+    "qs:photos_1k":114,
+    "qs:photos_9k":24,
+    "qs:photos_9r":14,
+    "qs:photos_all":5493,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1063344,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":15022548,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15022548,
+        "qs:id":1063344
+    },
+    "wof:country":"AM",
+    "wof:created":1459009476,
+    "wof:geomhash":"d5acbc587411b20659a6047ad0eb2657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "county_id":421186283,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":421186283,
+    "wof:lastmodified":1466635862,
+    "wof:name":"Masis Shrjan",
+    "wof:parent_id":85668105,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.478149,
+    40.229218,
+    44.478149,
+    40.229218
+],
+  "geometry": {"coordinates":[44.478149,40.229218],"type":"Point"}
+}

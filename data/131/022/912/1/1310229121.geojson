@@ -1,0 +1,73 @@
+{
+  "id": 1310229121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.80829,40.2807,45.80829,40.2807",
+    "geom:latitude":40.2807,
+    "geom:longitude":45.80829,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tigranakert",
+    "gn:country_code":"AM",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318521,
+    "gn:latitude":40.2807,
+    "gn:longitude":45.80829,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tigranakert",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tigranakert"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u056b\u0563\u0580\u0561\u0576\u0561\u056f\u0565\u0580\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784145,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318521
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"334a84f728b22c622029c628d344671a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784145,
+            "locality_id":1310229121,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1310229121,
+    "wof:lastmodified":1537584460,
+    "wof:name":"Tigranakert",
+    "wof:parent_id":1108784145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.80829,
+    40.2807,
+    45.80829,
+    40.2807
+],
+  "geometry": {"coordinates":[45.80829,40.2807],"type":"Point"}
+}

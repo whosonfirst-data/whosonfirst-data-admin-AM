@@ -1,0 +1,71 @@
+{
+  "id": 1343768315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71668,40.06952,45.71668,40.06952",
+    "geom:latitude":40.06952,
+    "geom:longitude":45.71668,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Barkis",
+    "gn:country_code":"AM",
+    "gn:dem":2550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318106,
+    "gn:latitude":40.06952,
+    "gn:longitude":45.71668,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Barkis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Barkis"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0580\u056f\u056b\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318106
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"35ac60c6efbd9c76907b4bbde8e6b552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1343768315,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1343768315,
+    "wof:lastmodified":1537584458,
+    "wof:name":"Barkis",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71668,
+    40.06952,
+    45.71668,
+    40.06952
+],
+  "geometry": {"coordinates":[45.71668,40.06952],"type":"Point"}
+}

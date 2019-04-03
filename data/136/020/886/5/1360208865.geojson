@@ -1,0 +1,73 @@
+{
+  "id": 1360208865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18189,40.35968,45.18189,40.35968",
+    "geom:latitude":40.35968,
+    "geom:longitude":45.18189,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Arrvtnots'",
+    "gn:country_code":"AM",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11108836,
+    "gn:latitude":40.35968,
+    "gn:longitude":45.18189,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Arrvtnots\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arrvtnots\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057c\u057e\u057f\u0576\u0578\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784221,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11108836
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"4e366a46e1c31454d9d31fd805fdfc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784221,
+            "locality_id":1360208865,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1360208865,
+    "wof:lastmodified":1537584419,
+    "wof:name":"Arrvtnots'",
+    "wof:parent_id":1108784221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18189,
+    40.35968,
+    45.18189,
+    40.35968
+],
+  "geometry": {"coordinates":[45.18189,40.35968],"type":"Point"}
+}

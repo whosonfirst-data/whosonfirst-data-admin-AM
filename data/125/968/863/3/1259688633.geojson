@@ -1,0 +1,83 @@
+{
+  "id": 1259688633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4841,40.63507,44.4841,40.63507",
+    "geom:latitude":40.63507,
+    "geom:longitude":44.4841,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hank'avan",
+    "gn:country_code":"AM",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616959,
+    "gn:latitude":40.63507,
+    "gn:longitude":44.4841,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Hank\u2019avan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hank'avan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0576\u0584\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Miskhana",
+        "Mikhaylovka",
+        "Ankavan",
+        "Hank\u2019avan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784607,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616959,
+        "wk:page":"Hankavan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"dacc470310b6255f30844bc75493cc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784607,
+            "locality_id":1259688633,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1259688633,
+    "wof:lastmodified":1537584391,
+    "wof:name":"Hank'avan",
+    "wof:parent_id":1108784607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4841,
+    40.63507,
+    44.4841,
+    40.63507
+],
+  "geometry": {"coordinates":[44.4841,40.63507],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 421184869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92876,40.05486,43.92876,40.05486",
+    "geom:latitude":40.05486,
+    "geom:longitude":43.92876,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "K\u0259l\u0259karx"
+    ],
+    "name:fra_x_preferred":[
+        "Shenavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0576\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Shenavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10dc\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shenavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Shenavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kyalagarkh"
+    ],
+    "name:vie_x_preferred":[
+        "Shenavan"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Shenavan"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616231,
+    "qs:gn_pop":1757,
+    "qs:name":"Shenavan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Armavir",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1307566,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214339,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191569,
+        1108783807,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616231,
+        "gp:id":2214339,
+        "qs:id":1307566,
+        "wd:id":"Q2222632",
+        "wk:page":"Shenavan, Armavir"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009425,
+    "wof:geomhash":"acc1e5fe65a9ff83f04fe2a85857361b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783807,
+            "locality_id":421184869,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":421184869,
+    "wof:lastmodified":1527716447,
+    "wof:name":"Shenavan",
+    "wof:parent_id":1108783807,
+    "wof:placetype":"locality",
+    "wof:population":1757,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92876,
+    40.05486,
+    43.92876,
+    40.05486
+],
+  "geometry": {"coordinates":[43.92876,40.05486],"type":"Point"}
+}

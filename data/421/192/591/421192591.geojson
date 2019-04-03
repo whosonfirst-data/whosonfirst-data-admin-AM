@@ -1,0 +1,82 @@
+{
+  "id": 421192591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"44.57021,40.21296,44.57021,40.21296",
+    "geom:latitude":40.21296,
+    "geom:longitude":44.57021,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hye_x_preferred":[
+        "Avan"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057e\u0561\u0576"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":616864,
+    "qs:gn_pop":0,
+    "qs:name":"Avan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Yerevan",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168494,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2213554,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616864,
+        "gp:id":2213554,
+        "qs:id":1168494,
+        "wd:id":"Q1822949",
+        "wk:page":"Avan District"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009742,
+    "wof:geomhash":"66ddc64f933a746b51cd4c3b216cbc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":-1,
+            "neighbourhood_id":421192591,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":421192591,
+    "wof:lastmodified":1531858697,
+    "wof:name":"Avan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57021,
+    40.21296,
+    44.57021,
+    40.21296
+],
+  "geometry": {"coordinates":[44.57021,40.21296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277092013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40149,40.4779,44.40149,40.4779",
+    "geom:latitude":40.4779,
+    "geom:longitude":44.40149,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sharrl Aznavuri",
+    "gn:country_code":"AM",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230545,
+    "gn:latitude":40.4779,
+    "gn:longitude":44.40149,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Sharrl Aznavuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Sharrl Aznavuri"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0561\u057c\u056c \u0531\u0566\u0576\u0561\u057e\u0578\u0582\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783501,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230545
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5500c9f55de2161ae29bd0579b7d96e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783501,
+            "locality_id":1277092013,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1277092013,
+    "wof:lastmodified":1537584444,
+    "wof:name":"Sharrl Aznavuri",
+    "wof:parent_id":1108783501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40149,
+    40.4779,
+    44.40149,
+    40.4779
+],
+  "geometry": {"coordinates":[44.40149,40.4779],"type":"Point"}
+}

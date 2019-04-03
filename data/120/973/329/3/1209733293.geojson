@@ -1,0 +1,73 @@
+{
+  "id": 1209733293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6001,40.35828,43.6001,40.35828",
+    "geom:latitude":40.35828,
+    "geom:longitude":43.6001,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nerk'in Datavorats'",
+    "gn:country_code":"AM",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11132972,
+    "gn:latitude":40.35828,
+    "gn:longitude":43.6001,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Nerk\u2019in Datavorats\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nerk\u2019in Datavorats\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0534\u0561\u057f\u0561\u057e\u0578\u0580\u0561\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783441,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132972
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c24ff5b67dba14b64ec820fc46e9bd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783441,
+            "locality_id":1209733293,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1209733293,
+    "wof:lastmodified":1537584430,
+    "wof:name":"Nerk'in Datavorats'",
+    "wof:parent_id":1108783441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6001,
+    40.35828,
+    43.6001,
+    40.35828
+],
+  "geometry": {"coordinates":[43.6001,40.35828],"type":"Point"}
+}

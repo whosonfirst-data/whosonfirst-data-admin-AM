@@ -1,0 +1,73 @@
+{
+  "id": 1242582405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66669,40.70709,44.66669,40.70709",
+    "geom:latitude":40.70709,
+    "geom:longitude":44.66669,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shnist",
+    "gn:country_code":"AM",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11370592,
+    "gn:latitude":40.70709,
+    "gn:longitude":44.66669,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Shnist",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Shnist"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0576\u056b\u057d\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784589,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11370592
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c21906575eae7726d660e536bdd9ba5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784589,
+            "locality_id":1242582405,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1242582405,
+    "wof:lastmodified":1537584519,
+    "wof:name":"Shnist",
+    "wof:parent_id":1108784589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66669,
+    40.70709,
+    44.66669,
+    40.70709
+],
+  "geometry": {"coordinates":[44.66669,40.70709],"type":"Point"}
+}

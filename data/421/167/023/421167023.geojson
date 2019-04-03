@@ -1,0 +1,160 @@
+{
+  "id": 421167023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22753,39.78222,45.22753,39.78222",
+    "geom:latitude":39.78222,
+    "geom:longitude":45.22753,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0531\u0572\u0561\u057e\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:aze_x_preferred":[
+        "Aynazur"
+    ],
+    "name:ceb_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:eng_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u0627\u0648\u0646\u0627\u062f\u0632\u0648\u0631\u060c \u0648\u0627\u06cc\u0648\u062a\u0633\u200c\u062c\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:fre_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e6\u10d0\u10d5\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0572\u0561\u057e\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Aghavnadzor"
+    ],
+    "name:ita_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d0\u10d5\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:msa_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:nld_x_preferred":[
+        "Agavnadzor"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631\u060c \u0648\u0627\u06cc\u0648\u062a\u0633 \u062f\u0632\u067e\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:swe_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Agavnadzor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631\u060c \u0648\u0627\u06cc\u0648\u062a\u0633 \u062f\u0632\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":175002,
+    "qs:gn_pop":1925,
+    "qs:name":"Aghavnadzor",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Vayots' Dzor",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":122635,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2213404,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191569,
+        1108783491,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175002,
+        "gp:id":2213404,
+        "qs:id":122635,
+        "wd:id":"Q2422770",
+        "wk:page":"Aghavnadzor, Vayots Dzor"
+    },
+    "wof:country":"AM",
+    "wof:created":1459008711,
+    "wof:geomhash":"2a52a139c43a632c2533f687a87f6eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783491,
+            "locality_id":421167023,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":421167023,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Aghavnadzor",
+    "wof:parent_id":1108783491,
+    "wof:placetype":"locality",
+    "wof:population":1925,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22753,
+    39.78222,
+    45.22753,
+    39.78222
+],
+  "geometry": {"coordinates":[45.22753,39.78222],"type":"Point"}
+}

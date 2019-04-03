@@ -1,0 +1,71 @@
+{
+  "id": 1209099455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54078,39.23614,46.54078,39.23614",
+    "geom:latitude":39.23614,
+    "geom:longitude":46.54078,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uzhanis",
+    "gn:country_code":"AM",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174735,
+    "gn:latitude":39.23614,
+    "gn:longitude":46.54078,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Uzhanis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ucanis"
+    ],
+    "name:hye_x_preferred":[
+        "Uzhanis"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0582\u056a\u0561\u0576\u056b\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174735,
+        "wk:page":"Ujanis"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f036755fb4254d827379c98a5d5db22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209099455
+        }
+    ],
+    "wof:id":1209099455,
+    "wof:lastmodified":1537584341,
+    "wof:name":"Uzhanis",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54078,
+    39.23614,
+    46.54078,
+    39.23614
+],
+  "geometry": {"coordinates":[46.54078,39.23614],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309807565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36951,40.2973,44.36951,40.2973",
+    "geom:latitude":40.2973,
+    "geom:longitude":44.36951,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nahataki",
+    "gn:country_code":"AM",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230790,
+    "gn:latitude":40.2973,
+    "gn:longitude":44.36951,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Nahataki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nahataki"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0561\u0570\u0561\u057f\u0561\u056f\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784213,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230790
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"044eb77706c5a21da0ebcd42a453bf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784213,
+            "locality_id":1309807565,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1309807565,
+    "wof:lastmodified":1537584445,
+    "wof:name":"Nahataki",
+    "wof:parent_id":1108784213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36951,
+    40.2973,
+    44.36951,
+    40.2973
+],
+  "geometry": {"coordinates":[44.36951,40.2973],"type":"Point"}
+}

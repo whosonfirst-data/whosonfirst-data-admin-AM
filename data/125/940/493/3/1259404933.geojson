@@ -1,0 +1,75 @@
+{
+  "id": 1259404933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31438,41.20283,44.31438,41.20283",
+    "geom:latitude":41.20283,
+    "geom:longitude":44.31438,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gogavan",
+    "gn:country_code":"AM",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616658,
+    "gn:latitude":41.20283,
+    "gn:longitude":44.31438,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gogavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0563\u0561\u057e\u0561\u0576"
+    ],
+    "name:und_x_variant":[
+        "Demurchilar",
+        "Gogavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783463,
+        85633163,
+        85671305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616658,
+        "wk:page":"Gogavan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"59396f88e10d7e711ed2e5ca843303f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "localadmin_id":1108783463,
+            "locality_id":1259404933,
+            "region_id":85671305
+        }
+    ],
+    "wof:id":1259404933,
+    "wof:lastmodified":1537584381,
+    "wof:name":"Gogavan",
+    "wof:parent_id":1108783463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31438,
+    41.20283,
+    44.31438,
+    41.20283
+],
+  "geometry": {"coordinates":[44.31438,41.20283],"type":"Point"}
+}

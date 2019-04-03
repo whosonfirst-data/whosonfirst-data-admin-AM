@@ -1,0 +1,71 @@
+{
+  "id": 1243260537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96112,40.97931,43.96112,40.97931",
+    "geom:latitude":40.97931,
+    "geom:longitude":43.96112,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mts'ayel",
+    "gn:country_code":"AM",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342189,
+    "gn:latitude":40.97931,
+    "gn:longitude":43.96112,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mts\u2019ayel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mts\u2019ayel"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0581\u0561\u0575\u0565\u056c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342189
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1999dcb0d9c7d070d51b7c00200b057b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1243260537,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1243260537,
+    "wof:lastmodified":1537584502,
+    "wof:name":"Mts'ayel",
+    "wof:parent_id":85668089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96112,
+    40.97931,
+    43.96112,
+    40.97931
+],
+  "geometry": {"coordinates":[43.96112,40.97931],"type":"Point"}
+}

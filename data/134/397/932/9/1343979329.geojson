@@ -1,0 +1,73 @@
+{
+  "id": 1343979329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7597,40.73468,43.7597,40.73468",
+    "geom:latitude":40.73468,
+    "geom:longitude":43.7597,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hats'ut",
+    "gn:country_code":"AM",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11315029,
+    "gn:latitude":40.73468,
+    "gn:longitude":43.7597,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hats\u2019ut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hats\u2019ut"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0581\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783453,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11315029
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a5b9d9571546a66d17406dfc5ba7ab3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783453,
+            "locality_id":1343979329,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1343979329,
+    "wof:lastmodified":1537584454,
+    "wof:name":"Hats'ut",
+    "wof:parent_id":1108783453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7597,
+    40.73468,
+    43.7597,
+    40.73468
+],
+  "geometry": {"coordinates":[43.7597,40.73468],"type":"Point"}
+}

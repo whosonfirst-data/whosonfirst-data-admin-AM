@@ -1,0 +1,73 @@
+{
+  "id": 1293099217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70007,40.13892,45.70007,40.13892",
+    "geom:latitude":40.13892,
+    "geom:longitude":45.70007,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kuraghbyur",
+    "gn:country_code":"AM",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318260,
+    "gn:latitude":40.13892,
+    "gn:longitude":45.70007,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kuraghbyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kuraghbyur"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0582\u0580\u0561\u0572\u0562\u0575\u0578\u0582\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784371,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318260
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c08e883552b2b34af14d0f2e999c79b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784371,
+            "locality_id":1293099217,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1293099217,
+    "wof:lastmodified":1537584459,
+    "wof:name":"Kuraghbyur",
+    "wof:parent_id":1108784371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70007,
+    40.13892,
+    45.70007,
+    40.13892
+],
+  "geometry": {"coordinates":[45.70007,40.13892],"type":"Point"}
+}

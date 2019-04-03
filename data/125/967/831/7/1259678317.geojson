@@ -1,0 +1,73 @@
+{
+  "id": 1259678317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23749,40.94031,45.23749,40.94031",
+    "geom:latitude":40.94031,
+    "geom:longitude":45.23749,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aygehovti",
+    "gn:country_code":"AM",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323605,
+    "gn:latitude":40.94031,
+    "gn:longitude":45.23749,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aygehovti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Aygehovti"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0575\u0563\u0565\u0570\u0578\u057e\u057f\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783181,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323605
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"4480222297829c4d691633c0d813dd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783181,
+            "locality_id":1259678317,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1259678317,
+    "wof:lastmodified":1537584476,
+    "wof:name":"Aygehovti",
+    "wof:parent_id":1108783181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23749,
+    40.94031,
+    45.23749,
+    40.94031
+],
+  "geometry": {"coordinates":[45.23749,40.94031],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225829117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29111,39.81278,45.29111,39.81278",
+    "geom:latitude":39.81278,
+    "geom:longitude":45.29111,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alikhan-Payasy",
+    "gn:country_code":"AM",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389338,
+    "gn:latitude":39.81278,
+    "gn:longitude":45.29111,
+    "gn:modification_date":"1998-10-30",
+    "gn:name":"Alikhan-Payasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783393,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389338
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"00ab4df4273201ed2a7039a437e9263a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783393,
+            "locality_id":1225829117,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1225829117,
+    "wof:lastmodified":1537036113,
+    "wof:name":"Alikhan-Payasy",
+    "wof:parent_id":1108783393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29111,
+    39.81278,
+    45.29111,
+    39.81278
+],
+  "geometry": {"coordinates":[45.29111,39.81278],"type":"Point"}
+}

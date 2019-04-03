@@ -1,0 +1,71 @@
+{
+  "id": 1209217595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43089,40.01018,44.43089,40.01018",
+    "geom:latitude":40.01018,
+    "geom:longitude":44.43089,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ginevet",
+    "gn:country_code":"AM",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":866139,
+    "gn:latitude":40.01018,
+    "gn:longitude":44.43089,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ginevet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ginevet"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u056b\u0576\u0565\u057e\u0565\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "Pos\u00eblok Imeni Kalinina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":866139,
+        "wk:page":"Poselok_Imeni_Kalinina"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b0ea08f962b1a28ac461861fcba6f87a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209217595
+        }
+    ],
+    "wof:id":1209217595,
+    "wof:lastmodified":1537584396,
+    "wof:name":"Ginevet",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43089000000001,
+    40.01018,
+    44.43089000000001,
+    40.01018
+],
+  "geometry": {"coordinates":[44.43089000000001,40.01018],"type":"Point"}
+}

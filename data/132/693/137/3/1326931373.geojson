@@ -1,0 +1,73 @@
+{
+  "id": 1326931373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.71527,40.13348,45.71527,40.13348",
+    "geom:latitude":40.13348,
+    "geom:longitude":45.71527,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Demer",
+    "gn:country_code":"AM",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318171,
+    "gn:latitude":40.13348,
+    "gn:longitude":45.71527,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Demer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Demer"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0565\u0574\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784099,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318171
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"19dc624e7072a6e3e479b474ae4b2575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784099,
+            "locality_id":1326931373,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1326931373,
+    "wof:lastmodified":1537584459,
+    "wof:name":"Demer",
+    "wof:parent_id":1108784099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.71527,
+    40.13348,
+    45.71527,
+    40.13348
+],
+  "geometry": {"coordinates":[45.71527,40.13348],"type":"Point"}
+}

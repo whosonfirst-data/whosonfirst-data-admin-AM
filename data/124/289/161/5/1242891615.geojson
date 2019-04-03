@@ -1,0 +1,73 @@
+{
+  "id": 1242891615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48053,40.46948,44.48053,40.46948",
+    "geom:latitude":40.46948,
+    "geom:longitude":44.48053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shoghakn",
+    "gn:country_code":"AM",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230603,
+    "gn:latitude":40.46948,
+    "gn:longitude":44.48053,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Shoghakn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Shoghakn"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0578\u0572\u0561\u056f\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783577,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230603
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"772f969245d217e523fa9feefce555bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783577,
+            "locality_id":1242891615,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1242891615,
+    "wof:lastmodified":1537584444,
+    "wof:name":"Shoghakn",
+    "wof:parent_id":1108783577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48053,
+    40.46948,
+    44.48053,
+    40.46948
+],
+  "geometry": {"coordinates":[44.48053,40.46948],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276777477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95831,40.49731,43.95831,40.49731",
+    "geom:latitude":40.49731,
+    "geom:longitude":43.95831,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garrnahovit",
+    "gn:country_code":"AM",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616694,
+    "gn:latitude":40.49731,
+    "gn:longitude":43.95831,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Garrnahovit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Garrnahovit"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u057c\u0576\u0561\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "name:und_x_variant":[
+        "Adyaman",
+        "Garnovit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782971,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616694
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a1c4b873f10c4c0c02c8693b896827dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782971,
+            "locality_id":1276777477,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1276777477,
+    "wof:lastmodified":1537584382,
+    "wof:name":"Garrnahovit",
+    "wof:parent_id":1108782971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95831,
+    40.49731,
+    43.95831,
+    40.49731
+],
+  "geometry": {"coordinates":[43.95831,40.49731],"type":"Point"}
+}

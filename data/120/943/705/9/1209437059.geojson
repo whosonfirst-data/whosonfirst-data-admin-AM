@@ -1,0 +1,67 @@
+{
+  "id": 1209437059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62793,40.97089,44.62793,40.97089",
+    "geom:latitude":40.97089,
+    "geom:longitude":44.62793,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tsat'er",
+    "gn:country_code":"AM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616142,
+    "gn:latitude":40.97089,
+    "gn:longitude":44.62793,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsat\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tsat\u2019er"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u0569\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616142
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6e3a519044a1be17ddeecc1f64c8c1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209437059
+        }
+    ],
+    "wof:id":1209437059,
+    "wof:lastmodified":1537584363,
+    "wof:name":"Tsat'er",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62793,
+    40.97089,
+    44.62793,
+    40.97089
+],
+  "geometry": {"coordinates":[44.62793,40.97089],"type":"Point"}
+}

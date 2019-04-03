@@ -1,0 +1,73 @@
+{
+  "id": 1260191483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40008,40.03607,44.40008,40.03607",
+    "geom:latitude":40.03607,
+    "geom:longitude":44.40008,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurichan",
+    "gn:country_code":"AM",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11110391,
+    "gn:latitude":40.03607,
+    "gn:longitude":44.40008,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Kurichan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kurichan"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0582\u0580\u056b\u0573\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784551,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110391
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6a7a620436a437ad74bf8e3c9f9ef8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784551,
+            "locality_id":1260191483,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1260191483,
+    "wof:lastmodified":1537584420,
+    "wof:name":"Kurichan",
+    "wof:parent_id":1108784551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40008,
+    40.03607,
+    44.40008,
+    40.03607
+],
+  "geometry": {"coordinates":[44.40008,40.03607],"type":"Point"}
+}

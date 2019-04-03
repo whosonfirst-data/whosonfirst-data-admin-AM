@@ -1,0 +1,73 @@
+{
+  "id": 1259467451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20007,40.97369,45.20007,40.97369",
+    "geom:latitude":40.97369,
+    "geom:longitude":45.20007,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hats'ut",
+    "gn:country_code":"AM",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323813,
+    "gn:latitude":40.97369,
+    "gn:longitude":45.20007,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hats\u2019ut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hats\u2019ut"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0581\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783277,
+        85632717,
+        85668229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323813
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c1dab2b939c3e3ea42c1763d25835bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783277,
+            "locality_id":1259467451,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1259467451,
+    "wof:lastmodified":1537584477,
+    "wof:name":"Hats'ut",
+    "wof:parent_id":1108783277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20007,
+    40.97369000000001,
+    45.20007,
+    40.97369000000001
+],
+  "geometry": {"coordinates":[45.20007,40.97369000000001],"type":"Point"}
+}

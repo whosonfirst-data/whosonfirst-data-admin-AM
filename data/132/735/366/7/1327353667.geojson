@@ -1,0 +1,73 @@
+{
+  "id": 1327353667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45709,39.52789,46.45709,39.52789",
+    "geom:latitude":39.52789,
+    "geom:longitude":46.45709,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kurat'i Dzor",
+    "gn:country_code":"AM",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11270757,
+    "gn:latitude":39.52789,
+    "gn:longitude":46.45709,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kurat\u2019i Dzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kurat\u2019i Dzor"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0582\u0580\u0561\u0569\u056b \u0541\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783691,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11270757
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"67ae8b7cd8d51499c4f432e1695d8956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783691,
+            "locality_id":1327353667,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1327353667,
+    "wof:lastmodified":1537584449,
+    "wof:name":"Kurat'i Dzor",
+    "wof:parent_id":1108783691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45709,
+    39.52789,
+    46.45709,
+    39.52789
+],
+  "geometry": {"coordinates":[46.45709,39.52789],"type":"Point"}
+}

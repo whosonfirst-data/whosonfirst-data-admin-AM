@@ -1,0 +1,71 @@
+{
+  "id": 1242668299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11108,38.9903,46.11108,38.9903",
+    "geom:latitude":38.9903,
+    "geom:longitude":46.11108,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Baghak'ari",
+    "gn:country_code":"AM",
+    "gn:dem":2366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11362125,
+    "gn:latitude":38.9903,
+    "gn:longitude":46.11108,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Baghak\u2019ari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Baghak\u2019ari"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0572\u0561\u0584\u0561\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11362125
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8fe7682a767fba4e7089bfef67bca055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1242668299,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1242668299,
+    "wof:lastmodified":1537584505,
+    "wof:name":"Baghak'ari",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11108,
+    38.9903,
+    46.11108,
+    38.9903
+],
+  "geometry": {"coordinates":[46.11108,38.9903],"type":"Point"}
+}

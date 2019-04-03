@@ -1,0 +1,71 @@
+{
+  "id": 1293778371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1029,40.85553,45.1029,40.85553",
+    "geom:latitude":40.85553,
+    "geom:longitude":45.1029,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Spitak Jur",
+    "gn:country_code":"AM",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11324164,
+    "gn:latitude":40.85553,
+    "gn:longitude":45.1029,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Spitak Jur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Spitak Jur"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f \u057b\u0578\u0582\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11324164
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"d893e0d08a5ed117905d65497beaf258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1293778371,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1293778371,
+    "wof:lastmodified":1537584479,
+    "wof:name":"Spitak Jur",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1029,
+    40.85553,
+    45.1029,
+    40.85553
+],
+  "geometry": {"coordinates":[45.1029,40.85553],"type":"Point"}
+}

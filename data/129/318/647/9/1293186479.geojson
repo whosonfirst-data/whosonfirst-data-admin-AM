@@ -1,0 +1,86 @@
+{
+  "id": 1293186479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4737,39.26322,46.4737,39.26322",
+    "geom:latitude":39.26322,
+    "geom:longitude":46.4737,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Artsvanik",
+    "gn:country_code":"AM",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174976,
+    "gn:latitude":39.26322,
+    "gn:longitude":46.4737,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Artsvanik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Artsvanik"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u056e\u057e\u0561\u0576\u056b\u056f"
+    ],
+    "name:und_x_variant":[
+        "Artsvenik",
+        "Artsevanik\u2019",
+        "Karmir Vank\u2019",
+        "Artzvanik",
+        "Yerits\u2019vank\u2019",
+        "Yerits\u2019vanik",
+        "Yerets\u2019vanik",
+        "Yerts\u2019u Vank\u2019",
+        "Yerets\u2019",
+        "Yerets\u2019-Yerets\u2019vanik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784405,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174976,
+        "wk:page":"Artsvanik"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e8aec9af57ecc190830de4d77a8e63e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784405,
+            "locality_id":1293186479,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1293186479,
+    "wof:lastmodified":1537584353,
+    "wof:name":"Artsvanik",
+    "wof:parent_id":1108784405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4737,
+    39.26322,
+    46.4737,
+    39.26322
+],
+  "geometry": {"coordinates":[46.4737,39.26322],"type":"Point"}
+}

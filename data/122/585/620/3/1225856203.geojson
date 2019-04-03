@@ -1,0 +1,73 @@
+{
+  "id": 1225856203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28473,40.20831,44.28473,40.20831",
+    "geom:latitude":40.20831,
+    "geom:longitude":44.28473,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khach'i Gyugh",
+    "gn:country_code":"AM",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11110909,
+    "gn:latitude":40.20831,
+    "gn:longitude":44.28473,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Khach\u2019i Gyugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019i Gyugh"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u056b \u0563\u0575\u0578\u0582\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784343,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110909
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"34daddc097f49c3aa4136c6fc832e728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784343,
+            "locality_id":1225856203,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1225856203,
+    "wof:lastmodified":1537584423,
+    "wof:name":"Khach'i Gyugh",
+    "wof:parent_id":1108784343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28473,
+    40.20831,
+    44.28473,
+    40.20831
+],
+  "geometry": {"coordinates":[44.28473,40.20831],"type":"Point"}
+}

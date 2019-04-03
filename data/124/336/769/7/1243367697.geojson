@@ -1,0 +1,86 @@
+{
+  "id": 1243367697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46668,40.45569,44.46668,40.45569",
+    "geom:latitude":40.45569,
+    "geom:longitude":44.46668,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yernjatap'",
+    "gn:country_code":"AM",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616050,
+    "gn:latitude":40.45569,
+    "gn:longitude":44.46668,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Yernjatap\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yernjatap'"
+    ],
+    "name:hye_x_preferred":[
+        "Yernjatap\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0580\u0576\u057b\u0561\u057f\u0561\u0583"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0438\u043d\u0434\u0436\u0430\u0442\u0430\u043f"
+    ],
+    "name:und_x_variant":[
+        "Karabulag",
+        "Yerndzhatap",
+        "Yerinjatap",
+        "Yerindzhatap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783579,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616050,
+        "wk:page":"Yernjatap"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"cb0d7fe95012a31cc834d3cc3effd662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783579,
+            "locality_id":1243367697,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1243367697,
+    "wof:lastmodified":1537584360,
+    "wof:name":"Yernjatap'",
+    "wof:parent_id":1108783579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46668,
+    40.45569,
+    44.46668,
+    40.45569
+],
+  "geometry": {"coordinates":[44.46668,40.45569],"type":"Point"}
+}

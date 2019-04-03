@@ -1,0 +1,73 @@
+{
+  "id": 1276143539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8501,41.14172,43.8501,41.14172",
+    "geom:latitude":41.14172,
+    "geom:longitude":43.8501,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jradzori",
+    "gn:country_code":"AM",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11278067,
+    "gn:latitude":41.14172,
+    "gn:longitude":43.8501,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Jradzori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Jradzori"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0580\u0561\u0571\u0578\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782761,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11278067
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c43a091df06854fd2e203cbed12f75b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782761,
+            "locality_id":1276143539,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1276143539,
+    "wof:lastmodified":1537584451,
+    "wof:name":"Jradzori",
+    "wof:parent_id":1108782761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8501,
+    41.14172,
+    43.8501,
+    41.14172
+],
+  "geometry": {"coordinates":[43.8501,41.14172],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1209314931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31586,40.64644,45.31586,40.64644",
+    "geom:latitude":40.64644,
+    "geom:longitude":45.31586,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"T't'ujur",
+    "gn:country_code":"AM",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616127,
+    "gn:latitude":40.64644,
+    "gn:longitude":45.31586,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"T\u2019t\u2019ujur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qoturbulaq"
+    ],
+    "name:aze_x_variant":[
+        "Ttucur",
+        "Tucur"
+    ],
+    "name:eng_x_preferred":[
+        "T't'ujur"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0569\u0578\u0582\u057b\u0578\u0582\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0442\u0443\u0434\u0436\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tytudzhur",
+        "Ttudzhur",
+        "Tudzhur",
+        "T\u2019t\u2019ujur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616127
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b3e3b555a0e62ff611752e7647d25ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209314931
+        }
+    ],
+    "wof:id":1209314931,
+    "wof:lastmodified":1537584363,
+    "wof:name":"T't'ujur",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31586,
+    40.64644000000001,
+    45.31586,
+    40.64644000000001
+],
+  "geometry": {"coordinates":[45.31586,40.64644000000001],"type":"Point"}
+}

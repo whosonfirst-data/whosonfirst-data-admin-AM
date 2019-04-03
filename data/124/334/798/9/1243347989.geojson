@@ -1,0 +1,81 @@
+{
+  "id": 1243347989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16136,40.84508,45.16136,40.84508",
+    "geom:latitude":40.84508,
+    "geom:longitude":45.16136,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gandzak'ar",
+    "gn:country_code":"AM",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617016,
+    "gn:latitude":40.84508,
+    "gn:longitude":45.16136,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gandzak\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qandzakar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0576\u0571\u0561\u0584\u0561\u0580"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy Agdan",
+        "Verin-Agdan",
+        "Agdan",
+        "Gandzak\u2019ar",
+        "Gandzakar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783315,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617016,
+        "wk:page":"Agdan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e5f3f67da6e1cacfc3681f8c16e21f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783315,
+            "locality_id":1243347989,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1243347989,
+    "wof:lastmodified":1537584393,
+    "wof:name":"Gandzak'ar",
+    "wof:parent_id":1108783315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16136,
+    40.84508,
+    45.16136,
+    40.84508
+],
+  "geometry": {"coordinates":[45.16136,40.84508],"type":"Point"}
+}

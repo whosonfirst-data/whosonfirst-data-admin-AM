@@ -1,0 +1,67 @@
+{
+  "id": 1209224291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10828,40.34448,44.10828,40.34448",
+    "geom:latitude":40.34448,
+    "geom:longitude":44.10828,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khoch'er",
+    "gn:country_code":"AM",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128945,
+    "gn:latitude":40.34448,
+    "gn:longitude":44.10828,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Khoch\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khoch\u2019er"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0578\u0579\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128945
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"244c4fdb063bf99db6c898a15329584e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209224291
+        }
+    ],
+    "wof:id":1209224291,
+    "wof:lastmodified":1537584428,
+    "wof:name":"Khoch'er",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10828,
+    40.34448,
+    44.10828,
+    40.34448
+],
+  "geometry": {"coordinates":[44.10828,40.34448],"type":"Point"}
+}

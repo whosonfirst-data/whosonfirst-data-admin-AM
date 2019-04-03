@@ -1,0 +1,73 @@
+{
+  "id": 1310613829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9779,39.91949,44.9779,39.91949",
+    "geom:latitude":39.91949,
+    "geom:longitude":44.9779,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kat'naghbyur",
+    "gn:country_code":"AM",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225541,
+    "gn:latitude":39.91949,
+    "gn:longitude":44.9779,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kat\u2019naghbyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kat\u2019naghbyur"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0569\u0576\u0561\u0572\u0562\u0575\u0578\u0582\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782977,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225541
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ced3360390e8aceae0043327ba4caa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782977,
+            "locality_id":1310613829,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1310613829,
+    "wof:lastmodified":1537584441,
+    "wof:name":"Kat'naghbyur",
+    "wof:parent_id":1108782977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9779,
+    39.91949,
+    44.9779,
+    39.91949
+],
+  "geometry": {"coordinates":[44.9779,39.91949],"type":"Point"}
+}

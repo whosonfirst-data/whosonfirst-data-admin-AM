@@ -1,0 +1,73 @@
+{
+  "id": 1243089665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61951,41.1181,44.61951,41.1181",
+    "geom:latitude":41.1181,
+    "geom:longitude":44.61951,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gut'ank'ar",
+    "gn:country_code":"AM",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363449,
+    "gn:latitude":41.1181,
+    "gn:longitude":44.61951,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Gut\u2019ank\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gut\u2019ank\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u0582\u0569\u0561\u0576\u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783183,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363449
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"eede176b7ffdcf7d4cf8ae68f965d4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783183,
+            "locality_id":1243089665,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1243089665,
+    "wof:lastmodified":1537584510,
+    "wof:name":"Gut'ank'ar",
+    "wof:parent_id":1108783183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61951,
+    41.1181,
+    44.61951,
+    41.1181
+],
+  "geometry": {"coordinates":[44.61951,41.1181],"type":"Point"}
+}

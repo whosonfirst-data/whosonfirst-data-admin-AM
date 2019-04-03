@@ -1,0 +1,73 @@
+{
+  "id": 1292897729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77087,41.02508,43.77087,41.02508",
+    "geom:latitude":41.02508,
+    "geom:longitude":43.77087,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Javakhk'i",
+    "gn:country_code":"AM",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11278120,
+    "gn:latitude":41.02508,
+    "gn:longitude":43.77087,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Javakhk\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Javakhk\u2019i"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0561\u057e\u0561\u056d\u0584\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782575,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11278120
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"cb495324db3a1a8d35c7ec8761ddbd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782575,
+            "locality_id":1292897729,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1292897729,
+    "wof:lastmodified":1537584452,
+    "wof:name":"Javakhk'i",
+    "wof:parent_id":1108782575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77087,
+    41.02508,
+    43.77087,
+    41.02508
+],
+  "geometry": {"coordinates":[43.77087,41.02508],"type":"Point"}
+}

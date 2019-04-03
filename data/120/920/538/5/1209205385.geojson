@@ -1,0 +1,72 @@
+{
+  "id": 1209205385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.37506,39.18141,46.37506,39.18141",
+    "geom:latitude":39.18141,
+    "geom:longitude":46.37506,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Verin Vach'agan",
+    "gn:country_code":"AM",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174718,
+    "gn:latitude":39.18141,
+    "gn:longitude":46.37506,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Verin Vach\u2019agan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Verin Vach\u2019agan"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0565\u0580\u056b\u0576 \u054e\u0561\u0579\u0561\u0563\u0561\u0576"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy Vachagan",
+        "Verin Vachagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174718,
+        "wk:page":"Verin_Vachagan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"499362162ba3f7c0cf87c9691e44a884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209205385
+        }
+    ],
+    "wof:id":1209205385,
+    "wof:lastmodified":1537584340,
+    "wof:name":"Verin Vach'agan",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.37506,
+    39.18141,
+    46.37506,
+    39.18141
+],
+  "geometry": {"coordinates":[46.37506,39.18141],"type":"Point"}
+}

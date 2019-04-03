@@ -1,0 +1,74 @@
+{
+  "id": 1344259975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97229,39.82788,44.97229,39.82788",
+    "geom:latitude":39.82788,
+    "geom:longitude":44.97229,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lanjarr",
+    "gn:country_code":"AM",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443072,
+    "gn:latitude":39.82788,
+    "gn:longitude":44.97229,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Lanjarr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0576\u057b\u0561\u057c"
+    ],
+    "name:und_x_variant":[
+        "Landzhar",
+        "Lanjarr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783553,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443072
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"08685d40eb2b9872491a2a75f4c0b2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783553,
+            "locality_id":1344259975,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1344259975,
+    "wof:lastmodified":1537584358,
+    "wof:name":"Lanjarr",
+    "wof:parent_id":1108783553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97229,
+    39.82788,
+    44.97229,
+    39.82788
+],
+  "geometry": {"coordinates":[44.97229,39.82788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209105205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7959,40.16107,44.7959,40.16107",
+    "geom:latitude":40.16107,
+    "geom:longitude":44.7959,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ando",
+    "gn:country_code":"AM",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128570,
+    "gn:latitude":40.16107,
+    "gn:longitude":44.7959,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ando"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0576\u0564\u0578"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128570
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e1f6f5611cf38baa3f83f25f71b7213c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209105205
+        }
+    ],
+    "wof:id":1209105205,
+    "wof:lastmodified":1537584425,
+    "wof:name":"Ando",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7959,
+    40.16107,
+    44.7959,
+    40.16107
+],
+  "geometry": {"coordinates":[44.7959,40.16107],"type":"Point"}
+}

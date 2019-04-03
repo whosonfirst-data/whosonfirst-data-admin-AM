@@ -1,0 +1,80 @@
+{
+  "id": 1226455503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7597,39.72089,44.7597,39.72089",
+    "geom:latitude":39.72089,
+    "geom:longitude":44.7597,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arazdayan",
+    "gn:country_code":"AM",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174986,
+    "gn:latitude":39.72089,
+    "gn:longitude":44.7597,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Arazdayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "Arazd\u0259y\u0259n"
+    ],
+    "name:aze_x_historical":[
+        "Arazd\u0259y\u0259n"
+    ],
+    "name:aze_x_preferred":[
+        "Arazd\u0259y\u0259n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0561\u0566\u0564\u0561\u0575\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783669,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174986,
+        "wk:page":"Arazdayan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a5a3147a7f0ab3db025075b8fe816b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783669,
+            "locality_id":1226455503,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1226455503,
+    "wof:lastmodified":1537584353,
+    "wof:name":"Arazdayan",
+    "wof:parent_id":1108783669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7597,
+    39.72089,
+    44.7597,
+    39.72089
+],
+  "geometry": {"coordinates":[44.7597,39.72089],"type":"Point"}
+}

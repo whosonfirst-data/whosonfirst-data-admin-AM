@@ -1,0 +1,73 @@
+{
+  "id": 1360189363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66949,40.63892,44.66949,40.63892",
+    "geom:latitude":40.63892,
+    "geom:longitude":44.66949,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ter Ghazarents' Gomer",
+    "gn:country_code":"AM",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11370507,
+    "gn:latitude":40.63892,
+    "gn:longitude":44.66949,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ter Ghazarents\u2019 Gomer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ter Ghazarents\u2019 Gomer"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u0565\u0580 \u0542\u0561\u0566\u0561\u0580\u0565\u0576\u0581 \u0563\u0578\u0574\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783547,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11370507
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"48be878da72cb6d3166e324fca21a254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783547,
+            "locality_id":1360189363,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1360189363,
+    "wof:lastmodified":1537584519,
+    "wof:name":"Ter Ghazarents' Gomer",
+    "wof:parent_id":1108783547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66949,
+    40.63892,
+    44.66949,
+    40.63892
+],
+  "geometry": {"coordinates":[44.66949,40.63892],"type":"Point"}
+}

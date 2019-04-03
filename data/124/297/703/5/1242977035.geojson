@@ -1,0 +1,84 @@
+{
+  "id": 1242977035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84448,40.11108,45.84448,40.11108",
+    "geom:latitude":40.11108,
+    "geom:longitude":45.84448,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nerk'in Shorzha",
+    "gn:country_code":"AM",
+    "gn:dem":2253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616370,
+    "gn:latitude":40.11108,
+    "gn:longitude":45.84448,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Nerk\u2019in Shorzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 \u015eorca"
+    ],
+    "name:eng_x_preferred":[
+        "Nerk'in Shorzha"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0547\u0578\u0580\u056a\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0438\u043d \u0428\u043e\u0440\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nizhnyaya Shorzha",
+        "Nerk\u2019in Shorzha",
+        "Nerkin-Shorzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784127,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616370
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"4470d315357ba80767c70820a5a3a0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784127,
+            "locality_id":1242977035,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1242977035,
+    "wof:lastmodified":1537584371,
+    "wof:name":"Nerk'in Shorzha",
+    "wof:parent_id":1108784127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84448,
+    40.11108,
+    45.84448,
+    40.11108
+],
+  "geometry": {"coordinates":[45.84448,40.11108],"type":"Point"}
+}

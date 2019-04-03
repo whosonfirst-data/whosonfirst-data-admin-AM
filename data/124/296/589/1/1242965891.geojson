@@ -1,0 +1,73 @@
+{
+  "id": 1242965891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61951,41.1001,44.61951,41.1001",
+    "geom:latitude":41.1001,
+    "geom:longitude":44.61951,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lichk'",
+    "gn:country_code":"AM",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363463,
+    "gn:latitude":41.1001,
+    "gn:longitude":44.61951,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Lichk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lichk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u056b\u0573\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783183,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363463
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9f223de40ec70fd597bf10d5dc1b59cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783183,
+            "locality_id":1242965891,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1242965891,
+    "wof:lastmodified":1537584510,
+    "wof:name":"Lichk'",
+    "wof:parent_id":1108783183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61951,
+    41.1001,
+    44.61951,
+    41.1001
+],
+  "geometry": {"coordinates":[44.61951,41.1001],"type":"Point"}
+}

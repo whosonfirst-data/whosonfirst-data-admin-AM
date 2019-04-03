@@ -1,0 +1,73 @@
+{
+  "id": 1326854353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21252,40.04309,45.21252,40.04309",
+    "geom:latitude":40.04309,
+    "geom:longitude":45.21252,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gavarri Hovtun",
+    "gn:country_code":"AM",
+    "gn:dem":2368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335913,
+    "gn:latitude":40.04309,
+    "gn:longitude":45.21252,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gavarri Hovtun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gavarri Hovtun"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u057e\u0561\u057c\u056b \u0570\u0578\u057e\u057f\u0578\u0582\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784083,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335913
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"83fc6e9994d707f98ea561db69a47754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784083,
+            "locality_id":1326854353,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1326854353,
+    "wof:lastmodified":1537584490,
+    "wof:name":"Gavarri Hovtun",
+    "wof:parent_id":1108784083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21252,
+    40.04309,
+    45.21252,
+    40.04309
+],
+  "geometry": {"coordinates":[45.21252,40.04309],"type":"Point"}
+}

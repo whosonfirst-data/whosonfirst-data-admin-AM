@@ -1,0 +1,68 @@
+{
+  "id": 1243079121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37417,40.12056,44.37417,40.12056",
+    "geom:latitude":40.12056,
+    "geom:longitude":44.37417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karakishlag",
+    "gn:country_code":"AM",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616578,
+    "gn:latitude":40.12056,
+    "gn:longitude":44.37417,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Karakishlag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783951,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616578,
+        "wk:page":"Karakishlag"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"78529d6f948d6d3465e2cfb5709b0493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783951,
+            "locality_id":1243079121,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1243079121,
+    "wof:lastmodified":1537486137,
+    "wof:name":"Karakishlag",
+    "wof:parent_id":1108783951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37417,
+    40.12056,
+    44.37417,
+    40.12056
+],
+  "geometry": {"coordinates":[44.37417,40.12056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277158449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52508,40.20428,44.52508,40.20428",
+    "geom:latitude":40.20428,
+    "geom:longitude":44.52508,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Paronyan H.",
+    "gn:country_code":"AM",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336997,
+    "gn:latitude":40.20428,
+    "gn:longitude":44.52508,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paronyan H.",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Paronyan H."
+    ],
+    "name:hye_x_variant":[
+        "\u054a\u0561\u0580\u0578\u0576\u0575\u0561\u0576 \u0540."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336997
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"186496d038a3355620d842199c1ba0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1277158449,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":1277158449,
+    "wof:lastmodified":1537584493,
+    "wof:name":"Paronyan H.",
+    "wof:parent_id":85668115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52508,
+    40.20428,
+    44.52508,
+    40.20428
+],
+  "geometry": {"coordinates":[44.52508,40.20428],"type":"Point"}
+}

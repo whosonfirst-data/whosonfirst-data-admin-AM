@@ -1,0 +1,73 @@
+{
+  "id": 1344242453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40289,39.54449,46.40289,39.54449",
+    "geom:latitude":39.54449,
+    "geom:longitude":46.40289,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khach'er",
+    "gn:country_code":"AM",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11270937,
+    "gn:latitude":39.54449,
+    "gn:longitude":46.40289,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Khach\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019er"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783681,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11270937
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"10eab16f1ecbfc62f1e3ddee1fc7301a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783681,
+            "locality_id":1344242453,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1344242453,
+    "wof:lastmodified":1537584449,
+    "wof:name":"Khach'er",
+    "wof:parent_id":1108783681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40289,
+    39.54449,
+    46.40289,
+    39.54449
+],
+  "geometry": {"coordinates":[46.40289,39.54449],"type":"Point"}
+}

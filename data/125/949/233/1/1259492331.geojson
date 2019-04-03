@@ -1,0 +1,73 @@
+{
+  "id": 1259492331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9917,39.89587,44.9917,39.89587",
+    "geom:latitude":39.89587,
+    "geom:longitude":44.9917,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shamam",
+    "gn:country_code":"AM",
+    "gn:dem":2210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225510,
+    "gn:latitude":39.89587,
+    "gn:longitude":44.9917,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Shamam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Shamam"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0561\u0574\u0561\u0574"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783661,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225510
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1c80977e9dfccadb414d659e5a972769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783661,
+            "locality_id":1259492331,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1259492331,
+    "wof:lastmodified":1537584440,
+    "wof:name":"Shamam",
+    "wof:parent_id":1108783661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9917,
+    39.89587,
+    44.9917,
+    39.89587
+],
+  "geometry": {"coordinates":[44.9917,39.89587],"type":"Point"}
+}

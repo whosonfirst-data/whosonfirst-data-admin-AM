@@ -1,0 +1,75 @@
+{
+  "id": 1259577687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84822,40.87415,43.84822,40.87415",
+    "geom:latitude":40.87415,
+    "geom:longitude":43.84822,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"K'et'i",
+    "gn:country_code":"AM",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616545,
+    "gn:latitude":40.87415,
+    "gn:longitude":43.84822,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"K\u2019et\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0554\u0565\u0569\u056b"
+    ],
+    "name:und_x_variant":[
+        "Nizhniye Keti",
+        "Mets Keti",
+        "K\u2019et\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782725,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616545
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"587462fc7498cfefbf809e3063fa2bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782725,
+            "locality_id":1259577687,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1259577687,
+    "wof:lastmodified":1537584377,
+    "wof:name":"K'et'i",
+    "wof:parent_id":1108782725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84822,
+    40.87415,
+    43.84822,
+    40.87415
+],
+  "geometry": {"coordinates":[43.84822,40.87415],"type":"Point"}
+}

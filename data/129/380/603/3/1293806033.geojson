@@ -1,0 +1,73 @@
+{
+  "id": 1293806033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61951,40.88892,44.61951,40.88892",
+    "geom:latitude":40.88892,
+    "geom:longitude":44.61951,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khasbak",
+    "gn:country_code":"AM",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11321401,
+    "gn:latitude":40.88892,
+    "gn:longitude":44.61951,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Khasbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khasbak"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u054d\u0578\u0582\u0580\u0562\u0561\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783239,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11321401
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"aa6f2b153cc5513eaad99a295779cb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783239,
+            "locality_id":1293806033,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1293806033,
+    "wof:lastmodified":1537584471,
+    "wof:name":"Khasbak",
+    "wof:parent_id":1108783239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61951,
+    40.88892,
+    44.61951,
+    40.88892
+],
+  "geometry": {"coordinates":[44.61951,40.88892],"type":"Point"}
+}

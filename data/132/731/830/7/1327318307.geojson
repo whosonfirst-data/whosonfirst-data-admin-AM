@@ -1,0 +1,75 @@
+{
+  "id": 1327318307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9064,41.17736,44.9064,41.17736",
+    "geom:latitude":41.17736,
+    "geom:longitude":44.9064,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lchkadzor",
+    "gn:country_code":"AM",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616470,
+    "gn:latitude":41.17736,
+    "gn:longitude":44.9064,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lchkadzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053c\u0573\u056f\u0561\u0571\u0578\u0580"
+    ],
+    "name:und_x_variant":[
+        "Lichadzar",
+        "Lichkadzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783061,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616470,
+        "wk:page":"Lchkadzor"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"cbee80a9ae952c439d7dbbadf315f38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783061,
+            "locality_id":1327318307,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1327318307,
+    "wof:lastmodified":1537584374,
+    "wof:name":"Lchkadzor",
+    "wof:parent_id":1108783061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9064,
+    41.17736,
+    44.9064,
+    41.17736
+],
+  "geometry": {"coordinates":[44.9064,41.17736],"type":"Point"}
+}

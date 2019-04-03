@@ -1,0 +1,73 @@
+{
+  "id": 1209725211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69171,40.38068,43.69171,40.38068",
+    "geom:latitude":40.38068,
+    "geom:longitude":43.69171,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mirzayi",
+    "gn:country_code":"AM",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133095,
+    "gn:latitude":40.38068,
+    "gn:longitude":43.69171,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Mirzayi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mirzayi"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u0580\u0566\u0561\u0575\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782955,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133095
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"32ad6e021fc8cfc5a2147ada6393d886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782955,
+            "locality_id":1209725211,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1209725211,
+    "wof:lastmodified":1537584431,
+    "wof:name":"Mirzayi",
+    "wof:parent_id":1108782955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69171,
+    40.38068,
+    43.69171,
+    40.38068
+],
+  "geometry": {"coordinates":[43.69171,40.38068],"type":"Point"}
+}

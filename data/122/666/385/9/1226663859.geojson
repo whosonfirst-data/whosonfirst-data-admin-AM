@@ -1,0 +1,73 @@
+{
+  "id": 1226663859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03607,40.27508,44.03607,40.27508",
+    "geom:latitude":40.27508,
+    "geom:longitude":44.03607,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khach'erapat",
+    "gn:country_code":"AM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129443,
+    "gn:latitude":40.27508,
+    "gn:longitude":44.03607,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Khach\u2019erapat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019erapat"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u0565\u0580\u0561\u057a\u0561\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783793,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129443
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e85646eee84bf3e9b5da5ed08ccb6561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783793,
+            "locality_id":1226663859,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1226663859,
+    "wof:lastmodified":1537584429,
+    "wof:name":"Khach'erapat",
+    "wof:parent_id":1108783793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03607,
+    40.27508,
+    44.03607,
+    40.27508
+],
+  "geometry": {"coordinates":[44.03607,40.27508],"type":"Point"}
+}

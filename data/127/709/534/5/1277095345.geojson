@@ -1,0 +1,73 @@
+{
+  "id": 1277095345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5611,40.88348,45.5611,40.88348",
+    "geom:latitude":40.88348,
+    "geom:longitude":45.5611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aygestan",
+    "gn:country_code":"AM",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11324347,
+    "gn:latitude":40.88348,
+    "gn:longitude":45.5611,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aygestan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Aygestan"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0575\u0563\u0565\u057d\u057f\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11324347
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"84225b9b28497906d13e58d12d1ad2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277095345,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1277095345,
+    "wof:lastmodified":1537584480,
+    "wof:name":"Aygestan",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5611,
+    40.88348,
+    45.5611,
+    40.88348
+],
+  "geometry": {"coordinates":[45.5611,40.88348],"type":"Point"}
+}

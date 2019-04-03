@@ -1,0 +1,72 @@
+{
+  "id": 1243285253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7071,40.95896,43.7071,40.95896",
+    "geom:latitude":40.95896,
+    "geom:longitude":43.7071,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Norakhpyur",
+    "gn:country_code":"AM",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616357,
+    "gn:latitude":40.95896,
+    "gn:longitude":43.7071,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Norakhpyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Snikh",
+        "Norakhpyur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782581,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616357,
+        "wk:page":"Norakhpyur"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f9a2cedb19ac687f3f078aacda075e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782581,
+            "locality_id":1243285253,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1243285253,
+    "wof:lastmodified":1537584370,
+    "wof:name":"Norakhpyur",
+    "wof:parent_id":1108782581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7071,
+    40.95896,
+    43.7071,
+    40.95896
+],
+  "geometry": {"coordinates":[43.7071,40.95896],"type":"Point"}
+}

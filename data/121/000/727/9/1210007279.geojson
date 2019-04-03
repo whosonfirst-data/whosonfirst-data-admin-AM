@@ -1,0 +1,73 @@
+{
+  "id": 1210007279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.87512,39.66669,45.87512,39.66669",
+    "geom:latitude":39.66669,
+    "geom:longitude":45.87512,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mokhrabak",
+    "gn:country_code":"AM",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11106209,
+    "gn:latitude":39.66669,
+    "gn:longitude":45.87512,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Mokhrabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mokhrabak"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u056d\u0580\u0561\u0562\u0561\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783595,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11106209
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"66c6bcfbf070697f2223c3ed3113757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783595,
+            "locality_id":1210007279,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1210007279,
+    "wof:lastmodified":1537584415,
+    "wof:name":"Mokhrabak",
+    "wof:parent_id":1108783595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.87512,
+    39.66669,
+    45.87512,
+    39.66669
+],
+  "geometry": {"coordinates":[45.87512,39.66669],"type":"Point"}
+}

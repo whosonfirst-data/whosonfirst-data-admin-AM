@@ -1,0 +1,73 @@
+{
+  "id": 1310129751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84168,40.15008,45.84168,40.15008",
+    "geom:latitude":40.15008,
+    "geom:longitude":45.84168,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ark'anver",
+    "gn:country_code":"AM",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10932820,
+    "gn:latitude":40.15008,
+    "gn:longitude":45.84168,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ark\u2019anver",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ark\u2019anver"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0584\u0561\u0576\u057e\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784131,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10932820
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"05e0a7d92faea1cc176c3dc66596f120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784131,
+            "locality_id":1310129751,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1310129751,
+    "wof:lastmodified":1537584408,
+    "wof:name":"Ark'anver",
+    "wof:parent_id":1108784131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84168,
+    40.15008,
+    45.84168,
+    40.15008
+],
+  "geometry": {"coordinates":[45.84168,40.15008],"type":"Point"}
+}

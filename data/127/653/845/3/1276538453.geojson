@@ -1,0 +1,73 @@
+{
+  "id": 1276538453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16669,40.83612,45.16669,40.83612",
+    "geom:latitude":40.83612,
+    "geom:longitude":45.16669,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Verin Artsvazhayrr",
+    "gn:country_code":"AM",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323757,
+    "gn:latitude":40.83612,
+    "gn:longitude":45.16669,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Verin Artsvazhayrr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Verin Artsvazhayrr"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0531\u0580\u056e\u057e\u0561\u056a\u0561\u0575\u057c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783315,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323757
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"94eeabbd67c5caf02cd363336ccf72e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783315,
+            "locality_id":1276538453,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1276538453,
+    "wof:lastmodified":1537584476,
+    "wof:name":"Verin Artsvazhayrr",
+    "wof:parent_id":1108783315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16669,
+    40.83612,
+    45.16669,
+    40.83612
+],
+  "geometry": {"coordinates":[45.16669,40.83612],"type":"Point"}
+}

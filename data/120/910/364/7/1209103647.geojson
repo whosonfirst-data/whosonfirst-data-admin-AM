@@ -1,0 +1,67 @@
+{
+  "id": 1209103647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61951,40.94452,44.61951,40.94452",
+    "geom:latitude":40.94452,
+    "geom:longitude":44.61951,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Katar",
+    "gn:country_code":"AM",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11321456,
+    "gn:latitude":40.94452,
+    "gn:longitude":44.61951,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Katar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Katar"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u057f\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11321456
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e6f40124700c9c4d39583787e3953b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209103647
+        }
+    ],
+    "wof:id":1209103647,
+    "wof:lastmodified":1537584472,
+    "wof:name":"Katar",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61951,
+    40.94452,
+    44.61951,
+    40.94452
+],
+  "geometry": {"coordinates":[44.61951,40.94452],"type":"Point"}
+}

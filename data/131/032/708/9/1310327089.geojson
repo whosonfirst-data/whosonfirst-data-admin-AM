@@ -1,0 +1,73 @@
+{
+  "id": 1310327089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66107,41.23328,44.66107,41.23328",
+    "geom:latitude":41.23328,
+    "geom:longitude":44.66107,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mankuk'",
+    "gn:country_code":"AM",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363636,
+    "gn:latitude":41.23328,
+    "gn:longitude":44.66107,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mankuk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mankuk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0576\u056f\u0578\u0582\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363636
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c6e53aedfcb5b92aec5419f6deee2bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1310327089,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310327089,
+    "wof:lastmodified":1537584511,
+    "wof:name":"Mankuk'",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66107,
+    41.23328,
+    44.66107,
+    41.23328
+],
+  "geometry": {"coordinates":[44.66107,41.23328],"type":"Point"}
+}

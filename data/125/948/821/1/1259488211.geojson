@@ -1,0 +1,83 @@
+{
+  "id": 1259488211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65217,40.13713,44.65217,40.13713",
+    "geom:latitude":40.13713,
+    "geom:longitude":44.65217,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hats'avan",
+    "gn:country_code":"AM",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616867,
+    "gn:latitude":40.13713,
+    "gn:longitude":44.65217,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Hats\u2019avan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hats'avan"
+    ],
+    "name:hye_x_preferred":[
+        "Hats\u2019avan"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0581\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0446\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Avdalar",
+        "Atsavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784279,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616867
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9839e654501b0f32809e56fcfa3e1556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784279,
+            "locality_id":1259488211,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":1259488211,
+    "wof:lastmodified":1537584387,
+    "wof:name":"Hats'avan",
+    "wof:parent_id":1108784279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65217,
+    40.13713,
+    44.65217,
+    40.13713
+],
+  "geometry": {"coordinates":[44.65217,40.13713],"type":"Point"}
+}

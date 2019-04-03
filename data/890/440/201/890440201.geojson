@@ -1,0 +1,77 @@
+{
+  "id": 890440201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05797,40.07641,44.05797,40.07641",
+    "geom:latitude":40.07641,
+    "geom:longitude":44.05797,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":1606,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u0577\u0561\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0448\u0430\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Kuzigidan"
+    ],
+    "qs:name":"Aygeshat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":12,
+    "wof:belongsto":[
+        102191569,
+        1108783837,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616851,
+        "qs:id":275145,
+        "wd:id":"Q1144238",
+        "wk:page":"Aygeshat"
+    },
+    "wof:country":"AM",
+    "wof:created":1469052266,
+    "wof:geomhash":"a3ece5da153c71ee8502da1e51007f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783837,
+            "locality_id":890440201,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":890440201,
+    "wof:lastmodified":1527727109,
+    "wof:name":"Aygeshat",
+    "wof:parent_id":1108783837,
+    "wof:placetype":"locality",
+    "wof:population":1606,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05797,
+    40.07641,
+    44.05797,
+    40.07641
+],
+  "geometry": {"coordinates":[44.05797,40.07641],"type":"Point"}
+}

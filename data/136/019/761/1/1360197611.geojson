@@ -1,0 +1,73 @@
+{
+  "id": 1360197611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68048,40.00293,44.68048,40.00293",
+    "geom:latitude":40.00293,
+    "geom:longitude":44.68048,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nareki",
+    "gn:country_code":"AM",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336677,
+    "gn:latitude":40.00293,
+    "gn:longitude":44.68048,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nareki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nareki"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0561\u0580\u0565\u056f\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783007,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336677
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9c44869b06e054a84f4cc088a1c5a8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783007,
+            "locality_id":1360197611,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1360197611,
+    "wof:lastmodified":1537584491,
+    "wof:name":"Nareki",
+    "wof:parent_id":1108783007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68048,
+    40.00293,
+    44.68048,
+    40.00293
+],
+  "geometry": {"coordinates":[44.68048,40.00293],"type":"Point"}
+}

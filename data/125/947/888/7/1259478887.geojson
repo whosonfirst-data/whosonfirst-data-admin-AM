@@ -1,0 +1,78 @@
+{
+  "id": 1259478887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88348,39.65008,45.88348,39.65008",
+    "geom:latitude":39.65008,
+    "geom:longitude":45.88348,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sarrnakunk'",
+    "gn:country_code":"AM",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174788,
+    "gn:latitude":39.65008,
+    "gn:longitude":45.88348,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Sarrnakunk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Sarrnakunk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0561\u057c\u0576\u0561\u056f\u0578\u0582\u0576\u0584"
+    ],
+    "name:und_x_variant":[
+        "Saybalu",
+        "Sarnakunk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783595,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174788,
+        "wk:page":"Sarnakunk"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ea5223824084b67a289cc144e747f130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783595,
+            "locality_id":1259478887,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1259478887,
+    "wof:lastmodified":1537584344,
+    "wof:name":"Sarrnakunk'",
+    "wof:parent_id":1108783595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88348,
+    39.65008,
+    45.88348,
+    39.65008
+],
+  "geometry": {"coordinates":[45.88348,39.65008],"type":"Point"}
+}

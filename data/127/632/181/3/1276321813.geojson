@@ -1,0 +1,71 @@
+{
+  "id": 1276321813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51392,40.15289,44.51392,40.15289",
+    "geom:latitude":40.15289,
+    "geom:longitude":44.51392,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hushablur",
+    "gn:country_code":"AM",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336816,
+    "gn:latitude":40.15289,
+    "gn:longitude":44.51392,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hushablur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hushablur"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u0582\u0577\u0561\u0562\u056c\u0578\u0582\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336816
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1e37685621b01e432ad586d269d9605b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276321813,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":1276321813,
+    "wof:lastmodified":1537584491,
+    "wof:name":"Hushablur",
+    "wof:parent_id":85668115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51392,
+    40.15289,
+    44.51392,
+    40.15289
+],
+  "geometry": {"coordinates":[44.51392,40.15289],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310515481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91949,40.3125,43.91949,40.3125",
+    "geom:latitude":40.3125,
+    "geom:longitude":43.91949,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ashot Yerkat'i Nstavayr",
+    "gn:country_code":"AM",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214576,
+    "gn:latitude":40.3125,
+    "gn:longitude":43.91949,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ashot Yerkat\u2019i Nstavayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ashot Yerkat\u2019i Nstavayr"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0577\u0578\u057f \u0535\u0580\u056f\u0561\u0569\u056b \u0576\u057d\u057f\u0561\u057e\u0561\u0575\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784261,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214576
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f24f8a58a36c9b9c8b94994b444e8746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784261,
+            "locality_id":1310515481,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1310515481,
+    "wof:lastmodified":1537584436,
+    "wof:name":"Ashot Yerkat'i Nstavayr",
+    "wof:parent_id":1108784261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91949,
+    40.3125,
+    43.91949,
+    40.3125
+],
+  "geometry": {"coordinates":[43.91949,40.3125],"type":"Point"}
+}

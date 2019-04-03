@@ -1,0 +1,73 @@
+{
+  "id": 1293805987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83612,41.12091,44.83612,41.12091",
+    "geom:latitude":41.12091,
+    "geom:longitude":44.83612,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Levon",
+    "gn:country_code":"AM",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323375,
+    "gn:latitude":41.12091,
+    "gn:longitude":44.83612,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Levon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Levon"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0587\u0578\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783171,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323375
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"dfea3667b4ca2b7d49f9454db63f43b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783171,
+            "locality_id":1293805987,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1293805987,
+    "wof:lastmodified":1537584476,
+    "wof:name":"Levon",
+    "wof:parent_id":1108783171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83612,
+    41.12091,
+    44.83612,
+    41.12091
+],
+  "geometry": {"coordinates":[44.83612,41.12091],"type":"Point"}
+}

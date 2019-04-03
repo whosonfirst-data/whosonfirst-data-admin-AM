@@ -1,0 +1,106 @@
+{
+  "id": 85903735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12498714.842568,
+    "geom:bbox":"44.494685,40.199341,44.494685,40.199341",
+    "geom:latitude":40.199341,
+    "geom:longitude":44.494685,
+    "iso:country":"AM",
+    "lbl:latitude":40.199341,
+    "lbl:longitude":44.494685,
+    "mps:latitude":40.206836,
+    "mps:longitude":44.494026,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Spandaryan"
+    ],
+    "name:ita_x_preferred":[
+        "Spandaryan"
+    ],
+    "name:sco_x_preferred":[
+        "Spandaryan"
+    ],
+    "name:unk_x_variant":[
+        "Spandaryan"
+    ],
+    "qs:gn_adm0_cc":"AM",
+    "qs:gn_id":0,
+    "qs:gn_local":616052,
+    "qs:id":0,
+    "qs:local_max":3333,
+    "qs:local_sum":5521,
+    "qs:localhoods":5,
+    "qs:name":"Spandaryan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Armavir",
+    "qs:name_adm2":"Echmiadzin Shrjan",
+    "qs:name_local":"Yerevan",
+    "qs:photo_max":25,
+    "qs:photo_sum":93,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424743,
+    "qs:woe_adm1":20070210,
+    "qs:woe_adm2":15022531,
+    "qs:woe_lau":0,
+    "qs:woe_local":2214662,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2214371
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3ac5fb3585819cb05a6322d2ea0123da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":-1,
+            "neighbourhood_id":85903735,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":85903735,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936080,
+    "wof:name":"Spandaryan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.494685,
+    40.199341,
+    44.494685,
+    40.199341
+],
+  "geometry": {"coordinates":[44.494685,40.199341],"type":"Point"}
+}

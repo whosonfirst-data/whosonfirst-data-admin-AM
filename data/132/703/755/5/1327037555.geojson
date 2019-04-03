@@ -1,0 +1,73 @@
+{
+  "id": 1327037555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6861,40.25568,43.6861,40.25568",
+    "geom:latitude":40.25568,
+    "geom:longitude":43.6861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ijevanatun",
+    "gn:country_code":"AM",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11132930,
+    "gn:latitude":40.25568,
+    "gn:longitude":43.6861,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ijevanatun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ijevanatun"
+    ],
+    "name:hye_x_variant":[
+        "\u053b\u057b\u0587\u0561\u0576\u0561\u057f\u0578\u0582\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783759,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132930
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"961f74bc78ef6dd1d62b4b4465b48a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783759,
+            "locality_id":1327037555,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1327037555,
+    "wof:lastmodified":1537584430,
+    "wof:name":"Ijevanatun",
+    "wof:parent_id":1108783759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6861,
+    40.25568,
+    43.6861,
+    40.25568
+],
+  "geometry": {"coordinates":[43.6861,40.25568],"type":"Point"}
+}

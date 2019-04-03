@@ -1,0 +1,76 @@
+{
+  "id": 1343555861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06806,40.93114,44.06806,40.93114",
+    "geom:latitude":40.93114,
+    "geom:longitude":44.06806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dzorashen",
+    "gn:country_code":"AM",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616709,
+    "gn:latitude":40.93114,
+    "gn:longitude":44.06806,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dzorashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0541\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:und_x_variant":[
+        "Yerord Karakilisa",
+        "Karakilisa Tret\u2019ya",
+        "Dzorashen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782737,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616709,
+        "wk:page":"Dzorashen"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"285df177f41ca468f6215a879fa1d8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782737,
+            "locality_id":1343555861,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1343555861,
+    "wof:lastmodified":1537584382,
+    "wof:name":"Dzorashen",
+    "wof:parent_id":1108782737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06806,
+    40.93114,
+    44.06806,
+    40.93114
+],
+  "geometry": {"coordinates":[44.06806,40.93114],"type":"Point"}
+}

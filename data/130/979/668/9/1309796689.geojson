@@ -1,0 +1,73 @@
+{
+  "id": 1309796689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47229,39.11108,46.47229,39.11108",
+    "geom:latitude":39.11108,
+    "geom:longitude":46.47229,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Berdi K'ar",
+    "gn:country_code":"AM",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11105453,
+    "gn:latitude":39.11108,
+    "gn:longitude":46.47229,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Berdi K\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Berdi K\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0565\u0580\u0564\u056b \u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784287,
+        85632717,
+        85668659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11105453
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"51f5e473cb11ef2aa40c2018fa878c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784287,
+            "locality_id":1309796689,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1309796689,
+    "wof:lastmodified":1537584413,
+    "wof:name":"Berdi K'ar",
+    "wof:parent_id":1108784287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47229,
+    39.11108,
+    46.47229,
+    39.11108
+],
+  "geometry": {"coordinates":[46.47229,39.11108],"type":"Point"}
+}

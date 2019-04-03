@@ -1,0 +1,71 @@
+{
+  "id": 1276886649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02789,40.02789,45.02789,40.02789",
+    "geom:latitude":40.02789,
+    "geom:longitude":45.02789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vranatak",
+    "gn:country_code":"AM",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335902,
+    "gn:latitude":40.02789,
+    "gn:longitude":45.02789,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vranatak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Vranatak"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0580\u0561\u0576\u0561\u057f\u0561\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335902
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"71f0d28cb478e677e6af2a90ffdd6bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276886649,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1276886649,
+    "wof:lastmodified":1537584489,
+    "wof:name":"Vranatak",
+    "wof:parent_id":85668099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02789,
+    40.02789,
+    45.02789,
+    40.02789
+],
+  "geometry": {"coordinates":[45.02789,40.02789],"type":"Point"}
+}

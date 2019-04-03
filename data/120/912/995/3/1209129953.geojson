@@ -1,0 +1,67 @@
+{
+  "id": 1209129953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1709,40.6001,45.1709,40.6001",
+    "geom:latitude":40.6001,
+    "geom:longitude":45.1709,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khach'k'ar Sar",
+    "gn:country_code":"AM",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342953,
+    "gn:latitude":40.6001,
+    "gn:longitude":45.1709,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Khach\u2019k\u2019ar Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019k\u2019ar Sar"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u0584\u0561\u0580 \u057d\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342953
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a8b3777077009fb3083e9625864e68a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209129953
+        }
+    ],
+    "wof:id":1209129953,
+    "wof:lastmodified":1537584504,
+    "wof:name":"Khach'k'ar Sar",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1709,
+    40.6001,
+    45.1709,
+    40.6001
+],
+  "geometry": {"coordinates":[45.1709,40.6001],"type":"Point"}
+}

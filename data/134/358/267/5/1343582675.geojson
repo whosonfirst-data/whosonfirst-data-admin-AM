@@ -1,0 +1,73 @@
+{
+  "id": 1343582675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00012,40.60828,44.00012,40.60828",
+    "geom:latitude":40.60828,
+    "geom:longitude":44.00012,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"P'aparner",
+    "gn:country_code":"AM",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11315420,
+    "gn:latitude":40.60828,
+    "gn:longitude":44.00012,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"P\u2019aparner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "P\u2019aparner"
+    ],
+    "name:hye_x_variant":[
+        "\u0553\u0561\u057a\u0561\u0580\u0576\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782807,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11315420
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"d5eb0479edd81ae295ee4e58b665729d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782807,
+            "locality_id":1343582675,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1343582675,
+    "wof:lastmodified":1537584456,
+    "wof:name":"P'aparner",
+    "wof:parent_id":1108782807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00012,
+    40.60828,
+    44.00012,
+    40.60828
+],
+  "geometry": {"coordinates":[44.00012,40.60828],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226739579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97089,40.83893,44.97089,40.83893",
+    "geom:latitude":40.83893,
+    "geom:longitude":44.97089,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mt'nasari",
+    "gn:country_code":"AM",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369814,
+    "gn:latitude":40.83893,
+    "gn:longitude":44.97089,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mt\u2019nasari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mt\u2019nasari"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0569\u0576\u0561\u057d\u0561\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369814
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"358fa44c8e1d18e715f7fac07d0fb354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1226739579,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1226739579,
+    "wof:lastmodified":1537584516,
+    "wof:name":"Mt'nasari",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97089,
+    40.83893,
+    44.97089,
+    40.83893
+],
+  "geometry": {"coordinates":[44.97089,40.83893],"type":"Point"}
+}

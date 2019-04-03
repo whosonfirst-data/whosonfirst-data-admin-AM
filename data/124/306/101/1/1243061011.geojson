@@ -1,0 +1,77 @@
+{
+  "id": 1243061011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43883,40.99415,44.43883,40.99415",
+    "geom:latitude":40.99415,
+    "geom:longitude":44.43883,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Amrakits'",
+    "gn:country_code":"AM",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616531,
+    "gn:latitude":40.99415,
+    "gn:longitude":44.43883,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Amrakits\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Amrakits\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0574\u0580\u0561\u056f\u056b\u0581"
+    ],
+    "name:und_x_variant":[
+        "Nikolayevka",
+        "Kirov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783093,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616531
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"59c6748f08f006e92674428e5ca669a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783093,
+            "locality_id":1243061011,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1243061011,
+    "wof:lastmodified":1537584376,
+    "wof:name":"Amrakits'",
+    "wof:parent_id":1108783093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43883,
+    40.99415,
+    44.43883,
+    40.99415
+],
+  "geometry": {"coordinates":[44.43883,40.99415],"type":"Point"}
+}

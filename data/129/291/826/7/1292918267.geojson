@@ -1,0 +1,71 @@
+{
+  "id": 1292918267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12793,39.21112,46.12793,39.21112",
+    "geom:latitude":39.21112,
+    "geom:longitude":46.12793,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ts'oghashat",
+    "gn:country_code":"AM",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312654,
+    "gn:latitude":39.21112,
+    "gn:longitude":46.12793,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ts\u2019oghashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ts\u2019oghashat"
+    ],
+    "name:hye_x_variant":[
+        "\u0551\u0578\u0572\u0561\u0577\u0561\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312654
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"24001a2989b5f5c8e4cad798487ab2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1292918267,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1292918267,
+    "wof:lastmodified":1537584453,
+    "wof:name":"Ts'oghashat",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12793,
+    39.21112,
+    46.12793,
+    39.21112
+],
+  "geometry": {"coordinates":[46.12793,39.21112],"type":"Point"}
+}

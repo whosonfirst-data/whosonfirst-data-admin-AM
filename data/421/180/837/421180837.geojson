@@ -1,0 +1,148 @@
+{
+  "id": 421180837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04666,40.64026,44.04666,40.64026",
+    "geom:latitude":40.64026,
+    "geom:longitude":44.04666,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0553\u0578\u0584\u0580 \u0544\u0561\u0576\u0569\u0561\u0577"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043a\u044a\u0440 \u041c\u0430\u043d\u0442\u0430\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:dut_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:eng_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0631 \u0645\u0627\u0646\u062a\u0627\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:fre_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10dd\u10e5\u10e0-\u10db\u10d0\u10dc\u10d7\u10d0\u10e8\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0578\u0584\u0580 \u0544\u0561\u0576\u0569\u0561\u0577"
+    ],
+    "name:hye_x_variant":[
+        "P\u2019ok\u2019r Mant\u2019ash"
+    ],
+    "name:ita_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10e5\u10e0-\u10db\u10d0\u10dc\u10d7\u10d0\u10e8\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:msa_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u06a9\u0631\u0645\u0646\u062a\u0627\u0634"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043a\u0440 \u041c\u0430\u043d\u0442\u0430\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:swe_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:unk_x_variant":[
+        "Malyy Mantash"
+    ],
+    "name:vie_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pokr Mantash"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616297,
+    "qs:gn_pop":1838,
+    "qs:name":"Pokr Mantash",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Shirak",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":462249,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214257,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191569,
+        1108782797,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616297,
+        "gp:id":2214257,
+        "qs:id":462249,
+        "wd:id":"Q2223066",
+        "wk:page":"Pokr Mantash"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009272,
+    "wof:geomhash":"492d2eddcacb5602754866f32c8fca54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782797,
+            "locality_id":421180837,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":421180837,
+    "wof:lastmodified":1527716241,
+    "wof:name":"Pokr Mantash",
+    "wof:parent_id":1108782797,
+    "wof:placetype":"locality",
+    "wof:population":1838,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04666,
+    40.64026,
+    44.04666,
+    40.64026
+],
+  "geometry": {"coordinates":[44.04666,40.64026],"type":"Point"}
+}

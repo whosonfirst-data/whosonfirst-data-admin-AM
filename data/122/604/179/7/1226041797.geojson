@@ -1,0 +1,71 @@
+{
+  "id": 1226041797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70831,40.59308,44.70831,40.59308",
+    "geom:latitude":40.59308,
+    "geom:longitude":44.70831,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khach'kri Kamar",
+    "gn:country_code":"AM",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11370407,
+    "gn:latitude":40.59308,
+    "gn:longitude":44.70831,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Khach\u2019kri Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019kri Kamar"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u056f\u0580\u056b \u056f\u0561\u0574\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11370407
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"09f73f0cd74431cc5e28934bb24c606f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1226041797,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1226041797,
+    "wof:lastmodified":1537584518,
+    "wof:name":"Khach'kri Kamar",
+    "wof:parent_id":85668105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70831,
+    40.59308,
+    44.70831,
+    40.59308
+],
+  "geometry": {"coordinates":[44.70831,40.59308],"type":"Point"}
+}

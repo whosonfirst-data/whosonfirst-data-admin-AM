@@ -1,0 +1,72 @@
+{
+  "id": 1327137677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34722,40.09917,44.34722,40.09917",
+    "geom:latitude":40.09917,
+    "geom:longitude":44.34722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mekhmandar",
+    "gn:country_code":"AM",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616420,
+    "gn:latitude":40.09917,
+    "gn:longitude":44.34722,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Mekhmandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shorlu Mekhmandar",
+        "Mekhmandar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783985,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616420,
+        "wk:page":"Mekhmandar"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f3c22f9bdf7b69278006ca56e23ad296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783985,
+            "locality_id":1327137677,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1327137677,
+    "wof:lastmodified":1537584373,
+    "wof:name":"Mekhmandar",
+    "wof:parent_id":1108783985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34722,
+    40.09917,
+    44.34722,
+    40.09917
+],
+  "geometry": {"coordinates":[44.34722,40.09917],"type":"Point"}
+}

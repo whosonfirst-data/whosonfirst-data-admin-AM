@@ -1,0 +1,73 @@
+{
+  "id": 1276571179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08209,39.26532,46.08209,39.26532",
+    "geom:latitude":39.26532,
+    "geom:longitude":46.08209,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"T'it'eghi",
+    "gn:country_code":"AM",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021639,
+    "gn:latitude":39.26532,
+    "gn:longitude":46.08209,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"T\u2019it\u2019eghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "T\u2019it\u2019eghi"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u056b\u0569\u0565\u0572\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784389,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021639
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ac017d6d6730fa6aab5e6f1442116f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784389,
+            "locality_id":1276571179,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1276571179,
+    "wof:lastmodified":1537584409,
+    "wof:name":"T'it'eghi",
+    "wof:parent_id":1108784389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08209,
+    39.26532,
+    46.08209,
+    39.26532
+],
+  "geometry": {"coordinates":[46.08209,39.26532],"type":"Point"}
+}

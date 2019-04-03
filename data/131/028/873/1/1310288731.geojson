@@ -1,0 +1,73 @@
+{
+  "id": 1310288731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.64032,39.7793,45.64032,39.7793",
+    "geom:latitude":39.7793,
+    "geom:longitude":45.64032,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Averk'",
+    "gn:country_code":"AM",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646365,
+    "gn:latitude":39.7793,
+    "gn:longitude":45.64032,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Averk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Averk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057e\u0565\u0580\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783027,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646365
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"73ef9e3b2a18e69a3c9bc7715ed79e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783027,
+            "locality_id":1310288731,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1310288731,
+    "wof:lastmodified":1537584404,
+    "wof:name":"Averk'",
+    "wof:parent_id":1108783027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.64032,
+    39.7793,
+    45.64032,
+    39.7793
+],
+  "geometry": {"coordinates":[45.64032,39.7793],"type":"Point"}
+}

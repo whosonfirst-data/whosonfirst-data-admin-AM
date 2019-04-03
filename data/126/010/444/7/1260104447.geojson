@@ -1,0 +1,73 @@
+{
+  "id": 1260104447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69592,40.19031,45.69592,40.19031",
+    "geom:latitude":40.19031,
+    "geom:longitude":45.69592,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Melk'oni",
+    "gn:country_code":"AM",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318448,
+    "gn:latitude":40.19031,
+    "gn:longitude":45.69592,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Melk\u2019oni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Melk\u2019oni"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056c\u0584\u0578\u0576\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784525,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318448
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2de1da4617da1bb7a173a4e9c7730f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784525,
+            "locality_id":1260104447,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1260104447,
+    "wof:lastmodified":1537584460,
+    "wof:name":"Melk'oni",
+    "wof:parent_id":1108784525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69592,
+    40.19031,
+    45.69592,
+    40.19031
+],
+  "geometry": {"coordinates":[45.69592,40.19031],"type":"Point"}
+}

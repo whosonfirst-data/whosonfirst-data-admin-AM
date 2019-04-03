@@ -1,0 +1,77 @@
+{
+  "id": 1293509599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,39.43333,46.23333,39.43333",
+    "geom:latitude":39.43333,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zovaber",
+    "gn:cc2":"AM",
+    "gn:country_code":"AM",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174712,
+    "gn:latitude":39.43333,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zovaber",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0432\u0430\u0431\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Yaudzhi",
+        "Yaydzhi",
+        "Yayji",
+        "Zovaber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784445,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174712
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"559fa3de9d56222375f3f6e067efa175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784445,
+            "locality_id":1293509599,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1293509599,
+    "wof:lastmodified":1537584340,
+    "wof:name":"Zovaber",
+    "wof:parent_id":1108784445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    39.43333,
+    46.23333,
+    39.43333
+],
+  "geometry": {"coordinates":[46.23333,39.43333],"type":"Point"}
+}

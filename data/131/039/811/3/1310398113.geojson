@@ -1,0 +1,71 @@
+{
+  "id": 1310398113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64447,40.84589,44.64447,40.84589",
+    "geom:latitude":40.84589,
+    "geom:longitude":44.64447,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tlot",
+    "gn:country_code":"AM",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320879,
+    "gn:latitude":40.84589,
+    "gn:longitude":44.64447,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tlot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tlot"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u056c\u0578\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320879
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"4ba9883de2832dd355976ef5e8a4d243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1310398113,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1310398113,
+    "wof:lastmodified":1537584468,
+    "wof:name":"Tlot",
+    "wof:parent_id":85668109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64447,
+    40.84589,
+    44.64447,
+    40.84589
+],
+  "geometry": {"coordinates":[44.64447,40.84589],"type":"Point"}
+}

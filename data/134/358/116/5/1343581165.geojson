@@ -1,0 +1,73 @@
+{
+  "id": 1343581165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3515,39.3681,46.3515,39.3681",
+    "geom:latitude":39.3681,
+    "geom:longitude":46.3515,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mach",
+    "gn:country_code":"AM",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11328132,
+    "gn:latitude":39.3681,
+    "gn:longitude":46.3515,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mach"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0573"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783735,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11328132
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7d20ddd714457aad41e80ec67b52e081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783735,
+            "locality_id":1343581165,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1343581165,
+    "wof:lastmodified":1537584482,
+    "wof:name":"Mach",
+    "wof:parent_id":1108783735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3515,
+    39.3681,
+    46.3515,
+    39.3681
+],
+  "geometry": {"coordinates":[46.3515,39.3681],"type":"Point"}
+}

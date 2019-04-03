@@ -1,0 +1,73 @@
+{
+  "id": 1210028021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26111,40.07233,44.26111,40.07233",
+    "geom:latitude":40.07233,
+    "geom:longitude":44.26111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Arts'akhyan Paterazmum Zohvats Azatamartikneri",
+    "gn:country_code":"AM",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11110920,
+    "gn:latitude":40.07233,
+    "gn:longitude":44.26111,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Arts\u2019akhyan Paterazmum Zohvats Azatamartikneri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arts\u2019akhyan Paterazmum Zohvats Azatamartikneri"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0581\u0561\u056d\u0575\u0561\u0576 \u057a\u0561\u057f\u0565\u0580\u0561\u0566\u0574\u0578\u0582\u0574 \u0566\u0578\u0570\u057e\u0561\u056e \u0561\u0566\u0561\u057f\u0561\u0574\u0561\u0580\u057f\u056b\u056f\u0576\u0565\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784351,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11110920
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6b8c570a75779cdfb6a0ce30d0a2bbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784351,
+            "locality_id":1210028021,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1210028021,
+    "wof:lastmodified":1537584423,
+    "wof:name":"Arts'akhyan Paterazmum Zohvats Azatamartikneri",
+    "wof:parent_id":1108784351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26111,
+    40.07233,
+    44.26111,
+    40.07233
+],
+  "geometry": {"coordinates":[44.26111,40.07233],"type":"Point"}
+}

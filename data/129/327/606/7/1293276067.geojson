@@ -1,0 +1,73 @@
+{
+  "id": 1293276067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32928,39.75848,45.32928,39.75848",
+    "geom:latitude":39.75848,
+    "geom:longitude":45.32928,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kurrk' Ptghaberots'",
+    "gn:country_code":"AM",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11190115,
+    "gn:latitude":39.75848,
+    "gn:longitude":45.32928,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kurrk\u2019 Ptghaberots\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kurrk\u2019 Ptghaberots\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0582\u057c\u0584 \u057a\u057f\u0572\u0561\u0562\u0565\u0580\u0578\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782975,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11190115
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7289fe221d9b9171b74480a93e0f787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782975,
+            "locality_id":1293276067,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1293276067,
+    "wof:lastmodified":1537584431,
+    "wof:name":"Kurrk' Ptghaberots'",
+    "wof:parent_id":1108782975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32928,
+    39.75848,
+    45.32928,
+    39.75848
+],
+  "geometry": {"coordinates":[45.32928,39.75848],"type":"Point"}
+}

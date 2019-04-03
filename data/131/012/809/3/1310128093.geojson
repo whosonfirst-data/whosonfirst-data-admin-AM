@@ -1,0 +1,78 @@
+{
+  "id": 1310128093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36824,41.2096,44.36824,41.2096",
+    "geom:latitude":41.2096,
+    "geom:longitude":44.36824,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Artsni",
+    "gn:country_code":"AM",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616885,
+    "gn:latitude":41.2096,
+    "gn:longitude":44.36824,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Artsni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056e\u0576\u056b"
+    ],
+    "name:und_x_variant":[
+        "Kizilkilisa",
+        "Kyzyldag",
+        "Kizildag",
+        "Kizildash",
+        "Artsni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783469,
+        85633163,
+        85671305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616885,
+        "wk:page":"Artsni"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b3c0d9c14178bf0c9fdd5889b4ea2fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "localadmin_id":1108783469,
+            "locality_id":1310128093,
+            "region_id":85671305
+        }
+    ],
+    "wof:id":1310128093,
+    "wof:lastmodified":1537584389,
+    "wof:name":"Artsni",
+    "wof:parent_id":1108783469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36824,
+    41.2096,
+    44.36824,
+    41.2096
+],
+  "geometry": {"coordinates":[44.36824,41.2096],"type":"Point"}
+}

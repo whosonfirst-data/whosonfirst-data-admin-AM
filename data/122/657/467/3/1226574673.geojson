@@ -1,0 +1,73 @@
+{
+  "id": 1226574673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80829,40.58472,44.80829,40.58472",
+    "geom:latitude":40.58472,
+    "geom:longitude":44.80829,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Harut'yun Surb",
+    "gn:country_code":"AM",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255624,
+    "gn:latitude":40.58472,
+    "gn:longitude":44.80829,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Harut\u2019yun Surb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Harut\u2019yun Surb"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576 \u054d\u0578\u0582\u0580\u0562."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783385,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255624
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c77b9bd92d48b9eee8b0f1b9225896e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783385,
+            "locality_id":1226574673,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1226574673,
+    "wof:lastmodified":1537584448,
+    "wof:name":"Harut'yun Surb",
+    "wof:parent_id":1108783385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80829,
+    40.58472,
+    44.80829,
+    40.58472
+],
+  "geometry": {"coordinates":[44.80829,40.58472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310002779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47369,39.3111,46.47369,39.3111",
+    "geom:latitude":39.3111,
+    "geom:longitude":46.47369,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kamkhut",
+    "gn:country_code":"AM",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11328692,
+    "gn:latitude":39.3111,
+    "gn:longitude":46.47369,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kamkhut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kamkhut"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0574\u056d\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784251,
+        85632717,
+        85668629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11328692
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f65de90690999d272c253db2932c9f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784251,
+            "locality_id":1310002779,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1310002779,
+    "wof:lastmodified":1537584483,
+    "wof:name":"Kamkhut",
+    "wof:parent_id":1108784251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47369000000001,
+    39.3111,
+    46.47369000000001,
+    39.3111
+],
+  "geometry": {"coordinates":[46.47369000000001,39.3111],"type":"Point"}
+}

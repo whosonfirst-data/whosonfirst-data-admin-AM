@@ -1,0 +1,84 @@
+{
+  "id": 1242777005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58362,40.30205,44.58362,40.30205",
+    "geom:latitude":40.30205,
+    "geom:longitude":44.58362,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nor Hachn",
+    "gn:country_code":"AM",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616362,
+    "gn:latitude":40.30205,
+    "gn:longitude":44.58362,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Nor Hachn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nor Hachyn"
+    ],
+    "name:hye_x_preferred":[
+        "Nor Hachyn"
+    ],
+    "name:hye_x_variant":[
+        "Nor Hachn",
+        "\u0546\u0578\u0580 \u0540\u0561\u0573\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Nor Achin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784489,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616362,
+        "wk:page":"Nor_Hachen"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7e7b4e519be1e3037f6425769e410326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784489,
+            "locality_id":1242777005,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1242777005,
+    "wof:lastmodified":1537584370,
+    "wof:name":"Nor Hachn",
+    "wof:parent_id":1108784489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58362,
+    40.30205,
+    44.58362,
+    40.30205
+],
+  "geometry": {"coordinates":[44.58362,40.30205],"type":"Point"}
+}

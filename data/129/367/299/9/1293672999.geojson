@@ -1,0 +1,73 @@
+{
+  "id": 1293672999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21668,39.6347,45.21668,39.6347",
+    "geom:latitude":39.6347,
+    "geom:longitude":45.21668,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hingsurb",
+    "gn:country_code":"AM",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10526267,
+    "gn:latitude":39.6347,
+    "gn:longitude":45.21668,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Hingsurb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hingsurb"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576\u0563\u057d\u0578\u0582\u0580\u0562"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783419,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10526267
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8057916efa3c9f76d57241f52517e6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783419,
+            "locality_id":1293672999,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1293672999,
+    "wof:lastmodified":1537584401,
+    "wof:name":"Hingsurb",
+    "wof:parent_id":1108783419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21668,
+    39.6347,
+    45.21668,
+    39.6347
+],
+  "geometry": {"coordinates":[45.21668,39.6347],"type":"Point"}
+}

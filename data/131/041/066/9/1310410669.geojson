@@ -1,0 +1,73 @@
+{
+  "id": 1310410669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64172,40.55689,44.64172,40.55689",
+    "geom:latitude":40.55689,
+    "geom:longitude":44.64172,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vank'",
+    "gn:country_code":"AM",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11370442,
+    "gn:latitude":40.55689,
+    "gn:longitude":44.64172,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Vank\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Vank\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0576\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783545,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11370442
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"613006dc13203f52589d4fcba77be529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783545,
+            "locality_id":1310410669,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1310410669,
+    "wof:lastmodified":1537584518,
+    "wof:name":"Vank'",
+    "wof:parent_id":1108783545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64172,
+    40.55689,
+    44.64172,
+    40.55689
+],
+  "geometry": {"coordinates":[44.64172,40.55689],"type":"Point"}
+}

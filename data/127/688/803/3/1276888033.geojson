@@ -1,0 +1,73 @@
+{
+  "id": 1276888033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74872,40.41528,43.74872,40.41528",
+    "geom:latitude":40.41528,
+    "geom:longitude":43.74872,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Metstun",
+    "gn:country_code":"AM",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133183,
+    "gn:latitude":40.41528,
+    "gn:longitude":43.74872,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Metstun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Metstun"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056e\u057f\u0578\u0582\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782931,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133183
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"23db475ccca77b36e565af78c3e904bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782931,
+            "locality_id":1276888033,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1276888033,
+    "wof:lastmodified":1537584431,
+    "wof:name":"Metstun",
+    "wof:parent_id":1108782931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74872,
+    40.41528,
+    43.74872,
+    40.41528
+],
+  "geometry": {"coordinates":[43.74872,40.41528],"type":"Point"}
+}

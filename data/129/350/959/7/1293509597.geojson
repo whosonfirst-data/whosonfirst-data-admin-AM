@@ -1,0 +1,83 @@
+{
+  "id": 1293509597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.49461,39.31997,46.49461,39.31997",
+    "geom:latitude":39.31997,
+    "geom:longitude":46.49461,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Davit' Bek",
+    "gn:country_code":"AM",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174926,
+    "gn:latitude":39.31997,
+    "gn:longitude":46.49461,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Davit\u2019 Bek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "David B\u0259y"
+    ],
+    "name:hye_x_preferred":[
+        "Davit\u2019 Bek"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0561\u057e\u056b\u0569 \u0532\u0565\u056f"
+    ],
+    "name:und_x_variant":[
+        "Ashaya-Zeyva",
+        "David-Bek",
+        "Zeyva",
+        "Ashaga Zeyva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784251,
+        85632717,
+        85668629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174926,
+        "wk:page":"David_Bek%2C_Armenia"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7485ce2b865d234fc4810023be6043b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784251,
+            "locality_id":1293509597,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1293509597,
+    "wof:lastmodified":1537584351,
+    "wof:name":"Davit' Bek",
+    "wof:parent_id":1108784251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.49461,
+    39.31997,
+    46.49461,
+    39.31997
+],
+  "geometry": {"coordinates":[46.49461,39.31997],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327437767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22931,40.6723,45.22931,40.6723",
+    "geom:latitude":40.6723,
+    "geom:longitude":45.22931,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hamoyi",
+    "gn:country_code":"AM",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342938,
+    "gn:latitude":40.6723,
+    "gn:longitude":45.22931,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hamoyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hamoyi"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0574\u0578\u0575\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783361,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342938
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e00fac583576e7d05664167828bdd162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783361,
+            "locality_id":1327437767,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1327437767,
+    "wof:lastmodified":1537584504,
+    "wof:name":"Hamoyi",
+    "wof:parent_id":1108783361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22931,
+    40.6723,
+    45.22931,
+    40.6723
+],
+  "geometry": {"coordinates":[45.22931,40.6723],"type":"Point"}
+}

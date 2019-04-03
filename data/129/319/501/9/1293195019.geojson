@@ -1,0 +1,71 @@
+{
+  "id": 1293195019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82928,41.00153,43.82928,41.00153",
+    "geom:latitude":41.00153,
+    "geom:longitude":43.82928,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vahramaberdi",
+    "gn:country_code":"AM",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11278122,
+    "gn:latitude":41.00153,
+    "gn:longitude":43.82928,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Vahramaberdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Vahramaberdi"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0570\u0580\u0561\u0574\u0561\u0562\u0565\u0580\u0564\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11278122
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"34014a14eaed69cb836f842da228689c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1293195019,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1293195019,
+    "wof:lastmodified":1537584452,
+    "wof:name":"Vahramaberdi",
+    "wof:parent_id":85668089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82928,
+    41.00153,
+    43.82928,
+    41.00153
+],
+  "geometry": {"coordinates":[43.82928,41.00153],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293797901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20676,40.72011,44.20676,40.72011",
+    "geom:latitude":40.72011,
+    "geom:longitude":44.20676,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tsilk'ar",
+    "gn:country_code":"AM",
+    "gn:dem":2123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616141,
+    "gn:latitude":40.72011,
+    "gn:longitude":44.20676,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tsilk\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053e\u056b\u056c\u0584\u0561\u0580"
+    ],
+    "name:und_x_variant":[
+        "Tzilkar",
+        "Mundzhukhli",
+        "Tsilk\u2019ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783513,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616141
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3e511d7996268a703b7610d6461170fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783513,
+            "locality_id":1293797901,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1293797901,
+    "wof:lastmodified":1537584363,
+    "wof:name":"Tsilk'ar",
+    "wof:parent_id":1108783513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20676,
+    40.72011,
+    44.20676,
+    40.72011
+],
+  "geometry": {"coordinates":[44.20676,40.72011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293191427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5293,39.04449,46.5293,39.04449",
+    "geom:latitude":39.04449,
+    "geom:longitude":46.5293,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Argavand",
+    "gn:country_code":"AM",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329984,
+    "gn:latitude":39.04449,
+    "gn:longitude":46.5293,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Argavand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Argavand"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0563\u0561\u057e\u0561\u0576\u0564"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783745,
+        85632717,
+        85668659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329984
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e71e58eae772f35e648db9e2547e0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783745,
+            "locality_id":1293191427,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1293191427,
+    "wof:lastmodified":1537584485,
+    "wof:name":"Argavand",
+    "wof:parent_id":1108783745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5293,
+    39.04449,
+    46.5293,
+    39.04449
+],
+  "geometry": {"coordinates":[46.5293,39.04449],"type":"Point"}
+}

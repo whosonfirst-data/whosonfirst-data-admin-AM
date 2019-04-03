@@ -1,0 +1,73 @@
+{
+  "id": 1343276111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69452,40.48328,43.69452,40.48328",
+    "geom:latitude":40.48328,
+    "geom:longitude":43.69452,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gegh",
+    "gn:country_code":"AM",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133117,
+    "gn:latitude":40.48328,
+    "gn:longitude":43.69452,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Gegh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gegh"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0565\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782933,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133117
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5cfaff080caf94224a3f695f998c3e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782933,
+            "locality_id":1343276111,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1343276111,
+    "wof:lastmodified":1537584431,
+    "wof:name":"Gegh",
+    "wof:parent_id":1108782933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69452,
+    40.48328,
+    43.69452,
+    40.48328
+],
+  "geometry": {"coordinates":[43.69452,40.48328],"type":"Point"}
+}

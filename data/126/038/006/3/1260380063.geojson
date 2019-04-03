@@ -1,0 +1,73 @@
+{
+  "id": 1260380063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3501,39.59168,45.3501,39.59168",
+    "geom:latitude":39.59168,
+    "geom:longitude":45.3501,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aghopen",
+    "gn:country_code":"AM",
+    "gn:dem":1864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643757,
+    "gn:latitude":39.59168,
+    "gn:longitude":45.3501,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Aghopen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Aghopen"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0572\u0578\u057a\u0565\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783303,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643757
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"aa0a95b2705ea746457b8f75d8dc69c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783303,
+            "locality_id":1260380063,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1260380063,
+    "wof:lastmodified":1537584403,
+    "wof:name":"Aghopen",
+    "wof:parent_id":1108783303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3501,
+    39.59168,
+    45.3501,
+    39.59168
+],
+  "geometry": {"coordinates":[45.3501,39.59168],"type":"Point"}
+}

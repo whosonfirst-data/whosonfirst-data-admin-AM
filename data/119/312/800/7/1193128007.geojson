@@ -1,0 +1,82 @@
+{
+  "id": 1193128007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96264,39.45126,45.96264,39.45126",
+    "geom:latitude":39.45126,
+    "geom:longitude":45.96264,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"T'asik",
+    "gn:country_code":"AM",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174744,
+    "gn:latitude":39.45126,
+    "gn:longitude":45.96264,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"T\u2019asik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "T\u2019asik"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u057d\u056b\u056f"
+    ],
+    "name:und_x_variant":[
+        "Tazagyukh",
+        "Kushch\u2019i-T\u2019azak\u2019end",
+        "T\u2019azak\u2019end",
+        "Gushch\u2019i",
+        "T\u2019azagyugh",
+        "Kushch\u2019i",
+        "Ghushch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784469,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174744
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f4479e3c13f1126ddea0dfcc89600d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784469,
+            "locality_id":1193128007,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1193128007,
+    "wof:lastmodified":1537584341,
+    "wof:name":"T'asik",
+    "wof:parent_id":1108784469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96264,
+    39.45126,
+    45.96264,
+    39.45126
+],
+  "geometry": {"coordinates":[45.96264,39.45126],"type":"Point"}
+}

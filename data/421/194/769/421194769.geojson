@@ -1,0 +1,71 @@
+{
+  "id": 421194769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"44.263916,40.465755,44.263916,40.465755",
+    "geom:latitude":40.465755,
+    "geom:longitude":44.263916,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Aparan Shrjan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Aragatsotn",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":911458,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":15022528,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15022528,
+        "qs:id":911458
+    },
+    "wof:country":"AM",
+    "wof:created":1459009819,
+    "wof:geomhash":"eb595a2c3ae5297cb989360b00178aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "county_id":421194769,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":421194769,
+    "wof:lastmodified":1466635879,
+    "wof:name":"Aparan Shrjan",
+    "wof:parent_id":85668083,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.263916,
+    40.465755,
+    44.263916,
+    40.465755
+],
+  "geometry": {"coordinates":[44.263916,40.465755],"type":"Point"}
+}

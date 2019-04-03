@@ -1,0 +1,71 @@
+{
+  "id": 1276571167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94031,39.66528,45.94031,39.66528",
+    "geom:latitude":39.66528,
+    "geom:longitude":45.94031,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lcher",
+    "gn:country_code":"AM",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11105745,
+    "gn:latitude":39.66528,
+    "gn:longitude":45.94031,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Lcher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lcher"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0573\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11105745
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b1208a4cd0a578cd49df15e1de02dc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276571167,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1276571167,
+    "wof:lastmodified":1537584414,
+    "wof:name":"Lcher",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94031,
+    39.66528,
+    45.94031,
+    39.66528
+],
+  "geometry": {"coordinates":[45.94031,39.66528],"type":"Point"}
+}

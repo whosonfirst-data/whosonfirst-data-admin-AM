@@ -1,0 +1,67 @@
+{
+  "id": 1209307073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67792,40.84729,44.67792,40.84729",
+    "geom:latitude":40.84729,
+    "geom:longitude":44.67792,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nazoyi",
+    "gn:country_code":"AM",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320807,
+    "gn:latitude":40.84729,
+    "gn:longitude":44.67792,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nazoyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nazoyi"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0561\u0566\u0578\u0575\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320807
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"99bb57df3c8e2523f714294489295ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209307073
+        }
+    ],
+    "wof:id":1209307073,
+    "wof:lastmodified":1537584467,
+    "wof:name":"Nazoyi",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67792,
+    40.84729,
+    44.67792,
+    40.84729
+],
+  "geometry": {"coordinates":[44.67792,40.84729],"type":"Point"}
+}

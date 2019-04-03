@@ -1,0 +1,67 @@
+{
+  "id": 1209615623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62653,40.18048,45.62653,40.18048",
+    "geom:latitude":40.18048,
+    "geom:longitude":45.62653,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sardur B-i",
+    "gn:country_code":"AM",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318316,
+    "gn:latitude":40.18048,
+    "gn:longitude":45.62653,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sardur B-i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Sardur B-i"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0561\u0580\u0564\u0578\u0582\u0580 \u0532-\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318316
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8338612f474095c133c5c121e3e69d4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209615623
+        }
+    ],
+    "wof:id":1209615623,
+    "wof:lastmodified":1537584459,
+    "wof:name":"Sardur B-i",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62653,
+    40.18048,
+    45.62653,
+    40.18048
+],
+  "geometry": {"coordinates":[45.62653,40.18048],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85903725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13559742.539117,
+    "geom:bbox":"44.514267,40.179486,44.514267,40.179486",
+    "geom:latitude":40.179486,
+    "geom:longitude":44.514267,
+    "gn:id":"",
+    "iso:country":"AM",
+    "lbl:latitude":40.179486,
+    "lbl:longitude":44.514267,
+    "mps:latitude":40.178538,
+    "mps:longitude":44.506641,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Charbakh"
+    ],
+    "name:unk_x_variant":[
+        "Charbakh"
+    ],
+    "qs:gn_adm0_cc":"AM",
+    "qs:gn_id":0,
+    "qs:gn_local":616052,
+    "qs:local_max":3333,
+    "qs:local_sum":5521,
+    "qs:localhoods":5,
+    "qs:name":"Charbakh",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Armavir",
+    "qs:name_adm2":"Echmiadzin Shrjan",
+    "qs:name_local":"Yerevan",
+    "qs:photo_max":235,
+    "qs:photo_sum":3333,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":117,
+    "qs:woe_adm0":23424743,
+    "qs:woe_adm1":20070210,
+    "qs:woe_adm2":15022531,
+    "qs:woe_lau":0,
+    "qs:woe_local":2214662,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":10,
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2213655,
+        "qs:id":1130257
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f7182e57be3c9b53e3f849eb70d054ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":-1,
+            "neighbourhood_id":85903725,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":85903725,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936077,
+    "wof:name":"Charbakh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.514267,
+    40.179486,
+    44.514267,
+    40.179486
+],
+  "geometry": {"coordinates":[44.514267,40.179486],"type":"Point"}
+}

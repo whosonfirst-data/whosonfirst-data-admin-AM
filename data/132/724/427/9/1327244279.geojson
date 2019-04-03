@@ -1,0 +1,71 @@
+{
+  "id": 1327244279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90289,40.05548,44.90289,40.05548",
+    "geom:latitude":40.05548,
+    "geom:longitude":44.90289,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"T'arrnis",
+    "gn:country_code":"AM",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128638,
+    "gn:latitude":40.05548,
+    "gn:longitude":44.90289,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"T\u2019arrnis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "T\u2019arrnis"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u057c\u0576\u056b\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128638
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5b183dd2004b1a11ab79ad2b8ebc2520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1327244279,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1327244279,
+    "wof:lastmodified":1537584426,
+    "wof:name":"T'arrnis",
+    "wof:parent_id":85668099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90289,
+    40.05548,
+    44.90289,
+    40.05548
+],
+  "geometry": {"coordinates":[44.90289,40.05548],"type":"Point"}
+}

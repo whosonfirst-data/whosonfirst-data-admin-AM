@@ -1,0 +1,71 @@
+{
+  "id": 1209935243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9043,40.72369,44.9043,40.72369",
+    "geom:latitude":40.72369,
+    "geom:longitude":44.9043,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kapuytlerr",
+    "gn:country_code":"AM",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255542,
+    "gn:latitude":40.72369,
+    "gn:longitude":44.9043,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kapuytlerr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kapuytlerr"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u057a\u0578\u0582\u0575\u057f\u056c\u0565\u057c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255542
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"84d6a2782d57d028b1ee0b5b11d439d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1209935243,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1209935243,
+    "wof:lastmodified":1537584447,
+    "wof:name":"Kapuytlerr",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9043,
+    40.72369000000001,
+    44.9043,
+    40.72369000000001
+],
+  "geometry": {"coordinates":[44.9043,40.72369000000001],"type":"Point"}
+}

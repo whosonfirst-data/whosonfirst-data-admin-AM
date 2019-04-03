@@ -1,0 +1,77 @@
+{
+  "id": 1360005809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4751,39.09729,46.4751,39.09729",
+    "geom:latitude":39.09729,
+    "geom:longitude":46.4751,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"ShikahoGh",
+    "gn:country_code":"AM",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174772,
+    "gn:latitude":39.09729,
+    "gn:longitude":46.4751,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"ShikahoGh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "ShikahoGh"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u056b\u056f\u0561\u0570\u0578\u0572"
+    ],
+    "name:und_x_variant":[
+        "Shikakhokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784287,
+        85632717,
+        85668659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174772,
+        "wk:page":"Shikahogh"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"fa8673bf06da79f0603bbe15d3faa345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784287,
+            "locality_id":1360005809,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1360005809,
+    "wof:lastmodified":1537584343,
+    "wof:name":"ShikahoGh",
+    "wof:parent_id":1108784287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4751,
+    39.09729,
+    46.4751,
+    39.09729
+],
+  "geometry": {"coordinates":[46.4751,39.09729],"type":"Point"}
+}

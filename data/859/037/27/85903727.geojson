@@ -1,0 +1,109 @@
+{
+  "id": 85903727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11851766.511622,
+    "geom:bbox":"44.486642,40.185406,44.486642,40.185406",
+    "geom:latitude":40.185406,
+    "geom:longitude":44.486642,
+    "gn:latitude":40.18333,
+    "gn:longitude":44.48333,
+    "iso:country":"AM",
+    "lbl:latitude":40.185406,
+    "lbl:longitude":44.486642,
+    "mps:latitude":40.183998,
+    "mps:longitude":44.474307,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Imeni Tairova"
+    ],
+    "name:unk_x_variant":[
+        "Imeni Tairova"
+    ],
+    "qs:gn_adm0_cc":"AM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":616052,
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Imeni Tairova",
+    "qs:local_max":3333,
+    "qs:local_sum":5521,
+    "qs:localhoods":5,
+    "qs:name":"Imeni Tairova",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Yerevan",
+    "qs:name_adm2":"Masis Shrjan",
+    "qs:name_local":"Yerevan",
+    "qs:photo_max":73,
+    "qs:photo_sum":195,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424743,
+    "qs:woe_adm1":20070212,
+    "qs:woe_adm2":15022548,
+    "qs:woe_lau":0,
+    "qs:woe_local":2214662,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616618,
+        "gp:id":2213863,
+        "qs:id":1083722,
+        "qs_pg:id":1083722,
+        "wd:id":"Q6003835",
+        "wk:page":"Imeni Tairova"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e60102b6284ad69ecc3f5b1d4e03a14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":-1,
+            "neighbourhood_id":85903727,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":85903727,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936078,
+    "wof:name":"Imeni Tairova",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.486642,
+    40.185406,
+    44.486642,
+    40.185406
+],
+  "geometry": {"coordinates":[44.486642,40.185406],"type":"Point"}
+}

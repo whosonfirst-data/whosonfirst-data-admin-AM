@@ -1,0 +1,71 @@
+{
+  "id": 1226155975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83612,40.07233,44.83612,40.07233",
+    "geom:latitude":40.07233,
+    "geom:longitude":44.83612,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Avanik",
+    "gn:country_code":"AM",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128621,
+    "gn:latitude":40.07233,
+    "gn:longitude":44.83612,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Avanik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Avanik"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057e\u0561\u0576\u056b\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128621
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"72d6182998b4901693d0b339576e61d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1226155975,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1226155975,
+    "wof:lastmodified":1537584425,
+    "wof:name":"Avanik",
+    "wof:parent_id":85668099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83612,
+    40.07233,
+    44.83612,
+    40.07233
+],
+  "geometry": {"coordinates":[44.83612,40.07233],"type":"Point"}
+}

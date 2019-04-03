@@ -1,0 +1,78 @@
+{
+  "id": 1293778509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03332,40.78748,45.03332,40.78748",
+    "geom:latitude":40.78748,
+    "geom:longitude":45.03332,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hovk'",
+    "gn:country_code":"AM",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617001,
+    "gn:latitude":40.78748,
+    "gn:longitude":45.03332,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Hovk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hovk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u057e\u0584"
+    ],
+    "name:und_x_variant":[
+        "Akhkikhlu",
+        "Akhkikhli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783271,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617001,
+        "wk:page":"Akhkikhli"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"061a940af2fe6243588f7b682c547eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783271,
+            "locality_id":1293778509,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1293778509,
+    "wof:lastmodified":1537584393,
+    "wof:name":"Hovk'",
+    "wof:parent_id":1108783271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03332,
+    40.78748,
+    45.03332,
+    40.78748
+],
+  "geometry": {"coordinates":[45.03332,40.78748],"type":"Point"}
+}

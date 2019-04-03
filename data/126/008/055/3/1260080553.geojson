@@ -1,0 +1,80 @@
+{
+  "id": 1260080553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.50874,40.14857,45.50874,40.14857",
+    "geom:latitude":40.14857,
+    "geom:longitude":45.50874,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Artsvanist",
+    "gn:country_code":"AM",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616379,
+    "gn:latitude":40.14857,
+    "gn:longitude":45.50874,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Artsvanist",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Artsvanist"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u056e\u057e\u0561\u0576\u056b\u057d\u057f"
+    ],
+    "name:und_x_variant":[
+        "Nizhniy Aluchalu",
+        "Alichali",
+        "Artsvanist",
+        "Nerkin Aluchalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784085,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616379,
+        "wk:page":"Artsvanist"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5fbaf56feb3169d70b45646b67ceabfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784085,
+            "locality_id":1260080553,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1260080553,
+    "wof:lastmodified":1537584372,
+    "wof:name":"Artsvanist",
+    "wof:parent_id":1108784085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.50874,
+    40.14857,
+    45.50874,
+    40.14857
+],
+  "geometry": {"coordinates":[45.50874,40.14857],"type":"Point"}
+}

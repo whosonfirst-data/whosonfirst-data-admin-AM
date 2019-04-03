@@ -1,0 +1,73 @@
+{
+  "id": 1309791401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4223,39.30548,46.4223,39.30548",
+    "geom:latitude":39.30548,
+    "geom:longitude":46.4223,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Spitakavor",
+    "gn:country_code":"AM",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11328761,
+    "gn:latitude":39.30548,
+    "gn:longitude":46.4223,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Spitakavor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Spitakavor"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f\u0561\u057e\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784415,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11328761
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"42f8994adf3167740b6743d1ca3b57a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784415,
+            "locality_id":1309791401,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1309791401,
+    "wof:lastmodified":1537584483,
+    "wof:name":"Spitakavor",
+    "wof:parent_id":1108784415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4223,
+    39.30548,
+    46.4223,
+    39.30548
+],
+  "geometry": {"coordinates":[46.4223,39.30548],"type":"Point"}
+}

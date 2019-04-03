@@ -1,0 +1,73 @@
+{
+  "id": 1360107059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78607,40.91949,44.78607,40.91949",
+    "geom:latitude":40.91949,
+    "geom:longitude":44.78607,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Motkor",
+    "gn:country_code":"AM",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369967,
+    "gn:latitude":40.91949,
+    "gn:longitude":44.78607,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Motkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Motkor"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u057f\u056f\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783189,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369967
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2653e0a3eba849ef6faa9273f36391e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783189,
+            "locality_id":1360107059,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1360107059,
+    "wof:lastmodified":1537584517,
+    "wof:name":"Motkor",
+    "wof:parent_id":1108783189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78607,
+    40.91949,
+    44.78607,
+    40.91949
+],
+  "geometry": {"coordinates":[44.78607,40.91949],"type":"Point"}
+}

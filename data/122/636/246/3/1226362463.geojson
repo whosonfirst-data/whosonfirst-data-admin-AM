@@ -1,0 +1,73 @@
+{
+  "id": 1226362463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3501,39.05011,46.3501,39.05011",
+    "geom:latitude":39.05011,
+    "geom:longitude":46.3501,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Masrik",
+    "gn:country_code":"AM",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11105351,
+    "gn:latitude":39.05011,
+    "gn:longitude":46.3501,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Masrik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Masrik"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u057d\u0580\u056b\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784395,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11105351
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6d0fbf5fa1c075908ff1d8198cd12dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784395,
+            "locality_id":1226362463,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1226362463,
+    "wof:lastmodified":1537584412,
+    "wof:name":"Masrik",
+    "wof:parent_id":1108784395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3501,
+    39.05011,
+    46.3501,
+    39.05011
+],
+  "geometry": {"coordinates":[46.3501,39.05011],"type":"Point"}
+}

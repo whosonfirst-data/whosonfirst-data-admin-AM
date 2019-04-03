@@ -1,0 +1,73 @@
+{
+  "id": 1259973381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51813,39.64447,45.51813,39.64447",
+    "geom:latitude":39.64447,
+    "geom:longitude":45.51813,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sureni Surb",
+    "gn:country_code":"AM",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192001,
+    "gn:latitude":39.64447,
+    "gn:longitude":45.51813,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sureni Surb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Sureni Surb"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0578\u0582\u0580\u0565\u0576\u056b \u054d\u0578\u0582\u0580\u0562"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783403,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192001
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b5956e49b64cfe39d718a4b556306721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783403,
+            "locality_id":1259973381,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1259973381,
+    "wof:lastmodified":1537584434,
+    "wof:name":"Sureni Surb",
+    "wof:parent_id":1108783403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51813,
+    39.64447,
+    45.51813,
+    39.64447
+],
+  "geometry": {"coordinates":[45.51813,39.64447],"type":"Point"}
+}

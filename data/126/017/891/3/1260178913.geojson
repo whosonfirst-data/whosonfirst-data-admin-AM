@@ -1,0 +1,70 @@
+{
+  "id": 1260178913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21941,39.22064,46.21941,39.22064",
+    "geom:latitude":39.22064,
+    "geom:longitude":46.21941,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Baharlu",
+    "gn:country_code":"AM",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174957,
+    "gn:latitude":39.22064,
+    "gn:longitude":46.21941,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baharlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagarlu",
+        "Baharlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174957,
+        "wk:page":"Baharlu%2C_Armenia"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8bb6e7dc4a6a781fff5900857ee286fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1260178913,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1260178913,
+    "wof:lastmodified":1537584353,
+    "wof:name":"Baharlu",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21941,
+    39.22064,
+    46.21941,
+    39.22064
+],
+  "geometry": {"coordinates":[46.21941,39.22064],"type":"Point"}
+}

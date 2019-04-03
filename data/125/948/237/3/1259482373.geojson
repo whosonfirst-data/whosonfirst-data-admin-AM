@@ -1,0 +1,71 @@
+{
+  "id": 1259482373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80151,40.64447,44.80151,40.64447",
+    "geom:latitude":40.64447,
+    "geom:longitude":44.80151,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dashtik",
+    "gn:country_code":"AM",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255528,
+    "gn:latitude":40.64447,
+    "gn:longitude":44.80151,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Dashtik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Dashtik"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0561\u0577\u057f\u056b\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255528
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c9fcf57b4b7a3ecd8722ac9305b69054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1259482373,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1259482373,
+    "wof:lastmodified":1537584447,
+    "wof:name":"Dashtik",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80151,
+    40.64447,
+    44.80151,
+    40.64447
+],
+  "geometry": {"coordinates":[44.80151,40.64447],"type":"Point"}
+}

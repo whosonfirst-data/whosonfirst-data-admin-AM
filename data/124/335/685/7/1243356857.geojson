@@ -1,0 +1,79 @@
+{
+  "id": 1243356857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38146,39.48444,46.38146,39.48444",
+    "geom:latitude":39.48444,
+    "geom:longitude":46.38146,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hart'ashen",
+    "gn:country_code":"AM",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11211596,
+    "gn:latitude":39.48444,
+    "gn:longitude":46.38146,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hart\u2019ashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259ng\u0259zur"
+    ],
+    "name:hye_x_preferred":[
+        "Hart\u2019ashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0580\u0569\u0561\u0577\u0565\u0576"
+    ],
+    "name:und_x_variant":[
+        "Zangezur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784597,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11211596
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1c95bd75a80aab71babe39fbb40b5469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784597,
+            "locality_id":1243356857,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1243356857,
+    "wof:lastmodified":1537584435,
+    "wof:name":"Hart'ashen",
+    "wof:parent_id":1108784597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38146,
+    39.48444,
+    46.38146,
+    39.48444
+],
+  "geometry": {"coordinates":[46.38146,39.48444],"type":"Point"}
+}

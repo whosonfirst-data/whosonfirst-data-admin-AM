@@ -1,0 +1,73 @@
+{
+  "id": 1209914665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23889,40.68469,45.23889,40.68469",
+    "geom:latitude":40.68469,
+    "geom:longitude":45.23889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kznut",
+    "gn:country_code":"AM",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342936,
+    "gn:latitude":40.68469,
+    "gn:longitude":45.23889,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kznut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kznut"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0566\u0576\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783361,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342936
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"759cd0c99674c4bab7723a40a4cb35dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783361,
+            "locality_id":1209914665,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1209914665,
+    "wof:lastmodified":1537584503,
+    "wof:name":"Kznut",
+    "wof:parent_id":1108783361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23889000000001,
+    40.68469,
+    45.23889000000001,
+    40.68469
+],
+  "geometry": {"coordinates":[45.23889000000001,40.68469],"type":"Point"}
+}

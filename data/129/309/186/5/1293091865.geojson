@@ -1,0 +1,71 @@
+{
+  "id": 1293091865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33472,39.21393,46.33472,39.21393",
+    "geom:latitude":39.21393,
+    "geom:longitude":46.33472,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vahanavank'i",
+    "gn:country_code":"AM",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11105580,
+    "gn:latitude":39.21393,
+    "gn:longitude":46.33472,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Vahanavank\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Vahanavank\u2019i"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0570\u0561\u0576\u0561\u057e\u0561\u0576\u0584\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11105580
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1bea71d9e02e46f5e2cace8604065c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1293091865,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1293091865,
+    "wof:lastmodified":1537584413,
+    "wof:name":"Vahanavank'i",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33472,
+    39.21393,
+    46.33472,
+    39.21393
+],
+  "geometry": {"coordinates":[46.33472,39.21393],"type":"Point"}
+}

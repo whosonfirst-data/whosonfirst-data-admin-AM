@@ -1,0 +1,71 @@
+{
+  "id": 1209800013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98608,41.00848,44.98608,41.00848",
+    "geom:latitude":41.00848,
+    "geom:longitude":44.98608,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gorshut",
+    "gn:country_code":"AM",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323030,
+    "gn:latitude":41.00848,
+    "gn:longitude":44.98608,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gorshut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gorshut"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u0580\u0577\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323030
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"af15477b755a2877b5383a64799cc1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1209800013,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1209800013,
+    "wof:lastmodified":1537584474,
+    "wof:name":"Gorshut",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98608,
+    41.00848,
+    44.98608,
+    41.00848
+],
+  "geometry": {"coordinates":[44.98608,41.00848],"type":"Point"}
+}

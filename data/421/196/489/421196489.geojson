@@ -1,0 +1,112 @@
+{
+  "id": 421196489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21407,40.87043,44.21407,40.87043",
+    "geom:latitude":40.87043,
+    "geom:longitude":44.21407,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "G\u00fcll\u00fcc\u0259"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0647\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Sarahart"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0570\u0561\u0580\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Sarahart"
+    ],
+    "name:msa_x_preferred":[
+        "Sarahart"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0430\u0440\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Gyullidzha"
+    ],
+    "name:vie_x_preferred":[
+        "Sarahart"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sarahart"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616273,
+    "qs:gn_pop":1364,
+    "qs:name":"Sarahart'",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Lorri",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1307561,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214290,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191569,
+        1108783159,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616273,
+        "gp:id":2214290,
+        "qs:id":1307561,
+        "wd:id":"Q2223140",
+        "wk:page":"Sarahart"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009883,
+    "wof:geomhash":"72c27941a1c9fca4d5b51123f39ad89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783159,
+            "locality_id":421196489,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":421196489,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Sarahart'",
+    "wof:parent_id":1108783159,
+    "wof:placetype":"locality",
+    "wof:population":1364,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21407,
+    40.87043,
+    44.21407,
+    40.87043
+],
+  "geometry": {"coordinates":[44.21407,40.87043],"type":"Point"}
+}

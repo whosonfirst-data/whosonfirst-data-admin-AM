@@ -1,0 +1,73 @@
+{
+  "id": 1259805773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55292,41.01111,44.55292,41.01111",
+    "geom:latitude":41.01111,
+    "geom:longitude":44.55292,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yerkeresa Gomer",
+    "gn:country_code":"AM",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363609,
+    "gn:latitude":41.01111,
+    "gn:longitude":44.55292,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Yerkeresa Gomer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Yerkeresa Gomer"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0580\u056f\u0565\u0580\u0565\u057d\u0561 \u0563\u0578\u0574\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783203,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363609
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"be342ad6ce73205abd132fb391e69010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783203,
+            "locality_id":1259805773,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1259805773,
+    "wof:lastmodified":1537584511,
+    "wof:name":"Yerkeresa Gomer",
+    "wof:parent_id":1108783203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55292,
+    41.01111,
+    44.55292,
+    41.01111
+],
+  "geometry": {"coordinates":[44.55292,41.01111],"type":"Point"}
+}

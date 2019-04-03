@@ -1,0 +1,69 @@
+{
+  "id": 1276975915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90224,41.13343,44.90224,41.13343",
+    "geom:latitude":41.13343,
+    "geom:longitude":44.90224,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kozman",
+    "gn:country_code":"AM",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616517,
+    "gn:latitude":41.13343,
+    "gn:longitude":44.90224,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kozman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0566\u0574\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616517,
+        "wk:page":"Kozman"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6c2b770e033d5ae12dcb8afe52b90b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276975915,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1276975915,
+    "wof:lastmodified":1537584376,
+    "wof:name":"Kozman",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90224,
+    41.13343,
+    44.90224,
+    41.13343
+],
+  "geometry": {"coordinates":[44.90224,41.13343],"type":"Point"}
+}

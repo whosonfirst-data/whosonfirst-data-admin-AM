@@ -1,0 +1,73 @@
+{
+  "id": 1360281377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4931,39.6029,45.4931,39.6029",
+    "geom:latitude":39.6029,
+    "geom:longitude":45.4931,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Simon Tserunu",
+    "gn:country_code":"AM",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643855,
+    "gn:latitude":39.6029,
+    "gn:longitude":45.4931,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Simon Tserunu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Simon Tserunu"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u056b\u0574\u0578\u0576 \u056e\u0565\u0580\u0578\u0582\u0576\u0578\u0582"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783415,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643855
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"fe95714f59b2843d4477288475c99d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783415,
+            "locality_id":1360281377,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1360281377,
+    "wof:lastmodified":1537584403,
+    "wof:name":"Simon Tserunu",
+    "wof:parent_id":1108783415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4931,
+    39.6029,
+    45.4931,
+    39.6029
+],
+  "geometry": {"coordinates":[45.4931,39.6029],"type":"Point"}
+}

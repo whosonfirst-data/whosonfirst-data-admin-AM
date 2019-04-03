@@ -1,0 +1,73 @@
+{
+  "id": 1310711395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3529,40.6001,44.3529,40.6001",
+    "geom:latitude":40.6001,
+    "geom:longitude":44.3529,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Arts'akhyan Herosneri",
+    "gn:country_code":"AM",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11319390,
+    "gn:latitude":40.6001,
+    "gn:longitude":44.3529,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Arts\u2019akhyan Herosneri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arts\u2019akhyan Herosneri"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0581\u0561\u056d\u0575\u0561\u0576 \u0570\u0565\u0580\u0578\u057d\u0576\u0565\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782839,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11319390
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8698cae8847d29c2cf713fab394d1d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782839,
+            "locality_id":1310711395,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1310711395,
+    "wof:lastmodified":1537584463,
+    "wof:name":"Arts'akhyan Herosneri",
+    "wof:parent_id":1108782839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3529,
+    40.6001,
+    44.3529,
+    40.6001
+],
+  "geometry": {"coordinates":[44.3529,40.6001],"type":"Point"}
+}

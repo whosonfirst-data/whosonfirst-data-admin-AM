@@ -1,0 +1,73 @@
+{
+  "id": 1242662033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93838,40.77851,44.93838,40.77851",
+    "geom:latitude":40.77851,
+    "geom:longitude":44.93838,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"T'eghut",
+    "gn:country_code":"AM",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823752,
+    "gn:latitude":40.77851,
+    "gn:longitude":44.93838,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"T\u2019eghut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "T\u2019eghut"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0565\u0572\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783273,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823752
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b5cce0e8ad16c13b37e27bcf1a873157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783273,
+            "locality_id":1242662033,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1242662033,
+    "wof:lastmodified":1537584395,
+    "wof:name":"T'eghut",
+    "wof:parent_id":1108783273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93838,
+    40.77851,
+    44.93838,
+    40.77851
+],
+  "geometry": {"coordinates":[44.93838,40.77851],"type":"Point"}
+}

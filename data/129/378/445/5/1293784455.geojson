@@ -1,0 +1,73 @@
+{
+  "id": 1293784455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05011,40.45972,45.05011,40.45972",
+    "geom:latitude":40.45972,
+    "geom:longitude":45.05011,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jrkhap'an",
+    "gn:country_code":"AM",
+    "gn:dem":1973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11108622,
+    "gn:latitude":40.45972,
+    "gn:longitude":45.05011,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Jrkhap\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Jrkhap\u2019an"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0580\u056d\u0561\u0583\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783519,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11108622
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"cb2421150c01285f6adf7da60bb323c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783519,
+            "locality_id":1293784455,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1293784455,
+    "wof:lastmodified":1537584418,
+    "wof:name":"Jrkhap'an",
+    "wof:parent_id":1108783519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05011,
+    40.45972,
+    45.05011,
+    40.45972
+],
+  "geometry": {"coordinates":[45.05011,40.45972],"type":"Point"}
+}

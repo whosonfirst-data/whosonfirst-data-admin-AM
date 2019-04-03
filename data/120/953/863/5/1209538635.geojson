@@ -1,0 +1,67 @@
+{
+  "id": 1209538635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66669,40.54449,44.66669,40.54449",
+    "geom:latitude":40.54449,
+    "geom:longitude":44.66669,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Myasnikyani Anvan Kolkhozi",
+    "gn:country_code":"AM",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11370342,
+    "gn:latitude":40.54449,
+    "gn:longitude":44.66669,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Myasnikyani Anvan Kolkhozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Myasnikyani Anvan Kolkhozi"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0575\u0561\u057d\u0576\u056b\u056f\u0575\u0561\u0576\u056b \u0561\u0576\u057e\u0561\u0576 \u056f\u0578\u056c\u056d\u0578\u0566\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11370342
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"dcbbd66b803135e40a086fab806ef19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209538635
+        }
+    ],
+    "wof:id":1209538635,
+    "wof:lastmodified":1537584518,
+    "wof:name":"Myasnikyani Anvan Kolkhozi",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66669,
+    40.54449,
+    44.66669,
+    40.54449
+],
+  "geometry": {"coordinates":[44.66669,40.54449],"type":"Point"}
+}

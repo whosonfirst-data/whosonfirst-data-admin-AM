@@ -1,0 +1,68 @@
+{
+  "id": 1260376283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30725,39.2314,46.30725,39.2314",
+    "geom:latitude":39.2314,
+    "geom:longitude":46.30725,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Achkhlu",
+    "gn:country_code":"AM",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389217,
+    "gn:latitude":39.2314,
+    "gn:longitude":46.30725,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Achkhlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784409,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389217,
+        "wk:page":"Achkhlu"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"649c1ed7abe8c5389adb566d8d7752d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784409,
+            "locality_id":1260376283,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1260376283,
+    "wof:lastmodified":1537486129,
+    "wof:name":"Achkhlu",
+    "wof:parent_id":1108784409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30725,
+    39.2314,
+    46.30725,
+    39.2314
+],
+  "geometry": {"coordinates":[46.30725,39.2314],"type":"Point"}
+}

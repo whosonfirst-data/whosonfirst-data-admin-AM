@@ -1,0 +1,79 @@
+{
+  "id": 1242696135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68082,40.55532,43.68082,40.55532",
+    "geom:latitude":40.55532,
+    "geom:longitude":43.68082,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jrap'i",
+    "gn:country_code":"AM",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616376,
+    "gn:latitude":40.55532,
+    "gn:longitude":43.68082,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Jrap\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Jrap\u2019i"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0580\u0561\u0583\u056b"
+    ],
+    "name:und_x_variant":[
+        "Dzhrapi",
+        "Chirpili",
+        "Nerkin Dzhrapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783427,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616376,
+        "wk:page":"Nerkin_Dzhrapi"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2f60504329368da1161b5449d3ff594a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783427,
+            "locality_id":1242696135,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1242696135,
+    "wof:lastmodified":1537584371,
+    "wof:name":"Jrap'i",
+    "wof:parent_id":1108783427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68082,
+    40.55532,
+    43.68082,
+    40.55532
+],
+  "geometry": {"coordinates":[43.68082,40.55532],"type":"Point"}
+}

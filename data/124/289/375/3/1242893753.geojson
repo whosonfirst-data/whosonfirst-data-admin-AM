@@ -1,0 +1,81 @@
+{
+  "id": 1242893753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20831,39.13611,46.20831,39.13611",
+    "geom:latitude":39.13611,
+    "geom:longitude":46.20831,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kat'narrat",
+    "gn:country_code":"AM",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174824,
+    "gn:latitude":39.13611,
+    "gn:longitude":46.20831,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kat\u2019narrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0569\u0576\u0561\u057c\u0561\u057f"
+    ],
+    "name:und_x_variant":[
+        "Katnarat",
+        "P\u2019ukhrut Mazra",
+        "Byl Mazra",
+        "Pirmazra",
+        "P\u2019ilmazra",
+        "Mazra",
+        "Pylmazra",
+        "Kantarat",
+        "Kat\u2019narrat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784393,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174824
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a090c1c8aad6c46c082ec519a4b96d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784393,
+            "locality_id":1242893753,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1242893753,
+    "wof:lastmodified":1537584345,
+    "wof:name":"Kat'narrat",
+    "wof:parent_id":1108784393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20831,
+    39.13611,
+    46.20831,
+    39.13611
+],
+  "geometry": {"coordinates":[46.20831,39.13611],"type":"Point"}
+}

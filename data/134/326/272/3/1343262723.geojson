@@ -1,0 +1,73 @@
+{
+  "id": 1343262723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83893,40.26111,45.83893,40.26111",
+    "geom:latitude":40.26111,
+    "geom:longitude":45.83893,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zarriver",
+    "gn:country_code":"AM",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11318523,
+    "gn:latitude":40.26111,
+    "gn:longitude":45.83893,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zarriver",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Zarriver"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0561\u057c\u056b\u057e\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784143,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11318523
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a4b186ebc00ae1b5d9315695757879ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784143,
+            "locality_id":1343262723,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1343262723,
+    "wof:lastmodified":1537584460,
+    "wof:name":"Zarriver",
+    "wof:parent_id":1108784143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83893,
+    40.26111,
+    45.83893,
+    40.26111
+],
+  "geometry": {"coordinates":[45.83893,40.26111],"type":"Point"}
+}

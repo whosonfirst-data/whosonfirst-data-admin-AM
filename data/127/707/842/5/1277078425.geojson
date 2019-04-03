@@ -1,0 +1,73 @@
+{
+  "id": 1277078425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4931,40.57788,44.4931,40.57788",
+    "geom:latitude":40.57788,
+    "geom:longitude":44.4931,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Narekats'i G.",
+    "gn:country_code":"AM",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320141,
+    "gn:latitude":40.57788,
+    "gn:longitude":44.4931,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Narekats\u2019i G.",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Narekats\u2019i G."
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0561\u0580\u0565\u056f\u0561\u0581\u056b \u0533."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782851,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320141
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1df1e380af301263b7489b1928150f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782851,
+            "locality_id":1277078425,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1277078425,
+    "wof:lastmodified":1537584465,
+    "wof:name":"Narekats'i G.",
+    "wof:parent_id":1108782851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4931,
+    40.57788,
+    44.4931,
+    40.57788
+],
+  "geometry": {"coordinates":[44.4931,40.57788],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309726401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96948,40.42792,43.96948,40.42792",
+    "geom:latitude":40.42792,
+    "geom:longitude":43.96948,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yeghants'",
+    "gn:country_code":"AM",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214750,
+    "gn:latitude":40.42792,
+    "gn:longitude":43.96948,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Yeghants\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Yeghants\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0572\u0561\u0576\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782943,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214750
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"510c2b569a04a38759d96fc136f8551e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782943,
+            "locality_id":1309726401,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1309726401,
+    "wof:lastmodified":1537584437,
+    "wof:name":"Yeghants'",
+    "wof:parent_id":1108782943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96948,
+    40.42792,
+    43.96948,
+    40.42792
+],
+  "geometry": {"coordinates":[43.96948,40.42792],"type":"Point"}
+}

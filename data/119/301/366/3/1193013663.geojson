@@ -1,0 +1,75 @@
+{
+  "id": 1193013663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60911,40.97211,44.60911,40.97211",
+    "geom:latitude":40.97211,
+    "geom:longitude":44.60911,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Arevatsag",
+    "gn:country_code":"AM",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616919,
+    "gn:latitude":40.97211,
+    "gn:longitude":44.60911,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Arevatsag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0561\u056e\u0561\u0563"
+    ],
+    "name:und_x_variant":[
+        "Kachagan",
+        "Arevatsag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783169,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616919,
+        "wk:page":"Arevatsag"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b8bfb18b0a66bab154b66fa52cdd8347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783169,
+            "locality_id":1193013663,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1193013663,
+    "wof:lastmodified":1537584390,
+    "wof:name":"Arevatsag",
+    "wof:parent_id":1108783169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60911,
+    40.97211,
+    44.60911,
+    40.97211
+],
+  "geometry": {"coordinates":[44.60911,40.97211],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276878817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02789,40.20831,45.02789,40.20831",
+    "geom:latitude":40.20831,
+    "geom:longitude":45.02789,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mets Shen",
+    "gn:country_code":"AM",
+    "gn:dem":2942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335929,
+    "gn:latitude":40.20831,
+    "gn:longitude":45.02789,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mets Shen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mets Shen"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056e \u0547\u0565\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335929
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"30ef07cbcebd4ecf54c552a305171334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276878817,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1276878817,
+    "wof:lastmodified":1537584490,
+    "wof:name":"Mets Shen",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02789,
+    40.20831,
+    45.02789,
+    40.20831
+],
+  "geometry": {"coordinates":[45.02789,40.20831],"type":"Point"}
+}

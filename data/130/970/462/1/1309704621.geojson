@@ -1,0 +1,67 @@
+{
+  "id": 1309704621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58417,40.78,44.58417,40.78",
+    "geom:latitude":40.78,
+    "geom:longitude":44.58417,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shaumyana",
+    "gn:country_code":"AM",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793642,
+    "gn:latitude":40.78,
+    "gn:longitude":44.58417,
+    "gn:modification_date":"1998-11-09",
+    "gn:name":"Shaumyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783677,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793642
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"e43b4e065f99d14903292052786aae9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783677,
+            "locality_id":1309704621,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1309704621,
+    "wof:lastmodified":1537073968,
+    "wof:name":"Shaumyana",
+    "wof:parent_id":1108783677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58417,
+    40.78,
+    44.58417,
+    40.78
+],
+  "geometry": {"coordinates":[44.58417,40.78],"type":"Point"}
+}

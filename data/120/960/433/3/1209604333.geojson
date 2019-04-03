@@ -1,0 +1,67 @@
+{
+  "id": 1209604333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26947,39.89728,45.26947,39.89728",
+    "geom:latitude":39.89728,
+    "geom:longitude":45.26947,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"K'araglukh",
+    "gn:country_code":"AM",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174874,
+    "gn:latitude":39.89728,
+    "gn:longitude":45.26947,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"K\u2019araglukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "K\u2019araglukh"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0580\u0561\u0563\u056c\u0578\u0582\u056d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174874
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"636e3ae4cffc0d465769f1edd3e581e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209604333
+        }
+    ],
+    "wof:id":1209604333,
+    "wof:lastmodified":1537584349,
+    "wof:name":"K'araglukh",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26947,
+    39.89728,
+    45.26947,
+    39.89728
+],
+  "geometry": {"coordinates":[45.26947,39.89728],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 890422139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48252,40.02779,44.48252,40.02779",
+    "geom:latitude":40.02779,
+    "geom:longitude":44.48252,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":2131,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0641\u064a\u062a\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0580\u0563\u0561\u057e\u0565\u057f"
+    ],
+    "name:aze_x_preferred":[
+        "Qarada\u011fl\u0131"
+    ],
+    "name:dut_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:eng_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:fre_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10e0\u10d2\u10d0\u10d5\u10d4\u10e2\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0580\u0563\u0561\u057e\u0565\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:may_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u06af\u0627\u0648\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "Mrgavet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0491\u0430\u0432\u0435\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Mrgavet"
+    ],
+    "qs:name":"Mrgavet",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191569,
+        1108784011,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":866137,
+        "gp:id":2214640,
+        "qs:id":1029244,
+        "wd:id":"Q2668107",
+        "wk:page":"Mrgavet"
+    },
+    "wof:country":"AM",
+    "wof:created":1469051429,
+    "wof:geomhash":"5b3ca5a7b67deed00ea6bfa59149adbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784011,
+            "locality_id":890422139,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":890422139,
+    "wof:lastmodified":1527727162,
+    "wof:name":"Mrgavet",
+    "wof:parent_id":1108784011,
+    "wof:placetype":"locality",
+    "wof:population":2131,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48252,
+    40.02779,
+    44.48252,
+    40.02779
+],
+  "geometry": {"coordinates":[44.48252,40.02779],"type":"Point"}
+}

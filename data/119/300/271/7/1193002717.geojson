@@ -1,0 +1,73 @@
+{
+  "id": 1193002717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17651,41.03192,45.17651,41.03192",
+    "geom:latitude":41.03192,
+    "geom:longitude":45.17651,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tsakageghi",
+    "gn:country_code":"AM",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11362831,
+    "gn:latitude":41.03192,
+    "gn:longitude":45.17651,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Tsakageghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tsakageghi"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u056f\u0561\u0563\u0565\u0572\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783267,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11362831
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"fbff2cbaf99aa418a9f625e5e278bbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783267,
+            "locality_id":1193002717,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1193002717,
+    "wof:lastmodified":1537584508,
+    "wof:name":"Tsakageghi",
+    "wof:parent_id":1108783267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17651,
+    41.03192,
+    45.17651,
+    41.03192
+],
+  "geometry": {"coordinates":[45.17651,41.03192],"type":"Point"}
+}

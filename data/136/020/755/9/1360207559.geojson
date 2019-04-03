@@ -1,0 +1,74 @@
+{
+  "id": 1360207559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.785,40.21278,44.785,40.21278",
+    "geom:latitude":40.21278,
+    "geom:longitude":44.785,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Saranist",
+    "gn:cc2":"AM",
+    "gn:country_code":"AM",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":616264,
+    "gn:latitude":40.21278,
+    "gn:longitude":44.785,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Saranist",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Saramist",
+        "Tutiya",
+        "Saranist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784323,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616264,
+        "wk:page":"Saranist"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5eac7e8564d30871c5a3c71695d45774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784323,
+            "locality_id":1360207559,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1360207559,
+    "wof:lastmodified":1537584368,
+    "wof:name":"Saranist",
+    "wof:parent_id":1108784323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.785,
+    40.21278,
+    44.785,
+    40.21278
+],
+  "geometry": {"coordinates":[44.785,40.21278],"type":"Point"}
+}

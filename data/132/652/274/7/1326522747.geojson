@@ -1,0 +1,73 @@
+{
+  "id": 1326522747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53748,40.93189,44.53748,40.93189",
+    "geom:latitude":40.93189,
+    "geom:longitude":44.53748,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Arzakan",
+    "gn:country_code":"AM",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320967,
+    "gn:latitude":40.93189,
+    "gn:longitude":44.53748,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Arzakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arzakan"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0566\u0561\u056f\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783225,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320967
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ae73b37f9a37de441c7a6cbda6597558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783225,
+            "locality_id":1326522747,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1326522747,
+    "wof:lastmodified":1537584469,
+    "wof:name":"Arzakan",
+    "wof:parent_id":1108783225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53748,
+    40.93189,
+    44.53748,
+    40.93189
+],
+  "geometry": {"coordinates":[44.53748,40.93189],"type":"Point"}
+}

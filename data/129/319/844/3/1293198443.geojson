@@ -1,0 +1,77 @@
+{
+  "id": 1293198443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27882,41.05704,44.27882,41.05704",
+    "geom:latitude":41.05704,
+    "geom:longitude":44.27882,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Novosel'tsovo",
+    "gn:country_code":"AM",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616334,
+    "gn:latitude":41.05704,
+    "gn:longitude":44.27882,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Novosel\u2019tsovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Novoselts\u2019ovo"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0578\u057e\u0578\u057d\u0565\u056c\u0581\u0578\u057e\u0578"
+    ],
+    "name:und_x_variant":[
+        "Novosel\u2019tsevo",
+        "Novosel\u2019tsovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783083,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616334
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"44cd653fcad8e87e6f3288ebea08edda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783083,
+            "locality_id":1293198443,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1293198443,
+    "wof:lastmodified":1537584370,
+    "wof:name":"Novosel'tsovo",
+    "wof:parent_id":1108783083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27882,
+    41.05704,
+    44.27882,
+    41.05704
+],
+  "geometry": {"coordinates":[44.27882,41.05704],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343941635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59448,39.76392,45.59448,39.76392",
+    "geom:latitude":39.76392,
+    "geom:longitude":45.59448,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aghnjadzor",
+    "gn:country_code":"AM",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646237,
+    "gn:latitude":39.76392,
+    "gn:longitude":45.59448,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Aghnjadzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Aghnjadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0572\u0576\u057b\u0561\u0571\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646237
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8509bb969e43cb5907566b03a86e531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1343941635,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1343941635,
+    "wof:lastmodified":1537584404,
+    "wof:name":"Aghnjadzor",
+    "wof:parent_id":85668123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59448,
+    39.76392,
+    45.59448,
+    39.76392
+],
+  "geometry": {"coordinates":[45.59448,39.76392],"type":"Point"}
+}

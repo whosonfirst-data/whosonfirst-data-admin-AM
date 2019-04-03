@@ -1,0 +1,71 @@
+{
+  "id": 1360307653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91669,41.10687,44.91669,41.10687",
+    "geom:latitude":41.10687,
+    "geom:longitude":44.91669,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yeghegnut",
+    "gn:country_code":"AM",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323033,
+    "gn:latitude":41.10687,
+    "gn:longitude":44.91669,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Yeghegnut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Yeghegnut"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0572\u0565\u0563\u0576\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323033
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"29c03f32fa1f0812729b3371b0226d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1360307653,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1360307653,
+    "wof:lastmodified":1537584474,
+    "wof:name":"Yeghegnut",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91669,
+    41.10687,
+    44.91669,
+    41.10687
+],
+  "geometry": {"coordinates":[44.91669,41.10687],"type":"Point"}
+}

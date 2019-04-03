@@ -1,0 +1,67 @@
+{
+  "id": 1360199821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42062,40.4269,44.42062,40.4269",
+    "geom:latitude":40.4269,
+    "geom:longitude":44.42062,
+    "gn:asciiname":"Arayi Hoghamaser",
+    "gn:country_code":"AM",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504944,
+    "gn:latitude":40.4269,
+    "gn:longitude":44.42062,
+    "gn:modification_date":"2013-03-29",
+    "gn:name":"Arayi Hoghamaser",
+    "gn:population":500,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504944
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"324d7eb7aa6d96d257337ebba0ef1ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1360199821,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1360199821,
+    "wof:lastmodified":1536780580,
+    "wof:name":"Arayi Hoghamaser",
+    "wof:parent_id":85668083,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42062,
+    40.4269,
+    44.42062,
+    40.4269
+],
+  "geometry": {"coordinates":[44.42062,40.4269],"type":"Point"}
+}

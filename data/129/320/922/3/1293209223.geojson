@@ -1,0 +1,73 @@
+{
+  "id": 1293209223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91809,39.92371,44.91809,39.92371",
+    "geom:latitude":39.92371,
+    "geom:longitude":44.91809,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lchi",
+    "gn:country_code":"AM",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225637,
+    "gn:latitude":39.92371,
+    "gn:longitude":44.91809,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Lchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lchi"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0573\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783873,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225637
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c1c446d7fcd564127f8aac654a59fc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783873,
+            "locality_id":1293209223,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1293209223,
+    "wof:lastmodified":1537584441,
+    "wof:name":"Lchi",
+    "wof:parent_id":1108783873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91809,
+    39.92371,
+    44.91809,
+    39.92371
+],
+  "geometry": {"coordinates":[44.91809,39.92371],"type":"Point"}
+}

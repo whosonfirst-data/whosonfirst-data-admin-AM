@@ -1,0 +1,73 @@
+{
+  "id": 1292895615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3667,40.88068,45.3667,40.88068",
+    "geom:latitude":40.88068,
+    "geom:longitude":45.3667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"K'oshak'ar",
+    "gn:country_code":"AM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339803,
+    "gn:latitude":40.88068,
+    "gn:longitude":45.3667,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"K\u2019oshak\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "K\u2019oshak\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0578\u0577\u0561\u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783337,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339803
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"22b7d75aadff676cf439b9e7b633524e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783337,
+            "locality_id":1292895615,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1292895615,
+    "wof:lastmodified":1537584498,
+    "wof:name":"K'oshak'ar",
+    "wof:parent_id":1108783337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3667,
+    40.88068,
+    45.3667,
+    40.88068
+],
+  "geometry": {"coordinates":[45.3667,40.88068],"type":"Point"}
+}

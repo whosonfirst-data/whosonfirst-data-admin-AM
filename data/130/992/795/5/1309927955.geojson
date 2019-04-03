@@ -1,0 +1,71 @@
+{
+  "id": 1309927955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71808,40.80292,44.71808,40.80292",
+    "geom:latitude":40.80292,
+    "geom:longitude":44.71808,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kankrrut",
+    "gn:country_code":"AM",
+    "gn:dem":2308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320785,
+    "gn:latitude":40.80292,
+    "gn:longitude":44.71808,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kankrrut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kankrrut"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0576\u056f\u057c\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320785
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f0af683849e636d905ae21ffb741bb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1309927955,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1309927955,
+    "wof:lastmodified":1537584467,
+    "wof:name":"Kankrrut",
+    "wof:parent_id":85668109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71808,
+    40.80292,
+    44.71808,
+    40.80292
+],
+  "geometry": {"coordinates":[44.71808,40.80292],"type":"Point"}
+}

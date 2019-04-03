@@ -1,0 +1,73 @@
+{
+  "id": 1360182293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.37372,39.57788,46.37372,39.57788",
+    "geom:latitude":39.57788,
+    "geom:longitude":46.37372,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khach'i Hogh",
+    "gn:country_code":"AM",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11270712,
+    "gn:latitude":39.57788,
+    "gn:longitude":46.37372,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Khach\u2019i Hogh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Khach\u2019i Hogh"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u056b \u0540\u0578\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783481,
+        85632717,
+        85668621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11270712
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"cb3e56a31241912f50785cce82e69927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783481,
+            "locality_id":1360182293,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1360182293,
+    "wof:lastmodified":1537584449,
+    "wof:name":"Khach'i Hogh",
+    "wof:parent_id":1108783481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.37372,
+    39.57788,
+    46.37372,
+    39.57788
+],
+  "geometry": {"coordinates":[46.37372,39.57788],"type":"Point"}
+}

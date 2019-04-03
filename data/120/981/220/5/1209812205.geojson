@@ -1,0 +1,75 @@
+{
+  "id": 1209812205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85748,40.94874,43.85748,40.94874",
+    "geom:latitude":40.94874,
+    "geom:longitude":43.85748,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ts'oghamarg",
+    "gn:country_code":"AM",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616140,
+    "gn:latitude":40.94874,
+    "gn:longitude":43.85748,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ts\u2019oghamarg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0551\u0578\u0572\u0561\u0574\u0561\u0580\u0563"
+    ],
+    "name:und_x_variant":[
+        "Chizikhlar",
+        "Tsokhamarg",
+        "Ts\u2019oghamarg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782767,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616140
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"d270e2df6332ff7457d2ca1e11c1a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782767,
+            "locality_id":1209812205,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1209812205,
+    "wof:lastmodified":1537584363,
+    "wof:name":"Ts'oghamarg",
+    "wof:parent_id":1108782767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85748,
+    40.94874,
+    43.85748,
+    40.94874
+],
+  "geometry": {"coordinates":[43.85748,40.94874],"type":"Point"}
+}

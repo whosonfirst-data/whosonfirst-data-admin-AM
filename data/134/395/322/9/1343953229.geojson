@@ -1,0 +1,72 @@
+{
+  "id": 1343953229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40888,40.75511,44.40888,40.75511",
+    "geom:latitude":40.75511,
+    "geom:longitude":44.40888,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Verin-Kilisa",
+    "gn:country_code":"AM",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616089,
+    "gn:latitude":40.75511,
+    "gn:longitude":44.40888,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Verin-Kilisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilisa",
+        "Verin-Kilisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783571,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616089,
+        "wk:page":"Kilisa"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"48047c7c2e1358f21cd0b6f0b972d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783571,
+            "locality_id":1343953229,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1343953229,
+    "wof:lastmodified":1537584361,
+    "wof:name":"Verin-Kilisa",
+    "wof:parent_id":1108783571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40888,
+    40.75511,
+    44.40888,
+    40.75511
+],
+  "geometry": {"coordinates":[44.40888,40.75511],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 890438461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46934,40.03712,44.46934,40.03712",
+    "geom:latitude":40.03712,
+    "geom:longitude":44.46934,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":1041,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u0587\u0561\u0562\u0578\u0582\u0575\u0580"
+    ],
+    "name:aze_x_preferred":[
+        "Xarratl\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0440\u044d\u0432\u0430\u0431\u0443\u0439\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:eng_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:fre_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10d4\u10d5\u10d0\u10d1\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0587\u0561\u0562\u0578\u0582\u0575\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:may_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0631\u0648\u0627\u0628\u0648\u06cc\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0430\u0431\u0443\u0439\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Arevabuyr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0430\u0431\u0443\u0439\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Arevabuyr"
+    ],
+    "qs:name":"Arevabuyr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191569,
+        1108783943,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":866138,
+        "gp:id":2214636,
+        "qs:id":1029247,
+        "wd:id":"Q2630431",
+        "wk:page":"Arevabuyr"
+    },
+    "wof:country":"AM",
+    "wof:created":1469052195,
+    "wof:geomhash":"aecdbdfe6ab4eda17eccc6817735125c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783943,
+            "locality_id":890438461,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":890438461,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Arevabuyr",
+    "wof:parent_id":1108783943,
+    "wof:placetype":"locality",
+    "wof:population":1041,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46934,
+    40.03712,
+    44.46934,
+    40.03712
+],
+  "geometry": {"coordinates":[44.46934,40.03712],"type":"Point"}
+}

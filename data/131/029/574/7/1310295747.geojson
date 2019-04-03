@@ -1,0 +1,73 @@
+{
+  "id": 1310295747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55292,39.20709,46.55292,39.20709",
+    "geom:latitude":39.20709,
+    "geom:longitude":46.55292,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kech'ut",
+    "gn:country_code":"AM",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329861,
+    "gn:latitude":39.20709,
+    "gn:longitude":46.55292,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kech\u2019ut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kech\u2019ut"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0565\u0579\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784255,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329861
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"eb9fd0c6ddaab0038b7c9bc60f793982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784255,
+            "locality_id":1310295747,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1310295747,
+    "wof:lastmodified":1537584484,
+    "wof:name":"Kech'ut",
+    "wof:parent_id":1108784255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55292,
+    39.20709,
+    46.55292,
+    39.20709
+],
+  "geometry": {"coordinates":[46.55292,39.20709],"type":"Point"}
+}

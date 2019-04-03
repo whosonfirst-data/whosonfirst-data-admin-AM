@@ -1,0 +1,67 @@
+{
+  "id": 1310227349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62139,41.01917,44.62139,41.01917",
+    "geom:latitude":41.01917,
+    "geom:longitude":44.62139,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Avgeat",
+    "gn:country_code":"AM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800441,
+    "gn:latitude":41.01917,
+    "gn:longitude":44.62139,
+    "gn:modification_date":"1998-11-09",
+    "gn:name":"Avgeat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783497,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800441
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f0e47726b1dfc28a2453f285143cce4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783497,
+            "locality_id":1310227349,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1310227349,
+    "wof:lastmodified":1536819913,
+    "wof:name":"Avgeat",
+    "wof:parent_id":1108783497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62139000000001,
+    41.01917,
+    44.62139000000001,
+    41.01917
+],
+  "geometry": {"coordinates":[44.62139000000001,41.01917],"type":"Point"}
+}

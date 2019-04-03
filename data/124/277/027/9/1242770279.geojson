@@ -1,0 +1,73 @@
+{
+  "id": 1242770279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57648,41.1181,44.57648,41.1181",
+    "geom:latitude":41.1181,
+    "geom:longitude":44.57648,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Payt'akn",
+    "gn:country_code":"AM",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363518,
+    "gn:latitude":41.1181,
+    "gn:longitude":44.57648,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Payt\u2019akn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Payt\u2019akn"
+    ],
+    "name:hye_x_variant":[
+        "\u054a\u0561\u0575\u0569\u0561\u056f\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783193,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363518
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b27fc0c846bb436616f54050aa7608d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783193,
+            "locality_id":1242770279,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1242770279,
+    "wof:lastmodified":1537584511,
+    "wof:name":"Payt'akn",
+    "wof:parent_id":1108783193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57648,
+    41.1181,
+    44.57648,
+    41.1181
+],
+  "geometry": {"coordinates":[44.57648,41.1181],"type":"Point"}
+}

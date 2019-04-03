@@ -1,0 +1,73 @@
+{
+  "id": 1360099261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3681,40.58209,44.3681,40.58209",
+    "geom:latitude":40.58209,
+    "geom:longitude":44.3681,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsakk'ar",
+    "gn:country_code":"AM",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320048,
+    "gn:latitude":40.58209,
+    "gn:longitude":44.3681,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tsakk\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tsakk\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u056f\u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782835,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320048
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"adf9daa47d8b473078d15cd8a54a1f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782835,
+            "locality_id":1360099261,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1360099261,
+    "wof:lastmodified":1537584465,
+    "wof:name":"Tsakk'ar",
+    "wof:parent_id":1108782835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3681,
+    40.58209,
+    44.3681,
+    40.58209
+],
+  "geometry": {"coordinates":[44.3681,40.58209],"type":"Point"}
+}

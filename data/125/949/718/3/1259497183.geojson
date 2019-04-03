@@ -1,0 +1,71 @@
+{
+  "id": 1259497183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08612,40.42389,44.08612,40.42389",
+    "geom:latitude":40.42389,
+    "geom:longitude":44.08612,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mihravan",
+    "gn:country_code":"AM",
+    "gn:dem":2716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129546,
+    "gn:latitude":40.42389,
+    "gn:longitude":44.08612,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Mihravan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mihravan"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u0570\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129546
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b0a6e2df4c2e7a1bfbf652fb236ffaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1259497183,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1259497183,
+    "wof:lastmodified":1537584430,
+    "wof:name":"Mihravan",
+    "wof:parent_id":85668083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08612,
+    40.42389,
+    44.08612,
+    40.42389
+],
+  "geometry": {"coordinates":[44.08612,40.42389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209100759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78477,40.7265,43.78477,40.7265",
+    "geom:latitude":40.7265,
+    "geom:longitude":43.78477,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Getk'",
+    "gn:country_code":"AM",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616664,
+    "gn:latitude":40.7265,
+    "gn:longitude":43.78477,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Getk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Getk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0565\u057f\u0584"
+    ],
+    "name:und_x_variant":[
+        "Dagarli",
+        "Getk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616664,
+        "wk:page":"Getk"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"541e4934a8d97845b009484cb177241c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209100759
+        }
+    ],
+    "wof:id":1209100759,
+    "wof:lastmodified":1537584381,
+    "wof:name":"Getk'",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78477,
+    40.7265,
+    43.78477,
+    40.7265
+],
+  "geometry": {"coordinates":[43.78477,40.7265],"type":"Point"}
+}

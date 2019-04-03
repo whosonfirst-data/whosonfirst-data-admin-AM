@@ -1,0 +1,78 @@
+{
+  "id": 1310319147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81671,40.39447,43.81671,40.39447",
+    "geom:latitude":40.39447,
+    "geom:longitude":43.81671,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"T'at'ul",
+    "gn:country_code":"AM",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616925,
+    "gn:latitude":40.39447,
+    "gn:longitude":43.81671,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"T\u2019at\u2019ul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "T\u2019at\u2019ul"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u0569\u0578\u0582\u056c"
+    ],
+    "name:und_x_variant":[
+        "Pirmalak",
+        "Areg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782951,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616925,
+        "wk:page":"Tatul%2C_Armenia"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ebd9db2f438c0b839afa5806a912cbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782951,
+            "locality_id":1310319147,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1310319147,
+    "wof:lastmodified":1537584390,
+    "wof:name":"T'at'ul",
+    "wof:parent_id":1108782951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81671,
+    40.39447,
+    43.81671,
+    40.39447
+],
+  "geometry": {"coordinates":[43.81671,40.39447],"type":"Point"}
+}

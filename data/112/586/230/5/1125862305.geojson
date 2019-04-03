@@ -1,0 +1,133 @@
+{
+  "id": 1125862305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51889,40.01604,44.51889,40.01604",
+    "geom:latitude":40.01604,
+    "geom:longitude":44.51889,
+    "gn:gn_country":"AM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1228,
+    "gn:population":1228,
+    "iso:country":"AM",
+    "lbl:latitude":40.01604,
+    "lbl:longitude":44.51889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0631\u0627\u0641\u0627\u0646\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0575\u0578\u0582\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Qoylasar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0411\u044e\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Byuravan"
+    ],
+    "name:eng_x_preferred":[
+        "Byuravan"
+    ],
+    "name:fre_x_preferred":[
+        "Byuravan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d8\u10e3\u10e0\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "Byuravan"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0575\u0578\u0582\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Byuravan"
+    ],
+    "name:may_x_preferred":[
+        "Byuravan"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0648\u0631\u0627\u0648\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Byuravan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bambakavan"
+    ],
+    "name:vie_x_preferred":[
+        "Byuravan"
+    ],
+    "qs_pg:aaroncc":"AM",
+    "qs_pg:gn_country":"AM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":616822,
+    "qs_pg:gn_pop":1228,
+    "qs_pg:name":"Byuravan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":126250,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783999,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616822,
+        "qs_pg:id":126250,
+        "wd:id":"Q2631973"
+    },
+    "wof:country":"AM",
+    "wof:created":1497293879,
+    "wof:geomhash":"fd6b170c517cde542d9f8db98b988d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783999,
+            "locality_id":1125862305,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1125862305,
+    "wof:lastmodified":1513888610,
+    "wof:name":"Byuravan",
+    "wof:parent_id":1108783999,
+    "wof:placetype":"locality",
+    "wof:population":1228,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51889,
+    40.01604,
+    44.51889,
+    40.01604
+],
+  "geometry": {"coordinates":[44.51889,40.01604],"type":"Point"}
+}

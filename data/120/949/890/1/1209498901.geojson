@@ -1,0 +1,67 @@
+{
+  "id": 1209498901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20288,39.73328,45.20288,39.73328",
+    "geom:latitude":39.73328,
+    "geom:longitude":45.20288,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tstsakhach'",
+    "gn:country_code":"AM",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10526171,
+    "gn:latitude":39.73328,
+    "gn:longitude":45.20288,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Tstsakhach\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tstsakhach\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u056e\u0561\u056d\u0561\u0579"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10526171
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c1d24c98e0c5cae5c4b9a445cf7c72d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209498901
+        }
+    ],
+    "wof:id":1209498901,
+    "wof:lastmodified":1537584401,
+    "wof:name":"Tstsakhach'",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20288,
+    39.73328,
+    45.20288,
+    39.73328
+],
+  "geometry": {"coordinates":[45.20288,39.73328],"type":"Point"}
+}

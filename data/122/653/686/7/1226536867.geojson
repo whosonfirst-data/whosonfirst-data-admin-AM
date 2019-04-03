@@ -1,0 +1,73 @@
+{
+  "id": 1226536867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77649,41.07788,43.77649,41.07788",
+    "geom:latitude":41.07788,
+    "geom:longitude":43.77649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Berdsar",
+    "gn:country_code":"AM",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11277808,
+    "gn:latitude":41.07788,
+    "gn:longitude":43.77649,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Berdsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Berdsar"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0565\u0580\u0564\u057d\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782593,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11277808
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1a5b95b57945c83d6b4ae0e7afbbeacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782593,
+            "locality_id":1226536867,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1226536867,
+    "wof:lastmodified":1537584450,
+    "wof:name":"Berdsar",
+    "wof:parent_id":1108782593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77649,
+    41.07788,
+    43.77649,
+    41.07788
+],
+  "geometry": {"coordinates":[43.77649,41.07788],"type":"Point"}
+}

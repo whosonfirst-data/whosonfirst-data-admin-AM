@@ -1,0 +1,87 @@
+{
+  "id": 1326651347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85843,41.0377,43.85843,41.0377",
+    "geom:latitude":41.0377,
+    "geom:longitude":43.85843,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ashots'k'",
+    "gn:country_code":"AM",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616878,
+    "gn:latitude":41.0377,
+    "gn:longitude":43.85843,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Ashots\u2019k\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ashots'k'"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u0578\u0581\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043a\u0430\u0441\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kyzyl\u201d-koch\u201d",
+        "Kzyl-Koch",
+        "Verin-Gukasyan",
+        "Kyzylkach",
+        "Qizilqach",
+        "Kizilkoch",
+        "Ghukasyan",
+        "Gukasyan",
+        "Ashots\u2019k\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782757,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616878
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"bf6c47783f70aab090261918ab220396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782757,
+            "locality_id":1326651347,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1326651347,
+    "wof:lastmodified":1537584388,
+    "wof:name":"Ashots'k'",
+    "wof:parent_id":1108782757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85843,
+    41.0377,
+    43.85843,
+    41.0377
+],
+  "geometry": {"coordinates":[43.85843,41.0377],"type":"Point"}
+}

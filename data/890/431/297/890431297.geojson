@@ -1,0 +1,108 @@
+{
+  "id": 890431297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96847,40.77614,44.96847,40.77614",
+    "geom:latitude":40.77614,
+    "geom:longitude":44.96847,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":3370,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0540\u0561\u0572\u0561\u0580\u056e\u056b\u0576"
+    ],
+    "name:dut_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:eng_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:fre_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e6\u10d0\u10e0\u10ea\u10d8\u10dc\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0572\u0561\u0580\u056e\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:may_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:per_x_preferred":[
+        "\u0647\u0627\u063a\u0627\u0631\u062a\u0633\u06cc\u0646\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Haghartsin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0430\u0440\u0446\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Dzharkhedzh"
+    ],
+    "name:vie_x_preferred":[
+        "Haghartsin"
+    ],
+    "qs:name":"Haghartsin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784055,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616634,
+        "qs:id":275143,
+        "wd:id":"Q2536499"
+    },
+    "wof:country":"AM",
+    "wof:created":1469051886,
+    "wof:geomhash":"e6b03b406370f1665be8a017e16ca062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784055,
+            "locality_id":890431297,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":890431297,
+    "wof:lastmodified":1513888621,
+    "wof:name":"Haghartsin",
+    "wof:parent_id":1108784055,
+    "wof:placetype":"locality",
+    "wof:population":3370,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96847,
+    40.77614,
+    44.96847,
+    40.77614
+],
+  "geometry": {"coordinates":[44.96847,40.77614],"type":"Point"}
+}

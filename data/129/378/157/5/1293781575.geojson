@@ -1,0 +1,73 @@
+{
+  "id": 1293781575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73053,40.94452,44.73053,40.94452",
+    "geom:latitude":40.94452,
+    "geom:longitude":44.73053,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chgnavori",
+    "gn:country_code":"AM",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11321169,
+    "gn:latitude":40.94452,
+    "gn:longitude":44.73053,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Chgnavori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Chgnavori"
+    ],
+    "name:hye_x_variant":[
+        "\u0543\u0563\u0576\u0561\u057e\u0578\u0580\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783213,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11321169
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"68c3aff44be4da05851e82fbd6d72835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783213,
+            "locality_id":1293781575,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1293781575,
+    "wof:lastmodified":1537584470,
+    "wof:name":"Chgnavori",
+    "wof:parent_id":1108783213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73053,
+    40.94452,
+    44.73053,
+    40.94452
+],
+  "geometry": {"coordinates":[44.73053,40.94452],"type":"Point"}
+}

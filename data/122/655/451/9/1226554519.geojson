@@ -1,0 +1,73 @@
+{
+  "id": 1226554519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00293,39.98328,45.00293,39.98328",
+    "geom:latitude":39.98328,
+    "geom:longitude":45.00293,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lich",
+    "gn:country_code":"AM",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426575,
+    "gn:latitude":39.98328,
+    "gn:longitude":45.00293,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Lich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lich"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u056b\u0573"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784063,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426575
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"26d75ae214b355906cf38c43263cbf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784063,
+            "locality_id":1226554519,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1226554519,
+    "wof:lastmodified":1537584398,
+    "wof:name":"Lich",
+    "wof:parent_id":1108784063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00293,
+    39.98328,
+    45.00293,
+    39.98328
+],
+  "geometry": {"coordinates":[45.00293,39.98328],"type":"Point"}
+}

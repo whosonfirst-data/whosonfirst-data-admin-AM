@@ -1,0 +1,73 @@
+{
+  "id": 1242863353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32788,39.64032,45.32788,39.64032",
+    "geom:latitude":39.64032,
+    "geom:longitude":45.32788,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Eloyi K'ar",
+    "gn:country_code":"AM",
+    "gn:dem":2475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643489,
+    "gn:latitude":39.64032,
+    "gn:longitude":45.32788,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Eloyi K\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Eloyi K\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u0537\u056c\u0578\u0575\u056b \u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783525,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643489
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"c3b5c731477770943d75052f4aa10e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783525,
+            "locality_id":1242863353,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1242863353,
+    "wof:lastmodified":1537584403,
+    "wof:name":"Eloyi K'ar",
+    "wof:parent_id":1108783525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32788,
+    39.64032,
+    45.32788,
+    39.64032
+],
+  "geometry": {"coordinates":[45.32788,39.64032],"type":"Point"}
+}

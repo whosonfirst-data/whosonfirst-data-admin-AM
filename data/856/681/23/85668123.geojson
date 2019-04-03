@@ -1,0 +1,370 @@
+{
+  "id": 85668123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.250202,
+    "geom:area_square_m":2378605962.373631,
+    "geom:bbox":"45.0749990395,39.4875133265,45.8091774442,39.9990575224",
+    "geom:latitude":39.751157,
+    "geom:longitude":45.441486,
+    "gn:id":"",
+    "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Vayots Dzor Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":39.739472,
+    "lbl:longitude":45.448387,
+    "mps:latitude":39.739472,
+    "mps:longitude":45.448387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u064a\u0648\u062a\u0633\u200c\u062c\u0648\u0631"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u0575\u0578\u0581 \u0571\u0578\u0580\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259l\u0259y\u0259z mahal\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u0437 \u0412\u0430\u0451\u0446-\u0414\u0437\u043e\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09af\u09bc\u09cb\u09a4 \u099c\u09c1\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0439\u043e\u0446 \u0414\u0437\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Vaiots Tzor"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u7d04\u8328\u4f50\u723e\u7701"
+    ],
+    "name:cze_x_preferred":[
+        "Vajoc Dzor"
+    ],
+    "name:dan_x_preferred":[
+        "Vayots Dzor Region"
+    ],
+    "name:deu_x_preferred":[
+        "Wajoz Dsor"
+    ],
+    "name:dut_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:eng_x_preferred":[
+        "Vayots' Dzor"
+    ],
+    "name:eng_x_variant":[
+        "Vayots Dzor Province",
+        "Vayots Dzor",
+        "Vayoc'Jor",
+        "Vayots Dzor Region"
+    ],
+    "name:epo_x_preferred":[
+        "Vajoco-Dzoro"
+    ],
+    "name:est_x_preferred":[
+        "Vajotsh Dzori maakond"
+    ],
+    "name:fin_x_preferred":[
+        "Vajots' Dzor"
+    ],
+    "name:fre_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10d8\u10dd\u10ea\u10eb\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Wajoz Dsor"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03ac\u03b3\u03b9\u03bf\u03c4\u03c2 \u039d\u03c4\u03b6\u03bf\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0aaf\u0acb\u0a9d \u0aa1\u0ac0\u0a9d\u0acb\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u092f\u094b\u0924\u094d\u0938 \u0926\u094d\u091c\u093c\u094b\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Vajots Dzor"
+    ],
+    "name:hun_x_preferred":[
+        "Vajoc Dzor tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0575\u0578\u0581 \u0541\u0578\u0580\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0575\u0578\u0581 \u0541\u0578\u0580",
+        "Vayots\u2019 Dzori Marz",
+        "\u054e\u0561\u0575\u0578\u0581 \u0541\u0578\u0580\u056b \u0544\u0561\u0580\u0566"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Vayots Dzor"
+    ],
+    "name:ita_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30e8\u30c4\u30fb\u30be\u30eb\u5730\u65b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0caf\u0ccb\u0c9f\u0ccd\u0cb8\u0ccd \u0ca1\u0cbf\u0c9c\u0ccb\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc694\uce20\uc870\ub974 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Vajotdzoras re\u0123ions"
+    ],
+    "name:lit_x_preferred":[
+        "Vajocdzoro sritis"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0430\u0458\u043e\u0446 \u0405\u043e\u0440"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u092f\u094b\u091f\u094d\u0938 \u0921\u094b\u091c\u094b\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Vayots Dzor"
+    ],
+    "name:mon_x_preferred":[
+        "\u0412\u0430\u0439\u043e\u0446\u0437\u043e\u0440 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Vayots Dzor S\u00e9ng"
+    ],
+    "name:nep_x_preferred":[
+        "\u0935\u093e\u092f\u094b\u0924\u094d\u0938 \u0926\u094d\u091c\u093c\u094b\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nob_x_preferred":[
+        "Vajots Dzor"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0430\u0439\u043e\u0446 \u0414\u0437\u043e\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a3e\u0a07\u0a13\u0a24 \u0a1c\u0a4b\u0a30 \u0a38\u0a42\u0a2c\u0a3e"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u06cc\u0648\u062a\u0633\u200c\u062c\u0648\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0648\u0627\u06cc\u0648\u062a\u0633 \u062c\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Wajoc Dzor"
+    ],
+    "name:por_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Vayots Dzor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043e\u0446\u0434\u0437\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Vayots Dzor Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dba\u0ddd\u0da7\u0dca\u0dc3\u0dca \u0da9\u0dd2\u0dc3\u0ddc\u0dbb\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Vayots' Dzor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0458\u043e\u0446 \u040f\u043e\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Propinsi Vayots Dzor"
+    ],
+    "name:swe_x_preferred":[
+        "Vajots Dzor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0baf\u0bcb\u0b9f\u0bcd\u0bb8\u0bcd  \u0b9f\u0bb8\u0bcd\u0bb5\u0bcd\u0bb0\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c2f\u0c4b\u0c1f\u0c4d\u0c38\u0c4d \u0c21\u0c3f\u0c1c\u0c4b\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Vayots Dzor"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e22\u0e17 \u0e14\u0e0b\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043e\u0446-\u0414\u0437\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Vayots\u02bc Dzor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06cc\u0648\u062a\u0633 \u062c\u0648\u0631 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:war_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "name:wel_x_preferred":[
+        "Vayots Dzor"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"ARM",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"ARM-1733",
+    "ne:adm1_code":"ARM-1733",
+    "ne:admin":"Armenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AM.VD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1733",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AM10",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Armenia",
+    "ne:gn_a1_code":"AM.10",
+    "ne:gn_id":"409315",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Vayots' Dzori Marz",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AM10",
+    "ne:gns_id":"330434",
+    "ne:gns_lang":"hye",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vayots' Dzor",
+    "ne:gns_region":"",
+    "ne:gu_a3":"ARM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AM-",
+    "ne:iso_a2":"AM",
+    "ne:labelrank":"9",
+    "ne:latitude":"39.71830000000",
+    "ne:longitude":"45.44210000000",
+    "ne:mapcolor13":10,
+    "ne:mapcolor9":2,
+    "ne:name":"Vayots Dzor",
+    "ne:name_alt":"Vayoc'Jor",
+    "ne:name_len":11,
+    "ne:name_local":"\u054e\u0561\u0575\u0578\u0581 \u0541\u0578\u0580|\u0412\u0430\u0439\u043e\u0446 \u0414\u0437\u043e\u0440",
+    "ne:note":"",
+    "ne:postal":"VD",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"ARM",
+    "ne:sub_code":"",
+    "ne:type":"Marz",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070205,
+    "ne:woe_label":"Vayots' Dzor, AM, Armenia",
+    "ne:woe_name":"Vayots Dzor",
+    "qs:a0":"Armenia",
+    "qs:a0_lc":"AM",
+    "qs:a1":"Vayots Dzor",
+    "qs:a1_lc":"ARM-1733",
+    "qs:adm0":"Armenia",
+    "qs:adm0_a3":"ARM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-10-10",
+    "statoids:area_km":"2,406",
+    "statoids:area_mi":"929",
+    "statoids:as_of_date":"2001-10-10",
+    "statoids:capital":"Yegheknadzor",
+    "statoids:country":"AM",
+    "statoids:gec":"AM10",
+    "statoids:hasc":"AM.VD",
+    "statoids:iso":"VD",
+    "statoids:name":"Vayoc'Jor",
+    "statoids:population":"53230",
+    "statoids:timezone":"+4",
+    "statoids:type":"province",
+    "wof:belongsto":[
+        102191569,
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AM10",
+        "gn:id":409315,
+        "gp:id":20070205,
+        "hasc:id":"AM.VD",
+        "iso:id":"AM-VD",
+        "qs:id":1064704,
+        "wd:id":"Q200124"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"01a6ade84eb85eebdc6512c782677818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":85668123,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "hye"
+    ],
+    "wof:lang_x_spoken":[
+        "hye"
+    ],
+    "wof:lastmodified":1553550293,
+    "wof:name":"Vayots Dzor",
+    "wof:parent_id":85632773,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":53230,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:shortcode":"VD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.07499903947416,
+    39.4875133264789,
+    45.80917744418377,
+    39.99905752238681
+],
+  "geometry": {"coordinates":[[[45.57758344092309,39.98398292617117],[45.57941898599745,39.97017120383805],[45.61114831514266,39.95916412342558],[45.71543135597233,39.95089589502959],[45.74276818940046,39.94050893134215],[45.76442061322075,39.92206044663237],[45.80917744418377,39.8512616719886],[45.80912153513077,39.8512370881212],[45.79155154776578,39.84351146118502],[45.77646202999875,39.82940379534892],[45.72344201044046,39.76000234593158],[45.71486372278264,39.74506785689613],[45.71253828281556,39.73416413017054],[45.73150353416082,39.70703400321673],[45.73196862215423,39.69158275024375],[45.72809288857599,39.67034373577485],[45.70122114404063,39.58962514938116],[45.70215132002744,39.58430247677791],[45.70339155527608,39.58019420010231],[45.70819746304255,39.57006561883327],[45.70892093255503,39.56869619417409],[45.70906573599495,39.56842210329751],[45.58644698094349,39.54539093154631],[45.55967858919558,39.53681264298916],[45.47927006026509,39.49717681885517],[45.46862471505858,39.49366282138215],[45.4574626059146,39.48927032566507],[45.44609379029623,39.4875133264789],[45.43482832836469,39.48885691451505],[45.42407963037067,39.49371449822559],[45.4239372784827,39.4938269422596],[45.39235030122546,39.51877756853003],[45.37488366754729,39.52585723942013],[45.32754805489884,39.52926788320627],[45.31297530106934,39.53381540945361],[45.30289839754306,39.54508087228447],[45.29106449393129,39.56585479786071],[45.26619102139858,39.59291812856884],[45.25995528241043,39.59970286049867],[45.2331868897632,39.59272654239606],[45.20476485251601,39.57231435202578],[45.16791955544318,39.56554473949819],[45.1483341882722,39.57525990961716],[45.1444067787499,39.58983266344671],[45.1542253007571,39.62585113642086],[45.15587894715571,39.64920888348325],[45.15153812648339,39.66770904593579],[45.14125451648277,39.68440053325804],[45.07499903947416,39.74982027208796],[45.07500613782304,39.74987376646118],[45.07790001767171,39.77168121991241],[45.07790001767171,39.80496084176946],[45.07867516492695,39.80852651608592],[45.08580651176118,39.82477875383648],[45.10952599492879,39.86578400352897],[45.15686160667786,39.88929678022231],[45.19675581233093,39.91766714152544],[45.2091581558243,39.92428172532141],[45.22156050021698,39.92955272108128],[45.25308312378718,39.93895783103915],[45.26222985222597,39.94040477096348],[45.33576541494199,39.93730418643912],[45.36666792178721,39.94167084373453],[45.39167931524827,39.94159332936869],[45.45978885257352,39.95063670501997],[45.47668704637016,39.95471914327391],[45.51193037298839,39.96903351558433],[45.52603803882448,39.97869700796059],[45.5364250016126,39.99125438108484],[45.53983564629812,39.99430329056446],[45.5460368180448,39.99874746402429],[45.55053266834801,39.99905752238681],[45.55425337139604,39.99823069918745],[45.55735395681972,39.9962153184822],[45.55973107273087,39.99414826093357],[45.56484703975912,39.9888772651737],[45.57383873856696,39.98430390140396],[45.57745608882749,39.98399384214213],[45.57758344092309,39.98398292617117]]],"type":"Polygon"}
+}

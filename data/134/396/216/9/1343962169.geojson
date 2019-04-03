@@ -1,0 +1,73 @@
+{
+  "id": 1343962169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2807,40.33893,44.2807,40.33893",
+    "geom:latitude":40.33893,
+    "geom:longitude":44.2807,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Haykashen Kat'oghikosaran",
+    "gn:country_code":"AM",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230965,
+    "gn:latitude":40.33893,
+    "gn:longitude":44.2807,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Haykashen Kat\u2019oghikosaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Haykashen Kat\u2019oghikosaran"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0575\u056f\u0561\u0577\u0565\u0576 \u056f\u0561\u0569\u0578\u0572\u056b\u056f\u0578\u057d\u0561\u0580\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783713,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230965
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"38db1df841d3c843ce07d0229bded226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783713,
+            "locality_id":1343962169,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1343962169,
+    "wof:lastmodified":1537584445,
+    "wof:name":"Haykashen Kat'oghikosaran",
+    "wof:parent_id":1108783713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2807,
+    40.33893,
+    44.2807,
+    40.33893
+],
+  "geometry": {"coordinates":[44.2807,40.33893],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343450071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22229,39.76947,45.22229,39.76947",
+    "geom:latitude":39.76947,
+    "geom:longitude":45.22229,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mijnughi",
+    "gn:country_code":"AM",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426720,
+    "gn:latitude":39.76947,
+    "gn:longitude":45.22229,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Mijnughi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mijnughi"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u057b\u0576\u0578\u0582\u0572\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783491,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426720
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8aeec356739a935b83ae8b303a9681ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783491,
+            "locality_id":1343450071,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1343450071,
+    "wof:lastmodified":1537584399,
+    "wof:name":"Mijnughi",
+    "wof:parent_id":1108783491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22229,
+    39.76947,
+    45.22229,
+    39.76947
+],
+  "geometry": {"coordinates":[45.22229,39.76947],"type":"Point"}
+}

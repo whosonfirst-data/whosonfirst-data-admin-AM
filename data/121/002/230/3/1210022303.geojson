@@ -1,0 +1,73 @@
+{
+  "id": 1210022303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21668,40.31952,45.21668,40.31952",
+    "geom:latitude":40.31952,
+    "geom:longitude":45.21668,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Agarak",
+    "gn:country_code":"AM",
+    "gn:dem":1958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11108373,
+    "gn:latitude":40.31952,
+    "gn:longitude":45.21668,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Agarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Agarak"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0563\u0561\u0580\u0561\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784221,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11108373
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"63c0d56c5d0bbe8cba6b7aae3f119eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784221,
+            "locality_id":1210022303,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1210022303,
+    "wof:lastmodified":1537584417,
+    "wof:name":"Agarak",
+    "wof:parent_id":1108784221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21668,
+    40.31952,
+    45.21668,
+    40.31952
+],
+  "geometry": {"coordinates":[45.21668,40.31952],"type":"Point"}
+}

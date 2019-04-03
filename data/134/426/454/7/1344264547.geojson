@@ -1,0 +1,73 @@
+{
+  "id": 1344264547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00833,40.0725,44.00833,40.0725",
+    "geom:latitude":40.0725,
+    "geom:longitude":44.00833,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pokr Shagriar",
+    "gn:cc2":"AM",
+    "gn:country_code":"AM",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616293,
+    "gn:latitude":40.0725,
+    "gn:longitude":44.00833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pokr Shagriar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malyy Shagriar",
+        "Pokr Shagriar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783833,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616293,
+        "wk:page":"Pokr_Shagriar"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"0bde5abb0d936985e720a6c7d1b461d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783833,
+            "locality_id":1344264547,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1344264547,
+    "wof:lastmodified":1537584368,
+    "wof:name":"Pokr Shagriar",
+    "wof:parent_id":1108783833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00833,
+    40.0725,
+    44.00833,
+    40.0725
+],
+  "geometry": {"coordinates":[44.00833,40.0725],"type":"Point"}
+}

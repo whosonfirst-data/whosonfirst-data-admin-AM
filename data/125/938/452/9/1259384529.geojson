@@ -1,0 +1,73 @@
+{
+  "id": 1259384529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01947,40.08612,44.01947,40.08612",
+    "geom:latitude":40.08612,
+    "geom:longitude":44.01947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hin Jermots'ner",
+    "gn:country_code":"AM",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11224339,
+    "gn:latitude":40.08612,
+    "gn:longitude":44.01947,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hin Jermots\u2019ner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hin Jermots\u2019ner"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u057b\u0565\u0580\u0574\u0578\u0581\u0576\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783831,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11224339
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"279068d39a7ff7112545e74d44716354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783831,
+            "locality_id":1259384529,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1259384529,
+    "wof:lastmodified":1537584439,
+    "wof:name":"Hin Jermots'ner",
+    "wof:parent_id":1108783831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01947,
+    40.08612,
+    44.01947,
+    40.08612
+],
+  "geometry": {"coordinates":[44.01947,40.08612],"type":"Point"}
+}

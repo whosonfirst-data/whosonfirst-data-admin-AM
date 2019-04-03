@@ -1,0 +1,73 @@
+{
+  "id": 1327326107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63751,41.00568,44.63751,41.00568",
+    "geom:latitude":41.00568,
+    "geom:longitude":44.63751,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"K'ober Kayaranin Kits'",
+    "gn:country_code":"AM",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11363368,
+    "gn:latitude":41.00568,
+    "gn:longitude":44.63751,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"K\u2019ober Kayaranin Kits\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "K\u2019ober Kayaranin Kits\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0578\u0562\u0565\u0580 \u056f\u0561\u0575\u0561\u0580\u0561\u0576\u056b\u0576 \u056f\u056b\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783497,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11363368
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"332e3927dd49d3c6f9318d7f70b318ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783497,
+            "locality_id":1327326107,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1327326107,
+    "wof:lastmodified":1537584510,
+    "wof:name":"K'ober Kayaranin Kits'",
+    "wof:parent_id":1108783497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63751,
+    41.00568,
+    44.63751,
+    41.00568
+],
+  "geometry": {"coordinates":[44.63751,41.00568],"type":"Point"}
+}

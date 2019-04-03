@@ -1,0 +1,66 @@
+{
+  "id": 1226357711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9333,40.4444,43.9333,40.4444",
+    "geom:latitude":40.4444,
+    "geom:longitude":43.9333,
+    "gn:asciiname":"Shenik",
+    "gn:country_code":"AM",
+    "gn:dem":2050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166060,
+    "gn:latitude":40.4444,
+    "gn:longitude":43.9333,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Shenik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782969,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166060
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"edac56d8ec44ba74e9263fa53a77f2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782969,
+            "locality_id":1226357711,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1226357711,
+    "wof:lastmodified":1536772801,
+    "wof:name":"Shenik",
+    "wof:parent_id":1108782969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9333,
+    40.4444,
+    43.9333,
+    40.4444
+],
+  "geometry": {"coordinates":[43.9333,40.4444],"type":"Point"}
+}

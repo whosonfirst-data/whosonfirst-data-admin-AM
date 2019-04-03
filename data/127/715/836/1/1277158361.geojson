@@ -1,0 +1,71 @@
+{
+  "id": 1277158361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4779,40.1557,44.4779,40.1557",
+    "geom:latitude":40.1557,
+    "geom:longitude":44.4779,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shengavit'",
+    "gn:country_code":"AM",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111027,
+    "gn:latitude":40.1557,
+    "gn:longitude":44.4779,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Shengavit\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Shengavit\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0565\u0576\u0563\u0561\u057e\u056b\u0569"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111027
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f3c9c3e1bc9a3ff0ff467ce0b693ec5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1277158361,
+            "region_id":85668115
+        }
+    ],
+    "wof:id":1277158361,
+    "wof:lastmodified":1537584424,
+    "wof:name":"Shengavit'",
+    "wof:parent_id":85668115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4779,
+    40.1557,
+    44.4779,
+    40.1557
+],
+  "geometry": {"coordinates":[44.4779,40.1557],"type":"Point"}
+}

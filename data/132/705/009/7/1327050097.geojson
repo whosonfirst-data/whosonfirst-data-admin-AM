@@ -1,0 +1,71 @@
+{
+  "id": 1327050097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20569,39.2279,46.20569,39.2279",
+    "geom:latitude":39.2279,
+    "geom:longitude":46.20569,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sukhan",
+    "gn:country_code":"AM",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389213,
+    "gn:latitude":39.2279,
+    "gn:longitude":46.20569,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sukhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Sukhan"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0578\u0582\u056d\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389213
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"d75d3ad7baa95673b5a38260f69fdc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1327050097,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1327050097,
+    "wof:lastmodified":1537584356,
+    "wof:name":"Sukhan",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20569,
+    39.2279,
+    46.20569,
+    39.2279
+],
+  "geometry": {"coordinates":[46.20569,39.2279],"type":"Point"}
+}

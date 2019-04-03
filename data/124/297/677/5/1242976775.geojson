@@ -1,0 +1,71 @@
+{
+  "id": 1242976775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13068,40.57788,45.13068,40.57788",
+    "geom:latitude":40.57788,
+    "geom:longitude":45.13068,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vach'katan",
+    "gn:country_code":"AM",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11343064,
+    "gn:latitude":40.57788,
+    "gn:longitude":45.13068,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vach\u2019katan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Vach\u2019katan"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0579\u056f\u0561\u057f\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11343064
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3d5ce0543f9ea3973d722fdfda690bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1242976775,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1242976775,
+    "wof:lastmodified":1537584505,
+    "wof:name":"Vach'katan",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13068,
+    40.57788,
+    45.13068,
+    40.57788
+],
+  "geometry": {"coordinates":[45.13068,40.57788],"type":"Point"}
+}

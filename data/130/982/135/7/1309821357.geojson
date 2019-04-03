@@ -1,0 +1,73 @@
+{
+  "id": 1309821357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80548,40.38892,43.80548,40.38892",
+    "geom:latitude":40.38892,
+    "geom:longitude":43.80548,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Krpeyan T'.",
+    "gn:country_code":"AM",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214869,
+    "gn:latitude":40.38892,
+    "gn:longitude":43.80548,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Krpeyan T\u2019.",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Krpeyan T\u2019."
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0580\u057a\u0565\u0575\u0561\u0576 \u0539."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782951,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214869
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"37890af3b51d06c98674e92ffde826ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782951,
+            "locality_id":1309821357,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1309821357,
+    "wof:lastmodified":1537584437,
+    "wof:name":"Krpeyan T'.",
+    "wof:parent_id":1108782951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80548,
+    40.38892,
+    43.80548,
+    40.38892
+],
+  "geometry": {"coordinates":[43.80548,40.38892],"type":"Point"}
+}

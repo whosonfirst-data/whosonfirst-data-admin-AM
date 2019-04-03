@@ -1,0 +1,78 @@
+{
+  "id": 1226641397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34589,39.66949,45.34589,39.66949",
+    "geom:latitude":39.66949,
+    "geom:longitude":45.34589,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Boloraberd",
+    "gn:country_code":"AM",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174944,
+    "gn:latitude":39.66949,
+    "gn:longitude":45.34589,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Boloraberd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Boloraberd"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0578\u056c\u0578\u0580\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:und_x_variant":[
+        "Kurtkulag",
+        "Proshaberd",
+        "Kurdkulag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783029,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174944
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"353b989b72d21a39678d1d73b1fb4f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783029,
+            "locality_id":1226641397,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1226641397,
+    "wof:lastmodified":1537584352,
+    "wof:name":"Boloraberd",
+    "wof:parent_id":1108783029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34589,
+    39.66949,
+    45.34589,
+    39.66949
+],
+  "geometry": {"coordinates":[45.34589,39.66949],"type":"Point"}
+}

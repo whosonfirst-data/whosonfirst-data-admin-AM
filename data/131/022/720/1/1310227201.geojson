@@ -1,0 +1,73 @@
+{
+  "id": 1310227201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63348,40.97089,44.63348,40.97089",
+    "geom:latitude":40.97089,
+    "geom:longitude":44.63348,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsat'eri Dzor",
+    "gn:country_code":"AM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11321094,
+    "gn:latitude":40.97089,
+    "gn:longitude":44.63348,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tsat\u2019eri Dzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tsat\u2019eri Dzor"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u0569\u0565\u0580\u056b \u0571\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783499,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11321094
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"98b7e75093a446a7ad3062f7cfd273bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783499,
+            "locality_id":1310227201,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1310227201,
+    "wof:lastmodified":1537584469,
+    "wof:name":"Tsat'eri Dzor",
+    "wof:parent_id":1108783499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63348,
+    40.97089,
+    44.63348,
+    40.97089
+],
+  "geometry": {"coordinates":[44.63348,40.97089],"type":"Point"}
+}

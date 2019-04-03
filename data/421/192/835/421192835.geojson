@@ -1,0 +1,71 @@
+{
+  "id": 421192835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"44.179973,40.5091,44.179973,40.5091",
+    "geom:latitude":40.5091,
+    "geom:longitude":44.179973,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tsakhkaovit Shrjan",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Aragatsotn",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1176630,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":15022551,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15022551,
+        "qs:id":1176630
+    },
+    "wof:country":"AM",
+    "wof:created":1459009750,
+    "wof:geomhash":"6e7213e5064678e11d495973e5fad5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "county_id":421192835,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":421192835,
+    "wof:lastmodified":1466635875,
+    "wof:name":"Tsakhkaovit Shrjan",
+    "wof:parent_id":85668089,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.179973,
+    40.5091,
+    44.179973,
+    40.5091
+],
+  "geometry": {"coordinates":[44.179973,40.5091],"type":"Point"}
+}

@@ -1,0 +1,142 @@
+{
+  "id": 421177027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46132,40.15701,45.46132,40.15701",
+    "geom:latitude":40.15701,
+    "geom:longitude":45.46132,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u053e\u0578\u057e\u056b\u0576\u0561\u0580"
+    ],
+    "name:aze_x_preferred":[
+        "Kolagir\u0259n"
+    ],
+    "name:dut_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:eng_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u0648\u06cc\u0646\u0627\u0631\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:fre_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ec\u10dd\u10d5\u10d8\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u053e\u0578\u057e\u056b\u0576\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10dd\u10d5\u10d8\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:msa_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0633\u0648\u0648\u06cc\u0646\u0627\u0631\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u043e\u0432\u0438\u043d\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u043e\u0432\u0456\u043d\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Kolakran"
+    ],
+    "name:vie_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tsovinar"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616136,
+    "qs:gn_pop":3968,
+    "qs:name":"Tsovinar",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Geghark'unik'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1093555,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214652,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":376,
+    "wof:belongsto":[
+        102191569,
+        1108784071,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616136,
+        "gp:id":2214652,
+        "qs:id":1093555,
+        "wd:id":"Q2636211",
+        "wk:page":"Tsovinar, Armenia"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009130,
+    "wof:geomhash":"e3f7df8d4cd60c5bb106831cad5ffc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784071,
+            "locality_id":421177027,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":421177027,
+    "wof:lastmodified":1527716483,
+    "wof:name":"Tsovinar",
+    "wof:parent_id":1108784071,
+    "wof:placetype":"locality",
+    "wof:population":3968,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46132,
+    40.15701,
+    45.46132,
+    40.15701
+],
+  "geometry": {"coordinates":[45.46132,40.15701],"type":"Point"}
+}

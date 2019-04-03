@@ -1,0 +1,80 @@
+{
+  "id": 890449919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36002,39.87181,45.36002,39.87181",
+    "geom:latitude":39.87181,
+    "geom:longitude":45.36002,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":1045,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Artabuynk"
+    ],
+    "name:hye_x_preferred":[
+        "Yeghegis"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0572\u0565\u0563\u056b\u057d"
+    ],
+    "name:unk_x_variant":[
+        "Yekhegis"
+    ],
+    "qs:name":"Yeghegis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191569,
+        1108783391,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174980,
+        "qs:id":73598,
+        "wd:id":"Q610325",
+        "wk:page":"Yeghegis"
+    },
+    "wof:country":"AM",
+    "wof:created":1469052716,
+    "wof:geomhash":"738cd4b1572ca469b0668384a278f63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783391,
+            "locality_id":890449919,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":890449919,
+    "wof:lastmodified":1527727157,
+    "wof:name":"Yeghegis",
+    "wof:parent_id":1108783391,
+    "wof:placetype":"locality",
+    "wof:population":1045,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36002,
+    39.87181,
+    45.36002,
+    39.87181
+],
+  "geometry": {"coordinates":[45.36002,39.87181],"type":"Point"}
+}

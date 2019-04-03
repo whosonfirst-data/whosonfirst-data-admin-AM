@@ -1,0 +1,67 @@
+{
+  "id": 1209200281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38348,39.4057,46.38348,39.4057",
+    "geom:latitude":39.4057,
+    "geom:longitude":46.38348,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Horritap'",
+    "gn:country_code":"AM",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329188,
+    "gn:latitude":39.4057,
+    "gn:longitude":46.38348,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Horritap\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Horritap\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u057c\u056b\u057f\u0561\u0583"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329188
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2cd4080460a30cc990fdc2633b7e78bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209200281
+        }
+    ],
+    "wof:id":1209200281,
+    "wof:lastmodified":1537584484,
+    "wof:name":"Horritap'",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38348,
+    39.4057,
+    46.38348,
+    39.4057
+],
+  "geometry": {"coordinates":[46.38348,39.4057],"type":"Point"}
+}

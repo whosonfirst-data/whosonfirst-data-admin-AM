@@ -1,0 +1,71 @@
+{
+  "id": 1310426777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05011,41.01111,44.05011,41.01111",
+    "geom:latitude":41.01111,
+    "geom:longitude":44.05011,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gomk'",
+    "gn:country_code":"AM",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342749,
+    "gn:latitude":41.01111,
+    "gn:longitude":44.05011,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gomk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gomk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u0574\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342749
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"6ea9bbff005f545f1fce3bd0a5d48c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1310426777,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1310426777,
+    "wof:lastmodified":1537584502,
+    "wof:name":"Gomk'",
+    "wof:parent_id":85668089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05011,
+    41.01111,
+    44.05011,
+    41.01111
+],
+  "geometry": {"coordinates":[44.05011,41.01111],"type":"Point"}
+}

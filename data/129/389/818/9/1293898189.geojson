@@ -1,0 +1,71 @@
+{
+  "id": 1293898189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83331,40.14172,44.83331,40.14172",
+    "geom:latitude":40.14172,
+    "geom:longitude":44.83331,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Noragyugh",
+    "gn:country_code":"AM",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128670,
+    "gn:latitude":40.14172,
+    "gn:longitude":44.83331,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Noragyugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Noragyugh"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0578\u0580\u0561\u0563\u0575\u0578\u0582\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128670
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7b9eab0294925d4f76f90bb9592d0f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1293898189,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1293898189,
+    "wof:lastmodified":1537584427,
+    "wof:name":"Noragyugh",
+    "wof:parent_id":85668105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83331,
+    40.14172,
+    44.83331,
+    40.14172
+],
+  "geometry": {"coordinates":[44.83331,40.14172],"type":"Point"}
+}

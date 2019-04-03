@@ -1,0 +1,77 @@
+{
+  "id": 1276759743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41342,41.01355,44.41342,41.01355",
+    "geom:latitude":41.01355,
+    "geom:longitude":44.41342,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lorri Berd",
+    "gn:country_code":"AM",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616468,
+    "gn:latitude":41.01355,
+    "gn:longitude":44.41342,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lorri Berd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lorri Berd"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0578\u057c\u056b \u0532\u0565\u0580\u0564"
+    ],
+    "name:und_x_variant":[
+        "Lori Berd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783105,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616468,
+        "wk:page":"Lori_Berd"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1879d64a56287f2f9e63344a235a348b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783105,
+            "locality_id":1276759743,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1276759743,
+    "wof:lastmodified":1537584374,
+    "wof:name":"Lorri Berd",
+    "wof:parent_id":1108783105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41342,
+    41.01355,
+    44.41342,
+    41.01355
+],
+  "geometry": {"coordinates":[44.41342,41.01355],"type":"Point"}
+}

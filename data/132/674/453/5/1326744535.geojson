@@ -1,0 +1,77 @@
+{
+  "id": 1326744535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.30107,40.65712,44.30107,40.65712",
+    "geom:latitude":40.65712,
+    "geom:longitude":44.30107,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rrya T'aza",
+    "gn:country_code":"AM",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616281,
+    "gn:latitude":40.65712,
+    "gn:longitude":44.30107,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Rrya T\u2019aza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u054c\u0575\u0561 \u0569\u0561\u0566\u0561"
+    ],
+    "name:und_x_variant":[
+        "Kondakhsaz",
+        "Rya-Taza",
+        "Kondagsaz",
+        "Rrya T\u2019aza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782905,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616281,
+        "wk:page":"Rya_Taza"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9779b7a7431b1f1ab052f090d0384dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782905,
+            "locality_id":1326744535,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1326744535,
+    "wof:lastmodified":1537584368,
+    "wof:name":"Rrya T'aza",
+    "wof:parent_id":1108782905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.30107,
+    40.65712,
+    44.30107,
+    40.65712
+],
+  "geometry": {"coordinates":[44.30107,40.65712],"type":"Point"}
+}

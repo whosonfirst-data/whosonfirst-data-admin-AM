@@ -1,0 +1,71 @@
+{
+  "id": 1360185347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22089,40.27649,45.22089,40.27649",
+    "geom:latitude":40.27649,
+    "geom:longitude":45.22089,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gomer",
+    "gn:country_code":"AM",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11108642,
+    "gn:latitude":40.27649,
+    "gn:longitude":45.22089,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Gomer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gomer"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u056f\u0574\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11108642
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5efddd33be086f2abb5caa8db5ce7a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1360185347,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1360185347,
+    "wof:lastmodified":1537584418,
+    "wof:name":"Gomer",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22089,
+    40.27649,
+    45.22089,
+    40.27649
+],
+  "geometry": {"coordinates":[45.22089,40.27649],"type":"Point"}
+}

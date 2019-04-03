@@ -1,0 +1,85 @@
+{
+  "id": 1242975503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.64447,40.40289,44.64447,40.40289",
+    "geom:latitude":40.40289,
+    "geom:longitude":44.64447,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ch'arents'avan",
+    "gn:country_code":"AM",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616785,
+    "gn:latitude":40.40289,
+    "gn:longitude":44.64447,
+    "gn:modification_date":"2018-01-08",
+    "gn:name":"Ch\u2019arents\u2019avan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Charentsavan"
+    ],
+    "name:hye_x_preferred":[
+        "Ch\u2019arents\u2019avan"
+    ],
+    "name:hye_x_variant":[
+        "\u0549\u0561\u0580\u0565\u0576\u0581\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0435\u043d\u0446\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019arants\u2019avan",
+        "Choentsavan",
+        "Lusavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783559,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616785,
+        "wk:page":"Charentsavan"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"01e8e64209b2b4aadaa7e4961d42499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783559,
+            "locality_id":1242975503,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1242975503,
+    "wof:lastmodified":1537584385,
+    "wof:name":"Ch'arents'avan",
+    "wof:parent_id":1108783559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.64447,
+    40.40289,
+    44.64447,
+    40.40289
+],
+  "geometry": {"coordinates":[44.64447,40.40289],"type":"Point"}
+}

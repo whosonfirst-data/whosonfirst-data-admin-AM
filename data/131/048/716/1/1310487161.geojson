@@ -1,0 +1,76 @@
+{
+  "id": 1310487161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36951,39.27508,46.36951,39.27508",
+    "geom:latitude":39.27508,
+    "geom:longitude":46.36951,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hoghar",
+    "gn:country_code":"AM",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329150,
+    "gn:latitude":39.27508,
+    "gn:longitude":46.36951,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hoghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Unut"
+    ],
+    "name:hye_x_preferred":[
+        "Hoghar"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u0572\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784605,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329150
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1feda6d3da5bba101d12c51deee923bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784605,
+            "locality_id":1310487161,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1310487161,
+    "wof:lastmodified":1537584484,
+    "wof:name":"Hoghar",
+    "wof:parent_id":1108784605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36951,
+    39.27508,
+    46.36951,
+    39.27508
+],
+  "geometry": {"coordinates":[46.36951,39.27508],"type":"Point"}
+}

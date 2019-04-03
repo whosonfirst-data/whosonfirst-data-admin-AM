@@ -1,0 +1,67 @@
+{
+  "id": 1209335785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78748,41.02087,43.78748,41.02087",
+    "geom:latitude":41.02087,
+    "geom:longitude":43.78748,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hin Gyughateghi",
+    "gn:country_code":"AM",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11278099,
+    "gn:latitude":41.02087,
+    "gn:longitude":43.78748,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hin Gyughateghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hin Gyughateghi"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u0563\u0575\u0578\u0582\u0572\u0561\u057f\u0565\u0572\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11278099
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8711bc80228b3b4f98c41bf89c818020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209335785
+        }
+    ],
+    "wof:id":1209335785,
+    "wof:lastmodified":1537584451,
+    "wof:name":"Hin Gyughateghi",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78748,
+    41.02087,
+    43.78748,
+    41.02087
+],
+  "geometry": {"coordinates":[43.78748,41.02087],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293573737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0639,40.88611,45.0639,40.88611",
+    "geom:latitude":40.88611,
+    "geom:longitude":45.0639,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ach'ak'ar",
+    "gn:country_code":"AM",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11324064,
+    "gn:latitude":40.88611,
+    "gn:longitude":45.0639,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ach\u2019ak\u2019ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ach\u2019ak\u2019ar"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0579\u0561\u0584\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11324064
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2e6d31724f57b00e1a999d64560dcc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1293573737,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1293573737,
+    "wof:lastmodified":1537584478,
+    "wof:name":"Ach'ak'ar",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0639,
+    40.88611,
+    45.0639,
+    40.88611
+],
+  "geometry": {"coordinates":[45.0639,40.88611],"type":"Point"}
+}

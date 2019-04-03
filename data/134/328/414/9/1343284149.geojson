@@ -1,0 +1,73 @@
+{
+  "id": 1343284149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25568,40.91949,44.25568,40.91949",
+    "geom:latitude":40.91949,
+    "geom:longitude":44.25568,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mats'arrut",
+    "gn:country_code":"AM",
+    "gn:dem":2458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11364316,
+    "gn:latitude":40.91949,
+    "gn:longitude":44.25568,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Mats\u2019arrut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mats\u2019arrut"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0581\u0561\u057c\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783157,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11364316
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"bf444f2d0e070feea813cfd10100ad4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783157,
+            "locality_id":1343284149,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1343284149,
+    "wof:lastmodified":1537584513,
+    "wof:name":"Mats'arrut",
+    "wof:parent_id":1108783157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25568,
+    40.91949,
+    44.25568,
+    40.91949
+],
+  "geometry": {"coordinates":[44.25568,40.91949],"type":"Point"}
+}

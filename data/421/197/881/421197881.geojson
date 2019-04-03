@@ -1,0 +1,148 @@
+{
+  "id": 421197881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.76809,40.21825,45.76809,40.21825",
+    "geom:latitude":40.21825,
+    "geom:longitude":45.76809,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u056e \u0544\u0561\u057d\u0580\u056b\u056f"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck M\u0259zr\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:dut_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:eng_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0633 \u0645\u0627\u0633\u0631\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:fre_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d4\u10ec-\u10db\u10d0\u10e1\u10e0\u10d8\u10d9\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056e \u0544\u0561\u057d\u0580\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10ec-\u10db\u10d0\u10e1\u10e0\u10d8\u10d9\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:msa_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062a\u0633 \u0645\u0627\u0633\u0631\u06cc\u06a9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0446 \u041c\u0430\u0437\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:swe_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0446 \u041c\u0430\u0441\u0440\u0456\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Mets-Mazra"
+    ],
+    "name:vie_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Mets Masrik"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616411,
+    "qs:gn_pop":2570,
+    "qs:name":"Mets Masrik",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Geghark'unik'",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":462225,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214124,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191569,
+        1108784089,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616411,
+        "gp:id":2214124,
+        "qs:id":462225,
+        "wd:id":"Q2650143",
+        "wk:page":"Mets Masrik"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009928,
+    "wof:geomhash":"f1943bfa6a6ff1143d4bbc16644d341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784089,
+            "locality_id":421197881,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":421197881,
+    "wof:lastmodified":1527716400,
+    "wof:name":"Mets Masrik",
+    "wof:parent_id":1108784089,
+    "wof:placetype":"locality",
+    "wof:population":2570,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.76809,
+    40.21825,
+    45.76809,
+    40.21825
+],
+  "geometry": {"coordinates":[45.76809,40.21825],"type":"Point"}
+}

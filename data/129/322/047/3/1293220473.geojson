@@ -1,0 +1,77 @@
+{
+  "id": 1293220473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.39172,39.60553,46.39172,39.60553",
+    "geom:latitude":39.60553,
+    "geom:longitude":46.39172,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Khnatsakh",
+    "gn:country_code":"AM",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174850,
+    "gn:latitude":39.60553,
+    "gn:longitude":46.39172,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Khnatsakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xnatsax"
+    ],
+    "name:hye_x_preferred":[
+        "Khnatsakh"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0576\u0561\u056e\u0561\u056d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783481,
+        85632717,
+        85668621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174850,
+        "wk:page":"Khnatsakh"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a860cc99ab3d1e9920a53743c26d6541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783481,
+            "locality_id":1293220473,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293220473,
+    "wof:lastmodified":1537584347,
+    "wof:name":"Khnatsakh",
+    "wof:parent_id":1108783481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.39172,
+    39.60553,
+    46.39172,
+    39.60553
+],
+  "geometry": {"coordinates":[46.39172,39.60553],"type":"Point"}
+}

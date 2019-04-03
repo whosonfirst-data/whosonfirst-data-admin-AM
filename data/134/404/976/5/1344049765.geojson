@@ -1,0 +1,73 @@
+{
+  "id": 1344049765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33612,41.1889,44.33612,41.1889",
+    "geom:latitude":41.1889,
+    "geom:longitude":44.33612,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lerrnahovit",
+    "gn:country_code":"AM",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11319620,
+    "gn:latitude":41.1889,
+    "gn:longitude":44.33612,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lerrnahovit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lerrnahovit"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0565\u057c\u0576\u0561\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783085,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11319620
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"eacbbd690cf6096d5a361567be7464e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783085,
+            "locality_id":1344049765,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1344049765,
+    "wof:lastmodified":1537584464,
+    "wof:name":"Lerrnahovit",
+    "wof:parent_id":1108783085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33612,
+    41.1889,
+    44.33612,
+    41.1889
+],
+  "geometry": {"coordinates":[44.33612,41.1889],"type":"Point"}
+}

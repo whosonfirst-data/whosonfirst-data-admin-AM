@@ -1,0 +1,73 @@
+{
+  "id": 1326822697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.24731,40.91107,44.24731,40.91107",
+    "geom:latitude":40.91107,
+    "geom:longitude":44.24731,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bado",
+    "gn:country_code":"AM",
+    "gn:dem":2355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11319275,
+    "gn:latitude":40.91107,
+    "gn:longitude":44.24731,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Bado"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0564\u0578"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783159,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11319275
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3208547eaeedfa1843d018db8691e2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783159,
+            "locality_id":1326822697,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1326822697,
+    "wof:lastmodified":1537584462,
+    "wof:name":"Bado",
+    "wof:parent_id":1108783159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.24731,
+    40.91107,
+    44.24731,
+    40.91107
+],
+  "geometry": {"coordinates":[44.24731,40.91107],"type":"Point"}
+}

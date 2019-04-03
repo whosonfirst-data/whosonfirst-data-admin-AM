@@ -1,0 +1,73 @@
+{
+  "id": 1310106025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83194,40.27917,45.83194,40.27917",
+    "geom:latitude":40.27917,
+    "geom:longitude":45.83194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aghyokhush",
+    "gn:cc2":"AM",
+    "gn:country_code":"AM",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859706,
+    "gn:latitude":40.27917,
+    "gn:longitude":45.83194,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Aghyokhush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fexu\u015f",
+        "Aghyokhush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784143,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859706,
+        "wk:page":"Aghyokhush"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f422ffccb7b4653334bdc7d35635e650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784143,
+            "locality_id":1310106025,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1310106025,
+    "wof:lastmodified":1537584396,
+    "wof:name":"Aghyokhush",
+    "wof:parent_id":1108784143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83194,
+    40.27917,
+    45.83194,
+    40.27917
+],
+  "geometry": {"coordinates":[45.83194,40.27917],"type":"Point"}
+}

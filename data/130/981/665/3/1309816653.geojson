@@ -1,0 +1,73 @@
+{
+  "id": 1309816653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89313,39.89032,44.89313,39.89032",
+    "geom:latitude":39.89032,
+    "geom:longitude":44.89313,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hnashen",
+    "gn:country_code":"AM",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225551,
+    "gn:latitude":39.89032,
+    "gn:longitude":44.89313,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Hnashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hnashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782977,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225551
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"ada27d4ba0f4450ed943fdafe37f7cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782977,
+            "locality_id":1309816653,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1309816653,
+    "wof:lastmodified":1537584441,
+    "wof:name":"Hnashen",
+    "wof:parent_id":1108782977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89313,
+    39.89032,
+    44.89313,
+    39.89032
+],
+  "geometry": {"coordinates":[44.89313,39.89032],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310591839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52789,39.54169,46.52789,39.54169",
+    "geom:latitude":39.54169,
+    "geom:longitude":46.52789,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hingegh",
+    "gn:country_code":"AM",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11371039,
+    "gn:latitude":39.54169,
+    "gn:longitude":46.52789,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hingegh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hingegh"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576\u0563\u0565\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784245,
+        85632717,
+        85668621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11371039
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b62eff5c6a465ed77641eb52c2dcebf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108784245,
+            "locality_id":1310591839,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310591839,
+    "wof:lastmodified":1537584519,
+    "wof:name":"Hingegh",
+    "wof:parent_id":1108784245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52789,
+    39.54169,
+    46.52789,
+    39.54169
+],
+  "geometry": {"coordinates":[46.52789,39.54169],"type":"Point"}
+}

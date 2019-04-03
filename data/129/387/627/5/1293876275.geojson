@@ -1,0 +1,77 @@
+{
+  "id": 1293876275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56243,40.93317,44.56243,40.93317",
+    "geom:latitude":40.93317,
+    "geom:longitude":44.56243,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antarramut",
+    "gn:country_code":"AM",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616958,
+    "gn:latitude":40.93317,
+    "gn:longitude":44.56243,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Antarramut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0561\u057c\u0561\u0574\u0578\u0582\u057f"
+    ],
+    "name:und_x_variant":[
+        "Kalagiran",
+        "Antaramut",
+        "K\u2019olageran",
+        "Antarramut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783225,
+        85632773,
+        85668109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616958,
+        "wk:page":"Antaramut"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"096247e4c860a57c135a7e6362dc9066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783225,
+            "locality_id":1293876275,
+            "region_id":85668109
+        }
+    ],
+    "wof:id":1293876275,
+    "wof:lastmodified":1537584391,
+    "wof:name":"Antarramut",
+    "wof:parent_id":1108783225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56243,
+    40.93317,
+    44.56243,
+    40.93317
+],
+  "geometry": {"coordinates":[44.56243,40.93317],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242995421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21948,39.3667,46.21948,39.3667",
+    "geom:latitude":39.3667,
+    "geom:longitude":46.21948,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Svarants'",
+    "gn:country_code":"AM",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174754,
+    "gn:latitude":39.3667,
+    "gn:longitude":46.21948,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Svarants\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Svarants\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u057e\u0561\u0580\u0561\u0576\u0581"
+    ],
+    "name:und_x_variant":[
+        "Svarants"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784505,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174754,
+        "wk:page":"Svarants"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"72ab1c78c09c7d66ddff4fa7d9cf1175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784505,
+            "locality_id":1242995421,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1242995421,
+    "wof:lastmodified":1537584342,
+    "wof:name":"Svarants'",
+    "wof:parent_id":1108784505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21948,
+    39.3667,
+    46.21948,
+    39.3667
+],
+  "geometry": {"coordinates":[46.21948,39.3667],"type":"Point"}
+}

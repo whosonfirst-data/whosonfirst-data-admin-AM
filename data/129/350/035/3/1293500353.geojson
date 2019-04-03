@@ -1,0 +1,70 @@
+{
+  "id": 1293500353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70489,39.83166,44.70489,39.83166",
+    "geom:latitude":39.83166,
+    "geom:longitude":44.70489,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Davalu",
+    "gn:country_code":"AM",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174992,
+    "gn:latitude":39.83166,
+    "gn:longitude":44.70489,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Davalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0440\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783043,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174992
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"eb178dae1ee16c851c2c0747cdb11f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783043,
+            "locality_id":1293500353,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1293500353,
+    "wof:lastmodified":1537584354,
+    "wof:name":"Davalu",
+    "wof:parent_id":1108783043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70489,
+    39.83166,
+    44.70489,
+    39.83166
+],
+  "geometry": {"coordinates":[44.70489,39.83166],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310001877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34448,40.9931,45.34448,40.9931",
+    "geom:latitude":40.9931,
+    "geom:longitude":45.34448,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yerkar Matner",
+    "gn:country_code":"AM",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11340090,
+    "gn:latitude":40.9931,
+    "gn:longitude":45.34448,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Yerkar Matner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Yerkar Matner"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0580\u056f\u0561\u0580 \u0574\u0561\u057f\u0576\u0565\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782629,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11340090
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"82e09bae647c3e1fe9e2a7c5fe73f07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782629,
+            "locality_id":1310001877,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1310001877,
+    "wof:lastmodified":1537584498,
+    "wof:name":"Yerkar Matner",
+    "wof:parent_id":1108782629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34448,
+    40.9931,
+    45.34448,
+    40.9931
+],
+  "geometry": {"coordinates":[45.34448,40.9931],"type":"Point"}
+}

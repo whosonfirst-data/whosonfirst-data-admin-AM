@@ -1,0 +1,73 @@
+{
+  "id": 1260177799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19452,40.98328,45.19452,40.98328",
+    "geom:latitude":40.98328,
+    "geom:longitude":45.19452,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kaghnut",
+    "gn:country_code":"AM",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323809,
+    "gn:latitude":40.98328,
+    "gn:longitude":45.19452,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kaghnut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kaghnut"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0572\u0576\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783277,
+        85632717,
+        85668229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323809
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3f8fe6842648ae86ff0fdcfcc7c8fe83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783277,
+            "locality_id":1260177799,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1260177799,
+    "wof:lastmodified":1537584477,
+    "wof:name":"Kaghnut",
+    "wof:parent_id":1108783277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19452,
+    40.98328,
+    45.19452,
+    40.98328
+],
+  "geometry": {"coordinates":[45.19452,40.98328],"type":"Point"}
+}

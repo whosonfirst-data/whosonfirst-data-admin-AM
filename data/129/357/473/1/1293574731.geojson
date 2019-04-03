@@ -1,0 +1,73 @@
+{
+  "id": 1293574731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40832,39.6015,46.40832,39.6015",
+    "geom:latitude":39.6015,
+    "geom:longitude":46.40832,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gorisi",
+    "gn:country_code":"AM",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11270963,
+    "gn:latitude":39.6015,
+    "gn:longitude":46.40832,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Gorisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gorisi"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u0580\u056b\u057d\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783481,
+        85632717,
+        85668621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11270963
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2204c635d831d12f63f1aad0e401c5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "localadmin_id":1108783481,
+            "locality_id":1293574731,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293574731,
+    "wof:lastmodified":1537584449,
+    "wof:name":"Gorisi",
+    "wof:parent_id":1108783481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40832,
+    39.6015,
+    46.40832,
+    39.6015
+],
+  "geometry": {"coordinates":[46.40832,39.6015],"type":"Point"}
+}

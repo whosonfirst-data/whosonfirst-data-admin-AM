@@ -1,0 +1,67 @@
+{
+  "id": 1209039763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21668,40.00012,45.21668,40.00012",
+    "geom:latitude":40.00012,
+    "geom:longitude":45.21668,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"P'ok'r Argichi",
+    "gn:country_code":"AM",
+    "gn:dem":2285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427117,
+    "gn:latitude":40.00012,
+    "gn:longitude":45.21668,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"P\u2019ok\u2019r Argichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "P\u2019ok\u2019r Argichi"
+    ],
+    "name:hye_x_variant":[
+        "\u0553\u0578\u0584\u0580 \u0531\u0580\u0563\u056b\u0573\u056b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427117
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a92f846642189f06bb506a3e7634e771",
+    "wof:hierarchy":[
+        {
+            "country_id":85632773,
+            "locality_id":1209039763
+        }
+    ],
+    "wof:id":1209039763,
+    "wof:lastmodified":1537584400,
+    "wof:name":"P'ok'r Argichi",
+    "wof:parent_id":85632773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21668,
+    40.00012,
+    45.21668,
+    40.00012
+],
+  "geometry": {"coordinates":[45.21668,40.00012],"type":"Point"}
+}

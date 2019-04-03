@@ -1,0 +1,71 @@
+{
+  "id": 1276894077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.15611,39.12167,46.15611,39.12167",
+    "geom:latitude":39.12167,
+    "geom:longitude":46.15611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"K'ajarants'",
+    "gn:country_code":"AM",
+    "gn:dem":2390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405928,
+    "gn:latitude":39.12167,
+    "gn:longitude":46.15611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019ajarants\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "K\u2019ajarants\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u2019ajaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405928
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9095ab867f0db4dfb659af33ecee2cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1276894077,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1276894077,
+    "wof:lastmodified":1537584358,
+    "wof:name":"K'ajarants'",
+    "wof:parent_id":85668119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.15611,
+    39.12167,
+    46.15611,
+    39.12167
+],
+  "geometry": {"coordinates":[46.15611,39.12167],"type":"Point"}
+}

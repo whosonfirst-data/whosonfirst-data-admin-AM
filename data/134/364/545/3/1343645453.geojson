@@ -1,0 +1,73 @@
+{
+  "id": 1343645453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53607,39.7973,45.53607,39.7973",
+    "geom:latitude":39.7973,
+    "geom:longitude":45.53607,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"K'aravaz",
+    "gn:country_code":"AM",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646512,
+    "gn:latitude":39.7973,
+    "gn:longitude":45.53607,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"K\u2019aravaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "K\u2019aravaz"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0580\u0561\u057e\u0561\u0566"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783033,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646512
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"a690781a42738e14ae72a995660df813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783033,
+            "locality_id":1343645453,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1343645453,
+    "wof:lastmodified":1537584405,
+    "wof:name":"K'aravaz",
+    "wof:parent_id":1108783033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53607,
+    39.7973,
+    45.53607,
+    39.7973
+],
+  "geometry": {"coordinates":[45.53607,39.7973],"type":"Point"}
+}

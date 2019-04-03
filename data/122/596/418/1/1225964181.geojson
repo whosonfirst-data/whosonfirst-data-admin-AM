@@ -1,0 +1,74 @@
+{
+  "id": 1225964181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25012,39.1889,46.25012,39.1889",
+    "geom:latitude":39.1889,
+    "geom:longitude":46.25012,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Musallam",
+    "gn:country_code":"AM",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174816,
+    "gn:latitude":39.1889,
+    "gn:longitude":46.25012,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Musallam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u057d\u0561\u056c\u056c\u0561\u0574"
+    ],
+    "name:hye_x_variant":[
+        "Musallam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784393,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174816,
+        "wk:page":"Musallam"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"b2139299652d4b894d93580069efbb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784393,
+            "locality_id":1225964181,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1225964181,
+    "wof:lastmodified":1537584345,
+    "wof:name":"Musallam",
+    "wof:parent_id":1108784393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25012,
+    39.1889,
+    46.25012,
+    39.1889
+],
+  "geometry": {"coordinates":[46.25012,39.1889],"type":"Point"}
+}

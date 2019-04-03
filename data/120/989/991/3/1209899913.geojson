@@ -1,0 +1,73 @@
+{
+  "id": 1209899913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53332,39.60431,45.53332,39.60431",
+    "geom:latitude":39.60431,
+    "geom:longitude":45.53332,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hoghots'im",
+    "gn:country_code":"AM",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192057,
+    "gn:latitude":39.60431,
+    "gn:longitude":45.53332,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hoghots\u2019im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hoghots\u2019im"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0578\u0572\u0578\u0581\u056b\u0574"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783415,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192057
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"bc012843db7ae49bcf1c114848ca89cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783415,
+            "locality_id":1209899913,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1209899913,
+    "wof:lastmodified":1537584435,
+    "wof:name":"Hoghots'im",
+    "wof:parent_id":1108783415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53332,
+    39.60431,
+    45.53332,
+    39.60431
+],
+  "geometry": {"coordinates":[45.53332,39.60431],"type":"Point"}
+}

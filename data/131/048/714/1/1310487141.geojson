@@ -1,0 +1,80 @@
+{
+  "id": 1310487141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.76149,39.68183,45.76149,39.68183",
+    "geom:latitude":39.68183,
+    "geom:longitude":45.76149,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gorayk'",
+    "gn:country_code":"AM",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174896,
+    "gn:latitude":39.68183,
+    "gn:longitude":45.76149,
+    "gn:modification_date":"2015-08-03",
+    "gn:name":"Gorayk\u2019",
+    "gn:population":1000,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Gorayk\u2019"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0439\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bazarchay"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783603,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174896,
+        "wk:page":"Gorayk"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"8620b44170e1101af71ad7d80d607c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783603,
+            "locality_id":1310487141,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1310487141,
+    "wof:lastmodified":1537584350,
+    "wof:name":"Gorayk'",
+    "wof:parent_id":1108783603,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.76149,
+    39.68183,
+    45.76149,
+    39.68183
+],
+  "geometry": {"coordinates":[45.76149,39.68183],"type":"Point"}
+}

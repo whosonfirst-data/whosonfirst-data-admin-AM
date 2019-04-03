@@ -1,0 +1,119 @@
+{
+  "id": 890435659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59982,39.95845,44.59982,39.95845",
+    "geom:latitude":39.95845,
+    "geom:longitude":44.59982,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
+    "gn:pop":1349,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u063a\u064a\u0628\u0627\u062a\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u057a\u0561\u057f"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259simli"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0439\u0433\u0435\u043f\u0430\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Aygepat"
+    ],
+    "name:eng_x_preferred":[
+        "Aygepat"
+    ],
+    "name:fre_x_preferred":[
+        "Aygepat"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d8\u10d2\u10d4\u10e4\u10d0\u10e2\u10d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u057a\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Aygepat"
+    ],
+    "name:may_x_preferred":[
+        "Aygepat"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u06cc\u06af\u067e\u0627\u062a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u043f\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Aygepat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0491\u0435\u043f\u0430\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Verkhniy Dargalu"
+    ],
+    "name:vie_x_preferred":[
+        "Aygepat"
+    ],
+    "qs:name":"Aygepat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        1108783993,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":174965,
+        "qs:id":532223,
+        "wd:id":"Q2535569",
+        "wk:page":"Aygepat"
+    },
+    "wof:country":"AM",
+    "wof:created":1469052076,
+    "wof:geomhash":"472a477ba509eebfb46dced356bf6980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783993,
+            "locality_id":890435659,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":890435659,
+    "wof:lastmodified":1527793047,
+    "wof:name":"Aygepat",
+    "wof:parent_id":1108783993,
+    "wof:placetype":"locality",
+    "wof:population":1349,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59982,
+    39.95845,
+    44.59982,
+    39.95845
+],
+  "geometry": {"coordinates":[44.59982,39.95845],"type":"Point"}
+}

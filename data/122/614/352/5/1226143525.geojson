@@ -1,0 +1,81 @@
+{
+  "id": 1226143525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.44846,40.54796,45.44846,40.54796",
+    "geom:latitude":40.54796,
+    "geom:longitude":45.44846,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsaghkut",
+    "gn:country_code":"AM",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11325070,
+    "gn:latitude":40.54796,
+    "gn:longitude":45.44846,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tsaghkut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Tsaghkut"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u0572\u056f\u0578\u0582\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668205,
+        1108808609,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325070
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"f6fab130389987ca13a910418cd5903a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226143525,
+            "macroregion_id":1108808609,
+            "region_id":85668205
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1226143525,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1226143525,
+    "wof:lastmodified":1537584480,
+    "wof:name":"Tsaghkut",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.44846,
+    40.54796,
+    45.44846,
+    40.54796
+],
+  "geometry": {"coordinates":[45.44846,40.54796],"type":"Point"}
+}

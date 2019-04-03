@@ -1,0 +1,73 @@
+{
+  "id": 1276318931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45288,39.48889,46.45288,39.48889",
+    "geom:latitude":39.48889,
+    "geom:longitude":46.45288,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"hin Khndzoresk",
+    "gn:country_code":"AM",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11328175,
+    "gn:latitude":39.48889,
+    "gn:longitude":46.45288,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"hin Khndzoresk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "hin Khndzoresk"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u053d\u0576\u0571\u0578\u0580\u0565\u057d\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783691,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11328175
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"195af26d6b5def0688fa520330814442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783691,
+            "locality_id":1276318931,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1276318931,
+    "wof:lastmodified":1537584482,
+    "wof:name":"hin Khndzoresk",
+    "wof:parent_id":1108783691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45288,
+    39.48889000000001,
+    46.45288,
+    39.48889000000001
+],
+  "geometry": {"coordinates":[46.45288,39.48889000000001],"type":"Point"}
+}

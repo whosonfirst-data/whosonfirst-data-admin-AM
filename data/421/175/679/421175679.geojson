@@ -1,0 +1,115 @@
+{
+  "id": 421175679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91582,40.84042,43.91582,40.84042",
+    "geom:latitude":40.84042,
+    "geom:longitude":43.91582,
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u0440\u0430\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0627\u06a9\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Shirak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0580\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Shirak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e0\u10d0\u10d9\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0446\u0438\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0438\u0440\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Shirak"
+    ],
+    "name:unk_x_variant":[
+        "Konakhkran"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Shirak"
+    ],
+    "qs:gn_country":"AM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":616224,
+    "qs:gn_pop":1007,
+    "qs:name":"Shirak",
+    "qs:name_adm0":"Armenia",
+    "qs:name_adm1":"Shirak",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1027122,
+    "qs:woe_adm0":23424743,
+    "qs:woe_id":2214347,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        1108782717,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616224,
+        "gp:id":2214347,
+        "qs:id":1027122,
+        "wd:id":"Q2643853",
+        "wk:page":"Shirak, Armenia"
+    },
+    "wof:country":"AM",
+    "wof:created":1459009075,
+    "wof:geomhash":"57f6837952eb43eb4b98e98099d5fe20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782717,
+            "locality_id":421175679,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":421175679,
+    "wof:lastmodified":1527716344,
+    "wof:name":"Shirak",
+    "wof:parent_id":1108782717,
+    "wof:placetype":"locality",
+    "wof:population":1007,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91582,
+    40.84042,
+    43.91582,
+    40.84042
+],
+  "geometry": {"coordinates":[43.91582,40.84042],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310206627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91248,40.12512,43.91248,40.12512",
+    "geom:latitude":40.12512,
+    "geom:longitude":43.91248,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hin Gyugh",
+    "gn:country_code":"AM",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11107555,
+    "gn:latitude":40.12512,
+    "gn:longitude":43.91248,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Hin Gyugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hin Gyugh"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u0563\u0575\u0578\u0582\u0572"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783861,
+        85632773,
+        85668085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11107555
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"69884f5103311e5a4c4ab04f0654d1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783861,
+            "locality_id":1310206627,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":1310206627,
+    "wof:lastmodified":1537584416,
+    "wof:name":"Hin Gyugh",
+    "wof:parent_id":1108783861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91248,
+    40.12512,
+    43.91248,
+    40.12512
+],
+  "geometry": {"coordinates":[43.91248,40.12512],"type":"Point"}
+}

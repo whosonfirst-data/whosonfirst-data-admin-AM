@@ -1,0 +1,73 @@
+{
+  "id": 1259975039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55292,39.19873,46.55292,39.19873",
+    "geom:latitude":39.19873,
+    "geom:longitude":46.55292,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kmezn",
+    "gn:country_code":"AM",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329863,
+    "gn:latitude":39.19873,
+    "gn:longitude":46.55292,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kmezn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kmezn"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0574\u0565\u0566\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108784255,
+        85632773,
+        85668119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329863
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5f26c32e3101eace3d1e988f97eeed56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108784255,
+            "locality_id":1259975039,
+            "region_id":85668119
+        }
+    ],
+    "wof:id":1259975039,
+    "wof:lastmodified":1537584484,
+    "wof:name":"Kmezn",
+    "wof:parent_id":1108784255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55292,
+    39.19873,
+    46.55292,
+    39.19873
+],
+  "geometry": {"coordinates":[46.55292,39.19873],"type":"Point"}
+}

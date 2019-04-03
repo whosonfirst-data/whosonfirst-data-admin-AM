@@ -1,0 +1,78 @@
+{
+  "id": 1242888089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33069,40.3667,44.33069,40.3667",
+    "geom:latitude":40.3667,
+    "geom:longitude":44.33069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buravet",
+    "gn:country_code":"AM",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616793,
+    "gn:latitude":40.3667,
+    "gn:longitude":44.33069,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Buravet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Buravet"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0578\u0582\u0580\u0561\u057e\u0565\u057f"
+    ],
+    "name:und_x_variant":[
+        "Persi",
+        "Razvaliny Buravet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783711,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616793,
+        "wk:page":"Buravet"
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"2e1aa3c2219ea56590bc3379d941fca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783711,
+            "locality_id":1242888089,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1242888089,
+    "wof:lastmodified":1537584385,
+    "wof:name":"Buravet",
+    "wof:parent_id":1108783711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33069,
+    40.3667,
+    44.33069,
+    40.3667
+],
+  "geometry": {"coordinates":[44.33069,40.3667],"type":"Point"}
+}

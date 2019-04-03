@@ -1,0 +1,65 @@
+{
+  "id": 1226624423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43361,40.11667,44.43361,40.11667",
+    "geom:latitude":40.11667,
+    "geom:longitude":44.43361,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yengidzha",
+    "gn:country_code":"AM",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616058,
+    "gn:latitude":40.11667,
+    "gn:longitude":44.43361,
+    "gn:modification_date":"2003-03-21",
+    "gn:name":"Yengidzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616058
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3e6344e6342fb7f3f5a4506272d0e390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1226624423,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1226624423,
+    "wof:lastmodified":1536889879,
+    "wof:name":"Yengidzha",
+    "wof:parent_id":85668099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43361,
+    40.11667,
+    44.43361,
+    40.11667
+],
+  "geometry": {"coordinates":[44.43361,40.11667],"type":"Point"}
+}

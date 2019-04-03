@@ -1,0 +1,74 @@
+{
+  "id": 1242569525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83331,40.54309,43.83331,40.54309",
+    "geom:latitude":40.54309,
+    "geom:longitude":43.83331,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"K'araberd",
+    "gn:country_code":"AM",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616589,
+    "gn:latitude":40.54309,
+    "gn:longitude":43.83331,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"K\u2019araberd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0554\u0561\u0580\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:und_x_variant":[
+        "Dashkala",
+        "K\u2019araberd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782613,
+        85632773,
+        85668089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616589
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"506255f717ad407db36342bd04f004c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782613,
+            "locality_id":1242569525,
+            "region_id":85668089
+        }
+    ],
+    "wof:id":1242569525,
+    "wof:lastmodified":1537584379,
+    "wof:name":"K'araberd",
+    "wof:parent_id":1108782613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83331,
+    40.54309,
+    43.83331,
+    40.54309
+],
+  "geometry": {"coordinates":[43.83331,40.54309],"type":"Point"}
+}

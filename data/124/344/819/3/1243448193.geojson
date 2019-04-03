@@ -1,0 +1,73 @@
+{
+  "id": 1243448193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47089,39.71393,45.47089,39.71393",
+    "geom:latitude":39.71393,
+    "geom:longitude":45.47089,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hin Arin",
+    "gn:country_code":"AM",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643369,
+    "gn:latitude":39.71393,
+    "gn:longitude":45.47089,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Hin Arin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Hin Arin"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u0531\u0580\u056b\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783409,
+        85632773,
+        85668123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643369
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"84c43998313d1a01f925836b9c753621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783409,
+            "locality_id":1243448193,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":1243448193,
+    "wof:lastmodified":1537584402,
+    "wof:name":"Hin Arin",
+    "wof:parent_id":1108783409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47089,
+    39.71393,
+    45.47089,
+    39.71393
+],
+  "geometry": {"coordinates":[45.47089,39.71393],"type":"Point"}
+}

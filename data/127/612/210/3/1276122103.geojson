@@ -1,0 +1,73 @@
+{
+  "id": 1276122103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39447,40.4389,44.39447,40.4389",
+    "geom:latitude":40.4389,
+    "geom:longitude":44.39447,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mosei Surb",
+    "gn:country_code":"AM",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230444,
+    "gn:latitude":40.4389,
+    "gn:longitude":44.39447,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Mosei Surb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mosei Surb"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u057d\u0565\u056b \u054d\u0578\u0582\u0580\u0562"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782861,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230444
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"233aecddcbbf6123ea414df958796fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782861,
+            "locality_id":1276122103,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1276122103,
+    "wof:lastmodified":1537584443,
+    "wof:name":"Mosei Surb",
+    "wof:parent_id":1108782861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39447,
+    40.4389,
+    44.39447,
+    40.4389
+],
+  "geometry": {"coordinates":[44.39447,40.4389],"type":"Point"}
+}

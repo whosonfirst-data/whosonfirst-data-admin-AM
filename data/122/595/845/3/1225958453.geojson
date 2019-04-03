@@ -1,0 +1,76 @@
+{
+  "id": 1225958453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39728,40.4389,44.39728,40.4389",
+    "geom:latitude":40.4389,
+    "geom:longitude":44.39728,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ap'nagyugh",
+    "gn:country_code":"AM",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616948,
+    "gn:latitude":40.4389,
+    "gn:longitude":44.39728,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ap\u2019nagyugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ap\u2019nagyugh"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0583\u0576\u0561\u0563\u0575\u0578\u0582\u0572"
+    ],
+    "name:und_x_variant":[
+        "Apnagyukh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108782861,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616948
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"7d85cd1bdcad40e7475878d3d6306207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782861,
+            "locality_id":1225958453,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1225958453,
+    "wof:lastmodified":1537584390,
+    "wof:name":"Ap'nagyugh",
+    "wof:parent_id":1108782861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39728,
+    40.4389,
+    44.39728,
+    40.4389
+],
+  "geometry": {"coordinates":[44.39728,40.4389],"type":"Point"}
+}

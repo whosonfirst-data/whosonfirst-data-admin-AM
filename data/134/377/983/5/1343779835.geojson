@@ -1,0 +1,73 @@
+{
+  "id": 1343779835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34168,40.35553,44.34168,40.35553",
+    "geom:latitude":40.35553,
+    "geom:longitude":44.34168,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lazrevan",
+    "gn:country_code":"AM",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231021,
+    "gn:latitude":40.35553,
+    "gn:longitude":44.34168,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Lazrevan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lazrevan"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0561\u0566\u0580\u0587\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783709,
+        85632773,
+        85668083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231021
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"9b71539c99abcc66f45b49507dd71dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783709,
+            "locality_id":1343779835,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":1343779835,
+    "wof:lastmodified":1537584446,
+    "wof:name":"Lazrevan",
+    "wof:parent_id":1108783709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34168,
+    40.35553,
+    44.34168,
+    40.35553
+],
+  "geometry": {"coordinates":[44.34168,40.35553],"type":"Point"}
+}

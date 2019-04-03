@@ -1,0 +1,77 @@
+{
+  "id": 1310338275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.24041,40.00458,45.24041,40.00458",
+    "geom:latitude":40.00458,
+    "geom:longitude":45.24041,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nshkhark'",
+    "gn:country_code":"AM",
+    "gn:dem":2307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616069,
+    "gn:latitude":40.00458,
+    "gn:longitude":45.24041,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nshkhark\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nshkhark\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0577\u056d\u0561\u0580\u0584"
+    ],
+    "name:und_x_variant":[
+        "Yanykhskiy Sovkhoz",
+        "Yanykh",
+        "Yan\u0131x",
+        "Yanygh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616069
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3cb7a114d7746bffc67d7d15ff283f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1310338275,
+            "region_id":85668103
+        }
+    ],
+    "wof:id":1310338275,
+    "wof:lastmodified":1537584360,
+    "wof:name":"Nshkhark'",
+    "wof:parent_id":85668103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.24041,
+    40.00458,
+    45.24041,
+    40.00458
+],
+  "geometry": {"coordinates":[45.24041,40.00458],"type":"Point"}
+}

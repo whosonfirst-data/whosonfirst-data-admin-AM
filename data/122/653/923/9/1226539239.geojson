@@ -1,0 +1,73 @@
+{
+  "id": 1226539239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53332,40.4361,44.53332,40.4361",
+    "geom:latitude":40.4361,
+    "geom:longitude":44.53332,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Geghavan",
+    "gn:country_code":"AM",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11107616,
+    "gn:latitude":40.4361,
+    "gn:longitude":44.53332,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Geghavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Geghavan"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0565\u0572\u0561\u057e\u0561\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783527,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11107616
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"1df8bbc8dc7552b5207912595af2cdf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783527,
+            "locality_id":1226539239,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1226539239,
+    "wof:lastmodified":1537584416,
+    "wof:name":"Geghavan",
+    "wof:parent_id":1108783527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53332,
+    40.4361,
+    44.53332,
+    40.4361
+],
+  "geometry": {"coordinates":[44.53332,40.4361],"type":"Point"}
+}

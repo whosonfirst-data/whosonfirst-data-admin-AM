@@ -1,0 +1,71 @@
+{
+  "id": 1344167053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81952,40.14728,44.81952,40.14728",
+    "geom:latitude":40.14728,
+    "geom:longitude":44.81952,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jaghats'adzor",
+    "gn:country_code":"AM",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128720,
+    "gn:latitude":40.14728,
+    "gn:longitude":44.81952,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Jaghats\u2019adzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Jaghats\u2019adzor"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0561\u0572\u0561\u0581\u0561\u0571\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632773,
+        85668105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128720
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"009b90e441161a6392fef339376fa77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1344167053,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":1344167053,
+    "wof:lastmodified":1537584427,
+    "wof:name":"Jaghats'adzor",
+    "wof:parent_id":85668105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81952,
+    40.14728,
+    44.81952,
+    40.14728
+],
+  "geometry": {"coordinates":[44.81952,40.14728],"type":"Point"}
+}
