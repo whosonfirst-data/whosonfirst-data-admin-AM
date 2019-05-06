@@ -13,8 +13,17 @@
     "gn:fcode":"ADM2",
     "gn:pop":150200,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Arabkir Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Arabkir"
+    ],
     "qs:name":"Arabkir",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -44,10 +53,11 @@
         }
     ],
     "wof:id":890420051,
-    "wof:lastmodified":1527792812,
+    "wof:lastmodified":1555046995,
     "wof:name":"Arabkir",
     "wof:parent_id":85668115,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:population":150200,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-am",

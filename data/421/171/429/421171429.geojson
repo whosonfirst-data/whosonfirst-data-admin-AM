@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.538574,40.692092,44.538574,40.692092",
     "geom:latitude":40.692092,
     "geom:longitude":44.538574,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Gugark Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Gugark"
+    ],
+    "name:eng_x_variant":[
+        "Gugark Shrjan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459008893,
-    "wof:geomhash":"8850996df2006f183efe62f8863c977f",
+    "wof:geomhash":"57238b4247b1ea2b8ad901e6ef5fdb33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +66,11 @@
         }
     ],
     "wof:id":421171429,
-    "wof:lastmodified":1466635833,
-    "wof:name":"Gugark Shrjan",
+    "wof:lastmodified":1555046994,
+    "wof:name":"Gugark",
     "wof:parent_id":85668105,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
     "wof:supersedes":[],

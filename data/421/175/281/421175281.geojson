@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.27716,39.311987,46.27716,39.311987",
     "geom:latitude":39.311987,
     "geom:longitude":46.27716,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Kafan Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kafan"
+    ],
+    "name:eng_x_variant":[
+        "Kafan Shrjan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009061,
-    "wof:geomhash":"22877b38026b86a45affab9ce5ccd517",
+    "wof:geomhash":"6c385f49a1447ac6a851434df3f143f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +66,11 @@
         }
     ],
     "wof:id":421175281,
-    "wof:lastmodified":1466635841,
-    "wof:name":"Kafan Shrjan",
+    "wof:lastmodified":1555046994,
+    "wof:name":"Kafan",
     "wof:parent_id":85668119,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
     "wof:supersedes":[],

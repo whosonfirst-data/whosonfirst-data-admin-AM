@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.726028,40.114839,44.726028,40.114839",
     "geom:latitude":40.114839,
     "geom:longitude":44.726028,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Artashat Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Artashat"
+    ],
+    "name:eng_x_variant":[
+        "Artashat Shrjan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009815,
-    "wof:geomhash":"115919a64ba8728b079861e5340ea1a9",
+    "wof:geomhash":"d1d84f290dd06439be2953354f54df46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +66,11 @@
         }
     ],
     "wof:id":421194661,
-    "wof:lastmodified":1466635879,
-    "wof:name":"Artashat Shrjan",
+    "wof:lastmodified":1555046995,
+    "wof:name":"Artashat",
     "wof:parent_id":85668105,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
     "wof:supersedes":[],

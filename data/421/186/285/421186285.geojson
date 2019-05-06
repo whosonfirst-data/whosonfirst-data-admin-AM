@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"45.959415,39.654341,45.959415,39.654341",
     "geom:latitude":39.654341,
     "geom:longitude":45.959415,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Sisian Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sisian"
+    ],
+    "name:eng_x_variant":[
+        "Sisian Shrjan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009476,
-    "wof:geomhash":"f8caae24796b280795d6386fa6b5614e",
+    "wof:geomhash":"66e40687ea4950749fa75e936d075ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +66,11 @@
         }
     ],
     "wof:id":421186285,
-    "wof:lastmodified":1466635862,
-    "wof:name":"Sisian Shrjan",
+    "wof:lastmodified":1555046994,
+    "wof:name":"Sisian",
     "wof:parent_id":85668119,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
     "wof:supersedes":[],

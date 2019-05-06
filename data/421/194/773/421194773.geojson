@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"45.351562,39.597223,45.351562,39.597223",
     "geom:latitude":39.597223,
     "geom:longitude":45.351562,
     "iso:country":"AM",
+    "label:eng_x_preferred_longname":[
+        "Azizbekov Shrjan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shrjan"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Azizbekov"
+    ],
+    "name:eng_x_variant":[
+        "Azizbekov Shrjan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009819,
-    "wof:geomhash":"d8bb24fa424a7743611b194e8963a3fa",
+    "wof:geomhash":"036a9d114cfeebffff67431b3c1cea7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +66,11 @@
         }
     ],
     "wof:id":421194773,
-    "wof:lastmodified":1466635879,
-    "wof:name":"Azizbekov Shrjan",
+    "wof:lastmodified":1555046995,
+    "wof:name":"Azizbekov",
     "wof:parent_id":85668123,
     "wof:placetype":"county",
+    "wof:placetype_local":"shrjan",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
     "wof:supersedes":[],
