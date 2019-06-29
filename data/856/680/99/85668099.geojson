@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0561\u0580\u0561\u057f\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Ararat m\u0259rzi"
     ],
@@ -46,17 +43,17 @@
     "name:cat_x_preferred":[
         "Ararat"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u62c9\u62c9\u7279\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ararat"
     ],
     "name:dan_x_preferred":[
         "Ararat Province"
     ],
-    "name:dut_x_preferred":[
-        "Ararat"
+    "name:deu_x_preferred":[
+        "Region Ararat"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03c1\u03b1\u03c1\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Ararat"
@@ -70,20 +67,14 @@
     "name:est_x_preferred":[
         "Ararati maakond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u0627\u0631\u0627\u062a"
+    ],
     "name:fin_x_preferred":[
         "Ararat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ararat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10e0\u10d0\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Region Ararat"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03c1\u03b1\u03c1\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0ab0\u0abe\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -119,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0cb0\u0cbe\u0ca4\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10e0\u10d0\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub77c\ub77c\ud2b8 \uc8fc"
     ],
@@ -131,17 +125,17 @@
     "name:lit_x_preferred":[
         "Ararato sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0430\u0440\u0430\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u093e\u0930\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Ararat"
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0430\u0440\u0430\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u0430\u0440\u0430\u0442 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Ararat"
     ],
     "name:nan_x_preferred":[
         "Ararat S\u00e9ng"
@@ -149,14 +143,14 @@
     "name:nep_x_preferred":[
         "\u0905\u0930\u093e\u0930\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Ararat"
+    ],
     "name:nob_x_preferred":[
         "Ararat"
     ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0430\u0440\u0430\u0442"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u0627\u0631\u0627\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0627\u0631\u0627\u062a"
@@ -167,7 +161,7 @@
     "name:por_x_preferred":[
         "Ararate"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ararat"
     ],
     "name:rus_x_preferred":[
@@ -220,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Ararat"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u62c9\u62c9\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARM",
@@ -342,7 +339,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1561778335,
     "wof:name":"Ararat",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -13,26 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0544\u0575\u0561\u057d\u0576\u056b\u056f\u0575\u0561\u0576"
-    ],
     "name:ceb_x_preferred":[
-        "Myasnikyan"
-    ],
-    "name:dut_x_preferred":[
         "Myasnikyan"
     ],
     "name:eng_x_preferred":[
         "Myasnikyan"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0633\u0646\u06cc\u06a9\u06cc\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Myasnikyan"
-    ],
-    "name:fre_x_preferred":[
-        "Myasnikyan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10d0\u10e1\u10dc\u10d8\u10d9\u10d8\u10d0\u10dc\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0575\u0561\u057d\u0576\u056b\u056f\u0575\u0561\u0576"
@@ -46,14 +37,11 @@
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d0\u10e1\u10dc\u10d8\u10d9\u10d8\u10d0\u10dc\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Myasnikyan"
-    ],
     "name:msa_x_preferred":[
         "Myasnikyan"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0627\u0633\u0646\u06cc\u06a9\u06cc\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Myasnikyan"
     ],
     "name:rus_x_preferred":[
         "\u041c\u044f\u0441\u043d\u0438\u043a\u044f\u043d"
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":421177015,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561778367,
     "wof:name":"Myasnikyan",
     "wof:parent_id":1108783877,
     "wof:placetype":"locality",

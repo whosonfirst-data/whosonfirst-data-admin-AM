@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0628\u0627\u0631\u0627\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f"
-    ],
     "name:aze_x_preferred":[
         "\u00c7\u0259mb\u0259r\u0259k"
     ],
@@ -30,12 +27,6 @@
     ],
     "name:che_x_preferred":[
         "\u0427\u0430\u043c\u0431\u0430\u0440\u0430\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u67e5\u5df4\u62c9\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Chambarak"
     ],
     "name:eng_x_preferred":[
         "Chambarak"
@@ -51,12 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Tjambarak"
-    ],
-    "name:fre_x_preferred":[
-        "Tjambarak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ed\u10d0\u10db\u10d1\u10d0\u10e0\u10d0\u10d9\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f"
@@ -76,9 +61,6 @@
     "name:lit_x_preferred":[
         "\u010cambarakas"
     ],
-    "name:may_x_preferred":[
-        "Chambarak"
-    ],
     "name:msa_x_preferred":[
         "Chambarak"
     ],
@@ -91,13 +73,13 @@
     "name:nld_x_preferred":[
         "Tsjambarak"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0645\u0628\u0627\u0631\u0627\u06a9"
+    "name:nld_x_variant":[
+        "Chambarak"
     ],
     "name:ron_x_preferred":[
         "Ciambarak"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Chambarak"
     ],
     "name:rus_x_preferred":[
@@ -126,6 +108,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tjambarak"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u5df4\u62c9\u514b"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -175,7 +160,7 @@
         }
     ],
     "wof:id":421179787,
-    "wof:lastmodified":1527717716,
+    "wof:lastmodified":1561778368,
     "wof:name":"Chambarak",
     "wof:parent_id":1108783369,
     "wof:placetype":"locality",

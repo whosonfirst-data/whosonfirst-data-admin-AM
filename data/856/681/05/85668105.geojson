@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u062a\u0627\u064a\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u057f\u0561\u0575\u0584\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Kotayk m\u0259rzi"
     ],
@@ -46,17 +43,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kotayk"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6cf0\u514b\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kotajk"
     ],
     "name:dan_x_preferred":[
         "Kotayk Region"
     ],
-    "name:dut_x_preferred":[
-        "Kotayk"
+    "name:deu_x_preferred":[
+        "Region Kotajk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c4\u03b1\u03b3\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kotayk'"
@@ -72,20 +69,14 @@
     "name:est_x_preferred":[
         "Kotajkhi maakond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u062a\u0627\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Kotajk'"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kotayk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e2\u10d0\u10d8\u10e5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Region Kotajk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03c4\u03b1\u03b3\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0abe\u0a95 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -118,6 +109,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccb\u0c9f\u0ccd\u0caf\u0cbe\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10d0\u10d8\u10e5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ud0c0\uc774\ud06c \uc8fc"
     ],
@@ -127,17 +121,17 @@
     "name:lit_x_preferred":[
         "Kotaiko sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0442\u0430\u0458\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0924\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Kotayk"
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0458\u043a"
     ],
     "name:mon_x_preferred":[
         "\u041a\u043e\u0442\u0430\u0439\u043a \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Kotayk"
     ],
     "name:nan_x_preferred":[
         "Kotayk S\u00e9ng"
@@ -145,14 +139,14 @@
     "name:nep_x_preferred":[
         "\u0915\u094b\u091f\u093e\u092f\u0915 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Kotayk"
+    ],
     "name:nob_x_preferred":[
         "Kotajk"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a4b\u0a1f\u0a3e\u0a07\u0a15"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u062a\u0627\u06cc\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u062a\u0627\u06cc\u06a9"
@@ -163,7 +157,7 @@
     "name:por_x_preferred":[
         "Kotayk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Kotayk"
     ],
     "name:rus_x_preferred":[
@@ -219,6 +213,9 @@
     ],
     "name:war_x_preferred":[
         "Kotayk"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6cf0\u514b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARM",
@@ -341,7 +338,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1553550293,
+    "wof:lastmodified":1561778334,
     "wof:name":"Kotayk",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

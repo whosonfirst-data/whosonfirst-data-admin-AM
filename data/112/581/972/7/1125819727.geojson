@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0648\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0561\u057e\u0561\u057c"
-    ],
     "name:aze_x_preferred":[
         "K\u0259v\u0259r"
     ],
@@ -43,14 +40,14 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u0432\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u74e6\u723e"
-    ],
     "name:dan_x_preferred":[
         "Gavar"
     ],
-    "name:dut_x_preferred":[
-        "Gavar"
+    "name:deu_x_preferred":[
+        "Gawar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03b2\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Gavarr"
@@ -61,20 +58,14 @@
     "name:est_x_preferred":[
         "Gavar"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0648\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Gavar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gavar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d5\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gawar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03b2\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0ab5\u0ab0"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cb5\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d5\u10d0\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uac00\ubc14\ub974"
     ],
@@ -112,13 +106,16 @@
     "name:mar_x_preferred":[
         "\u0917\u0947\u0935\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gavar"
     ],
     "name:mzn_x_preferred":[
         "\u06af\u0627\u0648\u0627\u0631"
     ],
     "name:nan_x_preferred":[
+        "Gavar"
+    ],
+    "name:nld_x_preferred":[
         "Gavar"
     ],
     "name:nob_x_preferred":[
@@ -130,16 +127,13 @@
     "name:oss_x_preferred":[
         "\u0413\u0430\u0432\u0430\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0648\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Gawar"
     ],
     "name:por_x_preferred":[
         "Gavar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gavar"
     ],
     "name:rus_x_historical":[
@@ -196,6 +190,9 @@
     "name:war_x_preferred":[
         "Gavar"
     ],
+    "name:zho_x_preferred":[
+        "\u52a0\u74e6\u723e"
+    ],
     "qs_pg:aaroncc":"AM",
     "qs_pg:gn_country":"AM",
     "qs_pg:gn_fcode":"PPLA",
@@ -235,7 +232,7 @@
         }
     ],
     "wof:id":1125819727,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561778372,
     "wof:name":"Gavarr",
     "wof:parent_id":1108784221,
     "wof:placetype":"locality",

@@ -18,25 +18,19 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0627\u063a\u0643\u0627\u0648\u0641\u064a\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u053e\u0561\u0572\u056f\u0561\u0570\u0578\u057e\u056b\u057f"
-    ],
     "name:aze_x_preferred":[
         "Hac\u0131 X\u0259lil"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsaghkahovit"
     ],
     "name:eng_x_preferred":[
         "Tsaghkahovit"
     ],
-    "name:fre_x_preferred":[
-        "Tsaghkahovit"
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u0642\u06a9\u0627\u0647\u0648\u0648\u06cc\u062a"
     ],
-    "name:geo_x_preferred":[
-        "\u10ec\u10d0\u10e6\u10d9\u10d0\u10f0\u10dd\u10d5\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsaghkahovit"
     ],
     "name:hye_x_preferred":[
@@ -45,11 +39,14 @@
     "name:ita_x_preferred":[
         "Tsaghkahovit"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10ec\u10d0\u10e6\u10d9\u10d0\u10f0\u10dd\u10d5\u10d8\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Tsaghkahovit"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0627\u0642\u06a9\u0627\u0647\u0648\u0648\u06cc\u062a"
+    "name:nld_x_preferred":[
+        "Tsaghkahovit"
     ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u043e\u0432\u0438\u0442"
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":890433445,
-    "wof:lastmodified":1527792956,
+    "wof:lastmodified":1561778371,
     "wof:name":"Tsaghkahovit",
     "wof:parent_id":1108782627,
     "wof:placetype":"locality",

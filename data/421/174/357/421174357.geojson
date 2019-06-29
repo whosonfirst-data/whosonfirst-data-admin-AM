@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u063a\u0627\u0641\u0627\u0646\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0580\u0563\u0561\u057e\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "G\u00f6d\u0259kli"
     ],
     "name:ceb_x_preferred":[
-        "Mrgavan"
-    ],
-    "name:dut_x_preferred":[
         "Mrgavan"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Mrgavan"
     ],
-    "name:fre_x_preferred":[
-        "Mrgavan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e0\u10d2\u10d0\u10d5\u10d0\u10dc\u10d8"
-    ],
     "name:hye_x_preferred":[
         "\u0544\u0580\u0563\u0561\u057e\u0561\u0576"
     ],
@@ -52,14 +40,11 @@
     "name:kat_x_preferred":[
         "\u10db\u10e0\u10d2\u10d0\u10d5\u10d0\u10dc\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Mrgavan"
-    ],
     "name:msa_x_preferred":[
         "Mrgavan"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u06af\u0627\u0648\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Mrgavan"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0433\u0440\u0430\u0432\u0430\u043d"
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":421174357,
-    "wof:lastmodified":1527716228,
+    "wof:lastmodified":1561778363,
     "wof:name":"Mrgavan",
     "wof:parent_id":1108784353,
     "wof:placetype":"locality",

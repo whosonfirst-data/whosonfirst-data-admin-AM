@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u057c\u0578\u0582\u057f"
-    ],
     "name:aze_x_preferred":[
         "Urud"
-    ],
-    "name:dut_x_preferred":[
-        "Urut"
     ],
     "name:eng_x_preferred":[
         "Urrut"
@@ -31,12 +25,6 @@
     "name:fra_x_preferred":[
         "Urut"
     ],
-    "name:fre_x_preferred":[
-        "Urut"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e0\u10e3\u10e2\u10d8"
-    ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u057c\u0578\u0582\u057f"
     ],
@@ -46,8 +34,8 @@
     "name:kat_x_preferred":[
         "\u10e3\u10e0\u10e3\u10e2\u10d8"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0648\u062a"
+    "name:nld_x_preferred":[
+        "Urut"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0443\u0442"
@@ -112,7 +100,7 @@
         }
     ],
     "wof:id":421178493,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561778369,
     "wof:name":"Urrut",
     "wof:parent_id":1108783131,
     "wof:placetype":"locality",

@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0576\u0564"
-    ],
     "name:ceb_x_preferred":[
         "Rrind"
-    ],
-    "name:dut_x_preferred":[
-        "Rind"
     ],
     "name:eng_x_preferred":[
         "Rind"
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Rind"
-    ],
-    "name:fre_x_preferred":[
-        "Rind"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dc\u10d3\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u0576\u0564"
@@ -49,14 +37,11 @@
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10dc\u10d3\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Rind"
-    ],
     "name:msa_x_preferred":[
         "Rind"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0646\u062f\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Rind"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043d\u0434"
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":421200489,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561778367,
     "wof:name":"Rrind",
     "wof:parent_id":1108783489,
     "wof:placetype":"locality",
