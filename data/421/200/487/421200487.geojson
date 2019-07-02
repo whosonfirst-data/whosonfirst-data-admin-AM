@@ -16,13 +16,7 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0627\u0645\u0627\u0631\u063a\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u0580\u0561\u0574\u0561\u0580\u0563"
-    ],
     "name:ceb_x_preferred":[
-        "Noramarg"
-    ],
-    "name:dut_x_preferred":[
         "Noramarg"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Noramarg"
-    ],
-    "name:fre_x_preferred":[
-        "Noramarg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10e0\u10d0\u10db\u10d0\u10e0\u10d2\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0580\u0561\u0574\u0561\u0580\u0563"
@@ -52,14 +40,11 @@
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10e0\u10d0\u10db\u10d0\u10e0\u10d2\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Noramarg"
-    ],
     "name:msa_x_preferred":[
         "Noramarg"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0631\u0627\u0645\u0627\u0631\u06af"
+    "name:nld_x_preferred":[
+        "Noramarg"
     ],
     "name:rus_x_preferred":[
         "Pos\u00eblok Imeni Kalinina"
@@ -130,7 +115,7 @@
         }
     ],
     "wof:id":421200487,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561778367,
     "wof:name":"Noramarg",
     "wof:parent_id":1108782983,
     "wof:placetype":"locality",

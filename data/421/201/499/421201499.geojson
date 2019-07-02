@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0644\u064a\u062c\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u056b\u056c\u056b\u057b\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Dilican"
     ],
@@ -37,17 +34,11 @@
     "name:che_x_preferred":[
         "\u0414\u0438\u043b\u0438\u0436\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u5229\u7136"
-    ],
-    "name:cze_x_preferred":[
-        "Dilid\u017ean"
-    ],
     "name:deu_x_preferred":[
         "Dilidschan"
     ],
-    "name:dut_x_preferred":[
-        "Dilijan"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bb\u03b9\u03b6\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dilijan"
@@ -63,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Dilidjan"
-    ],
-    "name:fre_x_preferred":[
-        "Dilidjan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10da\u10d8\u10ef\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dilidschan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03bb\u03b9\u03b6\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05dc\u05d9\u05d2'\u05df"
@@ -100,9 +79,6 @@
     "name:lit_x_preferred":[
         "Dili\u017eanas"
     ],
-    "name:may_x_preferred":[
-        "Dilijan"
-    ],
     "name:msa_x_preferred":[
         "Dilijan"
     ],
@@ -115,11 +91,11 @@
     "name:nld_x_preferred":[
         "Dilidzjan"
     ],
+    "name:nld_x_variant":[
+        "Dilijan"
+    ],
     "name:oss_x_preferred":[
         "\u0414\u0438\u043b\u0438\u0436\u0430\u043d"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0644\u06cc\u062c\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Dilid\u017can"
@@ -128,9 +104,6 @@
         "Dilijan"
     ],
     "name:ron_x_preferred":[
-        "Dilijan"
-    ],
-    "name:rum_x_preferred":[
         "Dilijan"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +193,7 @@
         }
     ],
     "wof:id":421201499,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561778367,
     "wof:name":"Dilijan",
     "wof:parent_id":1108784053,
     "wof:placetype":"locality",

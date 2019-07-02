@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0548\u057d\u056f\u0565\u057e\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Xo\u015fkotan"
     ],
@@ -25,8 +22,8 @@
     "name:ceb_x_preferred":[
         "Voskevan"
     ],
-    "name:dut_x_preferred":[
-        "Voskevan"
+    "name:deu_x_preferred":[
+        "Woskewan"
     ],
     "name:eng_x_preferred":[
         "Voskevan"
@@ -37,15 +34,6 @@
     "name:fra_x_preferred":[
         "Voskevan"
     ],
-    "name:fre_x_preferred":[
-        "Voskevan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10e1\u10d9\u10d4\u10d5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Woskewan"
-    ],
     "name:hye_x_preferred":[
         "\u0548\u057d\u056f\u0565\u057e\u0561\u0576"
     ],
@@ -55,20 +43,17 @@
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10e1\u10d9\u10d4\u10d5\u10d0\u10dc\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Voskevan"
-    ],
     "name:msa_x_preferred":[
         "Voskevan"
     ],
     "name:nan_x_preferred":[
         "Voskevan"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Voskevan"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0633\u06a9\u0648\u0627\u0646"
+    "name:oci_x_preferred":[
+        "Voskevan"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0435\u0432\u0430\u043d"
@@ -136,7 +121,7 @@
         }
     ],
     "wof:id":421200509,
-    "wof:lastmodified":1527716426,
+    "wof:lastmodified":1561778367,
     "wof:name":"Voskevan",
     "wof:parent_id":1108783057,
     "wof:placetype":"locality",

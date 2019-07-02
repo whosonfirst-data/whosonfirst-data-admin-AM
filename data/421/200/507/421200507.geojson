@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0643\u064a\u0641\u0627\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u057d\u056f\u0565\u057e\u0561\u0566"
-    ],
     "name:aze_x_preferred":[
         "Q\u0131z\u0131ld\u0259mir"
     ],
     "name:ceb_x_preferred":[
-        "Voskevaz"
-    ],
-    "name:dut_x_preferred":[
         "Voskevaz"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +28,11 @@
     "name:fas_x_preferred":[
         "\u0648\u0648\u0633\u06a9\u0648\u0627\u0632"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u0648\u0633\u06a9\u0647 \u0648\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
         "Voskevaz"
-    ],
-    "name:fre_x_preferred":[
-        "Voskevaz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10e1\u10d9\u10d4\u10d5\u10d0\u10d6\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0548\u057d\u056f\u0565\u057e\u0561\u0566"
@@ -55,14 +46,11 @@
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10e1\u10d9\u10d4\u10d5\u10d0\u10d6\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Voskevaz"
-    ],
     "name:msa_x_preferred":[
         "Voskevaz"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0633\u06a9\u0647 \u0648\u0627\u0632"
+    "name:nld_x_preferred":[
+        "Voskevaz"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0435\u0432\u0430\u0437"
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421200507,
-    "wof:lastmodified":1527716426,
+    "wof:lastmodified":1561778367,
     "wof:name":"Voskevaz",
     "wof:parent_id":1108784203,
     "wof:placetype":"locality",

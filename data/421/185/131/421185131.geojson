@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0577"
-    ],
     "name:aze_x_preferred":[
         "Qo\u015f"
     ],
     "name:deu_x_preferred":[
         "Kosch"
-    ],
-    "name:dut_x_preferred":[
-        "Kosh"
     ],
     "name:eng_x_preferred":[
         "Kosh"
@@ -40,15 +34,6 @@
     "name:fra_x_preferred":[
         "Kosh"
     ],
-    "name:fre_x_preferred":[
-        "Kosh"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kosch"
-    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0577"
     ],
@@ -61,14 +46,11 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e8\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Kosh"
-    ],
     "name:msa_x_preferred":[
         "Kosh"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0634"
+    "name:nld_x_preferred":[
+        "Kosh"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448"
@@ -133,7 +115,7 @@
         }
     ],
     "wof:id":421185131,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1561778369,
     "wof:name":"Kosh",
     "wof:parent_id":1108783769,
     "wof:placetype":"locality",

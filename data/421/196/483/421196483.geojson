@@ -13,26 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0572\u057d"
-    ],
     "name:ceb_x_preferred":[
-        "Doghs"
-    ],
-    "name:dut_x_preferred":[
         "Doghs"
     ],
     "name:eng_x_preferred":[
         "Doghs"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u063a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Doghs"
-    ],
-    "name:fre_x_preferred":[
-        "Doghs"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10e6\u10e1\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0572\u057d"
@@ -46,14 +37,11 @@
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10e6\u10e1\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Doghs"
-    ],
     "name:msa_x_preferred":[
         "Doghs"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u063a\u0633"
+    "name:nld_x_preferred":[
+        "Doghs"
     ],
     "name:sco_x_preferred":[
         "Doghs"
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421196483,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1561778365,
     "wof:name":"Dokhs",
     "wof:parent_id":1108783915,
     "wof:placetype":"locality",

@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u056e \u0544\u0561\u057d\u0580\u056b\u056f"
-    ],
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck M\u0259zr\u0259"
     ],
     "name:ceb_x_preferred":[
-        "Mets Masrik"
-    ],
-    "name:dut_x_preferred":[
         "Mets Masrik"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Mets Masrik"
     ],
-    "name:fre_x_preferred":[
-        "Mets Masrik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10ec-\u10db\u10d0\u10e1\u10e0\u10d8\u10d9\u10d8"
-    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056e \u0544\u0561\u057d\u0580\u056b\u056f"
     ],
@@ -49,14 +37,11 @@
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10ec-\u10db\u10d0\u10e1\u10e0\u10d8\u10d9\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Mets Masrik"
-    ],
     "name:msa_x_preferred":[
         "Mets Masrik"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062a\u0633 \u0645\u0627\u0633\u0631\u06cc\u06a9"
+    "name:nld_x_preferred":[
+        "Mets Masrik"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446 \u041c\u0430\u0437\u0440\u0430"
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":421197881,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1561778365,
     "wof:name":"Mets Masrik",
     "wof:parent_id":1108784089,
     "wof:placetype":"locality",

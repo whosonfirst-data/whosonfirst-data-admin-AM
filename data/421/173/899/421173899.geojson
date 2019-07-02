@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u054d\u0587\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Yelenovka"
     ],
@@ -37,17 +34,8 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u0432\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u51e1"
-    ],
-    "name:cze_x_preferred":[
-        "Sevan"
-    ],
     "name:deu_x_preferred":[
         "Sewan"
-    ],
-    "name:dut_x_preferred":[
-        "Sevan"
     ],
     "name:eng_x_preferred":[
         "Sevan"
@@ -67,15 +55,6 @@
     "name:fra_x_preferred":[
         "Sevan"
     ],
-    "name:fre_x_preferred":[
-        "Sevan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10d5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sewan"
-    ],
     "name:hye_x_preferred":[
         "\u054d\u0587\u0561\u0576"
     ],
@@ -90,9 +69,6 @@
     ],
     "name:lit_x_preferred":[
         "Sevanas"
-    ],
-    "name:may_x_preferred":[
-        "Sevan"
     ],
     "name:msa_x_preferred":[
         "Sevan"
@@ -109,9 +85,6 @@
     "name:oci_x_preferred":[
         "Sevan"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Sewan"
     ],
@@ -119,9 +92,6 @@
         "Sevan"
     ],
     "name:ron_x_preferred":[
-        "Sevan"
-    ],
-    "name:rum_x_preferred":[
         "Sevan"
     ],
     "name:rus_x_preferred":[
@@ -205,7 +175,7 @@
         }
     ],
     "wof:id":421173899,
-    "wof:lastmodified":1527716261,
+    "wof:lastmodified":1561778364,
     "wof:name":"Sevan",
     "wof:parent_id":1108783561,
     "wof:placetype":"locality",

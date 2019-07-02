@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u064a\u0631\u0627\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u056b\u0580\u0561\u056f\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Amasiya"
     ],
@@ -46,17 +43,17 @@
     "name:cat_x_preferred":[
         "Xirak"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u62c9\u514b\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160irak"
     ],
     "name:dan_x_preferred":[
         "Shirak Region"
     ],
-    "name:dut_x_preferred":[
-        "Sjirak"
+    "name:deu_x_preferred":[
+        "Schirak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c1\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Shirak"
@@ -72,20 +69,14 @@
     "name:est_x_preferred":[
         "\u0160iraki maakond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u06cc\u0631\u0627\u06a9"
+    ],
     "name:fin_x_preferred":[
         "\u0160irak"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shirak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10e0\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Schirak"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c1\u03ac\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0ab0\u0a95 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -121,6 +112,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0cb0\u0cbe\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e0\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\ub77c\ud06c \uc8fc"
     ],
@@ -130,17 +124,17 @@
     "name:lit_x_preferred":[
         "\u0160irako sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0438\u0440\u0430\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u0930\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Shirak"
+    "name:mkd_x_preferred":[
+        "\u0428\u0438\u0440\u0430\u043a"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u0440\u0430\u043a \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Shirak"
     ],
     "name:nan_x_preferred":[
         "Shirak S\u00e9ng"
@@ -148,14 +142,14 @@
     "name:nep_x_preferred":[
         "\u0936\u093f\u0930\u093e\u0915 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Sjirak"
+    ],
     "name:nob_x_preferred":[
         "Sjirak"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3f\u0a30\u0a3e\u0a15"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0634\u06cc\u0631\u0627\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0634\u0631\u0627\u06a9"
@@ -166,7 +160,7 @@
     "name:por_x_preferred":[
         "Shirak"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Shirak"
     ],
     "name:rus_x_preferred":[
@@ -219,6 +213,9 @@
     ],
     "name:war_x_preferred":[
         "Shirak"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u62c9\u514b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARM",
@@ -339,7 +336,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1561778335,
     "wof:name":"Shirak",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0643\u0627\u0646\u0648\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0580\u0584\u0561\u0576\u0578\u0582\u0577"
-    ],
     "name:aze_x_preferred":[
         "O\u011furb\u0259yli"
     ],
@@ -26,9 +23,6 @@
         "\u0421\u044f\u043b\u043e \u0411\u0435\u0440\u043a\u0430\u043d\u0443\u0448"
     ],
     "name:ceb_x_preferred":[
-        "Berkanush"
-    ],
-    "name:dut_x_preferred":[
         "Berkanush"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Berkanush"
-    ],
-    "name:fre_x_preferred":[
-        "Berkanush"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e0\u10e5\u10d0\u10dc\u10e3\u10e8\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0580\u0584\u0561\u0576\u0578\u0582\u0577"
@@ -58,14 +46,11 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10e0\u10e5\u10d0\u10dc\u10e3\u10e8\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Berkanush"
-    ],
     "name:msa_x_preferred":[
         "Berkanush"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06a9\u0627\u0646\u0648\u0634"
+    "name:nld_x_preferred":[
+        "Berkanush"
     ],
     "name:swe_x_preferred":[
         "Berkanush"
@@ -130,7 +115,7 @@
         }
     ],
     "wof:id":421200461,
-    "wof:lastmodified":1527716429,
+    "wof:lastmodified":1561778367,
     "wof:name":"Berkanush",
     "wof:parent_id":1108784067,
     "wof:placetype":"locality",

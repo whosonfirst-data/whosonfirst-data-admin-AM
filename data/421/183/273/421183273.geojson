@@ -16,13 +16,7 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0643\u064a\u0631\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u0580\u0561\u056f\u0565\u0580\u057f"
-    ],
     "name:ceb_x_preferred":[
-        "Darakert"
-    ],
-    "name:dut_x_preferred":[
         "Darakert"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Darakert"
-    ],
-    "name:fre_x_preferred":[
-        "Darakert"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e0\u10d0\u10d9\u10d4\u10e0\u10e2\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u0580\u0561\u056f\u0565\u0580\u057f"
@@ -52,17 +40,11 @@
     "name:kat_x_preferred":[
         "\u10d3\u10d0\u10e0\u10d0\u10d9\u10d4\u10e0\u10e2\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Darakert"
-    ],
     "name:msa_x_preferred":[
         "Darakert"
     ],
     "name:nld_x_preferred":[
         "Darakert"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0631\u0627\u06a9\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Darakert"
@@ -130,7 +112,7 @@
         }
     ],
     "wof:id":421183273,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1561778368,
     "wof:name":"Darakert",
     "wof:parent_id":1108783961,
     "wof:placetype":"locality",

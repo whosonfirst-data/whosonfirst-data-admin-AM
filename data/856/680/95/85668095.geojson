@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0627\u0648\u0648\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u057e\u0578\u0582\u0577\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Tavu\u015f"
     ],
@@ -47,10 +44,7 @@
     "name:cat_x_preferred":[
         "Tavush"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u6b66\u4ec0\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tavu\u0161"
     ],
     "name:dan_x_preferred":[
@@ -59,8 +53,8 @@
     "name:deu_x_preferred":[
         "Tawusch"
     ],
-    "name:dut_x_preferred":[
-        "Tavoesj"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b2\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tavush"
@@ -76,20 +70,14 @@
     "name:est_x_preferred":[
         "Tavu\u0161i maakond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0648\u0648\u0634"
+    ],
     "name:fin_x_preferred":[
         "Tavu\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tavush"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d5\u10e3\u10e8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tawusch"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03b2\u03bf\u03cd\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab5\u0ac1\u0ab6 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -123,6 +111,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cb5\u0cb7\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d5\u10e3\u10e8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ubd80\uc2dc \uc8fc"
     ],
@@ -132,17 +123,17 @@
     "name:lit_x_preferred":[
         "Tavu\u0161o sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0432\u0443\u0448"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0935\u0936 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Tavush"
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0432\u0443\u0448"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0432\u0443\u0448 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Tavush"
     ],
     "name:nan_x_preferred":[
         "Tavush S\u00e9ng"
@@ -150,14 +141,14 @@
     "name:nep_x_preferred":[
         "\u0924\u093e\u0935\u0942\u0936 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Tavoesj"
+    ],
     "name:nob_x_preferred":[
         "Tavusj"
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a35\u0a42\u0a38\u0a3c"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0648\u0648\u0634"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0627\u0648\u0648\u0634"
@@ -168,7 +159,7 @@
     "name:por_x_preferred":[
         "Tavush"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Tavu\u0219"
     ],
     "name:rus_x_preferred":[
@@ -221,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Tavush"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6b66\u4ec0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARM",
@@ -342,7 +336,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1561778335,
     "wof:name":"Tavush",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

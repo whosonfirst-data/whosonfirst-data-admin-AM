@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u057c\u056b\u0569\u0561\u0583"
-    ],
     "name:ceb_x_preferred":[
         "Zarrit'ap'"
-    ],
-    "name:dut_x_preferred":[
-        "Zaritap"
     ],
     "name:eng_x_preferred":[
         "Zaritap"
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Zaritap"
-    ],
-    "name:fre_x_preferred":[
-        "Zaritap"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10e0\u10d8\u10d7\u10d0\u10e4\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u057c\u056b\u0569\u0561\u0583"
@@ -49,17 +37,14 @@
     "name:kat_x_preferred":[
         "\u10d6\u10d0\u10e0\u10d8\u10d7\u10d0\u10e4\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Zaritap"
-    ],
     "name:msa_x_preferred":[
         "Zaritap"
     ],
     "name:nan_x_preferred":[
         "Zaritap"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0631\u06cc\u062a\u0627\u067e"
+    "name:nld_x_preferred":[
+        "Zaritap"
     ],
     "name:sco_x_preferred":[
         "Zaritap"
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":421184873,
-    "wof:lastmodified":1527716445,
+    "wof:lastmodified":1561778367,
     "wof:name":"Zarrit'ap'",
     "wof:parent_id":1108783403,
     "wof:placetype":"locality",

@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0622\u0631\u0645\u0627\u0648\u064a\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0574\u0561\u057e\u056b\u0580\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Armavir m\u0259rzi"
     ],
@@ -46,14 +43,14 @@
     "name:cat_x_preferred":[
         "Armavir"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u99ac\u7dad\u723e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Armavir Region"
     ],
-    "name:dut_x_preferred":[
-        "Armavir"
+    "name:deu_x_preferred":[
+        "Armawir"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bc\u03b1\u03b2\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Armavir"
@@ -68,20 +65,14 @@
     "name:est_x_preferred":[
         "Armaviri maakond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u0645\u0627\u0648\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Armavir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Armavir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10db\u10d0\u10d5\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Armawir"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03bc\u03b1\u03b2\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0aae\u0abe\u0ab5\u0abf\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -114,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd\u0cae\u0cb5\u0cc0\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10db\u10d0\u10d5\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub974\ub9c8\ube44\ub974 \uc8fc"
     ],
@@ -126,17 +120,17 @@
     "name:lit_x_preferred":[
         "Armaviro sritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u043c\u0430\u0432\u0438\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u094d\u092e\u093e\u0935\u0940\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Armavir"
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u043c\u0430\u0432\u0438\u0440"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u043c\u0430\u0432\u0438\u0440 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Armavir"
     ],
     "name:nan_x_preferred":[
         "Armavir S\u00e9ng"
@@ -144,14 +138,14 @@
     "name:nep_x_preferred":[
         "\u0905\u0930\u094d\u092e\u093e\u0935\u0940\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Armavir"
+    ],
     "name:nob_x_preferred":[
         "Armavir"
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a30\u0a2e\u0a3e\u0a35\u0a40\u0a30 \u0a38\u0a42\u0a2c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u0645\u0627\u0648\u06cc\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0627\u0645\u0648\u06cc\u0631"
@@ -162,7 +156,7 @@
     "name:por_x_preferred":[
         "Armavir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Armavir"
     ],
     "name:rus_x_preferred":[
@@ -215,6 +209,9 @@
     ],
     "name:war_x_preferred":[
         "Armavir"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u99ac\u7dad\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ARM",
@@ -337,7 +334,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1561778335,
     "wof:name":"Armavir",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

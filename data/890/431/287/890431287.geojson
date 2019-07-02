@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u062c\u0648\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u057b\u0587\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "\u0130cevan"
     ],
@@ -41,14 +38,11 @@
     "name:cat_x_preferred":[
         "Ijevan"
     ],
+    "name:ces_x_preferred":[
+        "Ijevan"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0434\u0436\u0435\u0432\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6770\u4e07"
-    ],
-    "name:cze_x_preferred":[
-        "Ijevan"
     ],
     "name:dan_x_preferred":[
         "Ijevan"
@@ -56,8 +50,8 @@
     "name:deu_x_preferred":[
         "Idschewan"
     ],
-    "name:dut_x_preferred":[
-        "Ijevan"
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03b6\u03b5\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ijevan"
@@ -76,18 +70,6 @@
     ],
     "name:fra_x_preferred":[
         "Idjevan"
-    ],
-    "name:fre_x_preferred":[
-        "Idjevan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10ef\u10d4\u10d5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Idschewan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c4\u03b6\u03b5\u03b2\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a9c\u0ac7\u0ab5\u0aa8"
@@ -131,7 +113,7 @@
     "name:mar_x_preferred":[
         "\u0907\u091c\u0947\u0935\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ijevan"
     ],
     "name:mzn_x_preferred":[
@@ -140,14 +122,14 @@
     "name:nan_x_preferred":[
         "Idjevan"
     ],
+    "name:nld_x_preferred":[
+        "Ijevan"
+    ],
     "name:nob_x_preferred":[
         "Ijevan"
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a1c\u0a47\u0a35\u0a3e\u0a28"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u062c\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Iczewan"
@@ -155,7 +137,7 @@
     "name:por_x_preferred":[
         "Ijevan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ijevan"
     ],
     "name:rus_x_preferred":[
@@ -334,7 +316,7 @@
         }
     ],
     "wof:id":890431287,
-    "wof:lastmodified":1527735410,
+    "wof:lastmodified":1561778370,
     "wof:name":"Ijevan",
     "wof:parent_id":1108783279,
     "wof:placetype":"locality",

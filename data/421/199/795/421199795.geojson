@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0631\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0580\u056b\u057d"
-    ],
     "name:aze_x_preferred":[
         "Gorus"
     ],
@@ -34,19 +31,10 @@
     "name:che_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u91cc\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Goris"
-    ],
     "name:deu_x_preferred":[
         "Goris"
     ],
     "name:dsb_x_preferred":[
-        "Goris"
-    ],
-    "name:dut_x_preferred":[
         "Goris"
     ],
     "name:eng_x_preferred":[
@@ -65,15 +53,6 @@
         "Goris"
     ],
     "name:fra_x_preferred":[
-        "Goris"
-    ],
-    "name:fre_x_preferred":[
-        "Goris"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Goris"
     ],
     "name:hbs_x_preferred":[
@@ -112,9 +91,6 @@
     "name:lit_x_preferred":[
         "Gorisas"
     ],
-    "name:may_x_preferred":[
-        "Goris"
-    ],
     "name:msa_x_preferred":[
         "Goris"
     ],
@@ -127,16 +103,10 @@
     "name:nld_x_preferred":[
         "Goris"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0631\u06cc\u0633"
-    ],
     "name:pol_x_preferred":[
         "Goris"
     ],
     "name:ron_x_preferred":[
-        "Goris"
-    ],
-    "name:rum_x_preferred":[
         "Goris"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +141,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Goris"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u91cc\u65af"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -219,7 +192,7 @@
         }
     ],
     "wof:id":421199795,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561778365,
     "wof:name":"Goris",
     "wof:parent_id":1108783729,
     "wof:placetype":"locality",

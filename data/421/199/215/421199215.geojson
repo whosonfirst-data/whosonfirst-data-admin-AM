@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u062f\u0646\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0580\u0564\u0565\u0576\u056b\u057d"
-    ],
     "name:aze_x_preferred":[
         "Basarke\u00e7\u0259r"
     ],
@@ -34,16 +31,10 @@
     "name:che_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u4ee3\u5c3c\u65af"
-    ],
     "name:deu_x_preferred":[
         "Wardenis"
     ],
     "name:diq_x_preferred":[
-        "Vardenis"
-    ],
-    "name:dut_x_preferred":[
         "Vardenis"
     ],
     "name:eng_x_preferred":[
@@ -63,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Vardenis"
-    ],
-    "name:fre_x_preferred":[
-        "Vardenis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Wardenis"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d3\u05e0\u05d9\u05e1"
@@ -94,9 +76,6 @@
     "name:lit_x_preferred":[
         "Vardenisas"
     ],
-    "name:may_x_preferred":[
-        "Vardenis"
-    ],
     "name:msa_x_preferred":[
         "Vardenis"
     ],
@@ -112,16 +91,10 @@
     "name:oci_x_preferred":[
         "Vardenis"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0631\u062f\u0646\u06cc\u0633"
-    ],
     "name:pol_x_preferred":[
         "Wardenis"
     ],
     "name:ron_x_preferred":[
-        "Vardenis"
-    ],
-    "name:rum_x_preferred":[
         "Vardenis"
     ],
     "name:rus_x_preferred":[
@@ -199,7 +172,7 @@
         }
     ],
     "wof:id":421199215,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561778365,
     "wof:name":"Vardenis",
     "wof:parent_id":1108784109,
     "wof:placetype":"locality",

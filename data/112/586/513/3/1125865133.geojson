@@ -22,20 +22,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u0648\u0646\u064a\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u057d\u0578\u0582\u0576\u056b\u056f"
-    ],
-    "name:dut_x_preferred":[
-        "Sasunik"
-    ],
     "name:eng_x_preferred":[
         "Sasunik"
     ],
-    "name:fre_x_preferred":[
-        "Sasunik"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0633\u0648\u0646\u06cc\u06a9"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e1\u10e3\u10dc\u10d8\u10d9\u10d8"
+    "name:fra_x_preferred":[
+        "Sasunik"
     ],
     "name:hye_x_preferred":[
         "Nor Sasunik"
@@ -47,11 +41,14 @@
     "name:ita_x_preferred":[
         "Sasunik"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e1\u10e3\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Sasunik"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0633\u0648\u0646\u06cc\u06a9"
+    "name:nld_x_preferred":[
+        "Sasunik"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0441\u0443\u043d\u0438\u043a"
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":1125865133,
-    "wof:lastmodified":1513888636,
+    "wof:lastmodified":1561778372,
     "wof:name":"Nor Sasunik",
     "wof:parent_id":1108784201,
     "wof:placetype":"locality",

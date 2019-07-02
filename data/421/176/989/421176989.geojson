@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0628\u0627\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0562\u0561\u0569"
-    ],
     "name:aze_x_preferred":[
         "Arbat"
     ],
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u0410\u0440\u0431\u0430\u0442"
-    ],
-    "name:dut_x_preferred":[
-        "Arbat"
     ],
     "name:eng_x_preferred":[
         "Arbat"
@@ -36,12 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Arbat"
-    ],
-    "name:fre_x_preferred":[
-        "Arbat"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d1\u10d0\u10d7\u10d8"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0562\u0561\u0569"
@@ -55,14 +43,11 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d1\u10d0\u10d7\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Arbat"
-    ],
     "name:msa_x_preferred":[
         "Arbat"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0628\u0627\u062a\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Arbat"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0431\u0430\u0442"
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":421176989,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1561778369,
     "wof:name":"Arbat'",
     "wof:parent_id":1108783969,
     "wof:placetype":"locality",

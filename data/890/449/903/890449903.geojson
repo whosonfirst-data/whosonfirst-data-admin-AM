@@ -15,38 +15,38 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u0576\u0561\u0577\u0565\u0576"
-    ],
     "name:aze_x_preferred":[
         "Ba\u015fk\u0259nd"
     ],
-    "name:dut_x_preferred":[
-        "Vernashen"
+    "name:deu_x_preferred":[
+        "Vernaschen"
     ],
     "name:eng_x_preferred":[
         "Vernashen"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0646\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Vernashen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e0\u10dc\u10d0\u10e8\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vernaschen"
     ],
     "name:hye_x_preferred":[
         "Vernashen"
     ],
+    "name:hye_x_variant":[
+        "\u054e\u0565\u0580\u0576\u0561\u0577\u0565\u0576"
+    ],
     "name:ita_x_preferred":[
         "Vernashen"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10dc\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Vernashen"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0646\u0634\u0646"
+    "name:nld_x_preferred":[
+        "Vernashen"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u043d\u0430\u0448\u0435\u043d"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":890449903,
-    "wof:lastmodified":1527727156,
+    "wof:lastmodified":1561778370,
     "wof:name":"Vernashen",
     "wof:parent_id":1108783487,
     "wof:placetype":"locality",
