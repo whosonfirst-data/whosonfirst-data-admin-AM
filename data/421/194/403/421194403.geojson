@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "Samaqar"
     ],
+    "name:ceb_x_preferred":[
+        "Samaghar"
+    ],
     "name:eng_x_preferred":[
         "Samaghar"
     ],
@@ -41,13 +44,25 @@
     "name:msa_x_preferred":[
         "Samaghar"
     ],
+    "name:nan_x_preferred":[
+        "Geghakert"
+    ],
     "name:nld_x_preferred":[
         "Samaghar"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0445\u0430\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0435\u0445\u0430\u043a\u0435\u0440\u0442"
+    ],
     "name:sco_x_preferred":[
+        "Samaghar"
+    ],
+    "name:spa_x_preferred":[
+        "Geghakert"
+    ],
+    "name:swe_x_preferred":[
         "Samaghar"
     ],
     "name:ukr_x_preferred":[
@@ -58,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Samaghar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u535a\u7dad\u63da"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421194403,
-    "wof:lastmodified":1561778362,
+    "wof:lastmodified":1563324747,
     "wof:name":"Samaghar",
     "wof:parent_id":1108783897,
     "wof:placetype":"locality",

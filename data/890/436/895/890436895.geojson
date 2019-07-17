@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0643\u0627\u0633\u0627\u0641\u0627\u0646\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0648\u0643\u0627\u0633\u0627\u0641\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Kalara"
+    ],
+    "name:ceb_x_preferred":[
+        "Ghukasavan"
     ],
     "name:eng_x_preferred":[
         "Ghukasavan"
@@ -45,11 +51,17 @@
     "name:msa_x_preferred":[
         "Ghukasavan"
     ],
+    "name:nan_x_preferred":[
+        "Ghukasavan"
+    ],
     "name:nld_x_preferred":[
         "Ghukasavan"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u043a\u0430\u0441\u0430\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ghukasavan"
     ],
     "name:swe_x_preferred":[
         "Ghukasavan"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":890436895,
-    "wof:lastmodified":1561778370,
+    "wof:lastmodified":1563324878,
     "wof:name":"Ghukasavan",
     "wof:parent_id":1108783947,
     "wof:placetype":"locality",

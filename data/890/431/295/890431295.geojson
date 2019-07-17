@@ -15,6 +15,12 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u00c7atq\u0131ran"
+    ],
+    "name:ceb_x_preferred":[
+        "Nor Geghi"
+    ],
     "name:eng_x_preferred":[
         "Nor Geghi"
     ],
@@ -51,6 +57,9 @@
     "name:sco_x_preferred":[
         "Nor Geghi"
     ],
+    "name:spa_x_preferred":[
+        "Nor Geghi"
+    ],
     "name:swe_x_preferred":[
         "Nor Geghi"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Nor Geghi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6770\u4e07"
     ],
     "qs:name":"Nor Geghi",
     "qs:photos_9r":0,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":890431295,
-    "wof:lastmodified":1561778370,
+    "wof:lastmodified":1563324880,
     "wof:name":"Nor Geghi",
     "wof:parent_id":1108784325,
     "wof:placetype":"locality",

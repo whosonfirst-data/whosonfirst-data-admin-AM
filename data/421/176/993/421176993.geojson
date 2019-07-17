@@ -22,6 +22,12 @@
     "name:ceb_x_preferred":[
         "Arzni"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0437\u043d\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b6\u03bd\u03af"
+    ],
     "name:eng_x_preferred":[
         "Arzni"
     ],
@@ -52,13 +58,22 @@
     "name:msa_x_preferred":[
         "Arzni"
     ],
+    "name:nan_x_preferred":[
+        "Arzni"
+    ],
     "name:nld_x_preferred":[
+        "Arzni"
+    ],
+    "name:pih_x_preferred":[
         "Arzni"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0437\u043d\u0438"
     ],
     "name:sco_x_preferred":[
+        "Arzni"
+    ],
+    "name:spa_x_preferred":[
         "Arzni"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421176993,
-    "wof:lastmodified":1561778369,
+    "wof:lastmodified":1563324861,
     "wof:name":"Arzni",
     "wof:parent_id":1108784347,
     "wof:placetype":"locality",

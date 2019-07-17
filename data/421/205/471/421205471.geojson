@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Brnakot"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u043d\u0430\u043a\u043e\u0442"
     ],
@@ -53,6 +56,9 @@
         "\u0411\u0440\u043d\u0430\u043a\u043e\u0442"
     ],
     "name:sco_x_preferred":[
+        "Brnakot"
+    ],
+    "name:spa_x_preferred":[
         "Brnakot"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421205471,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324761,
     "wof:name":"Brrnakot'",
     "wof:parent_id":1108784483,
     "wof:placetype":"locality",

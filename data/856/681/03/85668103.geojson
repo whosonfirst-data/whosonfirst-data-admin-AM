@@ -38,11 +38,17 @@
     "name:ben_x_preferred":[
         "\u0997\u09c7\u0998\u09be\u09b0\u0995\u09c1\u09a8\u09bf\u0995 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:bos_x_preferred":[
+        "Geharkunik"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u0433\u0430\u0440\u043a\u0443\u043d\u0438\u043a"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Gegharkunik"
+    ],
+    "name:ceb_x_preferred":[
+        "Geghark'unik'i Marz"
     ],
     "name:ces_x_preferred":[
         "Gegharkunik"
@@ -73,6 +79,9 @@
     "name:est_x_preferred":[
         "Gegharkhunikhi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Gegharkunik"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647 \u0633\u0648\u0627\u0646"
     ],
@@ -80,6 +89,9 @@
         "Geghark'unik'"
     ],
     "name:fra_x_preferred":[
+        "Gegharkunik"
+    ],
+    "name:frr_x_preferred":[
         "Gegharkunik"
     ],
     "name:guj_x_preferred":[
@@ -93,6 +105,9 @@
     ],
     "name:hun_x_preferred":[
         "Gegarkounik tartom\u00e1ny"
+    ],
+    "name:hun_x_variant":[
+        "Gegarkunik tartom\u00e1ny"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u0572\u0561\u0580\u0584\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566"
@@ -118,6 +133,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac8c\uac00\ub974\ucfe0\ub2c8\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uac8c\uac00\ub974\ucfe0\ub2c8\ud06c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Gegarkunikas re\u0123ions"
@@ -199,6 +217,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e01\u0e01\u0e32\u0e23\u0e4c\u0e04\u0e39\u0e19\u0e34\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e01\u0e06\u0e32\u0e23\u0e4c\u0e04\u0e39\u0e19\u0e34\u0e04"
     ],
     "name:tur_x_preferred":[
         "Ge\u011farkunik"
@@ -341,7 +362,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1561778334,
+    "wof:lastmodified":1563324269,
     "wof:name":"Gegharkunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

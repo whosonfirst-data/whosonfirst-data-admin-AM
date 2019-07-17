@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "G\u00f6d\u0259kbulaq"
     ],
+    "name:ceb_x_preferred":[
+        "Karchaghbyur"
+    ],
     "name:eng_x_preferred":[
         "Karchaghbyur"
     ],
@@ -49,7 +52,16 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0447\u0430\u0445\u043f\u044e\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0447\u0430\u0445\u0431\u044e\u0440"
+    ],
     "name:sco_x_preferred":[
+        "Karchaghbyur"
+    ],
+    "name:spa_x_preferred":[
+        "Karchaghbyur"
+    ],
+    "name:swe_x_preferred":[
         "Karchaghbyur"
     ],
     "name:ukr_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421178507,
-    "wof:lastmodified":1561778369,
+    "wof:lastmodified":1563324849,
     "wof:name":"Karchaghbyur",
     "wof:parent_id":1108784101,
     "wof:placetype":"locality",

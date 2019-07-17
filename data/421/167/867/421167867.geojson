@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Metsavan"
     ],
+    "name:dan_x_preferred":[
+        "Metsavan"
+    ],
     "name:eng_x_preferred":[
         "Metsavan"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:fra_x_preferred":[
         "Metsavan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05e1\u05d0\u05d1\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Mecavan"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056e\u0561\u057e\u0561\u0576"
@@ -37,7 +46,13 @@
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10ec\u10d0\u10d5\u10d0\u10dc\u10d8"
     ],
+    "name:ltz_x_preferred":[
+        "Mezawan"
+    ],
     "name:msa_x_preferred":[
+        "Metsavan"
+    ],
+    "name:nan_x_preferred":[
         "Metsavan"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446\u0430\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Metsavan"
     ],
     "name:swe_x_preferred":[
         "Metsavan"
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421167867,
-    "wof:lastmodified":1561778362,
+    "wof:lastmodified":1563324753,
     "wof:name":"Metsavan",
     "wof:parent_id":1108783177,
     "wof:placetype":"locality",

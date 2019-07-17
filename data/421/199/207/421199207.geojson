@@ -19,6 +19,9 @@
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u0410\u043a\u0443\u043d\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Akunk'"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043a\u0443\u043d\u043a"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:sco_x_preferred":[
         "Akunk"
+    ],
+    "name:spa_x_preferred":[
+        "Akunk"
+    ],
+    "name:swe_x_preferred":[
+        "Akunk'"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0443\u043d\u043a"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421199207,
-    "wof:lastmodified":1561778366,
+    "wof:lastmodified":1563324806,
     "wof:name":"Akunk'",
     "wof:parent_id":1108784099,
     "wof:placetype":"locality",

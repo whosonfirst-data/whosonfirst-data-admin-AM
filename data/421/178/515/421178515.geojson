@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062f"
+    ],
     "name:aze_x_preferred":[
         "Berd"
     ],
     "name:aze_x_variant":[
         "Tovuzqala"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u0440\u0434"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0434"
@@ -25,8 +31,17 @@
     "name:ceb_x_preferred":[
         "Berd"
     ],
+    "name:ces_x_preferred":[
+        "Berd"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u0440\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Berd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Berd"
@@ -38,6 +53,9 @@
         "\u0628\u0631\u062f"
     ],
     "name:fra_x_preferred":[
+        "Berd"
+    ],
+    "name:hsb_x_preferred":[
         "Berd"
     ],
     "name:hye_x_preferred":[
@@ -58,7 +76,13 @@
     "name:mzn_x_preferred":[
         "\u0628\u0631\u062f"
     ],
+    "name:nan_x_preferred":[
+        "Berd"
+    ],
     "name:nld_x_preferred":[
+        "Berd"
+    ],
+    "name:pol_x_preferred":[
         "Berd"
     ],
     "name:ron_x_preferred":[
@@ -73,10 +97,16 @@
     "name:sco_x_preferred":[
         "Berd"
     ],
+    "name:spa_x_preferred":[
+        "Berd"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0434"
     ],
     "name:swa_x_preferred":[
+        "Berd"
+    ],
+    "name:swe_x_preferred":[
         "Berd"
     ],
     "name:ukr_x_preferred":[
@@ -139,7 +169,7 @@
         }
     ],
     "wof:id":421178515,
-    "wof:lastmodified":1527726422,
+    "wof:lastmodified":1563324853,
     "wof:name":"Berd",
     "wof:parent_id":1108783337,
     "wof:placetype":"locality",

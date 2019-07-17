@@ -19,8 +19,20 @@
     "name:aze_x_preferred":[
         "Paravakar"
     ],
+    "name:ceb_x_preferred":[
+        "Parravak'ar"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0432\u0430\u043a\u0430\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03b2\u03b1\u03ba\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Parravak'ar"
+    ],
+    "name:eng_x_variant":[
+        "Paravakar"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0648\u0627\u06a9\u0627\u0631"
@@ -40,6 +52,9 @@
     "name:msa_x_preferred":[
         "Paravakar"
     ],
+    "name:nan_x_preferred":[
+        "Paravakar"
+    ],
     "name:nld_x_preferred":[
         "Paravakar"
     ],
@@ -48,6 +63,12 @@
     ],
     "name:sco_x_preferred":[
         "Paravakar"
+    ],
+    "name:spa_x_preferred":[
+        "Paravakar"
+    ],
+    "name:swe_x_preferred":[
+        "Parravak'ar"
     ],
     "name:unk_x_variant":[
         "Paravaker"
@@ -109,7 +130,7 @@
         }
     ],
     "wof:id":421200345,
-    "wof:lastmodified":1561778367,
+    "wof:lastmodified":1563324823,
     "wof:name":"Parravak'ar",
     "wof:parent_id":1108782629,
     "wof:placetype":"locality",

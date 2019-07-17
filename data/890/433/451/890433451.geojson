@@ -16,25 +16,61 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Qarakils\u0259"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09a8\u09be\u099c\u09cb\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ceb_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ces_x_preferred":[
+        "Vanadzor"
     ],
     "name:che_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:cym_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:dan_x_preferred":[
+        "Vanadzor"
+    ],
     "name:deu_x_preferred":[
         "Wanadsor"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bd\u03b1\u03c4\u03b6\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Vanadzor"
     ],
+    "name:epo_x_preferred":[
+        "Vanadzor"
+    ],
     "name:est_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:eus_x_preferred":[
         "Vanadzor"
     ],
     "name:fas_x_preferred":[
@@ -43,11 +79,47 @@
     "name:fin_x_preferred":[
         "Vanadzor"
     ],
+    "name:fra_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aa8\u0abe\u0aa6\u0a9d\u0acb\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05d3\u05d6\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0928\u093e\u0926\u091c\u094b\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:hsb_x_preferred":[
+        "Wanadzor"
+    ],
+    "name:hun_x_preferred":[
+        "Vanadzor"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u0576\u0561\u0571\u0578\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0561\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:ilo_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ind_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ita_x_preferred":[
+        "Vanadzor"
+    ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30ca\u30be\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0ca8\u0cbe\u0ca1\u0ccd\u0c9c\u0ccb\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8"
@@ -55,25 +127,55 @@
     "name:kor_x_preferred":[
         "\ubc14\ub098\uc870\ub974"
     ],
+    "name:lav_x_preferred":[
+        "Vanadzora"
+    ],
     "name:lit_x_preferred":[
         "Vanadzoras"
+    ],
+    "name:ltz_x_preferred":[
+        "Wanadsor"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0928\u093e\u0926\u091d\u094b\u0930"
     ],
     "name:mon_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Vanadzor"
+    ],
     "name:mzn_x_preferred":[
         "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
     ],
+    "name:nan_x_preferred":[
+        "Vanadzor"
+    ],
     "name:nld_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:nno_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:nob_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:oci_x_preferred":[
         "Vanadzor"
     ],
     "name:oss_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a28\u0a3e\u0a26\u0a1c\u0a3c\u0a4b\u0a30"
+    ],
     "name:pol_x_preferred":[
         "Wanadzor"
     ],
     "name:por_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ron_x_preferred":[
         "Vanadzor"
     ],
     "name:rus_x_preferred":[
@@ -82,10 +184,34 @@
     "name:rus_x_variant":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0db1\u0da9\u0dca\u0dc3\u0ddc\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:sqi_x_preferred":[
+        "Vanadzor"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:swe_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0ba8\u0b9f\u0bcd\u0b9a\u0bcb\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c28\u0c26\u0c4d\u0c1c\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e19\u0e31\u0e14\u0e0b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
         "Vanadzor"
     ],
     "name:ukr_x_preferred":[
@@ -93,6 +219,21 @@
     ],
     "name:unk_x_variant":[
         "Kirovakan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u0688\u0632\u0648\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:vep_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:vie_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:war_x_preferred":[
+        "Vanadzor"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u7eb3\u4f50\u5c14"
@@ -226,7 +367,7 @@
         }
     ],
     "wof:id":890433451,
-    "wof:lastmodified":1527792957,
+    "wof:lastmodified":1563324899,
     "wof:name":"Vanadzor",
     "wof:parent_id":1108783523,
     "wof:placetype":"locality",

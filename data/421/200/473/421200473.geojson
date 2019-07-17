@@ -16,8 +16,14 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Horrom"
+    ],
     "name:eng_x_preferred":[
         "Horrom"
+    ],
+    "name:eng_x_variant":[
+        "Horom"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0631\u0648\u0645"
@@ -40,6 +46,9 @@
     "name:msa_x_preferred":[
         "Horom"
     ],
+    "name:nan_x_preferred":[
+        "Horom"
+    ],
     "name:nld_x_preferred":[
         "Horom"
     ],
@@ -48,6 +57,12 @@
     ],
     "name:sco_x_preferred":[
         "Horom"
+    ],
+    "name:spa_x_preferred":[
+        "Horom"
+    ],
+    "name:swe_x_preferred":[
+        "Horrom"
     ],
     "name:unk_x_variant":[
         "Orom"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421200473,
-    "wof:lastmodified":1561778367,
+    "wof:lastmodified":1563324819,
     "wof:name":"Horrom",
     "wof:parent_id":1108782785,
     "wof:placetype":"locality",

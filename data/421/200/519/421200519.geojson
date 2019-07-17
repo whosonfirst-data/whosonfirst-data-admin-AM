@@ -19,8 +19,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0446 \u041c\u0430\u043d\u0442\u0430\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Mets Mant'ash"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0446 \u041c\u0430\u043d\u0442\u0430\u0448"
+    ],
     "name:eng_x_preferred":[
         "Mets Mant'ash"
+    ],
+    "name:eng_x_variant":[
+        "Mets Mantash"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062a\u0633 \u0645\u0627\u0646\u062a\u0627\u0634"
@@ -43,14 +52,26 @@
     "name:msa_x_preferred":[
         "Mets Mantash"
     ],
+    "name:nan_x_preferred":[
+        "Metz Mantach"
+    ],
     "name:nld_x_preferred":[
         "Mets Mantash"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446-\u041c\u0430\u043d\u0442\u0430\u0448"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0446 \u041c\u0430\u043d\u0442\u0430\u0448"
+    ],
     "name:sco_x_preferred":[
         "Mets Mantash"
+    ],
+    "name:spa_x_preferred":[
+        "Mets Mantash"
+    ],
+    "name:swe_x_preferred":[
+        "Mets Mant'ash"
     ],
     "name:unk_x_variant":[
         "Bol\u2019shoy Mantash"
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":421200519,
-    "wof:lastmodified":1561778366,
+    "wof:lastmodified":1563324815,
     "wof:name":"Mets Mant'ash",
     "wof:parent_id":1108782799,
     "wof:placetype":"locality",

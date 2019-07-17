@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Nor Yerznka"
+    ],
     "name:ceb_x_preferred":[
         "Nor Yerznka"
     ],
@@ -40,10 +43,19 @@
     "name:msa_x_preferred":[
         "Nor Yerznka"
     ],
+    "name:nan_x_preferred":[
+        "Nor Erznka"
+    ],
     "name:nld_x_preferred":[
         "Nor Yerznka"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440 \u0415\u0440\u0437\u043d\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
+        "Nor Yerznka"
+    ],
+    "name:spa_x_preferred":[
         "Nor Yerznka"
     ],
     "name:swe_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Nor Yerznka"
+    ],
+    "name:vie_x_variant":[
+        "Vedi"
     ],
     "name:zho_min_nan_x_preferred":[
         "Nor Erznka"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":421191553,
-    "wof:lastmodified":1561778365,
+    "wof:lastmodified":1563324797,
     "wof:name":"Nor Yerznka",
     "wof:parent_id":1108784315,
     "wof:placetype":"locality",

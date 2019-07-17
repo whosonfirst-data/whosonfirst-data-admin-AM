@@ -22,6 +22,12 @@
     "name:ceb_x_preferred":[
         "Aknalich"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u043d\u0430\u043b\u0438\u0447"
+    ],
+    "name:deu_x_preferred":[
+        "Aknalitsch"
+    ],
     "name:eng_x_preferred":[
         "Aknalich"
     ],
@@ -52,6 +58,9 @@
     "name:msa_x_preferred":[
         "Aknalich"
     ],
+    "name:nan_x_preferred":[
+        "Aknalij"
+    ],
     "name:nld_x_preferred":[
         "Aknalitsj"
     ],
@@ -62,6 +71,9 @@
         "\u0410\u043a\u043d\u0430\u043b\u0438\u0447"
     ],
     "name:sco_x_preferred":[
+        "Aknalich"
+    ],
+    "name:spa_x_preferred":[
         "Aknalich"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":421205469,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324768,
     "wof:name":"Aknalich",
     "wof:parent_id":1108783885,
     "wof:placetype":"locality",

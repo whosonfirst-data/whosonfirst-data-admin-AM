@@ -19,6 +19,15 @@
     "name:bul_x_preferred":[
         "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Haykavan"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ca\u03ba\u03b1\u03b2\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Haykavan"
     ],
@@ -55,11 +64,20 @@
     "name:sco_x_preferred":[
         "Haykavan"
     ],
+    "name:spa_x_preferred":[
+        "Haykavan"
+    ],
+    "name:swe_x_preferred":[
+        "Haykavan"
+    ],
     "name:unk_x_variant":[
         "Badzhogli"
     ],
     "name:vie_x_preferred":[
         "Haykavan"
+    ],
+    "name:vie_x_variant":[
+        "Norakert"
     ],
     "name:zho_min_nan_x_preferred":[
         "Haykavan"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":421193271,
-    "wof:lastmodified":1561778362,
+    "wof:lastmodified":1563324750,
     "wof:name":"Haykavan",
     "wof:parent_id":1108783457,
     "wof:placetype":"locality",

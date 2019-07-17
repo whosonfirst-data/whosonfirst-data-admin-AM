@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Areni"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0435\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Areni"
     ],
@@ -34,11 +37,17 @@
     "name:fra_x_preferred":[
         "Areni"
     ],
+    "name:hun_x_preferred":[
+        "Areni"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0565\u0576\u056b"
     ],
     "name:hye_x_variant":[
         "Areni"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0565\u0576\u056b"
     ],
     "name:ita_x_preferred":[
         "Areni"
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":421201497,
-    "wof:lastmodified":1561778367,
+    "wof:lastmodified":1563324825,
     "wof:name":"Areni",
     "wof:parent_id":1108783301,
     "wof:placetype":"locality",

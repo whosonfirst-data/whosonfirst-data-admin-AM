@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Bambakashat"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043c\u0431\u0430\u043a\u0430\u0448\u0430\u0442"
+    ],
     "name:eng_x_preferred":[
         "Bambakashat"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Bambakashat"
+    ],
+    "name:vie_x_variant":[
+        "Navur"
     ],
     "name:zho_min_nan_x_preferred":[
         "Bambakashat"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421200463,
-    "wof:lastmodified":1561778366,
+    "wof:lastmodified":1563324810,
     "wof:name":"Bambakashat",
     "wof:parent_id":1108783805,
     "wof:placetype":"locality",

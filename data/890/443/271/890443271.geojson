@@ -15,6 +15,12 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Mrqa\u015fen"
+    ],
+    "name:ceb_x_preferred":[
+        "Mrgashen"
+    ],
     "name:eng_x_preferred":[
         "Mrgashen"
     ],
@@ -51,11 +57,17 @@
     "name:sco_x_preferred":[
         "Mrgashen"
     ],
+    "name:spa_x_preferred":[
+        "Mrgashen"
+    ],
     "name:swe_x_preferred":[
         "Mrgashen"
     ],
     "name:vie_x_preferred":[
         "Mrgashen"
+    ],
+    "name:vie_x_variant":[
+        "Hovtashen"
     ],
     "qs:name":"Mrgashen",
     "qs:photos_9r":0,
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":890443271,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324886,
     "wof:name":"Mrgashen",
     "wof:parent_id":1108784595,
     "wof:placetype":"locality",

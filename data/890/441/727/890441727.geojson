@@ -15,7 +15,13 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "G\u00f6ykils\u0259"
+    ],
     "name:cat_x_preferred":[
+        "Kaputan"
+    ],
+    "name:ceb_x_preferred":[
         "Kaputan"
     ],
     "name:eng_x_preferred":[
@@ -42,6 +48,9 @@
     "name:msa_x_preferred":[
         "Kaputan"
     ],
+    "name:nan_x_preferred":[
+        "Kaputan"
+    ],
     "name:nld_x_preferred":[
         "Kaputan"
     ],
@@ -49,6 +58,9 @@
         "\u041a\u0430\u043f\u0443\u0442\u0430\u043d"
     ],
     "name:sco_x_preferred":[
+        "Kaputan"
+    ],
+    "name:spa_x_preferred":[
         "Kaputan"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":890441727,
-    "wof:lastmodified":1561778370,
+    "wof:lastmodified":1563324874,
     "wof:name":"Kaputan",
     "wof:parent_id":1108784535,
     "wof:placetype":"locality",

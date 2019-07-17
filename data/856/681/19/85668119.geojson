@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09af\u09bc\u09c1\u09a8\u09bf\u0995 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:bos_x_preferred":[
+        "Sjunik"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u044e\u043d\u0438\u043a"
     ],
     "name:cat_x_preferred":[
         "Siunia"
+    ],
+    "name:ceb_x_preferred":[
+        "Syunik'i Marz"
     ],
     "name:ces_x_preferred":[
         "Sjunik"
@@ -58,6 +64,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b3\u03b9\u03bf\u03cd\u03bd\u03b9\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03bf\u03c5\u03bd\u03af\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Syunik'"
     ],
@@ -71,6 +80,9 @@
     "name:est_x_preferred":[
         "Sjunikhi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Siunik"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0648\u0646\u06cc\u06a9"
     ],
@@ -79,6 +91,9 @@
     ],
     "name:fra_x_preferred":[
         "Syunik"
+    ],
+    "name:frr_x_preferred":[
+        "Sjunik"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0a95 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,12 +107,18 @@
     "name:hun_x_preferred":[
         "Szjounik tartom\u00e1ny"
     ],
+    "name:hun_x_variant":[
+        "Szjunik tartom\u00e1ny"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0575\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:hye_x_variant":[
         "\u054d\u0575\u0578\u0582\u0576\u056b\u0584",
         "\u054d\u0575\u0578\u0582\u0576\u056b\u0584\u056b \u0544\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056b\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Syunik"
@@ -117,6 +138,9 @@
     "name:kor_x_preferred":[
         "\uc288\ub2c8\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc288\ub2c8\ud06c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sjunikas re\u0123ions"
     ],
@@ -134,6 +158,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Syunik"
+    ],
+    "name:nan_x_preferred":[
+        "Syunik S\u00e9ng"
     ],
     "name:nep_x_preferred":[
         "\u0938\u094d\u092f\u0941\u0928\u093f\u0915 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -194,6 +221,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e22\u0e4c\u0e19\u0e34\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e35\u0e22\u0e39\u0e19\u0e34\u0e04"
     ],
     "name:tur_x_preferred":[
         "Syunik ili"
@@ -337,7 +367,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1561778334,
+    "wof:lastmodified":1563324270,
     "wof:name":"Syunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

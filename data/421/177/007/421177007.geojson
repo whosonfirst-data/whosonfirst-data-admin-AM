@@ -19,11 +19,26 @@
     "name:aze_x_preferred":[
         "H\u0259\u015ft\u0259r\u0259k"
     ],
+    "name:aze_x_variant":[
+        "Saratu"
+    ],
     "name:cat_x_preferred":[
         "Khashtarak"
     ],
+    "name:ceb_x_preferred":[
+        "Khasht'arrak"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c3\u03c4\u03b1\u03c1\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Khasht'arrak"
+    ],
+    "name:eng_x_variant":[
+        "Khashtarak"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0634\u062a\u0627\u0631\u0627\u06a9"
@@ -57,6 +72,12 @@
     ],
     "name:sco_x_preferred":[
         "Khashtarak"
+    ],
+    "name:spa_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:swe_x_preferred":[
+        "Khasht'arrak"
     ],
     "name:unk_x_variant":[
         "Khashtarak"
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":421177007,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324831,
     "wof:name":"Khasht'arrak",
     "wof:parent_id":1108783257,
     "wof:placetype":"locality",

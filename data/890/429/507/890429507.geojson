@@ -18,6 +18,9 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Adyaman"
     ],
+    "name:ceb_x_preferred":[
+        "Nerk'in Getashen"
+    ],
     "name:eng_x_preferred":[
         "Nerkin Getashen"
     ],
@@ -42,11 +45,23 @@
     "name:msa_x_preferred":[
         "Nerkin Getashen"
     ],
+    "name:nan_x_preferred":[
+        "Nerkin Getashen"
+    ],
     "name:nld_x_preferred":[
         "Nerkin Getashen"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0438\u043d  \u0413\u0435\u0442\u0430\u0448\u0435\u043d"
+    ],
     "name:sco_x_preferred":[
         "Nerkin Getashen"
+    ],
+    "name:spa_x_preferred":[
+        "Nerkin Getashen"
+    ],
+    "name:swe_x_preferred":[
+        "Nerk'in Getashen"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0440\u043a\u0456\u043d-\u0490\u0435\u0442\u0430\u0448\u0435\u043d"
@@ -89,7 +104,7 @@
         }
     ],
     "wof:id":890429507,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324887,
     "wof:name":"Nerk\u2019in Getashen",
     "wof:parent_id":1108784373,
     "wof:placetype":"locality",

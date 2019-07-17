@@ -13,17 +13,59 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0627\u0634\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Vardnav"
+    ],
+    "name:ceb_x_preferred":[
+        "Jrashen"
+    ],
+    "name:eng_x_preferred":[
+        "Jrashen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Jrashen"
+    ],
     "name:hye_x_preferred":[
         "Jrashen"
     ],
     "name:hye_x_variant":[
         "\u054b\u0580\u0561\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Djrashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Jrashen"
+    ],
+    "name:nan_x_preferred":[
+        "Jrashen"
+    ],
+    "name:nld_x_preferred":[
+        "Jrashen"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0440\u0430\u0448\u0435\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Jrashen"
+    ],
+    "name:swe_x_preferred":[
+        "Jrashen"
+    ],
     "name:unk_x_variant":[
         "Nor Dzhrashen"
+    ],
+    "name:vie_x_preferred":[
+        "Jrashen"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -72,7 +114,7 @@
         }
     ],
     "wof:id":421177003,
-    "wof:lastmodified":1527716484,
+    "wof:lastmodified":1563324835,
     "wof:name":"Jrashen",
     "wof:parent_id":1108784013,
     "wof:placetype":"locality",

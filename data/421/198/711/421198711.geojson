@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0627\u063a\u06a9\u0627\u062f\u0632\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "D\u0259r\u0259\u00e7i\u00e7\u0259k"
+    ],
+    "name:aze_x_variant":[
+        "D\u0259r\u0259\u00e7i\u00e7\u0259k mahal\u0131"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u0430\u0433\u043a\u0430\u0434\u0437\u043e\u0440"
@@ -22,14 +28,23 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Tsaghkadzor"
+    ],
     "name:ceb_x_preferred":[
         "Tsaghkadzor"
+    ],
+    "name:ces_x_preferred":[
+        "Cachkadzor"
     ],
     "name:che_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:deu_x_preferred":[
         "Zaghkadsor"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03b3\u03ba\u03b1\u03bd\u03c4\u03b6\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tsaghkadzor"
@@ -45,6 +60,9 @@
     ],
     "name:fra_x_preferred":[
         "Tsakhkadzor"
+    ],
+    "name:hsb_x_preferred":[
+        "Cachkadzor"
     ],
     "name:hye_x_preferred":[
         "\u053e\u0561\u0572\u056f\u0561\u0571\u0578\u0580"
@@ -99,6 +117,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0433\u043a\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Darachichag"
@@ -157,7 +178,7 @@
         }
     ],
     "wof:id":421198711,
-    "wof:lastmodified":1561778365,
+    "wof:lastmodified":1563324789,
     "wof:name":"Tsakhkadzor",
     "wof:parent_id":1108783549,
     "wof:placetype":"locality",

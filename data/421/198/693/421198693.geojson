@@ -55,6 +55,9 @@
     "name:sco_x_preferred":[
         "Bazum"
     ],
+    "name:spa_x_preferred":[
+        "Bazum"
+    ],
     "name:swe_x_preferred":[
         "Bazum"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421198693,
-    "wof:lastmodified":1561778364,
+    "wof:lastmodified":1563324786,
     "wof:name":"Bazum",
     "wof:parent_id":1108783229,
     "wof:placetype":"locality",

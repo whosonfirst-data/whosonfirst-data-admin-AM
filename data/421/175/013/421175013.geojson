@@ -16,11 +16,17 @@
     "name:aze_x_preferred":[
         "Qoytur"
     ],
+    "name:ceb_x_preferred":[
+        "Getap'"
+    ],
     "name:eng_x_preferred":[
         "Getap"
     ],
     "name:fas_x_preferred":[
         "\u06af\u062a\u0627\u067e\u060c \u0648\u0627\u06cc\u0648\u062a\u0633\u200c\u062c\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u062a\u0627\u067e"
     ],
     "name:fra_x_preferred":[
         "Getap"
@@ -40,6 +46,9 @@
     "name:msa_x_preferred":[
         "Getap"
     ],
+    "name:nan_x_preferred":[
+        "Getap"
+    ],
     "name:nld_x_preferred":[
         "Getap"
     ],
@@ -48,6 +57,12 @@
     ],
     "name:sco_x_preferred":[
         "Getap"
+    ],
+    "name:spa_x_preferred":[
+        "Getap"
+    ],
+    "name:swe_x_preferred":[
+        "Getap'"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0435\u0442\u0430\u043f"
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":421175013,
-    "wof:lastmodified":1561778364,
+    "wof:lastmodified":1563324783,
     "wof:name":"Getap'",
     "wof:parent_id":1108782727,
     "wof:placetype":"locality",

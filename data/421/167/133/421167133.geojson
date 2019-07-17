@@ -16,7 +16,13 @@
     "name:aze_x_preferred":[
         "Qala\u00e7a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0434\u0430\u0432\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Berdavan"
+    ],
+    "name:ceb_x_preferred":[
         "Berdavan"
     ],
     "name:che_x_preferred":[
@@ -24,6 +30,9 @@
     ],
     "name:deu_x_preferred":[
         "Berdawan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03bd\u03c4\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Berdavan"
@@ -59,6 +68,12 @@
         "\u0411\u0435\u0440\u0434\u0430\u0432\u0430\u043d"
     ],
     "name:sco_x_preferred":[
+        "Berdavan"
+    ],
+    "name:spa_x_preferred":[
+        "Berdavan"
+    ],
+    "name:swe_x_preferred":[
         "Berdavan"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":421167133,
-    "wof:lastmodified":1561778362,
+    "wof:lastmodified":1563324751,
     "wof:name":"Berdavan",
     "wof:parent_id":1108783609,
     "wof:placetype":"locality",

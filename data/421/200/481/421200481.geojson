@@ -13,7 +13,76 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:arg_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ast_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:bar_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:bre_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:cat_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ces_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:cos_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:cym_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:dan_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:deu_x_preferred":[
+        "Musayelyan"
+    ],
     "name:eng_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:epo_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:est_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:eus_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:fin_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:fra_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:frp_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:fur_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:gla_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:gle_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:glg_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:gsw_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:hrv_x_preferred":[
         "Musayelyan"
     ],
     "name:hye_x_preferred":[
@@ -22,14 +91,134 @@
     "name:hye_x_variant":[
         "\u0532\u0561\u057d\u0565\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ile_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ina_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ind_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:isl_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ita_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:kon_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:lij_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:lim_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ltz_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:min_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:mlg_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:msa_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nap_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nds_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nld_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nno_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nob_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:nrm_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:oci_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:pcd_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:pms_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:pol_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:por_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:roh_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:ron_x_preferred":[
+        "Musayelyan"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u0430\u0435\u043b\u044f\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Musayelyan"
     ],
     "name:sco_x_preferred":[
         "Musayelyan"
     ],
+    "name:slk_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:slv_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:spa_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:srd_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:swa_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:swe_x_preferred":[
+        "Musayelyan"
+    ],
     "name:unk_x_variant":[
         "Mets Kyapanak"
+    ],
+    "name:vec_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:vie_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:vls_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:vol_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:wln_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:wol_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:zul_x_preferred":[
+        "Musayelyan"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -78,7 +267,7 @@
         }
     ],
     "wof:id":421200481,
-    "wof:lastmodified":1527716427,
+    "wof:lastmodified":1563324818,
     "wof:name":"Musayelyan",
     "wof:parent_id":1108782715,
     "wof:placetype":"locality",

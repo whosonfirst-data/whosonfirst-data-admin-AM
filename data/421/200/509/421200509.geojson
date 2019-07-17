@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "Voskevan"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0435\u0432\u0430\u043d"
+    ],
     "name:deu_x_preferred":[
         "Woskewan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c3\u03ba\u03b5\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Voskevan"
@@ -59,6 +65,9 @@
         "\u0412\u043e\u0441\u043a\u0435\u0432\u0430\u043d"
     ],
     "name:sco_x_preferred":[
+        "Voskevan"
+    ],
+    "name:spa_x_preferred":[
         "Voskevan"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421200509,
-    "wof:lastmodified":1561778367,
+    "wof:lastmodified":1563324818,
     "wof:name":"Voskevan",
     "wof:parent_id":1108783057,
     "wof:placetype":"locality",

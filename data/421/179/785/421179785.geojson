@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Chochkan"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u043e\u0447\u043a\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Chochkan"
     ],
@@ -43,11 +46,17 @@
     "name:msa_x_preferred":[
         "Chochkan"
     ],
+    "name:nan_x_preferred":[
+        "Jojkan"
+    ],
     "name:nld_x_preferred":[
         "Chochkan"
     ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0447\u043a\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Chochkan"
     ],
     "name:swe_x_preferred":[
         "Chochkan"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421179785,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324840,
     "wof:name":"Chochkan",
     "wof:parent_id":1108783623,
     "wof:placetype":"locality",

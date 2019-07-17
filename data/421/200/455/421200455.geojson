@@ -52,11 +52,17 @@
     "name:msa_x_preferred":[
         "Aygestan"
     ],
+    "name:nan_x_preferred":[
+        "Aygestan"
+    ],
     "name:nld_x_preferred":[
         "Aygestan"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0433\u0435\u0441\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aygestan"
     ],
     "name:swe_x_preferred":[
         "Aygestan"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421200455,
-    "wof:lastmodified":1561778366,
+    "wof:lastmodified":1563324812,
     "wof:name":"Aygestan",
     "wof:parent_id":1108783011,
     "wof:placetype":"locality",

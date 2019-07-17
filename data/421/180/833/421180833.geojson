@@ -16,8 +16,14 @@
     "name:aze_x_preferred":[
         "Yuxar\u0131 Axta"
     ],
+    "name:ceb_x_preferred":[
+        "Lerrnanist"
+    ],
     "name:eng_x_preferred":[
         "Lerrnanist"
+    ],
+    "name:eng_x_variant":[
+        "Lernanist"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0631\u0646\u0627\u0646\u06cc\u0633\u062a"
@@ -37,6 +43,9 @@
     "name:msa_x_preferred":[
         "Lernanist"
     ],
+    "name:nan_x_preferred":[
+        "Lernanist"
+    ],
     "name:nld_x_preferred":[
         "Lernanist"
     ],
@@ -45,6 +54,12 @@
     ],
     "name:sco_x_preferred":[
         "Lernanist"
+    ],
+    "name:spa_x_preferred":[
+        "Lernanist"
+    ],
+    "name:swe_x_preferred":[
+        "Lerrnanist"
     ],
     "name:unk_x_variant":[
         "Verkhnyaya Akhta"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":421180833,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324771,
     "wof:name":"Lerrnanist",
     "wof:parent_id":1108783535,
     "wof:placetype":"locality",

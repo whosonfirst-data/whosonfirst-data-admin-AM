@@ -49,6 +49,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u0440\u0435\u043d\u0430\u0432\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Surenavan"
+    ],
     "name:swe_x_preferred":[
         "Surenavan"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421200491,
-    "wof:lastmodified":1561778366,
+    "wof:lastmodified":1563324813,
     "wof:name":"Surenavan",
     "wof:parent_id":1108783019,
     "wof:placetype":"locality",

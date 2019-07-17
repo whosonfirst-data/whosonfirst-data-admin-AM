@@ -16,6 +16,18 @@
     "name:aze_x_preferred":[
         "Uzunoba"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0440\u0433\u0430\u0432\u0430\u043d\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Argavand"
+    ],
+    "name:eng_x_preferred":[
+        "Argavand"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u06af\u0627\u0648\u0627\u0646\u062f"
+    ],
     "name:fra_x_preferred":[
         "Argavand"
     ],
@@ -34,10 +46,22 @@
     "name:msa_x_preferred":[
         "Argavand"
     ],
+    "name:nan_x_preferred":[
+        "Argavand"
+    ],
+    "name:nld_x_preferred":[
+        "Argavand"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0433\u0430\u0432\u0430\u043d\u0434"
     ],
     "name:sco_x_preferred":[
+        "Argavand"
+    ],
+    "name:spa_x_preferred":[
+        "Argavand"
+    ],
+    "name:swe_x_preferred":[
         "Argavand"
     ],
     "name:ukr_x_preferred":[
@@ -100,7 +124,7 @@
         }
     ],
     "wof:id":421196473,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1563324794,
     "wof:name":"Argavand",
     "wof:parent_id":1108783821,
     "wof:placetype":"locality",
