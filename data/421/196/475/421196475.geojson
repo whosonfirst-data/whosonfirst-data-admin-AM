@@ -19,6 +19,12 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0448\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Arevshat"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0448\u0430\u0442"
+    ],
     "name:eng_x_preferred":[
         "Arevshat"
     ],
@@ -40,6 +46,9 @@
     "name:msa_x_preferred":[
         "Arevshat"
     ],
+    "name:nan_x_preferred":[
+        "Arevshat"
+    ],
     "name:nld_x_preferred":[
         "Arevshat"
     ],
@@ -47,6 +56,12 @@
         "\u0410\u0440\u0435\u0432\u0448\u0430\u0442"
     ],
     "name:sco_x_preferred":[
+        "Arevshat"
+    ],
+    "name:spa_x_preferred":[
+        "Arevshat"
+    ],
+    "name:swe_x_preferred":[
         "Arevshat"
     ],
     "name:unk_x_variant":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421196475,
-    "wof:lastmodified":1561778365,
+    "wof:lastmodified":1563324793,
     "wof:name":"Arevshat",
     "wof:parent_id":1108782833,
     "wof:placetype":"locality",

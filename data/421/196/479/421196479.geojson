@@ -16,8 +16,23 @@
     "name:aze_x_preferred":[
         "T\u0259p\u0259d\u00f6l\u0259k"
     ],
+    "name:aze_x_variant":[
+        "\u00c7aybasar"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Arevik"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0438\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b5\u03b2\u03af\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Arevik"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u0648\u06cc\u06a9"
@@ -37,10 +52,22 @@
     "name:msa_x_preferred":[
         "Arevik"
     ],
+    "name:nan_x_preferred":[
+        "Arevik"
+    ],
+    "name:nld_x_preferred":[
+        "Arevik"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0438\u043a"
     ],
     "name:sco_x_preferred":[
+        "Arevik"
+    ],
+    "name:spa_x_preferred":[
+        "Arevik"
+    ],
+    "name:swe_x_preferred":[
         "Arevik"
     ],
     "name:unk_x_variant":[
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":421196479,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1563324791,
     "wof:name":"Arevik",
     "wof:parent_id":1108782651,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:msa_x_preferred":[
         "Yeranos"
     ],
+    "name:nan_x_preferred":[
+        "Eranos"
+    ],
     "name:nld_x_preferred":[
         "Yeranos"
     ],
@@ -47,6 +50,9 @@
         "\u0415\u0440\u0430\u043d\u043e\u0441"
     ],
     "name:sco_x_preferred":[
+        "Yeranos"
+    ],
+    "name:spa_x_preferred":[
         "Yeranos"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421177025,
-    "wof:lastmodified":1561778367,
+    "wof:lastmodified":1563324831,
     "wof:name":"Yeranos",
     "wof:parent_id":1108784073,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Pro\u015fyan"
+    ],
     "name:eng_x_preferred":[
         "Proshyan"
     ],
@@ -37,6 +40,9 @@
     "name:msa_x_preferred":[
         "Proshyan"
     ],
+    "name:nan_x_preferred":[
+        "Proshyan"
+    ],
     "name:nld_x_preferred":[
         "Proshyan"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Proshyan"
+    ],
+    "name:vie_x_variant":[
+        "Bazum"
     ],
     "name:zho_min_nan_x_preferred":[
         "Proshyan"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421198705,
-    "wof:lastmodified":1561778364,
+    "wof:lastmodified":1563324786,
     "wof:name":"Prroshyan",
     "wof:parent_id":1108784317,
     "wof:placetype":"locality",

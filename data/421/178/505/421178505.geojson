@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Yelqovan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kotayk'"
+    ],
     "name:eng_x_preferred":[
         "Kotayk"
     ],
@@ -48,6 +54,12 @@
     ],
     "name:sco_x_preferred":[
         "Kotayk"
+    ],
+    "name:spa_x_preferred":[
+        "Kotayk"
+    ],
+    "name:swe_x_preferred":[
+        "Kotayk'"
     ],
     "name:unk_x_variant":[
         "Yelgovan"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":421178505,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324845,
     "wof:name":"Kotayk'",
     "wof:parent_id":1108784539,
     "wof:placetype":"locality",

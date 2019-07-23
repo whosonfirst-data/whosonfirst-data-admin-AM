@@ -16,8 +16,23 @@
     "name:aze_x_preferred":[
         "Babaki\u015fi"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0433\u0430\u045e\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Aghavnadzor"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0430\u0432\u043d\u0432\u0434\u0437\u043e\u0440"
+    ],
+    "name:eng_x_preferred":[
+        "Aghavnadzor"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u063a\u0627\u0648\u0646\u0627\u062f\u0632\u0648\u0631\u060c \u06a9\u0648\u062a\u0627\u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "Aghavnadzor"
@@ -34,8 +49,14 @@
     "name:msa_x_preferred":[
         "Aghavnadzor"
     ],
+    "name:nan_x_preferred":[
+        "Aghavnadzor"
+    ],
     "name:nld_x_preferred":[
         "Agavnadzor"
+    ],
+    "name:nld_x_variant":[
+        "Aghavnadzor"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
@@ -46,6 +67,9 @@
     "name:spa_x_preferred":[
         "Aghavnadzor"
     ],
+    "name:swe_x_preferred":[
+        "Aghavnadzor"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
@@ -54,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631\u060c \u06a9\u0648\u062a\u0627\u0626\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631"
     ],
     "name:vie_x_preferred":[
         "Aghavnadzor"
@@ -109,7 +136,7 @@
         }
     ],
     "wof:id":421200451,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1563324822,
     "wof:name":"Aghavnadzor",
     "wof:parent_id":1108783529,
     "wof:placetype":"locality",

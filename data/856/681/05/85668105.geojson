@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09a4\u09be\u09af\u09bc\u09c7\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:bos_x_preferred":[
+        "Kotajk"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u0430\u0439\u043a"
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kotayk"
+    ],
+    "name:ceb_x_preferred":[
+        "Kotayk'i Marz"
     ],
     "name:ces_x_preferred":[
         "Kotajk"
@@ -54,6 +60,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c4\u03b1\u03b3\u03b9\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c4\u03ac\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kotayk'"
@@ -69,6 +78,9 @@
     "name:est_x_preferred":[
         "Kotajkhi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Kotaik"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u062a\u0627\u06cc\u06a9"
     ],
@@ -77,6 +89,9 @@
     ],
     "name:fra_x_preferred":[
         "Kotayk"
+    ],
+    "name:frr_x_preferred":[
+        "Kotajk"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0abe\u0a95 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -114,6 +129,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud0c0\uc774\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ud0c0\uc774\ud06c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kotaikas re\u0123ions"
@@ -169,6 +187,9 @@
     "name:sco_x_preferred":[
         "Kotayk"
     ],
+    "name:sco_x_variant":[
+        "Kotayk Province"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0da7\u0dba\u0dd2\u0d9a\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
@@ -195,6 +216,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e04\u0e40\u0e17\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e2d\u0e15\u0e31\u0e22\u0e04\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kotayk"
@@ -338,7 +362,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1561778334,
+    "wof:lastmodified":1563324270,
     "wof:name":"Kotayk",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

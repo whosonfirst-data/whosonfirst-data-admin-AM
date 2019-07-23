@@ -43,6 +43,9 @@
     "name:msa_x_preferred":[
         "Darakert"
     ],
+    "name:nan_x_preferred":[
+        "Darakert"
+    ],
     "name:nld_x_preferred":[
         "Darakert"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Darakert"
     ],
     "name:swe_x_preferred":[
         "Darakert"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421183273,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324836,
     "wof:name":"Darakert",
     "wof:parent_id":1108783961,
     "wof:placetype":"locality",

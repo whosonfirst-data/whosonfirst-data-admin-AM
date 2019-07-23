@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Tsovagyugh"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u043e\u0432\u0430\u0433\u044e\u0445"
+    ],
+    "name:deu_x_preferred":[
+        "Tsovagyugh"
+    ],
     "name:eng_x_preferred":[
         "Tsovagyugh"
     ],
@@ -40,10 +46,28 @@
     "name:msa_x_preferred":[
         "Tsovagyugh"
     ],
+    "name:nan_x_preferred":[
+        "Tsovagyugh"
+    ],
+    "name:nld_x_preferred":[
+        "Tsovagyugh"
+    ],
+    "name:oci_x_preferred":[
+        "Tsovagyugh"
+    ],
+    "name:pol_x_preferred":[
+        "Tsovagyugh"
+    ],
+    "name:por_x_preferred":[
+        "Tsovagyugh"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u043e\u0432\u0430\u0433\u044e\u0445"
     ],
     "name:sco_x_preferred":[
+        "Tsovagyugh"
+    ],
+    "name:spa_x_preferred":[
         "Tsovagyugh"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +133,7 @@
         }
     ],
     "wof:id":421192993,
-    "wof:lastmodified":1527716113,
+    "wof:lastmodified":1563324740,
     "wof:name":"Tsovagyugh",
     "wof:parent_id":1108784507,
     "wof:placetype":"locality",

@@ -16,8 +16,17 @@
     "name:aze_x_preferred":[
         "Ayqeovit"
     ],
+    "name:aze_x_variant":[
+        "Uzuntala"
+    ],
     "name:ceb_x_preferred":[
         "Aygehovit"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u043e\u0432\u0438\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03b3\u03ba\u03b5\u03c7\u03bf\u03b2\u03af\u03c4"
     ],
     "name:eng_x_preferred":[
         "Aygehovit"
@@ -40,6 +49,9 @@
     "name:msa_x_preferred":[
         "Aygehovit"
     ],
+    "name:nan_x_preferred":[
+        "Aygehovit"
+    ],
     "name:nld_x_preferred":[
         "Aygehovit"
     ],
@@ -47,6 +59,9 @@
         "\u0410\u0439\u0433\u0435\u043e\u0432\u0438\u0442"
     ],
     "name:sco_x_preferred":[
+        "Aygehovit"
+    ],
+    "name:spa_x_preferred":[
         "Aygehovit"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":421177911,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324836,
     "wof:name":"Aygehovit",
     "wof:parent_id":1108783181,
     "wof:placetype":"locality",

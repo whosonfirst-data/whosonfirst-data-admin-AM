@@ -15,8 +15,56 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0633\u0627\u0645\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062a\u0633\u0627\u0645\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Metsamor AES"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Metsamor"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Mezamor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03c3\u03b1\u03bc\u03cc\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Metsamor"
+    ],
+    "name:epo_x_preferred":[
+        "Mecamoro"
+    ],
+    "name:est_x_preferred":[
+        "Metsamor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0633\u0627\u0645\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Metsamor"
+    ],
+    "name:fra_x_preferred":[
+        "Metsamor"
+    ],
+    "name:hsb_x_preferred":[
+        "Mecamor"
+    ],
+    "name:hun_x_preferred":[
+        "Mecamor"
     ],
     "name:hye_x_preferred":[
         "Metsamor"
@@ -24,8 +72,62 @@
     "name:hye_x_variant":[
         "\u0544\u0565\u056e\u0561\u0574\u0578\u0580"
     ],
+    "name:ind_x_preferred":[
+        "Metsamor"
+    ],
+    "name:ita_x_preferred":[
+        "Metsamor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10ec\u10d0\u10db\u10dd\u10e0\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Mecamoras"
+    ],
+    "name:msa_x_preferred":[
+        "Metsamor"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u062a\u0633\u0627\u0645\u0648\u0631"
+    ],
+    "name:nan_x_preferred":[
+        "Metsamor"
+    ],
+    "name:nld_x_preferred":[
+        "Metsamor"
+    ],
+    "name:pol_x_preferred":[
+        "Metsamor"
+    ],
+    "name:ron_x_preferred":[
+        "Metsamor"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Metsamor"
+    ],
+    "name:spa_x_preferred":[
+        "Metsamor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Metsamor"
+    ],
+    "name:swe_x_preferred":[
+        "Metsamor"
+    ],
+    "name:tur_x_preferred":[
+        "Metzamor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0446\u0430\u043c\u043e\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Metsamor"
     ],
     "qs:name":"Metsamor",
     "qs:photos_9r":0,
@@ -59,7 +161,7 @@
         }
     ],
     "wof:id":890415381,
-    "wof:lastmodified":1527727260,
+    "wof:lastmodified":1563324876,
     "wof:name":"Metsamor",
     "wof:parent_id":1108783847,
     "wof:placetype":"locality",

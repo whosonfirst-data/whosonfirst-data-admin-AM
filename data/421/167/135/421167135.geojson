@@ -43,6 +43,9 @@
     "name:msa_x_preferred":[
         "Kamaris"
     ],
+    "name:nan_x_preferred":[
+        "Kamaris"
+    ],
     "name:nld_x_preferred":[
         "Kamaris"
     ],
@@ -50,6 +53,9 @@
         "\u041a\u0430\u043c\u0430\u0440\u0438\u0441"
     ],
     "name:sco_x_preferred":[
+        "Kamaris"
+    ],
+    "name:spa_x_preferred":[
         "Kamaris"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421167135,
-    "wof:lastmodified":1561778362,
+    "wof:lastmodified":1563324751,
     "wof:name":"Kamaris",
     "wof:parent_id":1108784281,
     "wof:placetype":"locality",

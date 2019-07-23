@@ -16,11 +16,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:afr_x_preferred":[
+        "Artashat"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u0627\u0634\u0627\u062a"
     ],
+    "name:arg_x_preferred":[
+        "Artashat"
+    ],
+    "name:ast_x_preferred":[
+        "Artashat"
+    ],
     "name:aze_x_preferred":[
         "Q\u0259m\u0259rli"
+    ],
+    "name:bar_x_preferred":[
+        "Artashat"
+    ],
+    "name:bre_x_preferred":[
+        "Artashat"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
@@ -28,26 +43,59 @@
     "name:cat_x_preferred":[
         "Artaxata"
     ],
+    "name:cat_x_variant":[
+        "Artashat"
+    ],
+    "name:ceb_x_preferred":[
+        "Artashat"
+    ],
     "name:ces_x_preferred":[
         "Arta\u0161at"
+    ],
+    "name:ces_x_variant":[
+        "Artashat"
     ],
     "name:che_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
     ],
+    "name:cos_x_preferred":[
+        "Artashat"
+    ],
+    "name:cym_x_preferred":[
+        "Artashat"
+    ],
+    "name:dan_x_preferred":[
+        "Artashat"
+    ],
     "name:deu_x_preferred":[
         "Artaschat"
+    ],
+    "name:deu_x_variant":[
+        "Artashat"
     ],
     "name:dsb_x_preferred":[
         "Arta\u0161at"
     ],
+    "name:eng_x_preferred":[
+        "Artashat"
+    ],
     "name:epo_x_preferred":[
         "Arta\u015dato"
+    ],
+    "name:epo_x_variant":[
+        "Artashat"
     ],
     "name:est_x_preferred":[
         "Arta\u0161at"
     ],
+    "name:est_x_variant":[
+        "Artashat"
+    ],
     "name:eus_x_preferred":[
         "Artaxat"
+    ],
+    "name:eus_x_variant":[
+        "Artashat"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u062a\u0627\u0634\u0627\u062a"
@@ -55,11 +103,38 @@
     "name:fin_x_preferred":[
         "Arta\u0161at"
     ],
+    "name:fin_x_variant":[
+        "Artashat"
+    ],
     "name:fra_x_preferred":[
         "Artachat"
     ],
+    "name:fra_x_variant":[
+        "Artashat"
+    ],
+    "name:frp_x_preferred":[
+        "Artashat"
+    ],
+    "name:fur_x_preferred":[
+        "Artashat"
+    ],
+    "name:gla_x_preferred":[
+        "Artashat"
+    ],
+    "name:gle_x_preferred":[
+        "Artashat"
+    ],
+    "name:glg_x_preferred":[
+        "Artashat"
+    ],
+    "name:gsw_x_preferred":[
+        "Artashat"
+    ],
     "name:hbs_x_preferred":[
         "Arta\u0161at"
+    ],
+    "name:hrv_x_preferred":[
+        "Artashat"
     ],
     "name:hun_x_preferred":[
         "Artasat"
@@ -67,8 +142,26 @@
     "name:hye_x_preferred":[
         "\u0531\u0580\u057f\u0561\u0577\u0561\u057f"
     ],
+    "name:ido_x_preferred":[
+        "Artashat"
+    ],
+    "name:ile_x_preferred":[
+        "Artashat"
+    ],
+    "name:ina_x_preferred":[
+        "Artashat"
+    ],
+    "name:ind_x_preferred":[
+        "Artashat"
+    ],
+    "name:isl_x_preferred":[
+        "Artashat"
+    ],
     "name:ita_x_preferred":[
         "Arta\u0161at"
+    ],
+    "name:ita_x_variant":[
+        "Artashat"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10e2\u10d0\u10e8\u10d0\u10e2\u10d8"
@@ -76,17 +169,59 @@
     "name:kaz_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
     ],
+    "name:kon_x_preferred":[
+        "Artashat"
+    ],
     "name:kur_x_preferred":[
         "Arta\u015fat"
+    ],
+    "name:lij_x_preferred":[
+        "Artashat"
+    ],
+    "name:lim_x_preferred":[
+        "Artashat"
     ],
     "name:lit_x_preferred":[
         "Arta\u0161atas"
     ],
+    "name:ltz_x_preferred":[
+        "Artashat"
+    ],
+    "name:min_x_preferred":[
+        "Artashat"
+    ],
+    "name:mlg_x_preferred":[
+        "Artashat"
+    ],
+    "name:msa_x_preferred":[
+        "Artashat"
+    ],
     "name:mzn_x_preferred":[
         "\u0622\u0631\u062a\u0627\u0634\u0627\u062a"
     ],
+    "name:nap_x_preferred":[
+        "Artashat"
+    ],
+    "name:nds_x_preferred":[
+        "Artashat"
+    ],
     "name:nld_x_preferred":[
         "Artasjat"
+    ],
+    "name:nld_x_variant":[
+        "Artashat"
+    ],
+    "name:nno_x_preferred":[
+        "Artashat"
+    ],
+    "name:nob_x_preferred":[
+        "Artashat"
+    ],
+    "name:nrm_x_preferred":[
+        "Artashat"
+    ],
+    "name:oci_x_preferred":[
+        "Artashat"
     ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
@@ -94,23 +229,65 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a30\u0a24\u0a3e\u0a38\u0a3c\u0a24"
     ],
+    "name:pcd_x_preferred":[
+        "Artashat"
+    ],
+    "name:pms_x_preferred":[
+        "Artashat"
+    ],
     "name:pol_x_preferred":[
         "Artaszat"
+    ],
+    "name:pol_x_variant":[
+        "Artashat"
     ],
     "name:por_x_preferred":[
         "Artaxata"
     ],
+    "name:por_x_variant":[
+        "Artashat"
+    ],
+    "name:roh_x_preferred":[
+        "Artashat"
+    ],
     "name:ron_x_preferred":[
         "Arta\u0219at"
+    ],
+    "name:ron_x_variant":[
+        "Artashat"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
     ],
+    "name:scn_x_preferred":[
+        "Artashat"
+    ],
+    "name:sco_x_preferred":[
+        "Artashat"
+    ],
+    "name:slk_x_preferred":[
+        "Artashat"
+    ],
+    "name:slv_x_preferred":[
+        "Artashat"
+    ],
+    "name:spa_x_preferred":[
+        "Artashat"
+    ],
+    "name:srd_x_preferred":[
+        "Artashat"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
     ],
+    "name:swa_x_preferred":[
+        "Artashat"
+    ],
     "name:swe_x_preferred":[
         "Artasjat"
+    ],
+    "name:swe_x_variant":[
+        "Artashat"
     ],
     "name:tur_x_preferred":[
         "Arta\u015fat"
@@ -124,11 +301,32 @@
     "name:urd_x_preferred":[
         "\u0622\u0631\u062a\u0627\u0634\u0627\u062a\u060c \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Artashat"
+    ],
+    "name:vie_x_preferred":[
+        "Artashat"
+    ],
+    "name:vls_x_preferred":[
+        "Artashat"
+    ],
+    "name:vol_x_preferred":[
+        "Artashat"
+    ],
     "name:war_x_preferred":[
         "Artaxata"
     ],
+    "name:wln_x_preferred":[
+        "Artashat"
+    ],
+    "name:wol_x_preferred":[
+        "Artashat"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u5854\u6c99\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Artashat"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Armenia",
@@ -259,7 +457,7 @@
         }
     ],
     "wof:id":890449917,
-    "wof:lastmodified":1527727158,
+    "wof:lastmodified":1563324871,
     "wof:name":"Artashat",
     "wof:parent_id":1108784229,
     "wof:placetype":"locality",

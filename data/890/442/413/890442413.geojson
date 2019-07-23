@@ -15,6 +15,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Taronik"
+    ],
     "name:eng_x_preferred":[
         "Taronik"
     ],
@@ -49,6 +52,9 @@
         "\u0422\u0430\u0440\u043e\u043d\u0438\u043a"
     ],
     "name:sco_x_preferred":[
+        "Taronik"
+    ],
+    "name:spa_x_preferred":[
         "Taronik"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890442413,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324891,
     "wof:name":"Taronik",
     "wof:parent_id":1108783941,
     "wof:placetype":"locality",

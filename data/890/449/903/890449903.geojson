@@ -18,6 +18,9 @@
     "name:aze_x_preferred":[
         "Ba\u015fk\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Vernashen"
+    ],
     "name:deu_x_preferred":[
         "Vernaschen"
     ],
@@ -45,6 +48,9 @@
     "name:msa_x_preferred":[
         "Vernashen"
     ],
+    "name:nan_x_preferred":[
+        "Vernashen"
+    ],
     "name:nld_x_preferred":[
         "Vernashen"
     ],
@@ -52,6 +58,9 @@
         "\u0412\u0435\u0440\u043d\u0430\u0448\u0435\u043d"
     ],
     "name:sco_x_preferred":[
+        "Vernashen"
+    ],
+    "name:spa_x_preferred":[
         "Vernashen"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890449903,
-    "wof:lastmodified":1561778370,
+    "wof:lastmodified":1563324868,
     "wof:name":"Vernashen",
     "wof:parent_id":1108783487,
     "wof:placetype":"locality",

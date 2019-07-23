@@ -16,8 +16,14 @@
     "name:aze_x_preferred":[
         "G\u00f6lk\u0259nd"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0439\u0433\u0443\u0442"
+    ],
     "name:ceb_x_preferred":[
         "Aygut"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0433\u0443\u0442"
     ],
     "name:eng_x_preferred":[
         "Aygut"
@@ -40,10 +46,19 @@
     "name:msa_x_preferred":[
         "Aygut"
     ],
+    "name:nan_x_preferred":[
+        "Aygut"
+    ],
+    "name:nld_x_preferred":[
+        "Aygut"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043b\u043a\u0435\u043d\u0434"
     ],
     "name:sco_x_preferred":[
+        "Aygut"
+    ],
+    "name:spa_x_preferred":[
         "Aygut"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":421172375,
-    "wof:lastmodified":1527716310,
+    "wof:lastmodified":1563324780,
     "wof:name":"Aygut",
     "wof:parent_id":1108783345,
     "wof:placetype":"locality",

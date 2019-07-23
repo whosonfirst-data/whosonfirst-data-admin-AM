@@ -18,6 +18,9 @@
     "name:aze_x_preferred":[
         "Tex"
     ],
+    "name:ceb_x_preferred":[
+        "Tegh"
+    ],
     "name:eng_x_preferred":[
         "Tegh"
     ],
@@ -42,6 +45,9 @@
     "name:msa_x_preferred":[
         "Tegh"
     ],
+    "name:nan_x_preferred":[
+        "Tegh"
+    ],
     "name:nld_x_preferred":[
         "Tegh"
     ],
@@ -49,6 +55,9 @@
         "\u0422\u0435\u0445"
     ],
     "name:sco_x_preferred":[
+        "Tegh"
+    ],
+    "name:spa_x_preferred":[
         "Tegh"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890449905,
-    "wof:lastmodified":1561778370,
+    "wof:lastmodified":1563324868,
     "wof:name":"Tegh",
     "wof:parent_id":1108783725,
     "wof:placetype":"locality",

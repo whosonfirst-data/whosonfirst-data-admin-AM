@@ -55,6 +55,9 @@
     "name:msa_x_preferred":[
         "Verin Getashen"
     ],
+    "name:nan_x_preferred":[
+        "Verin Getashen"
+    ],
     "name:nds_x_preferred":[
         "Verin Getashen"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0440\u043a\u0438\u043d \u0413\u0435\u0442\u0430\u0448\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0440\u0438\u043d \u0413\u0435\u0442\u0430\u0448\u0435\u043d"
     ],
     "name:sco_x_preferred":[
         "Verin Getashen"
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421177021,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324835,
     "wof:name":"Verin Getashen",
     "wof:parent_id":1108784111,
     "wof:placetype":"locality",

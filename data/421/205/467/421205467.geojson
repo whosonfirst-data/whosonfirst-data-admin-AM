@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Ange\u011fakot"
+    ],
     "name:ceb_x_preferred":[
         "Angeghakot'"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u0445\u0430\u043a\u043e\u0442"
     ],
     "name:eng_x_preferred":[
         "Angeghakot"
@@ -50,6 +56,9 @@
         "\u0410\u043d\u0433\u0435\u0445\u0430\u043a\u043e\u0442"
     ],
     "name:sco_x_preferred":[
+        "Angeghakot"
+    ],
+    "name:spa_x_preferred":[
         "Angeghakot"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421205467,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324768,
     "wof:name":"Angeghakot'",
     "wof:parent_id":1108783597,
     "wof:placetype":"locality",

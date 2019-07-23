@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "\u015e\u0131n\u0131x"
     ],
+    "name:ceb_x_preferred":[
+        "Shnogh"
+    ],
     "name:eng_x_preferred":[
         "Shnogh"
     ],
@@ -37,8 +40,20 @@
     "name:msa_x_preferred":[
         "Shnogh"
     ],
+    "name:nan_x_preferred":[
+        "Shnogh"
+    ],
+    "name:nld_x_preferred":[
+        "Shnogh"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043d\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Shnogh"
+    ],
+    "name:swe_x_preferred":[
+        "Shnogh"
     ],
     "name:unk_x_variant":[
         "Shnokh"
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":421178501,
-    "wof:lastmodified":1527717723,
+    "wof:lastmodified":1563324849,
     "wof:name":"Shnogh",
     "wof:parent_id":1108783171,
     "wof:placetype":"locality",

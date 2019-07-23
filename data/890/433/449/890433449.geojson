@@ -18,6 +18,9 @@
     "name:aze_x_preferred":[
         "Bozg\u00f6y"
     ],
+    "name:ceb_x_preferred":[
+        "Margahovit"
+    ],
     "name:eng_x_preferred":[
         "Margahovit"
     ],
@@ -49,6 +52,9 @@
         "\u041c\u0430\u0440\u0433\u0430\u043e\u0432\u0438\u0442"
     ],
     "name:sco_x_preferred":[
+        "Margahovit"
+    ],
+    "name:spa_x_preferred":[
         "Margahovit"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":890433449,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324893,
     "wof:name":"Margahovit",
     "wof:parent_id":1108784589,
     "wof:placetype":"locality",

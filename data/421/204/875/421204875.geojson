@@ -37,6 +37,9 @@
     "name:hye_x_variant":[
         "Zangakatun"
     ],
+    "name:hyw_x_preferred":[
+        "\u0536\u0561\u0576\u0563\u0561\u056f\u0561\u057f\u0578\u0582\u0576"
+    ],
     "name:ita_x_preferred":[
         "Zangakatun"
     ],
@@ -46,11 +49,17 @@
     "name:msa_x_preferred":[
         "Zangakatun"
     ],
+    "name:nan_x_preferred":[
+        "Zangakatun"
+    ],
     "name:nld_x_preferred":[
         "Zangakatun"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043d\u0433\u0430\u043a\u0430\u0442\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Zangakatun"
     ],
     "name:swe_x_preferred":[
         "Zangakatun"
@@ -63,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Zangakatun"
+    ],
+    "name:vie_x_variant":[
+        "Noyemberyan"
     ],
     "name:zho_min_nan_x_preferred":[
         "Zangakatun"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421204875,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324758,
     "wof:name":"Zangakatun",
     "wof:parent_id":1108783295,
     "wof:placetype":"locality",

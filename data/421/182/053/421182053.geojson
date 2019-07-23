@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u062c\u0648\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062c\u0648\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u0130cevan"
+    ],
+    "name:aze_x_variant":[
+        "Karvansaray"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0434\u0436\u044d\u0432\u0430\u043d"
@@ -76,6 +82,9 @@
     "name:hin_x_preferred":[
         "\u0907\u091c\u0947\u0935\u0923"
     ],
+    "name:hsb_x_preferred":[
+        "Id\u017aewan"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u057b\u0587\u0561\u0576"
     ],
@@ -130,6 +139,9 @@
     "name:pol_x_preferred":[
         "Iczewan"
     ],
+    "name:pol_x_variant":[
+        "Id\u017cewan"
+    ],
     "name:por_x_preferred":[
         "Ijevan"
     ],
@@ -165,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e22\u0e40\u0e23\u0e27\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e41\u0e08\u0e27\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "\u0130cevan"
@@ -232,7 +247,7 @@
         }
     ],
     "wof:id":421182053,
-    "wof:lastmodified":1561778369,
+    "wof:lastmodified":1563324853,
     "wof:name":"Idzhevan",
     "wof:parent_id":1108783279,
     "wof:placetype":"locality",

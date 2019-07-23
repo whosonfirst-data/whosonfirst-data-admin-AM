@@ -13,23 +13,215 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:arg_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ast_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:bar_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:bre_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:cat_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ces_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:cos_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:cym_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:dan_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:deu_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:eng_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:epo_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:est_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:eus_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:fin_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:fra_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:frp_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:frr_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:fur_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:gla_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:gle_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:glg_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:gsw_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:hrv_x_preferred":[
+        "Hatsavan"
+    ],
     "name:hye_x_preferred":[
         "Hats\u2019avan"
     ],
     "name:hye_x_variant":[
         "\u0540\u0561\u0581\u0561\u057e\u0561\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ile_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ina_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ind_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:isl_x_preferred":[
+        "Hatsavan"
+    ],
     "name:ita_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:kon_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:lij_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:lim_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ltz_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:min_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:mlg_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:msa_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nap_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nds_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nld_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nno_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nob_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:nrm_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:oci_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:pcd_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:pms_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:pol_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:por_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:roh_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:ron_x_preferred":[
         "Hatsavan"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0446\u0430\u0432\u0430\u043d"
     ],
+    "name:scn_x_preferred":[
+        "Hatsavan"
+    ],
     "name:sco_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:slk_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:slv_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:spa_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:srd_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:swa_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:swe_x_preferred":[
         "Hatsavan"
     ],
     "name:unk_x_variant":[
         "Sisian"
+    ],
+    "name:vec_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:vie_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:vls_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:vol_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:wln_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:wol_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:zul_x_preferred":[
+        "Hatsavan"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -78,7 +270,7 @@
         }
     ],
     "wof:id":421176997,
-    "wof:lastmodified":1527726468,
+    "wof:lastmodified":1563324858,
     "wof:name":"Hats'avan",
     "wof:parent_id":1108784235,
     "wof:placetype":"locality",

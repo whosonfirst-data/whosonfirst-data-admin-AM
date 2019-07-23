@@ -16,8 +16,20 @@
     "name:aze_x_preferred":[
         "G\u00f6lk\u0259nd"
     ],
+    "name:bar_x_preferred":[
+        "Lichk"
+    ],
+    "name:ceb_x_preferred":[
+        "Lichk'"
+    ],
+    "name:deu_x_preferred":[
+        "Lichk"
+    ],
     "name:eng_x_preferred":[
         "Lichk'"
+    ],
+    "name:eng_x_variant":[
+        "Lichk"
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0686\u06a9"
@@ -37,11 +49,23 @@
     "name:msa_x_preferred":[
         "Lichk"
     ],
+    "name:nan_x_preferred":[
+        "Lichk"
+    ],
+    "name:nld_x_preferred":[
+        "Lichk"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0447\u043a"
     ],
     "name:sco_x_preferred":[
         "Lichk"
+    ],
+    "name:spa_x_preferred":[
+        "Lichk"
+    ],
+    "name:swe_x_preferred":[
+        "Lichk'"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0447\u043a"
@@ -103,7 +127,7 @@
         }
     ],
     "wof:id":421177013,
-    "wof:lastmodified":1527716478,
+    "wof:lastmodified":1563324831,
     "wof:name":"Lichk'",
     "wof:parent_id":1108784517,
     "wof:placetype":"locality",

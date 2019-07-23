@@ -21,7 +21,13 @@
     "name:ast_x_preferred":[
         "Hnaberd"
     ],
+    "name:aze_x_preferred":[
+        "Q\u0131rxd\u0259yirman"
+    ],
     "name:cat_x_preferred":[
+        "Hnaberd"
+    ],
+    "name:ceb_x_preferred":[
         "Hnaberd"
     ],
     "name:eng_x_preferred":[
@@ -45,6 +51,9 @@
     "name:msa_x_preferred":[
         "Hnaberd"
     ],
+    "name:nan_x_preferred":[
+        "Hnaberd"
+    ],
     "name:nld_x_preferred":[
         "Hnaberd"
     ],
@@ -52,6 +61,9 @@
         "\u0425\u043d\u0430\u0431\u0435\u0440\u0434"
     ],
     "name:spa_x_preferred":[
+        "Hnaberd"
+    ],
+    "name:swe_x_preferred":[
         "Hnaberd"
     ],
     "name:ukr_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":890433453,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324895,
     "wof:name":"Hnaberd",
     "wof:parent_id":1108782869,
     "wof:placetype":"locality",

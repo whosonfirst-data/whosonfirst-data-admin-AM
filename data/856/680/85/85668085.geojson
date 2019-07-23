@@ -37,11 +37,20 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09ae\u09be\u09ad\u09bf\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:bos_x_preferred":[
+        "Armavir"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0430\u0432\u0438\u0440"
     ],
     "name:cat_x_preferred":[
         "Armavir"
+    ],
+    "name:ceb_x_preferred":[
+        "Armaviri Marz"
+    ],
+    "name:ces_x_preferred":[
+        "Kategorie:Armavir"
     ],
     "name:dan_x_preferred":[
         "Armavir Region"
@@ -65,6 +74,9 @@
     "name:est_x_preferred":[
         "Armaviri maakond"
     ],
+    "name:eus_x_preferred":[
+        "Armavir"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u0645\u0627\u0648\u06cc\u0631"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:fra_x_preferred":[
         "Armavir"
+    ],
+    "name:frr_x_preferred":[
+        "Armawir"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0aae\u0abe\u0ab5\u0abf\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -110,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub974\ub9c8\ube44\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub974\ub9c8\ube44\ub974\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Armaw\u00eer"
@@ -191,6 +209,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e40\u0e27\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e27\u0e35\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Armavir \u0130dari B\u00f6lgesi"
@@ -334,7 +355,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1561778335,
+    "wof:lastmodified":1563324280,
     "wof:name":"Armavir",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0633\u064a\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0633\u06cc\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Sisian"
     ],
@@ -25,7 +28,13 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0441\u0456\u044f\u043d"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0441\u0438\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Sisian"
+    ],
+    "name:ces_x_preferred":[
         "Sisian"
     ],
     "name:che_x_preferred":[
@@ -37,16 +46,25 @@
     "name:deu_x_preferred":[
         "Sissian"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c3\u03b9\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Sisian"
     ],
     "name:epo_x_preferred":[
         "Sisian"
     ],
+    "name:est_x_preferred":[
+        "Sisian"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0633\u06cc\u0627\u0646"
     ],
     "name:fra_x_preferred":[
+        "Sisian"
+    ],
+    "name:hsb_x_preferred":[
         "Sisian"
     ],
     "name:hye_x_preferred":[
@@ -118,6 +136,9 @@
     "name:unk_x_variant":[
         "Sisavan"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0633\u06cc\u0627\u0646"
+    ],
     "name:vie_x_preferred":[
         "Sisian"
     ],
@@ -126,6 +147,9 @@
     ],
     "name:zho_x_preferred":[
         "\u935a\u897f\u5b89"
+    ],
+    "name:zho_x_variant":[
+        "\u932b\u897f\u5b89"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -174,7 +198,7 @@
         }
     ],
     "wof:id":421203535,
-    "wof:lastmodified":1561778363,
+    "wof:lastmodified":1563324759,
     "wof:name":"Sisian",
     "wof:parent_id":1108784481,
     "wof:placetype":"locality",

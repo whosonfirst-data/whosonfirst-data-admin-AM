@@ -16,11 +16,17 @@
     "name:aze_x_preferred":[
         "Kolagir\u0259n"
     ],
+    "name:ceb_x_preferred":[
+        "Tsovinar"
+    ],
     "name:eng_x_preferred":[
         "Tsovinar"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0633\u0648\u0648\u06cc\u0646\u0627\u0631\u060c \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0633\u0648\u0648\u06cc\u0646\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Tsovinar"
@@ -37,6 +43,9 @@
     "name:msa_x_preferred":[
         "Tsovinar"
     ],
+    "name:nan_x_preferred":[
+        "Tsovinar"
+    ],
     "name:nld_x_preferred":[
         "Tsovinar"
     ],
@@ -44,6 +53,12 @@
         "\u0426\u043e\u0432\u0438\u043d\u0430\u0440"
     ],
     "name:sco_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:spa_x_preferred":[
+        "Tsovinar"
+    ],
+    "name:swe_x_preferred":[
         "Tsovinar"
     ],
     "name:ukr_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421177027,
-    "wof:lastmodified":1561778368,
+    "wof:lastmodified":1563324833,
     "wof:name":"Tsovinar",
     "wof:parent_id":1108784071,
     "wof:placetype":"locality",

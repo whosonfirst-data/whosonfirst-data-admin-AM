@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Pshatavan"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0448\u0430\u0442\u0430\u0432\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Pshatavan"
     ],
@@ -55,6 +58,9 @@
     "name:sco_x_preferred":[
         "Pshatavan"
     ],
+    "name:spa_x_preferred":[
+        "Pshatavan"
+    ],
     "name:swe_x_preferred":[
         "Pshatavan"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Pshatavan"
+    ],
+    "name:vie_x_variant":[
+        "Darpas"
     ],
     "name:zho_min_nan_x_preferred":[
         "Pshatavan"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421196491,
-    "wof:lastmodified":1561778365,
+    "wof:lastmodified":1563324792,
     "wof:name":"Pshatavan",
     "wof:parent_id":1108783865,
     "wof:placetype":"locality",

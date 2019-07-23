@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Ashnak"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0448\u043d\u0430\u043a"
+    ],
     "name:eng_x_preferred":[
         "Ashnak"
     ],
@@ -46,11 +49,17 @@
     "name:msa_x_preferred":[
         "Ashnak"
     ],
+    "name:nan_x_preferred":[
+        "Ashnak"
+    ],
     "name:nld_x_preferred":[
         "Ashnak"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u043d\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ashnak"
     ],
     "name:swe_x_preferred":[
         "Ashnak"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421172373,
-    "wof:lastmodified":1561778364,
+    "wof:lastmodified":1563324779,
     "wof:name":"Ashnak",
     "wof:parent_id":1108784261,
     "wof:placetype":"locality",

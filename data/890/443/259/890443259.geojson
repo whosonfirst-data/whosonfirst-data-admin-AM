@@ -18,6 +18,9 @@
     "name:aze_x_preferred":[
         "\u00c7otur"
     ],
+    "name:ceb_x_preferred":[
+        "Saramech"
+    ],
     "name:eng_x_preferred":[
         "Saramej"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043c\u0435\u0447"
+    ],
+    "name:spa_x_preferred":[
+        "Saramej"
     ],
     "name:swe_x_preferred":[
         "Saramech"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890443259,
-    "wof:lastmodified":1561778371,
+    "wof:lastmodified":1563324885,
     "wof:name":"Saramech",
     "wof:parent_id":1108783163,
     "wof:placetype":"locality",

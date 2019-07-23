@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0634\u062a\u0627\u0631\u0627\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u062a\u0627\u0631\u0627\u06a9"
+    ],
     "name:aze_x_preferred":[
         "\u018f\u015ft\u0259r\u0259k"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cat_x_preferred":[
         "Astarak"
+    ],
+    "name:ceb_x_preferred":[
+        "Ashtarak"
     ],
     "name:ces_x_preferred":[
         "A\u0161tarak"
@@ -81,6 +87,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0905\u0937\u094d\u0924\u093e\u0930\u093e\u0915"
+    ],
+    "name:hsb_x_preferred":[
+        "A\u0161tarak"
     ],
     "name:hun_x_preferred":[
         "Astarak"
@@ -178,6 +187,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e15\u0e32\u0e23\u0e31\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e0a\u0e15\u0e32\u0e23\u0e31\u0e01"
+    ],
     "name:tur_x_preferred":[
         "A\u015ftarak"
     ],
@@ -238,7 +250,7 @@
         }
     ],
     "wof:id":1125898507,
-    "wof:lastmodified":1561778372,
+    "wof:lastmodified":1563324908,
     "wof:name":"Ashtarak",
     "wof:parent_id":1108784213,
     "wof:placetype":"locality",

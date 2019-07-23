@@ -13,11 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Q\u0259z\u0259nf\u0259r"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0410\u0440\u0430\u0433\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Aragats"
+    ],
     "name:eng_x_preferred":[
         "Aragats"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u0627\u06af\u0627\u062a\u0633\u060c \u0622\u0631\u0627\u06af\u0627\u062a\u0633\u0648\u062a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0631\u0627\u06af\u0627\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Aragats"
@@ -37,8 +49,20 @@
     "name:msa_x_preferred":[
         "Aragats"
     ],
+    "name:nan_x_preferred":[
+        "Aragats"
+    ],
+    "name:nld_x_preferred":[
+        "Aragats"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0433\u0430\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Aragats"
+    ],
+    "name:swe_x_preferred":[
+        "Aragats"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u0491\u0430\u0446"
@@ -51,6 +75,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Aragats"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u52a0\u8328"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":421183453,
-    "wof:lastmodified":1527716491,
+    "wof:lastmodified":1563324838,
     "wof:name":"Aragats",
     "wof:parent_id":1108782841,
     "wof:placetype":"locality",
