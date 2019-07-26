@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004765,
-    "geom:area_square_m":45401096.732426,
+    "geom:area_square_m":45401096.732414,
     "geom:bbox":"45.9099655191,39.5596401869,45.9876763034,39.6600287936",
     "geom:latitude":39.601421,
     "geom:longitude":45.950681,
@@ -25,6 +25,48 @@
     "mps:longitude":45.950682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ange\u011fakot"
+    ],
+    "name:ceb_x_preferred":[
+        "Angeghakot'"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u0445\u0430\u043a\u043e\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06af\u063a\u0627\u06a9\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Angeghakot"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0563\u0565\u0572\u0561\u056f\u0578\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Angeghakot"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d2\u10d4\u10e6\u10d0\u10d9\u10dd\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Angeghakot"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u0445\u0430\u043a\u043e\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Angeghakot"
+    ],
+    "name:spa_x_preferred":[
+        "Angueghakot"
+    ],
+    "name:swe_x_preferred":[
+        "Angeghakot'"
+    ],
+    "name:vie_x_preferred":[
+        "Angeghakot"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783597,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159452,
     "wof:name":"Angeghakot",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

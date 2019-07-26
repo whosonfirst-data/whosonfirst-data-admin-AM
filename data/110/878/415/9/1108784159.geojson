@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001184,
-    "geom:area_square_m":11137966.585406,
+    "geom:area_square_m":11137966.58541,
     "geom:bbox":"44.9817573436,40.4580600001,45.0394789692,40.5122983937",
     "geom:latitude":40.486213,
     "geom:longitude":45.01284,
@@ -25,6 +25,36 @@
     "mps:longitude":45.012402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Nora\u015fen"
+    ],
+    "name:ceb_x_preferred":[
+        "Norashen"
+    ],
+    "name:fra_x_preferred":[
+        "Norashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Norashen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u0448\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Norashen"
+    ],
+    "name:spa_x_preferred":[
+        "Norashen"
+    ],
+    "name:swe_x_preferred":[
+        "Norashen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u0448\u0435\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784159,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159371,
     "wof:name":"Norashen",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

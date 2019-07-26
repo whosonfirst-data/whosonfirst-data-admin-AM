@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
-    "geom:area_square_m":13232109.375325,
+    "geom:area_square_m":13232109.375328,
     "geom:bbox":"44.6089191102,40.5318555962,44.687964937,40.5984677197",
     "geom:latitude":40.568126,
     "geom:longitude":44.645266,
@@ -25,6 +25,39 @@
     "mps:longitude":44.629166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Pa\u015fak\u0259nd"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u043c\u0430\u0440\u0438\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0645\u0627\u0631\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Marmarik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0574\u0561\u0580\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Marmarik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10db\u10d0\u10e0\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Marmarik"
+    ],
+    "name:sco_x_preferred":[
+        "Marmarik"
+    ],
+    "name:spa_x_preferred":[
+        "Marmarik"
+    ],
+    "name:vie_x_preferred":[
+        "Marmarik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783545,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159331,
     "wof:name":"Marmarik",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

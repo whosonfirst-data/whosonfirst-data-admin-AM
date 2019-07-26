@@ -28,6 +28,9 @@
     "name:hye_x_preferred":[
         "\u0533\u0565\u057f\u056b\u056f"
     ],
+    "name:ita_x_preferred":[
+        "Getik"
+    ],
     "name:und_x_variant":[
         "Chaykend",
         "Ghai-kend",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259863127,
-    "wof:lastmodified":1537584350,
+    "wof:lastmodified":1564159745,
     "wof:name":"Getik",
     "wof:parent_id":1108783411,
     "wof:placetype":"locality",

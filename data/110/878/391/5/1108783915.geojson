@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
-    "geom:area_square_m":3840313.678922,
+    "geom:area_square_m":3840313.678923,
     "geom:bbox":"44.2604741416,40.1997177573,44.2824374464,40.2334074987",
     "geom:latitude":40.216133,
     "geom:longitude":44.269987,
@@ -25,6 +25,42 @@
     "mps:longitude":44.268905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Doghs"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u063a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Doghs"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0572\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Doghs"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10e6\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Doghs"
+    ],
+    "name:sco_x_preferred":[
+        "Doghs"
+    ],
+    "name:spa_x_preferred":[
+        "Doghs"
+    ],
+    "name:swe_x_preferred":[
+        "Doghs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0445\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Doghs"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783915,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159325,
     "wof:name":"Doghs",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

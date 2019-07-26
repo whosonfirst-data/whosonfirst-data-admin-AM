@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002815,
-    "geom:area_square_m":26455499.035774,
+    "geom:area_square_m":26455499.035769,
     "geom:bbox":"43.7090216335,40.4896370608,43.7888087711,40.5626167664",
     "geom:latitude":40.533823,
     "geom:longitude":43.74704,
@@ -25,6 +25,39 @@
     "mps:longitude":43.749769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Bozdo\u011fan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043a\u0430\u043f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u06a9\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Sarakap"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u056f\u0561\u057a"
+    ],
+    "name:ita_x_preferred":[
+        "Sarakap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d9\u10d0\u10de\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sarakap"
+    ],
+    "name:sco_x_preferred":[
+        "Sarakap"
+    ],
+    "name:spa_x_preferred":[
+        "Sarakap"
+    ],
+    "name:vie_x_preferred":[
+        "Sarakap"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782633,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159547,
     "wof:name":"Sarakap",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

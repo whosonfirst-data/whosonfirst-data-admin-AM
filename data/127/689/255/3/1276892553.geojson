@@ -24,8 +24,95 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xorvirab monast\u0131r\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0425\u043e\u0440 \u0412\u0438\u0440\u0430\u043f"
+    ],
+    "name:cat_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:ces_x_preferred":[
+        "Chor Virap"
+    ],
+    "name:deu_x_preferred":[
+        "Kloster Chor Virap"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124or-Virapo"
+    ],
+    "name:est_x_preferred":[
+        "Hor Virap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0645\u0639\u0647 \u062e\u0648\u0631 \u0648\u06cc\u0631\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:fry_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:hrv_x_preferred":[
+        "Hor Virap"
+    ],
+    "name:hun_x_preferred":[
+        "Hor Virap"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0580 \u054e\u056b\u0580\u0561\u057a"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053d\u0578\u0580 \u054e\u056b\u0580\u0561\u057a"
+    ],
+    "name:ita_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10e0-\u10d5\u10d8\u10e0\u10d0\u10de\u10d8"
+    ],
+    "name:ltz_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:nld_x_preferred":[
+        "Chor Virap"
+    ],
+    "name:nor_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:pol_x_preferred":[
+        "Chor Wirap"
+    ],
+    "name:por_x_preferred":[
+        "Khor Virap"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440 \u0412\u0438\u0440\u0430\u043f"
+    ],
+    "name:slv_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:spa_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440 \u0412\u0438\u0440\u0430\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Khor Virap"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bb0\u0baa\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Hor Virap Kilisesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440 \u0412\u0456\u0440\u0430\u043f"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u723e\u7dad\u62c9\u666e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -51,7 +138,7 @@
         }
     ],
     "wof:id":1276892553,
-    "wof:lastmodified":1537584520,
+    "wof:lastmodified":1564159207,
     "wof:name":"Khor Virap",
     "wof:parent_id":1108783307,
     "wof:placetype":"locality",

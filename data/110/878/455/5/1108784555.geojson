@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000735,
-    "geom:area_square_m":6947397.343994,
+    "geom:area_square_m":6947397.343998,
     "geom:bbox":"44.234251832,40.1052506316,44.2607075838,40.1582065153",
     "geom:latitude":40.126517,
     "geom:longitude":44.246192,
@@ -25,6 +25,45 @@
     "mps:longitude":44.245293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 \u018fyl\u0259nli"
+    ],
+    "name:ceb_x_preferred":[
+        "Khoronk'"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0648\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Khoronk"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0580\u0578\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Khoronk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10e0\u10dd\u10dc\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Khoronk"
+    ],
+    "name:sco_x_preferred":[
+        "Khoronk"
+    ],
+    "name:spa_x_preferred":[
+        "Khoronk"
+    ],
+    "name:swe_x_preferred":[
+        "Choronk'"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u043d\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Khoronk"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784555,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159403,
     "wof:name":"Khoronk",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008312,
-    "geom:area_square_m":77433601.456063,
+    "geom:area_square_m":77433601.456054,
     "geom:bbox":"44.1048301354,41.0523848241,44.3451104349,41.1641524076",
     "geom:latitude":41.11509,
     "geom:longitude":44.274305,
@@ -25,6 +25,90 @@
     "mps:longitude":44.276975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0634\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0634\u06cc\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Ta\u015fir"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0448\u044b\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0448\u0438\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Tashir"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0448\u0438\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Taschir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c3\u03af\u03c1"
+    ],
+    "name:epo_x_preferred":[
+        "Ta\u015dir"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0634\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Tachir"
+    ],
+    "name:hsb_x_preferred":[
+        "Ta\u0161ir"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0577\u056b\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Tashir"
+    ],
+    "name:ita_x_preferred":[
+        "Tashir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e8\u10d8\u10e0\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Ta\u0161iras"
+    ],
+    "name:msa_x_preferred":[
+        "Tashir"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062a\u0627\u0634\u06cc\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Tasjir"
+    ],
+    "name:pol_x_preferred":[
+        "Taszir"
+    ],
+    "name:ron_x_preferred":[
+        "Ta\u0219ir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u0438\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Tashir"
+    ],
+    "name:swe_x_preferred":[
+        "Tashir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0448\u0438\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Tashir"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +130,7 @@
         }
     ],
     "wof:id":1108783079,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159316,
     "wof:name":"Tashir",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

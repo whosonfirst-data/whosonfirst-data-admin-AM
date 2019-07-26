@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":3846189.058886,
+    "geom:area_square_m":3846189.058885,
     "geom:bbox":"46.4347956204,39.5623306488,46.4770526703,39.5796896785",
     "geom:latitude":39.570641,
     "geom:longitude":46.454955,
@@ -25,6 +25,39 @@
     "mps:longitude":46.455275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u018fr\u0259vus"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0430\u0432\u0443\u0441"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0648\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Aravus"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0561\u057e\u0578\u0582\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Aravus"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d5\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aravus"
+    ],
+    "name:sco_x_preferred":[
+        "Aravus"
+    ],
+    "name:spa_x_preferred":[
+        "Aravus"
+    ],
+    "name:vie_x_preferred":[
+        "Aravus"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783371,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159335,
     "wof:name":"Aravus",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

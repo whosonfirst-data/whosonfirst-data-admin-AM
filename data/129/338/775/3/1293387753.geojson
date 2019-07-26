@@ -31,6 +31,12 @@
     "name:hye_x_variant":[
         "\u0536\u0578\u0580\u0561\u056f"
     ],
+    "name:ita_x_preferred":[
+        "Zorak"
+    ],
+    "name:por_x_preferred":[
+        "Zorak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293387753,
-    "wof:lastmodified":1537584502,
+    "wof:lastmodified":1564159140,
     "wof:name":"Zorak",
     "wof:parent_id":85668109,
     "wof:placetype":"locality",

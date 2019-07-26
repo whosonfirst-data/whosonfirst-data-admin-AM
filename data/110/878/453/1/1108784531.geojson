@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003204,
-    "geom:area_square_m":30189838.666607,
+    "geom:area_square_m":30189838.666597,
     "geom:bbox":"44.4635546807,40.3215415413,44.5757982432,40.3711218569",
     "geom:latitude":40.349377,
     "geom:longitude":44.523014,
@@ -25,6 +25,39 @@
     "mps:longitude":44.523895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zoravan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0631\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Zoravan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0578\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Zoravan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10dd\u10e0\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zoravan"
+    ],
+    "name:sco_x_preferred":[
+        "Zoravan"
+    ],
+    "name:spa_x_preferred":[
+        "Zoravan"
+    ],
+    "name:swe_x_preferred":[
+        "Zoravan"
+    ],
+    "name:vie_x_preferred":[
+        "Zoravan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784531,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159420,
     "wof:name":"Zoravan",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

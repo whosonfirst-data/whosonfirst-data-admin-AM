@@ -25,13 +25,43 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0627\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Mir\u0259k"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Mirak"
+    ],
     "name:hye_x_preferred":[
         "Mirak\u2019"
     ],
     "name:hye_x_variant":[
         "\u0544\u056b\u0580\u0561\u0584"
     ],
+    "name:ita_x_preferred":[
+        "Mirak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d0\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mirak"
+    ],
+    "name:spa_x_preferred":[
+        "Mirak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0430\u043a"
+    ],
     "name:und_x_variant":[
+        "Mirak"
+    ],
+    "name:vie_x_preferred":[
         "Mirak"
     ],
     "src:geom":"geonames",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1276777669,
-    "wof:lastmodified":1537584372,
+    "wof:lastmodified":1564159226,
     "wof:name":"Mirak'",
     "wof:parent_id":1108782879,
     "wof:placetype":"locality",

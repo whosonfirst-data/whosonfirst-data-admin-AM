@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007198,
-    "geom:area_square_m":68538771.357629,
+    "geom:area_square_m":68538771.357637,
     "geom:bbox":"45.3269019815,39.5901049629,45.5692229315,39.7021173743",
     "geom:latitude":39.637991,
     "geom:longitude":45.467698,
@@ -25,6 +25,45 @@
     "mps:longitude":45.515665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Pa\u015fal\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Zarrit'ap'"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0631\u06cc\u062a\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Zaritap"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u057c\u056b\u0569\u0561\u0583"
+    ],
+    "name:ita_x_preferred":[
+        "Zaritap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10d8\u10d7\u10d0\u10e4\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zaritap"
+    ],
+    "name:sco_x_preferred":[
+        "Zaritap"
+    ],
+    "name:spa_x_preferred":[
+        "Zaritap"
+    ],
+    "name:swe_x_preferred":[
+        "Zarrit'ap'"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0440\u0456\u0442\u0430\u043f"
+    ],
+    "name:vie_x_preferred":[
+        "Zaritap"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783403,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159442,
     "wof:name":"Zaritap",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

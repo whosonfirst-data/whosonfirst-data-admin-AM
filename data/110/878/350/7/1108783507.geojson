@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006145,
-    "geom:area_square_m":57254704.208946,
+    "geom:area_square_m":57254704.208929,
     "geom:bbox":"44.6014725015,41.0346867896,44.7073548424,41.1796390234",
     "geom:latitude":41.1096,
     "geom:longitude":44.659021,
@@ -25,6 +25,27 @@
     "mps:longitude":44.65475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Alawerdi"
+    ],
+    "name:fra_x_preferred":[
+        "Alaverdi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0561\u057e\u0565\u0580\u0564\u056b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10d5\u10d4\u10e0\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0432\u0435\u0440\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Alaverdi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u0432\u0435\u0440\u0434\u0456"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108783507,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159457,
     "wof:name":"Alaverdi",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001181,
-    "geom:area_square_m":11140425.522169,
+    "geom:area_square_m":11140425.522164,
     "geom:bbox":"44.4969457354,40.2557972162,44.5528248037,40.2946728418",
     "geom:latitude":40.277256,
     "geom:longitude":44.520275,
@@ -25,6 +25,42 @@
     "mps:longitude":44.518379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Mrqa\u015fen"
+    ],
+    "name:ceb_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06af\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0580\u0563\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e0\u10d2\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:sco_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:spa_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:swe_x_preferred":[
+        "Mrgashen"
+    ],
+    "name:vie_x_preferred":[
+        "Mrgashen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784595,
-    "wof:lastmodified":1512517069,
+    "wof:lastmodified":1564159537,
     "wof:name":"Mrgashen",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

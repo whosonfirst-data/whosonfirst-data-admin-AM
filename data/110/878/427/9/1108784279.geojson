@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002062,
-    "geom:area_square_m":19490865.181626,
+    "geom:area_square_m":19490865.181625,
     "geom:bbox":"44.6176141402,40.0982840676,44.8301415095,40.3750159634",
     "geom:latitude":40.147065,
     "geom:longitude":44.659897,
@@ -25,6 +25,12 @@
     "mps:longitude":44.637786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ita_x_preferred":[
+        "Hatsavan"
+    ],
+    "name:sco_x_preferred":[
+        "Hatsavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108784279,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159512,
     "wof:name":"Hatsavan",
     "wof:parent_id":85668115,
     "wof:placetype":"localadmin",

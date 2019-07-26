@@ -31,6 +31,12 @@
     "name:hye_x_variant":[
         "\u053f\u0561\u057f\u0561\u057f"
     ],
+    "name:ita_x_preferred":[
+        "Akbarpur"
+    ],
+    "name:swe_x_preferred":[
+        "Akbarpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226037581,
-    "wof:lastmodified":1537584473,
+    "wof:lastmodified":1564159765,
     "wof:name":"Katat",
     "wof:parent_id":1108783571,
     "wof:placetype":"locality",

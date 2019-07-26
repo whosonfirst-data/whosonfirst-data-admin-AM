@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002342,
-    "geom:area_square_m":21836065.537054,
+    "geom:area_square_m":21836065.537065,
     "geom:bbox":"44.2792799066,41.0299881633,44.3551490718,41.0929196773",
     "geom:latitude":41.064012,
     "geom:longitude":44.320975,
@@ -25,6 +25,33 @@
     "mps:longitude":44.31523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Novoseltsova"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0641\u0648\u0633\u0644\u062a\u0633\u0648\u0641\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Novoseltsovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u057d\u0565\u056c\u0581\u0578\u057e\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Novoseltsovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd\u10e1\u10d4\u10da\u10ea\u10dd\u10d5\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Novoseltsovo"
+    ],
+    "name:spa_x_preferred":[
+        "Novoseltsovo"
+    ],
+    "name:vie_x_preferred":[
+        "Novoseltsovo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108783091,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159321,
     "wof:name":"Novoseltsovo",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

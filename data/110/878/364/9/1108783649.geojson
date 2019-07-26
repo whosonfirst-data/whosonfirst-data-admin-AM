@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001823,
-    "geom:area_square_m":17167343.942896,
+    "geom:area_square_m":17167343.942897,
     "geom:bbox":"45.4892173957,40.3687615668,45.5676687757,40.4091133625",
     "geom:latitude":40.38726,
     "geom:longitude":45.529898,
@@ -25,6 +25,27 @@
     "mps:longitude":45.529304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "P\u0259mb\u0259k"
+    ],
+    "name:deu_x_preferred":[
+        "Pambak"
+    ],
+    "name:fra_x_preferred":[
+        "Pambak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0561\u0574\u0562\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Pambak"
+    ],
+    "name:sco_x_preferred":[
+        "Pambak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043c\u0431\u0430\u043a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108783649,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159347,
     "wof:name":"Pambak",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

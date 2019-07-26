@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":5442999.184374,
+    "geom:area_square_m":5442999.184376,
     "geom:bbox":"44.5741845583,40.3534701226,44.6084474577,40.3894275078",
     "geom:latitude":40.372025,
     "geom:longitude":44.591201,
@@ -25,6 +25,24 @@
     "mps:longitude":44.592382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Argel"
+    ],
+    "name:fra_x_preferred":[
+        "Argel"
+    ],
+    "name:ita_x_preferred":[
+        "Argel"
+    ],
+    "name:por_x_preferred":[
+        "Argel"
+    ],
+    "name:sco_x_preferred":[
+        "Argel"
+    ],
+    "name:swe_x_preferred":[
+        "Argel"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108783583,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159470,
     "wof:name":"Argel",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

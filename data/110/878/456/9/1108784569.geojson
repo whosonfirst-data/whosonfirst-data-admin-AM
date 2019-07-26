@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004679,
-    "geom:area_square_m":44196860.445581,
+    "geom:area_square_m":44196860.44559,
     "geom:bbox":"43.7225871442,40.1463827766,43.8175824178,40.251620847",
     "geom:latitude":40.194089,
     "geom:longitude":43.769201,
@@ -25,6 +25,12 @@
     "mps:longitude":43.772449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0576\u056b\u056f"
+    ],
+    "name:sco_x_preferred":[
+        "Shenik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108784569,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159518,
     "wof:name":"Shenik",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

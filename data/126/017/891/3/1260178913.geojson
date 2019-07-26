@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Baharl\u0131"
+    ],
     "name:und_x_variant":[
         "Bagarlu",
         "Baharlu"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260178913,
-    "wof:lastmodified":1537584353,
+    "wof:lastmodified":1564159311,
     "wof:name":"Baharlu",
     "wof:parent_id":85668119,
     "wof:placetype":"locality",

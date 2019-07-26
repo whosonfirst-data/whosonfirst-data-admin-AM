@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001638,
-    "geom:area_square_m":15319063.621186,
+    "geom:area_square_m":15319063.621188,
     "geom:bbox":"45.0847933788,40.8345996625,45.184833574,40.9003096218",
     "geom:latitude":40.872029,
     "geom:longitude":45.139821,
@@ -25,6 +25,132 @@
     "mps:longitude":45.146196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u062c\u0648\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062c\u0648\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130cevan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0434\u0436\u044d\u0432\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ijevan"
+    ],
+    "name:ces_x_preferred":[
+        "Ijevan"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Idschewan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bd\u03c4\u03b6\u03b5\u03b2\u03ac\u03bd"
+    ],
+    "name:epo_x_preferred":[
+        "I\u011devano"
+    ],
+    "name:est_x_preferred":[
+        "Id\u017eevan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062c\u0648\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ijevan"
+    ],
+    "name:fra_x_preferred":[
+        "Idjevan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d2'\u05d1\u05d0\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "Id\u017aewan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057b\u0587\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Ijevan"
+    ],
+    "name:ita_x_preferred":[
+        "Ijevan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b8\u30a7\u30f4\u30a1\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10ef\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc81c\ubc18"
+    ],
+    "name:lit_x_preferred":[
+        "Id\u017eevanas"
+    ],
+    "name:msa_x_preferred":[
+        "Ijevan"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u06cc\u062c\u0648\u0627\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Idzjevan"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a07\u0a1c\u0a47\u0a35\u0a3e\u0a28"
+    ],
+    "name:pol_x_preferred":[
+        "Iczewan"
+    ],
+    "name:ron_x_preferred":[
+        "Ijevan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Ijevan"
+    ],
+    "name:spa_x_preferred":[
+        "Ijevan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u045f\u0435\u0432\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Ijevan"
+    ],
+    "name:swe_x_preferred":[
+        "Idzjevan"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130cevan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u062c\u0648\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Ijevan"
+    ],
+    "name:war_x_preferred":[
+        "Ijevan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6770\u4e07"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +172,7 @@
         }
     ],
     "wof:id":1108783279,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159554,
     "wof:name":"Ijevan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

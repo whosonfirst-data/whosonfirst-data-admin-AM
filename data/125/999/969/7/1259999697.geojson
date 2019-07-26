@@ -25,15 +25,39 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Lernadzor"
+    ],
     "name:hye_x_preferred":[
         "Lerrnadzor"
     ],
     "name:hye_x_variant":[
         "\u053c\u0565\u057c\u0576\u0561\u0571\u0578\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Lernadzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e0\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lernadzor"
+    ],
+    "name:sco_x_preferred":[
+        "Lernadzor"
+    ],
+    "name:spa_x_preferred":[
+        "Lernadzor"
+    ],
     "name:und_x_variant":[
         "Lernadzor",
         "Kyurdikend"
+    ],
+    "name:vie_x_preferred":[
+        "Lernadzor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1259999697,
-    "wof:lastmodified":1537584346,
+    "wof:lastmodified":1564159724,
     "wof:name":"Lerrnadzor",
     "wof:parent_id":1108784393,
     "wof:placetype":"locality",

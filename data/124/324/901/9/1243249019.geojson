@@ -28,12 +28,33 @@
     "name:aze_x_preferred":[
         "Yuxar\u0131 G\u00f6d\u0259kli"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0627\u0648\u0627\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Vardavank"
+    ],
     "name:hye_x_preferred":[
         "Verin Gyodak\u2019lu"
     ],
     "name:hye_x_variant":[
         "Vardavank\u2019",
         "\u054e\u0561\u0580\u0564\u0561\u057e\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Vardavank"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d0\u10d5\u10d0\u10dc\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vardavanq"
+    ],
+    "name:sco_x_preferred":[
+        "Vardavank"
+    ],
+    "name:spa_x_preferred":[
+        "Vardavank"
     ],
     "name:und_x_variant":[
         "Vardavank",
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1243249019,
-    "wof:lastmodified":1537584341,
+    "wof:lastmodified":1564159690,
     "wof:name":"Vardavank'",
     "wof:parent_id":1108784603,
     "wof:placetype":"locality",

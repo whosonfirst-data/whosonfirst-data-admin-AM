@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002928,
-    "geom:area_square_m":27863879.034549,
+    "geom:area_square_m":27863879.034546,
     "geom:bbox":"45.3675810779,39.6432348238,45.4482216749,39.7168398843",
     "geom:latitude":39.684566,
     "geom:longitude":45.401789,
@@ -25,6 +25,39 @@
     "mps:longitude":45.402408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Zeyt\u0259"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zedea"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u0564\u0565\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Zedea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d3\u10d4\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Zedea"
+    ],
+    "name:sco_x_preferred":[
+        "Zedea"
+    ],
+    "name:spa_x_preferred":[
+        "Zedea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0434\u0435\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Zedea"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783031,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159461,
     "wof:name":"Zedea",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

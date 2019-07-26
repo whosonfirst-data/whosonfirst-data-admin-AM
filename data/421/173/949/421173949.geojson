@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Razdan Shrjan"
     ],
+    "name:uzb_x_preferred":[
+        "Razdan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421173949,
-    "wof:lastmodified":1555046994,
+    "wof:lastmodified":1564159655,
     "wof:name":"Razdan",
     "wof:parent_id":85668105,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006474,
-    "geom:area_square_m":60583216.382483,
+    "geom:area_square_m":60583216.382497,
     "geom:bbox":"44.1904516202,40.7387086219,44.3242212667,40.8619819564",
     "geom:latitude":40.816651,
     "geom:longitude":44.266754,
@@ -25,6 +25,111 @@
     "mps:longitude":44.243458,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u062a\u0627\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Spitak"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043f\u0456\u0442\u0430\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Spitak"
+    ],
+    "name:ces_x_preferred":[
+        "Spitak"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Spitak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b9\u03c4\u03ac\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "Spitak"
+    ],
+    "name:est_x_preferred":[
+        "Spitak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u062a\u0627\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Spitak"
+    ],
+    "name:fra_x_preferred":[
+        "Spitak"
+    ],
+    "name:hsb_x_preferred":[
+        "Spitak"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Spitak"
+    ],
+    "name:ita_x_preferred":[
+        "Spitak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10de\u10d8\u10e2\u10d0\u10d9\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Spitakas"
+    ],
+    "name:msa_x_preferred":[
+        "Spitak"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u062a\u0627\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Spitak"
+    ],
+    "name:pol_x_preferred":[
+        "Spitak"
+    ],
+    "name:por_x_preferred":[
+        "Spitak"
+    ],
+    "name:ron_x_preferred":[
+        "Spitak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Spitak"
+    ],
+    "name:spa_x_preferred":[
+        "Spitak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Spitak"
+    ],
+    "name:tur_x_preferred":[
+        "Spitak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0456\u0442\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Spitak"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u5854\u514b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +151,7 @@
         }
     ],
     "wof:id":1108783165,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159559,
     "wof:name":"Spitak",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

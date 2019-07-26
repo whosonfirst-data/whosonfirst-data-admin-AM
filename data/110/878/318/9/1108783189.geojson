@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004444,
-    "geom:area_square_m":41517332.169306,
+    "geom:area_square_m":41517332.169304,
     "geom:bbox":"44.7315139027,40.8549937566,44.8098046942,40.9988196088",
     "geom:latitude":40.933111,
     "geom:longitude":44.7725,
@@ -25,6 +25,39 @@
     "mps:longitude":44.767166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Lorut"
+    ],
+    "name:ceb_x_preferred":[
+        "Lorut"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Lorut"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0580\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Lorut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e0\u10e3\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lorut"
+    ],
+    "name:spa_x_preferred":[
+        "Lorut"
+    ],
+    "name:swe_x_preferred":[
+        "Lorut"
+    ],
+    "name:vie_x_preferred":[
+        "Lorut"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783189,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159552,
     "wof:name":"Lorut",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

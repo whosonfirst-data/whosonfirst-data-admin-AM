@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002244,
-    "geom:area_square_m":21123275.187242,
+    "geom:area_square_m":21123275.187239,
     "geom:bbox":"43.6148260375,40.3979773039,43.6950736744,40.4465959677",
     "geom:latitude":40.421567,
     "geom:longitude":43.653922,
@@ -25,6 +25,33 @@
     "mps:longitude":43.65453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tlik"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Tlik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u056c\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Tlik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10da\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tlik"
+    ],
+    "name:spa_x_preferred":[
+        "Tlik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043b\u0456\u043a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108783443,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159582,
     "wof:name":"Tlik",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

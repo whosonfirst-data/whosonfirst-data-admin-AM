@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001774,
-    "geom:area_square_m":16895781.736992,
+    "geom:area_square_m":16895781.736991,
     "geom:bbox":"46.2871679202,39.6026253945,46.377988171,39.6402916074",
     "geom:latitude":39.6214,
     "geom:longitude":46.33496,
@@ -25,6 +25,36 @@
     "mps:longitude":46.33496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Xoznavar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0632\u0646\u0627\u0648\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Khoznavar"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0566\u0576\u0561\u057e\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Khoznavar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10d6\u10dc\u10d0\u10d5\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Khoznavar"
+    ],
+    "name:sco_x_preferred":[
+        "Khoznavar"
+    ],
+    "name:spa_x_preferred":[
+        "Khoznavar"
+    ],
+    "name:vie_x_preferred":[
+        "Khoznavar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108783049,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159461,
     "wof:name":"Khoznavar",
     "wof:parent_id":85668621,
     "wof:placetype":"localadmin",

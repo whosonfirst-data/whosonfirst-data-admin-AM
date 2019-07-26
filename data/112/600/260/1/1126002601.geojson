@@ -19,11 +19,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Woskehat"
+    ],
+    "name:fra_x_preferred":[
+        "Voskehat"
+    ],
     "name:hye_x_preferred":[
         "Voskehat"
     ],
     "name:hye_x_variant":[
         "\u0548\u057d\u056f\u0565\u0570\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Voskehat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0435\u0430\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Voskehat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0435\u0430\u0442"
     ],
     "name:unk_x_variant":[
         "Voskeat"
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1126002601,
-    "wof:lastmodified":1509406239,
+    "wof:lastmodified":1564159664,
     "wof:name":"Voskehat",
     "wof:parent_id":1108783687,
     "wof:placetype":"locality",

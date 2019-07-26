@@ -25,12 +25,42 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Calak\u0259nd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03c4\u03c3\u03ba\u03b1\u03bd\u03c4\u03b6\u03cc\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0686\u06a9\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Lchkadzor"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0573\u056f\u0561\u0571\u0578\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Lchkadzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10ed\u10d9\u10d0\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lchkadzor"
+    ],
+    "name:sco_x_preferred":[
+        "Lchkadzor"
+    ],
+    "name:spa_x_preferred":[
+        "Lchkadzor"
     ],
     "name:und_x_variant":[
         "Lichadzar",
         "Lichkadzor"
+    ],
+    "name:vie_x_preferred":[
+        "Lchkadzor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1327318307,
-    "wof:lastmodified":1537584374,
+    "wof:lastmodified":1564159041,
     "wof:name":"Lchkadzor",
     "wof:parent_id":1108783061,
     "wof:placetype":"locality",

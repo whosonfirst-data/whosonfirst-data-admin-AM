@@ -25,14 +25,47 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gomur"
+    ],
+    "name:ces_x_preferred":[
+        "Gomk"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0645\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Gomk"
+    ],
     "name:hye_x_preferred":[
         "Gomk\u2019"
     ],
     "name:hye_x_variant":[
         "\u0533\u0578\u0574\u0584"
     ],
+    "name:ita_x_preferred":[
+        "Gomk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10db\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gomk"
+    ],
+    "name:sco_x_preferred":[
+        "Gomk"
+    ],
+    "name:spa_x_preferred":[
+        "Gomk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u043c\u043a"
+    ],
     "name:und_x_variant":[
         "Gomur"
+    ],
+    "name:vie_x_preferred":[
+        "Gomk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1260272099,
-    "wof:lastmodified":1537584350,
+    "wof:lastmodified":1564159306,
     "wof:name":"Gomk'",
     "wof:parent_id":1108783405,
     "wof:placetype":"locality",

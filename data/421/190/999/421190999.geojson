@@ -19,11 +19,110 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0622\u0631\u062a\u064a\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "\u018frtik"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0442\u044b\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0442\u0438\u043a"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0442\u0438\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Artik"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c4\u03af\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Artik"
     ],
     "name:eng_x_variant":[
         "Artik Shrjan"
+    ],
+    "name:epo_x_preferred":[
+        "Artik"
+    ],
+    "name:est_x_preferred":[
+        "Arthik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Artik"
+    ],
+    "name:hsb_x_preferred":[
+        "Artik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0569\u056b\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0569\u056b\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Artik"
+    ],
+    "name:ita_x_preferred":[
+        "Artik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d7\u10d8\u10d9\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Artikas"
+    ],
+    "name:msa_x_preferred":[
+        "Artik"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Artik"
+    ],
+    "name:pol_x_preferred":[
+        "Artik"
+    ],
+    "name:ron_x_preferred":[
+        "Artik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Artik"
+    ],
+    "name:spa_x_preferred":[
+        "Artik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0442\u0438\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Artik"
+    ],
+    "name:swe_x_preferred":[
+        "Artik"
+    ],
+    "name:tur_x_preferred":[
+        "Artik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0442\u0456\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Artik"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -66,7 +165,7 @@
         }
     ],
     "wof:id":421190999,
-    "wof:lastmodified":1555046994,
+    "wof:lastmodified":1564159660,
     "wof:name":"Artik",
     "wof:parent_id":85668083,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
-    "geom:area_square_m":8892646.514046,
+    "geom:area_square_m":8892646.514038,
     "geom:bbox":"44.3732888856,40.1660812168,44.4111425239,40.2171804597",
     "geom:latitude":40.195407,
     "geom:longitude":44.393627,
@@ -25,6 +25,42 @@
     "mps:longitude":44.392336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mertsavan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062f\u0632\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Merdsavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u0571\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Merdzavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10e0\u10eb\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Merdzavan"
+    ],
+    "name:sco_x_preferred":[
+        "Merdzavan"
+    ],
+    "name:spa_x_preferred":[
+        "Merdzavan"
+    ],
+    "name:swe_x_preferred":[
+        "Mertsavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0434\u0437\u0430\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Merdzavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784189,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159510,
     "wof:name":"Merdzavan",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004276,
-    "geom:area_square_m":40780013.900898,
+    "geom:area_square_m":40780013.900892,
     "geom:bbox":"46.1104240537,39.490133588,46.1963254512,39.5842149494",
     "geom:latitude":39.536157,
     "geom:longitude":46.154715,
@@ -25,6 +25,42 @@
     "mps:longitude":46.157639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Va\u011fudi"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0442\u0438\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u063a\u0627\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vaghatin"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0572\u0561\u057f\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Vaghatin"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e6\u10d0\u10e2\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vaghatin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0442\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Vaghatin"
+    ],
+    "name:spa_x_preferred":[
+        "Vaghatin"
+    ],
+    "name:vie_x_preferred":[
+        "Vaghatin"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784465,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159368,
     "wof:name":"Vaghatin",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

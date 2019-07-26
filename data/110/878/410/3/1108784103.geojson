@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":8491215.666872,
+    "geom:area_square_m":8491215.666874,
     "geom:bbox":"45.8465813621,40.1519939125,45.8954827603,40.1887711822",
     "geom:latitude":40.171648,
     "geom:longitude":45.871759,
@@ -25,6 +25,27 @@
     "mps:longitude":45.872128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Azatlar"
+    ],
+    "name:cat_x_preferred":[
+        "Azat"
+    ],
+    "name:deu_x_preferred":[
+        "Azat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0566\u0561\u057f\u0576\u0565\u0580"
+    ],
+    "name:por_x_preferred":[
+        "Azat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0430\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0437\u0430\u0442\u0438"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108784103,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159497,
     "wof:name":"Azat",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0011,
-    "geom:area_square_m":10391901.758551,
+    "geom:area_square_m":10391901.758555,
     "geom:bbox":"43.9824361677,40.15186594,44.0241182391,40.1976188565",
     "geom:latitude":40.177796,
     "geom:longitude":44.003503,
@@ -25,6 +25,45 @@
     "mps:longitude":44.002057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Luka\u015fin"
+    ],
+    "name:ceb_x_preferred":[
+        "Lukashin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0627\u0634\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lukashin"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u056f\u0561\u0577\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Lukashin"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10d9\u10d0\u10e8\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lukashin"
+    ],
+    "name:sco_x_preferred":[
+        "Lukashin"
+    ],
+    "name:spa_x_preferred":[
+        "Lukashin"
+    ],
+    "name:swe_x_preferred":[
+        "Lukashin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0448\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Lukashin"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784173,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159493,
     "wof:name":"Lukashin",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

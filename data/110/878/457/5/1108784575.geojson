@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000409,
-    "geom:area_square_m":3872876.316924,
+    "geom:area_square_m":3872876.316923,
     "geom:bbox":"43.852132131,40.0344967776,43.9154365669,40.0480075177",
     "geom:latitude":40.04097,
     "geom:longitude":43.887919,
@@ -25,6 +25,42 @@
     "mps:longitude":43.887928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Berka\u015fat"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0430\u0448\u0430\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06a9\u0627\u0634\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Berkashat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0584\u0561\u0577\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Berkashat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10e5\u10d0\u10e8\u10d0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Berkashat"
+    ],
+    "name:sco_x_preferred":[
+        "Berkashat"
+    ],
+    "name:spa_x_preferred":[
+        "Berkashat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0430\u0448\u0430\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Berkashat"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784575,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159534,
     "wof:name":"Berkashat",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

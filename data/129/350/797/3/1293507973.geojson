@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qalasar"
+    ],
     "name:hye_x_preferred":[
         "Kalasar"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293507973,
-    "wof:lastmodified":1537584349,
+    "wof:lastmodified":1564159164,
     "wof:name":"Kalasar",
     "wof:parent_id":1108784045,
     "wof:placetype":"locality",

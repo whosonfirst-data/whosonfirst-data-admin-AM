@@ -25,11 +25,44 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0131n\u0131x"
+    ],
+    "name:ceb_x_preferred":[
+        "Shnogh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Shnogh"
+    ],
     "name:hye_x_preferred":[
         "Shnogh"
     ],
     "name:hye_x_variant":[
         "\u0547\u0576\u0578\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Shnogh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dc\u10dd\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shnogh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043d\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Shnogh"
+    ],
+    "name:swe_x_preferred":[
+        "Shnogh"
+    ],
+    "name:vie_x_preferred":[
+        "Shnogh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1360177157,
-    "wof:lastmodified":1537584516,
+    "wof:lastmodified":1564159631,
     "wof:name":"Shnogh",
     "wof:parent_id":85668109,
     "wof:placetype":"locality",

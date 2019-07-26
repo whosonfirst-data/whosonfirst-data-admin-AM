@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":779748.480562,
+    "geom:area_square_m":779748.480565,
     "geom:bbox":"44.4240913155,40.1351348826,44.4470277748,40.1552958817",
     "geom:latitude":40.141879,
     "geom:longitude":44.433676,
@@ -25,6 +25,36 @@
     "mps:longitude":44.431934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u062a\u0627\u0628\u0646\u064a\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u062a\u0627\u067e\u0646\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Getapnya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u057f\u0561\u0583\u0576\u0575\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Getapnya"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10e2\u10d0\u10e4\u10dc\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Getapnya"
+    ],
+    "name:spa_x_preferred":[
+        "Getapnya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0442\u0430\u043f\u043d\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Getapnya"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108783965,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159329,
     "wof:name":"Getapnya",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

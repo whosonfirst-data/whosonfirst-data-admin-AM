@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001149,
-    "geom:area_square_m":10732494.090616,
+    "geom:area_square_m":10732494.090617,
     "geom:bbox":"44.6279437202,40.9009729398,44.6981135028,40.9343383048",
     "geom:latitude":40.917832,
     "geom:longitude":44.664226,
@@ -25,6 +25,81 @@
     "mps:longitude":44.665795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tona"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0431\u0435\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Debed"
+    ],
+    "name:ces_x_preferred":[
+        "Debed"
+    ],
+    "name:chv_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Debed"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Debed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0562\u0565\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Debed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d1\u10d4\u10d3\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Debedas"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Debed"
+    ],
+    "name:nor_x_preferred":[
+        "Debed"
+    ],
+    "name:pol_x_preferred":[
+        "Debed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Debet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Debed"
+    ],
+    "name:tur_x_preferred":[
+        "Debed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0434"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d4\u10d1\u10d4\u10d3\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u8c9d\u5fb7\u6cb3"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +121,7 @@
         }
     ],
     "wof:id":1108783633,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159347,
     "wof:name":"Debed",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

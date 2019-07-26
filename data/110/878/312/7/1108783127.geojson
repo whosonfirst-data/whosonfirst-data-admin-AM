@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001627,
-    "geom:area_square_m":15186482.520152,
+    "geom:area_square_m":15186482.520141,
     "geom:bbox":"44.4852303666,40.9333998758,44.5290120679,41.0002265293",
     "geom:latitude":40.970438,
     "geom:longitude":44.50794,
@@ -25,6 +25,30 @@
     "mps:longitude":44.50578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vardablur"
+    ],
+    "name:fra_x_preferred":[
+        "Vardablur"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0564\u0561\u0562\u056c\u0578\u0582\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Vardablur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d0\u10d1\u10da\u10e3\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0430\u0431\u043b\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Vardablur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0430\u0431\u043b\u0443\u0440"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1108783127,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159434,
     "wof:name":"Vardablur",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

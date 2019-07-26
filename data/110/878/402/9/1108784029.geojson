@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":2708968.822779,
+    "geom:area_square_m":2708968.822778,
     "geom:bbox":"44.6266462412,39.9134626271,44.6625758896,39.934089136",
     "geom:latitude":39.922859,
     "geom:longitude":44.641113,
@@ -25,6 +25,39 @@
     "mps:longitude":44.639344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631 \u0627\u0648\u063a\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Nor Uqi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631 \u0627\u0648\u063a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Nor Ughi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580 \u0578\u0582\u0572\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Nor Ughi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0-\u10e3\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nor Ughi"
+    ],
+    "name:spa_x_preferred":[
+        "Nor Ughi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440-\u0423\u0491\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Nor Ughi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784029,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159523,
     "wof:name":"Nor Ughi",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

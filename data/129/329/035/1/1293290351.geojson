@@ -25,12 +25,36 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u00f6vrus"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0648\u0631\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Tavrus"
+    ],
     "name:hye_x_preferred":[
         "Dovrus"
     ],
     "name:hye_x_variant":[
         "Tavrus",
         "\u054f\u0561\u057e\u0580\u0578\u0582\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Tavrus"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d5\u10e0\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tavrus"
+    ],
+    "name:sco_x_preferred":[
+        "Tavrus"
+    ],
+    "name:spa_x_preferred":[
+        "Tavrus"
     ],
     "name:und_x_variant":[
         "Davrus",
@@ -39,6 +63,9 @@
         "Tovruz",
         "T\u2019uvruz",
         "Tavros"
+    ],
+    "name:vie_x_preferred":[
+        "Tavrus"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1293290351,
-    "wof:lastmodified":1537584351,
+    "wof:lastmodified":1564159180,
     "wof:name":"Tavrus",
     "wof:parent_id":1108784425,
     "wof:placetype":"locality",

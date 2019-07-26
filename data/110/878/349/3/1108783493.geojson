@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002644,
-    "geom:area_square_m":25092263.501465,
+    "geom:area_square_m":25092263.501466,
     "geom:bbox":"45.4397354183,39.8474991475,45.5325000336,39.9064471146",
     "geom:latitude":39.877304,
     "geom:longitude":45.486907,
@@ -25,6 +25,42 @@
     "mps:longitude":45.506233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qabaxl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u063a\u062a\u0627\u0646\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0572\u0569\u0561\u0576\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e6\u10d7\u10d0\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:por_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:sco_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:spa_x_preferred":[
+        "Goghtanik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u0445\u0442\u0430\u043d\u0456\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Goghtanik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783493,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159440,
     "wof:name":"Goghtanik",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

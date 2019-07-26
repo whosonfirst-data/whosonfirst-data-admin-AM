@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001559,
-    "geom:area_square_m":14648796.069805,
+    "geom:area_square_m":14648796.069808,
     "geom:bbox":"43.85617092,40.5401871003,43.9098366452,40.5937788253",
     "geom:latitude":40.564993,
     "geom:longitude":43.884161,
@@ -25,6 +25,39 @@
     "mps:longitude":43.889039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Bo\u011fazk\u0259s\u0259n"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u043e\u043a\u0430\u043f"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0648\u0631\u0627\u06a9\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Dzorakap"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u0578\u0580\u0561\u056f\u0561\u057a"
+    ],
+    "name:ita_x_preferred":[
+        "Dzorakap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10dd\u10e0\u10d0\u10d9\u10d0\u10de\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzorakap"
+    ],
+    "name:sco_x_preferred":[
+        "Dzorakap"
+    ],
+    "name:spa_x_preferred":[
+        "Dzorakap"
+    ],
+    "name:vie_x_preferred":[
+        "Dzorakap"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782623,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159526,
     "wof:name":"Dzorakap",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002118,
-    "geom:area_square_m":19979724.187881,
+    "geom:area_square_m":19979724.187884,
     "geom:bbox":"44.7777820081,40.2426658175,44.8308642883,40.2960112493",
     "geom:latitude":40.270179,
     "geom:longitude":44.807769,
@@ -25,6 +25,36 @@
     "mps:longitude":44.807263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qaraqala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0627\u0628\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sevaberd"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0587\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Sevaberd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10d5\u10d0\u10d1\u10d4\u10e0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sevaberd"
+    ],
+    "name:sco_x_preferred":[
+        "Sevaberd"
+    ],
+    "name:spa_x_preferred":[
+        "Sevaberd"
+    ],
+    "name:vie_x_preferred":[
+        "Sevaberd"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784303,
-    "wof:lastmodified":1512517066,
+    "wof:lastmodified":1564159392,
     "wof:name":"Sevaberd",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

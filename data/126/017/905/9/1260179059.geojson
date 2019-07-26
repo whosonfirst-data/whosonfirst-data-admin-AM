@@ -28,18 +28,45 @@
     "name:aze_x_preferred":[
         "\u015eurnux"
     ],
+    "name:aze_x_variant":[
+        "\u015eurnuxu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0646\u0648\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Shurnukh"
+    ],
     "name:hye_x_preferred":[
         "Shurrnukh"
     ],
     "name:hye_x_variant":[
         "\u0547\u0578\u0582\u057c\u0576\u0578\u0582\u056d"
     ],
+    "name:ita_x_preferred":[
+        "Shurnukh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e0\u10dc\u10e3\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shurnukh"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u0440\u043d\u0443\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Shurnukh"
+    ],
+    "name:spa_x_preferred":[
+        "Shurnukh"
     ],
     "name:und_x_variant":[
         "Shurnukh",
         "\u0428\u0443\u0440\u043d\u0443\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Shurnukh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1260179059,
-    "wof:lastmodified":1537584342,
+    "wof:lastmodified":1564159311,
     "wof:name":"Shurrnukh",
     "wof:parent_id":1108784249,
     "wof:placetype":"locality",

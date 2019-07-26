@@ -25,15 +25,42 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Uyts"
+    ],
     "name:hye_x_preferred":[
         "Uyts"
     ],
     "name:hye_x_variant":[
         "\u0548\u0582\u0575\u056e"
     ],
+    "name:ita_x_preferred":[
+        "Ujts"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d8\u10ec\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Uyts"
+    ],
+    "name:sco_x_preferred":[
+        "Uyts"
+    ],
+    "name:spa_x_preferred":[
+        "Uyts"
+    ],
+    "name:swe_x_preferred":[
+        "Uyts"
+    ],
     "name:und_x_variant":[
         "Uz",
         "Uits"
+    ],
+    "name:vie_x_preferred":[
+        "Uyts"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1327125081,
-    "wof:lastmodified":1537584341,
+    "wof:lastmodified":1564159060,
     "wof:name":"Uyts",
     "wof:parent_id":1108784243,
     "wof:placetype":"locality",

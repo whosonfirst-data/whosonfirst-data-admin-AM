@@ -25,11 +25,44 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u064a\u0632\u0627\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Ba\u011f\u00e7ac\u0131q"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u062a\u06cc\u0632\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Partizak"
+    ],
     "name:hye_x_preferred":[
         "Partizak"
     ],
     "name:hye_x_variant":[
         "\u054a\u0561\u0580\u057f\u056b\u0566\u0561\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0580\u057f\u056b\u0566\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Partizak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10e2\u10d8\u10d6\u10d0\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Partizak"
+    ],
+    "name:spa_x_preferred":[
+        "Partizak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0456\u0437\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Partizak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1343867835,
-    "wof:lastmodified":1537584429,
+    "wof:lastmodified":1564159137,
     "wof:name":"Partizak",
     "wof:parent_id":1108783787,
     "wof:placetype":"locality",

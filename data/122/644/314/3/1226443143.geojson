@@ -25,11 +25,104 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Xoy"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Khoy"
+    ],
+    "name:ceb_x_preferred":[
+        "Khvoy"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062e\u06c6\u06cc"
+    ],
+    "name:deu_x_preferred":[
+        "Choy"
+    ],
+    "name:epo_x_preferred":[
+        "Khoj"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Khoy"
+    ],
+    "name:fra_x_preferred":[
+        "Khoy"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u094d\u0935\u094b\u092f"
+    ],
     "name:hye_x_preferred":[
         "Khoy"
     ],
     "name:hye_x_variant":[
         "\u053d\u0578\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Khoy"
+    ],
+    "name:kur_x_preferred":[
+        "Xoy"
+    ],
+    "name:mlg_x_preferred":[
+        "Khoy"
+    ],
+    "name:msa_x_preferred":[
+        "Khoy"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u043e\u0439"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Choj"
+    ],
+    "name:por_x_preferred":[
+        "Choi"
+    ],
+    "name:ron_x_preferred":[
+        "Khoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Khoy"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0425\u0443\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Hoy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Xoy"
+    ],
+    "name:war_x_preferred":[
+        "Khoy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +147,7 @@
         }
     ],
     "wof:id":1226443143,
-    "wof:lastmodified":1537584406,
+    "wof:lastmodified":1564159755,
     "wof:name":"Khoy",
     "wof:parent_id":1108784087,
     "wof:placetype":"locality",

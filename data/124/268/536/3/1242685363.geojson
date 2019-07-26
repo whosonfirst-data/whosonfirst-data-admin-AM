@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qar\u011fabazar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242685363,
-    "wof:lastmodified":1536908816,
+    "wof:lastmodified":1564159682,
     "wof:name":"Kargabazar",
     "wof:parent_id":1108783883,
     "wof:placetype":"locality",

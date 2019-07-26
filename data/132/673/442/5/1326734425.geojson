@@ -25,15 +25,51 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00fcrd P\u0259mbi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u067e\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sipan"
+    ],
     "name:hye_x_preferred":[
         "Sip\u2019an"
     ],
     "name:hye_x_variant":[
         "\u054d\u056b\u0583\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Sipan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e4\u10d0\u10dc\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00eepan"
+    ],
+    "name:msa_x_preferred":[
+        "Sipan"
+    ],
+    "name:sco_x_preferred":[
+        "Sipan"
+    ],
+    "name:spa_x_preferred":[
+        "Sipan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043f\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Pamb Kurdskiy",
         "Pamb",
+        "Sipan"
+    ],
+    "name:vie_x_preferred":[
         "Sipan"
     ],
     "src:geom":"geonames",
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":1326734425,
-    "wof:lastmodified":1537584366,
+    "wof:lastmodified":1564159048,
     "wof:name":"Sip'an",
     "wof:parent_id":1108782895,
     "wof:placetype":"locality",

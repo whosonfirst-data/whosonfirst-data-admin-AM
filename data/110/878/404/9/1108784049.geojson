@@ -25,6 +25,42 @@
     "mps:longitude":45.081819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0627\u0634\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Taytan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0448\u044d\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vanashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Vanashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10dc\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vanashen"
+    ],
+    "name:spa_x_preferred":[
+        "Vanashen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Vanashen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784049,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159549,
     "wof:name":"Vanashen",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

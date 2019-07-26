@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000628,
-    "geom:area_square_m":5839716.752244,
+    "geom:area_square_m":5839716.752238,
     "geom:bbox":"44.8483170088,41.2174819293,44.8893156171,41.2503505631",
     "geom:latitude":41.232727,
     "geom:longitude":44.867044,
@@ -25,6 +25,39 @@
     "mps:longitude":44.863938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ayr\u0131m"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03b3\u03b1\u03b2\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u063a\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ptghavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u057f\u0572\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Ptghavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e2\u10e6\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ptghavan"
+    ],
+    "name:sco_x_preferred":[
+        "Ptghavan"
+    ],
+    "name:spa_x_preferred":[
+        "Ptghavan"
+    ],
+    "name:vie_x_preferred":[
+        "Ptghavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782699,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159417,
     "wof:name":"Ptghavan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00163,
-    "geom:area_square_m":15181833.410628,
+    "geom:area_square_m":15181833.410624,
     "geom:bbox":"44.1151074934,41.0920922099,44.1762226134,41.1329530555",
     "geom:latitude":41.111952,
     "geom:longitude":44.145839,
@@ -25,6 +25,33 @@
     "mps:longitude":44.143365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qaraisa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u063a\u0627\u0648\u0627\u0647\u0648\u0648\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Meghvahovit"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0572\u057e\u0561\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Meghvahovit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10e6\u10d5\u10d0\u10f0\u10dd\u10d5\u10d8\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Meghvahovit"
+    ],
+    "name:spa_x_preferred":[
+        "Meghvahovit"
+    ],
+    "name:vie_x_preferred":[
+        "Meghvahovit"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108783067,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159338,
     "wof:name":"Meghvahovit",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":4234790.791648,
+    "geom:area_square_m":4234790.79165,
     "geom:bbox":"44.4621416724,39.9796948678,44.5116932114,40.0080229231",
     "geom:latitude":39.9926,
     "geom:longitude":44.484643,
@@ -25,6 +25,27 @@
     "mps:longitude":44.482208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Masis"
+    ],
+    "name:deu_x_preferred":[
+        "Masis"
+    ],
+    "name:fra_x_preferred":[
+        "Massis"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Masis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Masis"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108782993,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159550,
     "wof:name":"Masis",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

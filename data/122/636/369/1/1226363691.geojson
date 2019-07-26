@@ -31,6 +31,9 @@
     "name:hye_x_variant":[
         "\u0533\u0561\u057d\u057a\u0561\u0580\u056b"
     ],
+    "name:slv_x_preferred":[
+        "Gaspari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226363691,
-    "wof:lastmodified":1537584514,
+    "wof:lastmodified":1564159786,
     "wof:name":"Gaspari",
     "wof:parent_id":85668083,
     "wof:placetype":"locality",

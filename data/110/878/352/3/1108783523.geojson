@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002776,
-    "geom:area_square_m":25981561.330308,
+    "geom:area_square_m":25981561.330284,
     "geom:bbox":"44.4017617889,40.745347709,44.545668853,40.8519362015",
     "geom:latitude":40.815002,
     "geom:longitude":44.47897,
@@ -25,6 +25,168 @@
     "mps:longitude":44.491977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ceb_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ces_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Wanadsor"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bd\u03b1\u03bd\u03c4\u03b6\u03cc\u03c1"
+    ],
+    "name:epo_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:est_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:eus_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:fra_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05d3\u05d6\u05d5\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:hsb_x_preferred":[
+        "Wanadzor"
+    ],
+    "name:hun_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0561\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ita_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30ca\u30be\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub098\uc870\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Vanadzora"
+    ],
+    "name:lit_x_preferred":[
+        "Vanadzoras"
+    ],
+    "name:mon_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u0627\u0646\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:nno_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:nor_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a28\u0a3e\u0a26\u0a1c\u0a3c\u0a4b\u0a30"
+    ],
+    "name:pol_x_preferred":[
+        "Wanadzor"
+    ],
+    "name:por_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ron_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:spa_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:sqi_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:tur_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:vep_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:vie_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:war_x_preferred":[
+        "Vanadzor"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u7eb3\u4f50\u5c14"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +208,7 @@
         }
     ],
     "wof:id":1108783523,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159342,
     "wof:name":"Vanadzor",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

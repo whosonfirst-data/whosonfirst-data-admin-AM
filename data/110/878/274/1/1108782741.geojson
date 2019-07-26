@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00115,
-    "geom:area_square_m":10736820.280404,
+    "geom:area_square_m":10736820.280399,
     "geom:bbox":"43.9389710556,40.9300298223,44.0030274533,40.9656518264",
     "geom:latitude":40.946995,
     "geom:longitude":43.972764,
@@ -25,6 +25,42 @@
     "mps:longitude":43.974946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ba\u015fk\u00f6y"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0448\u0433\u044e\u0445"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0448\u0433\u044e\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634\u06af\u06cc\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Bashgyugh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0577\u0563\u0575\u0578\u0582\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Bashgyugh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e8\u10d2\u10d8\u10e3\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bashgyugh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0433\u044e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Bashgyugh"
+    ],
+    "name:vie_x_preferred":[
+        "Bashgyugh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108782741,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159357,
     "wof:name":"Bashgyugh",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

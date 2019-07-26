@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001178,
-    "geom:area_square_m":11128636.13041,
+    "geom:area_square_m":11128636.130403,
     "geom:bbox":"45.646751548,40.1255255941,45.7007388835,40.1932702637",
     "geom:latitude":40.15909,
     "geom:longitude":45.672854,
@@ -25,6 +25,42 @@
     "mps:longitude":45.662018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tuskulu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u06a9\u0648\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Lusakunk"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u057d\u0561\u056f\u0578\u0582\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Lusakunq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10e1\u10d0\u10d9\u10e3\u10dc\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lusakunk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0443\u043d\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Lusakunk"
+    ],
+    "name:spa_x_preferred":[
+        "Lusakunk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0443\u043d\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Lusakunq"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784525,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159401,
     "wof:name":"Lusakunk",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

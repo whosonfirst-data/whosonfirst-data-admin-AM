@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001432,
-    "geom:area_square_m":13529424.768846,
+    "geom:area_square_m":13529424.768845,
     "geom:bbox":"43.9291002867,40.1451561235,44.0067796774,40.1780973422",
     "geom:latitude":40.160692,
     "geom:longitude":43.961911,
@@ -25,6 +25,21 @@
     "mps:longitude":43.95603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0581\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Hatsik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0446\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Hatsik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0446\u0456\u043a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108783823,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159439,
     "wof:name":"Hatsik",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

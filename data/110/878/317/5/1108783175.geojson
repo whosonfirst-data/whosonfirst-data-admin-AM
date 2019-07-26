@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001395,
-    "geom:area_square_m":12987926.89608,
+    "geom:area_square_m":12987926.896074,
     "geom:bbox":"44.7972177163,41.0014420245,45.1477264353,41.2054578304",
     "geom:latitude":41.170267,
     "geom:longitude":45.094255,
@@ -25,6 +25,45 @@
     "mps:longitude":45.114557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qurumsulu"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u043a\u0430\u043c\u0430\u0432\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03b5\u03ba\u03b1\u03bc\u03b1\u03b2\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u06a9\u0627\u0645\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Barekamavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u0565\u056f\u0561\u0574\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Barekamavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d4\u10d9\u10d0\u10db\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Barekamavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u043a\u0430\u043c\u0430\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Barekamavan"
+    ],
+    "name:spa_x_preferred":[
+        "Barekamavan"
+    ],
+    "name:vie_x_preferred":[
+        "Barekamavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783175,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159571,
     "wof:name":"Barekamavan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

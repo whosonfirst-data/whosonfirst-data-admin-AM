@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002529,
-    "geom:area_square_m":23720918.819648,
+    "geom:area_square_m":23720918.819651,
     "geom:bbox":"43.7670243203,40.5939729855,43.8243028994,40.6857821746",
     "geom:latitude":40.651952,
     "geom:longitude":43.798761,
@@ -25,6 +25,39 @@
     "mps:longitude":43.800771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qap\u0131l\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0441\u0430\u043d\u0430\u0433\u044e\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0633\u0627\u0646\u0627\u06af\u06cc\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Gusanagyugh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u057d\u0561\u0576\u0561\u0563\u0575\u0578\u0582\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Gusanagyugh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10e1\u10d0\u10dc\u10d0\u10d2\u10d8\u10e3\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gusanagyugh"
+    ],
+    "name:sco_x_preferred":[
+        "Gusanagyugh"
+    ],
+    "name:spa_x_preferred":[
+        "Gusanagyugh"
+    ],
+    "name:vie_x_preferred":[
+        "Gusanagyugh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782631,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159546,
     "wof:name":"Gusanagyugh",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

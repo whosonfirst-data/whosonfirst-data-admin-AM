@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005092,
-    "geom:area_square_m":48189170.21537,
+    "geom:area_square_m":48189170.215338,
     "geom:bbox":"45.2283783986,40.0102342131,45.3119720203,40.1269476469",
     "geom:latitude":40.062043,
     "geom:longitude":45.27683,
@@ -25,6 +25,42 @@
     "mps:longitude":45.279678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qaranl\u0131q"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u063a\u0647\u0648\u0648\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Geghhovit"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u0572\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Geghhovit"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10e6\u10f0\u10dd\u10d5\u10d8\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Geghhovit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0445\u043e\u0432\u0438\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Geghhovit"
+    ],
+    "name:spa_x_preferred":[
+        "Geghhovit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0445\u043e\u0432\u0456\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Geghhovit"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784519,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159519,
     "wof:name":"Geghhovit",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

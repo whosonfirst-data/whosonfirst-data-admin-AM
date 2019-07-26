@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
-    "geom:area_square_m":8323753.25989,
+    "geom:area_square_m":8323753.259892,
     "geom:bbox":"44.1975477777,41.1299802447,44.3306838914,41.2150851774",
     "geom:latitude":41.194444,
     "geom:longitude":44.286352,
@@ -25,6 +25,30 @@
     "mps:longitude":44.295894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Molla Eyyublu"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0648\u0631\u0627\u0645\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Dsoramut"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u0578\u0580\u0561\u0574\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Dzoramut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10dd\u10e0\u10d0\u10db\u10e3\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzoramut"
+    ],
+    "name:spa_x_preferred":[
+        "Dzoramut"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1108783463,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159422,
     "wof:name":"Dzoramut",
     "wof:parent_id":85671305,
     "wof:placetype":"localadmin",

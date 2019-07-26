@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002329,
-    "geom:area_square_m":21958055.698464,
+    "geom:area_square_m":21958055.698465,
     "geom:bbox":"44.6449007083,40.2680441244,44.8209779388,40.3855752045",
     "geom:latitude":40.322538,
     "geom:longitude":44.708545,
@@ -25,6 +25,21 @@
     "mps:longitude":44.67234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kotayk\u2019"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057f\u0561\u0575\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0439\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Kotayk"
+    ],
+    "name:swe_x_preferred":[
+        "Kotayk\u2019"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108784539,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159419,
     "wof:name":"Kotayk",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

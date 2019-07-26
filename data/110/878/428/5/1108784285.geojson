@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":10399167.259867,
+    "geom:area_square_m":10399167.259863,
     "geom:bbox":"46.5097502876,39.2259596926,46.587618814,39.2599639306",
     "geom:latitude":39.246221,
     "geom:longitude":46.549934,
@@ -25,6 +25,33 @@
     "mps:longitude":46.55017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ucanis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0698\u0627\u0646\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Ujanis"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u056a\u0561\u0576\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Uzhanis"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10df\u10d0\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Uzhanis"
+    ],
+    "name:sco_x_preferred":[
+        "Uzhanis"
+    ],
+    "name:spa_x_preferred":[
+        "Uzhanis"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108784285,
-    "wof:lastmodified":1512517066,
+    "wof:lastmodified":1564159492,
     "wof:name":"Ujanis",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

@@ -25,11 +25,41 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Artsvanik"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0446\u0432\u0430\u043d\u0438\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u0633\u0648\u0627\u0646\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Artsvanik"
+    ],
     "name:hye_x_preferred":[
         "Artsvanik"
     ],
     "name:hye_x_variant":[
         "\u0531\u0580\u056e\u057e\u0561\u0576\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Artsvanik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10ec\u10d5\u10d0\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Artsvanik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0446\u0432\u0430\u043d\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Artsvanik"
+    ],
+    "name:spa_x_preferred":[
+        "Artsvanik"
     ],
     "name:und_x_variant":[
         "Artsvenik",
@@ -42,6 +72,9 @@
         "Yerts\u2019u Vank\u2019",
         "Yerets\u2019",
         "Yerets\u2019-Yerets\u2019vanik"
+    ],
+    "name:vie_x_preferred":[
+        "Artsvanik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +100,7 @@
         }
     ],
     "wof:id":1293186479,
-    "wof:lastmodified":1537584353,
+    "wof:lastmodified":1564159177,
     "wof:name":"Artsvanik",
     "wof:parent_id":1108784405,
     "wof:placetype":"locality",

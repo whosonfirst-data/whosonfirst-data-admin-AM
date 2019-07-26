@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":7625171.582849,
+    "geom:area_square_m":7625171.582853,
     "geom:bbox":"43.7799797687,40.72908216,43.8277862552,40.76786963",
     "geom:latitude":40.747729,
     "geom:longitude":43.806482,
@@ -25,6 +25,45 @@
     "mps:longitude":43.806483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Aleksandrovka"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0438\u0431\u0434\u0436\u0430\u043d\u044f\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03c1\u03b9\u03bc\u03c0\u03c4\u03b6\u03b1\u03bd\u03b9\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0631\u06cc\u0628\u062c\u0627\u0646\u06cc\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Gharibjanyan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0542\u0561\u0580\u056b\u0562\u057b\u0561\u0576\u0575\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Gharibjanyan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10d0\u10e0\u10d8\u10d1\u10ef\u10d0\u10dc\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gharibjanyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0438\u0431\u0434\u0436\u0430\u043d\u044f\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Gharibjanyan"
+    ],
+    "name:spa_x_preferred":[
+        "Gharibjanyan"
+    ],
+    "name:vie_x_preferred":[
+        "Gharibjanyan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782643,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159538,
     "wof:name":"Gharibjanyan",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

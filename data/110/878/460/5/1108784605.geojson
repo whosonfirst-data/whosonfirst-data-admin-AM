@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":3685003.536769,
+    "geom:area_square_m":3685003.536775,
     "geom:bbox":"46.3415879211,39.2713772151,46.3781819755,39.29476989",
     "geom:latitude":39.282719,
     "geom:longitude":46.360691,
@@ -25,6 +25,36 @@
     "mps:longitude":46.367067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Oxtar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062e\u062a\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Okhtar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u056d\u057f\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Okhtar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10ee\u10e2\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Okhtar"
+    ],
+    "name:sco_x_preferred":[
+        "Okhtar"
+    ],
+    "name:spa_x_preferred":[
+        "Okhtar"
+    ],
+    "name:vie_x_preferred":[
+        "Okhtar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784605,
-    "wof:lastmodified":1512517069,
+    "wof:lastmodified":1564159517,
     "wof:name":"Okhtar",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

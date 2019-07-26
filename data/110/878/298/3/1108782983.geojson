@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002005,
-    "geom:area_square_m":18991338.458566,
+    "geom:area_square_m":18991338.458571,
     "geom:bbox":"44.3915064684,39.9874390872,44.4485099196,40.0447454775",
     "geom:latitude":40.017247,
     "geom:longitude":44.424163,
@@ -25,6 +25,42 @@
     "mps:longitude":44.42416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0627\u0645\u0627\u0631\u063a"
+    ],
+    "name:ceb_x_preferred":[
+        "Noramarg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0627\u0645\u0627\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Noramarg"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u0574\u0561\u0580\u0563"
+    ],
+    "name:ita_x_preferred":[
+        "Noramarg"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0\u10d0\u10db\u10d0\u10e0\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Noramarg"
+    ],
+    "name:spa_x_preferred":[
+        "Noramarg"
+    ],
+    "name:swe_x_preferred":[
+        "Noramarg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u043c\u0430\u0440\u0491"
+    ],
+    "name:vie_x_preferred":[
+        "Noramarg"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108782983,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159522,
     "wof:name":"Noramarg",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

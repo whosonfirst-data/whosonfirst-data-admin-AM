@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000739,
-    "geom:area_square_m":6895803.134447,
+    "geom:area_square_m":6895803.134441,
     "geom:bbox":"43.5531957863,41.0323658702,43.649539063,41.0601137588",
     "geom:latitude":41.046915,
     "geom:longitude":43.596478,
@@ -25,6 +25,42 @@
     "mps:longitude":43.585448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0433\u0438\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b3\u03af\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u063a\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Shaghik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0572\u056b\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0572\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Shaghik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e6\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shaghik"
+    ],
+    "name:spa_x_preferred":[
+        "Shaghik"
+    ],
+    "name:vie_x_preferred":[
+        "Shaghik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108782583,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159413,
     "wof:name":"Shaghik",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

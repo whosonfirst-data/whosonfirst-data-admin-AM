@@ -25,11 +25,44 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0432\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u06af\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aygevan"
+    ],
     "name:hye_x_preferred":[
         "Aygevan"
     ],
     "name:hye_x_variant":[
         "\u0531\u0575\u0563\u0565\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Aygevan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d2\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzerzhinski"
+    ],
+    "name:ron_x_preferred":[
+        "Aygevan"
+    ],
+    "name:sco_x_preferred":[
+        "Dzerzhinski"
+    ],
+    "name:spa_x_preferred":[
+        "Aygevan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Aygevan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1242585177,
-    "wof:lastmodified":1537584416,
+    "wof:lastmodified":1564159687,
     "wof:name":"Aygevan",
     "wof:parent_id":1108783825,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004695,
-    "geom:area_square_m":43733101.556031,
+    "geom:area_square_m":43733101.556043,
     "geom:bbox":"44.781181845,41.0398066229,44.8855056343,41.1798231498",
     "geom:latitude":41.118908,
     "geom:longitude":44.836688,
@@ -25,6 +25,42 @@
     "mps:longitude":44.843199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015e\u0131n\u0131x"
+    ],
+    "name:ceb_x_preferred":[
+        "Shnogh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Shnogh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0576\u0578\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Shnogh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dc\u10dd\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shnogh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043d\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Shnogh"
+    ],
+    "name:swe_x_preferred":[
+        "Shnogh"
+    ],
+    "name:vie_x_preferred":[
+        "Shnogh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783171,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159571,
     "wof:name":"Shnogh",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

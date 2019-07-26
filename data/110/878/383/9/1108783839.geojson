@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":7921394.805357,
+    "geom:area_square_m":7921394.805353,
     "geom:bbox":"44.0381918205,40.0575968465,44.1765895519,40.0937526891",
     "geom:latitude":40.074513,
     "geom:longitude":44.084569,
@@ -25,6 +25,24 @@
     "mps:longitude":44.081496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tandzut"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0576\u0571\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Tandzut"
+    ],
+    "name:sco_x_preferred":[
+        "Tandzut"
+    ],
+    "name:swe_x_preferred":[
+        "Tandzut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0434\u0437\u0443\u0442"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108783839,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159424,
     "wof:name":"Tandzut",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

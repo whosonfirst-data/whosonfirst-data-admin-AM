@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":5480286.8488,
+    "geom:area_square_m":5480286.848794,
     "geom:bbox":"46.2998690102,39.3276321466,46.366262606,39.3714993626",
     "geom:latitude":39.349561,
     "geom:longitude":46.336137,
@@ -25,6 +25,39 @@
     "mps:longitude":46.332628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:deu_x_preferred":[
+        "Tandsawer"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u062f\u0632\u0627\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0576\u0571\u0561\u057e\u0565\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10dc\u10eb\u10d0\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:sco_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:spa_x_preferred":[
+        "Tandzaver"
+    ],
+    "name:vie_x_preferred":[
+        "Tandzaver"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784431,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159500,
     "wof:name":"Tandzaver",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

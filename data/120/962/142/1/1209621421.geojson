@@ -28,8 +28,41 @@
     "name:aze_x_preferred":[
         "Zark\u0259nd"
     ],
+    "name:aze_x_variant":[
+        "Z\u0259rk\u0259nd"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Kut"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Kut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kut"
+    ],
+    "name:nld_x_preferred":[
+        "Koet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Kut"
+    ],
+    "name:spa_x_preferred":[
+        "Kut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0442"
     ],
     "name:und_x_variant":[
         "Zarzibil",
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1209621421,
-    "wof:lastmodified":1537584375,
+    "wof:lastmodified":1564159241,
     "wof:name":"Kut'",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

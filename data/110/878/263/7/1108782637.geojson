@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004743,
-    "geom:area_square_m":44397327.28605,
+    "geom:area_square_m":44397327.286062,
     "geom:bbox":"43.7831173369,40.7292971796,43.8841578532,40.8426369298",
     "geom:latitude":40.796822,
     "geom:longitude":43.835211,
@@ -25,6 +25,189 @@
     "mps:longitude":43.840164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Gjoemri"
+    ],
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0648\u0645\u0631\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Guiumri"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u06cc\u0648\u0645\u0631\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "G\u00fcmr\u00fc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Gumru"
+    ],
+    "name:ceb_x_preferred":[
+        "Gyumri"
+    ],
+    "name:ces_x_preferred":[
+        "Gjumri"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u0438"
+    ],
+    "name:dan_x_preferred":[
+        "Gjumri"
+    ],
+    "name:deu_x_preferred":[
+        "Gjumri"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03bf\u03c5\u03bc\u03c1\u03af"
+    ],
+    "name:epo_x_preferred":[
+        "Gjumri"
+    ],
+    "name:est_x_preferred":[
+        "Gjumri"
+    ],
+    "name:eus_x_preferred":[
+        "Giumri"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u0645\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Gjumri"
+    ],
+    "name:fra_x_preferred":[
+        "Gyumri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d5\u05de\u05e8\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Gjumri"
+    ],
+    "name:hsb_x_preferred":[
+        "Gjumri"
+    ],
+    "name:hun_x_preferred":[
+        "Gjumri"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u0574\u0580\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0533\u056b\u0582\u0574\u0580\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Gyumri"
+    ],
+    "name:ita_x_preferred":[
+        "Gyumri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30e5\u30e0\u30ea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10db\u10e0\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0430\u043a\u0430\u043d"
+    ],
+    "name:lav_x_preferred":[
+        "Gjumri"
+    ],
+    "name:lit_x_preferred":[
+        "Giumri"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d2f\u0d42\u0d2e\u0d4d\u0d30\u0d3f"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Gyumri"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u06cc\u0648\u0645\u0631\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Gjoemri"
+    ],
+    "name:nno_x_preferred":[
+        "Gjumri"
+    ],
+    "name:nor_x_preferred":[
+        "Kumajri"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Giumri"
+    ],
+    "name:por_x_preferred":[
+        "Guiumri"
+    ],
+    "name:ron_x_preferred":[
+        "Ghiumri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u043c\u0440\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Gyumri"
+    ],
+    "name:sco_x_preferred":[
+        "Gyumri"
+    ],
+    "name:spa_x_preferred":[
+        "Guiumri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0458\u0443\u043c\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Gyumri"
+    ],
+    "name:swe_x_preferred":[
+        "Gjumri"
+    ],
+    "name:szl_x_preferred":[
+        "Giumri"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u04e9\u043c\u0440\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcmr\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u044e\u043c\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0648\u0645\u0631\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Gyumri"
+    ],
+    "name:vep_x_preferred":[
+        "G\u00fcmri"
+    ],
+    "name:vie_x_preferred":[
+        "Gyumri"
+    ],
+    "name:war_x_preferred":[
+        "Gyumri"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e45\u59c6\u91cc"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +229,7 @@
         }
     ],
     "wof:id":1108782637,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159546,
     "wof:name":"Gyumri",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

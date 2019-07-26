@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001679,
-    "geom:area_square_m":15643459.374683,
+    "geom:area_square_m":15643459.37468,
     "geom:bbox":"43.752128078,41.0982546254,43.8428155191,41.1607244282",
     "geom:latitude":41.125405,
     "geom:longitude":43.79316,
@@ -25,6 +25,39 @@
     "mps:longitude":43.793849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0432\u0440\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0432\u0440\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Bavra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057e\u0580\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Bavra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d5\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Bavra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0432\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bavra"
+    ],
+    "name:vie_x_preferred":[
+        "Bavra"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782691,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159418,
     "wof:name":"Bavra",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

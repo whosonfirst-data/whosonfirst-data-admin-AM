@@ -28,11 +28,44 @@
     "name:aze_x_preferred":[
         "Xnatsax"
     ],
+    "name:aze_x_variant":[
+        "Xanazax"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043d\u0430\u0446\u0430\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0627\u062a\u0633\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Khnatsakh"
+    ],
     "name:hye_x_preferred":[
         "Khnatsakh"
     ],
     "name:hye_x_variant":[
         "\u053d\u0576\u0561\u056e\u0561\u056d"
+    ],
+    "name:ita_x_preferred":[
+        "Khnatsakh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dc\u10d0\u10ec\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Khnatsakh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043d\u0430\u0446\u0430\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Khnatsakh"
+    ],
+    "name:spa_x_preferred":[
+        "Khnatsakh"
+    ],
+    "name:vie_x_preferred":[
+        "Khnatsakh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1293220473,
-    "wof:lastmodified":1537584347,
+    "wof:lastmodified":1564159161,
     "wof:name":"Khnatsakh",
     "wof:parent_id":1108783481,
     "wof:placetype":"locality",

@@ -25,14 +25,44 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kolagir\u0259n"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u0440\u0430\u043c\u0443\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0627\u0631\u0627\u0645\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Antaramut"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u057f\u0561\u057c\u0561\u0574\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Antaramut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10db\u10e3\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Antaramut"
+    ],
+    "name:sco_x_preferred":[
+        "Antaramut"
+    ],
+    "name:spa_x_preferred":[
+        "Antaramut"
     ],
     "name:und_x_variant":[
         "Kalagiran",
         "Antaramut",
         "K\u2019olageran",
         "Antarramut"
+    ],
+    "name:vie_x_preferred":[
+        "Antaramut"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1293876275,
-    "wof:lastmodified":1537584391,
+    "wof:lastmodified":1564159181,
     "wof:name":"Antarramut",
     "wof:parent_id":1108783225,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":2749748.330604,
+    "geom:area_square_m":2749748.3306,
     "geom:bbox":"44.345384016,41.206701641,44.364076172,41.2318080647",
     "geom:latitude":41.219837,
     "geom:longitude":44.353521,
@@ -25,6 +25,36 @@
     "mps:longitude":44.352586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Sar\u0131yar"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043f\u0430\u0432\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0627\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Apaven"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u0561\u057e\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Apaven"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10de\u10d0\u10d5\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Apaven"
+    ],
+    "name:spa_x_preferred":[
+        "Apaven"
+    ],
+    "name:vie_x_preferred":[
+        "Apaven"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108783465,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159422,
     "wof:name":"Apaven",
     "wof:parent_id":85671305,
     "wof:placetype":"localadmin",

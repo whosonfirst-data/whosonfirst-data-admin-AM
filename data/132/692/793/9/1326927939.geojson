@@ -25,13 +25,40 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xa\u00e7k\u0259nd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Debet"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u0562\u0565\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Debet"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d1\u10d4\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Debet"
+    ],
+    "name:sco_x_preferred":[
+        "Debet"
+    ],
+    "name:spa_x_preferred":[
+        "Debet"
     ],
     "name:und_x_variant":[
         "Khachigyukh",
         "Debet",
         "Debed"
+    ],
+    "name:vie_x_preferred":[
+        "Debet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1326927939,
-    "wof:lastmodified":1537584384,
+    "wof:lastmodified":1564159052,
     "wof:name":"Debet",
     "wof:parent_id":1108783633,
     "wof:placetype":"locality",

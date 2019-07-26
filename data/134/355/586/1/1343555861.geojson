@@ -25,12 +25,42 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00dc\u00e7\u00fcnc\u00fc Qarakils\u0259"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u0448\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0648\u0631\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Dzorashen"
+    ],
     "name:hye_x_preferred":[
         "\u0541\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Dzorashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10dd\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzorashen"
+    ],
+    "name:sco_x_preferred":[
+        "Dzorashen"
+    ],
+    "name:spa_x_preferred":[
+        "Dzorashen"
     ],
     "name:und_x_variant":[
         "Yerord Karakilisa",
         "Karakilisa Tret\u2019ya",
+        "Dzorashen"
+    ],
+    "name:vie_x_preferred":[
         "Dzorashen"
     ],
     "src:geom":"geonames",
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1343555861,
-    "wof:lastmodified":1537584382,
+    "wof:lastmodified":1564159094,
     "wof:name":"Dzorashen",
     "wof:parent_id":1108782737,
     "wof:placetype":"locality",

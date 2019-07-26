@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":4186464.243308,
+    "geom:area_square_m":4186464.243309,
     "geom:bbox":"44.0147177341,40.1635035078,44.0416787934,40.1996474241",
     "geom:latitude":40.182241,
     "geom:longitude":44.02746,
@@ -25,6 +25,21 @@
     "mps:longitude":44.025106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Noravan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Noravan"
+    ],
+    "name:sco_x_preferred":[
+        "Noravan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u0432\u0430\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108784171,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159493,
     "wof:name":"Noravan",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

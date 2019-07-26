@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qurdqulaq"
     ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u043d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Vanand"
+    ],
     "name:hye_x_preferred":[
         "Ghurdghulagh"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1277001899,
-    "wof:lastmodified":1537584346,
+    "wof:lastmodified":1564159197,
     "wof:name":"Vanand",
     "wof:parent_id":1108784249,
     "wof:placetype":"locality",

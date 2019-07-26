@@ -26,6 +26,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130p\u0259kli"
+    ],
     "name:und_x_variant":[
         "Ipakli",
         "Eylas",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1193019105,
-    "wof:lastmodified":1537584380,
+    "wof:lastmodified":1564159288,
     "wof:name":"Ipakly",
     "wof:parent_id":1108783961,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":7331110.162369,
+    "geom:area_square_m":7331110.162365,
     "geom:bbox":"44.1301266992,40.0574781974,44.3125814403,40.2528011174",
     "geom:latitude":40.196095,
     "geom:longitude":44.257158,
@@ -25,6 +25,21 @@
     "mps:longitude":44.288082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aygeshat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u0577\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Aygeshat"
+    ],
+    "name:sco_x_preferred":[
+        "Aygeshat"
+    ],
+    "name:swe_x_preferred":[
+        "Aygeshat"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108784211,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159489,
     "wof:name":"Aygeshat",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

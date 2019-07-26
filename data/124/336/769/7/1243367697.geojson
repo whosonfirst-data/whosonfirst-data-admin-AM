@@ -25,8 +25,20 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0631\u0646\u062c\u0627\u062a\u0627\u0628"
+    ],
+    "name:aze_x_preferred":[
+        "Qarabulaq"
+    ],
     "name:eng_x_preferred":[
         "Yernjatap'"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0631\u0646\u062c\u0627\u062a\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Ernjatap"
     ],
     "name:hye_x_preferred":[
         "Yernjatap\u2019"
@@ -34,14 +46,35 @@
     "name:hye_x_variant":[
         "\u0535\u0580\u0576\u057b\u0561\u057f\u0561\u0583"
     ],
+    "name:ita_x_preferred":[
+        "Yerndjatap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10dc\u10ef\u10d0\u10e2\u10d0\u10e4\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Yernjatap"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u0438\u043d\u0434\u0436\u0430\u0442\u0430\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Yernjatap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0440\u043d\u0434\u0436\u0430\u0442\u0430\u043f"
     ],
     "name:und_x_variant":[
         "Karabulag",
         "Yerndzhatap",
         "Yerinjatap",
         "Yerindzhatap"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0631\u0646\u062c\u0679\u0627\u067e"
+    ],
+    "name:vie_x_preferred":[
+        "Yernjatap"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +100,7 @@
         }
     ],
     "wof:id":1243367697,
-    "wof:lastmodified":1537584360,
+    "wof:lastmodified":1564159667,
     "wof:name":"Yernjatap'",
     "wof:parent_id":1108783579,
     "wof:placetype":"locality",

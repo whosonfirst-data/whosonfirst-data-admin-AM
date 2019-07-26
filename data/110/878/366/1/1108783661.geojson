@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003275,
-    "geom:area_square_m":31081030.605538,
+    "geom:area_square_m":31081030.605544,
     "geom:bbox":"44.9460265019,39.8366824991,45.0419640765,39.9259225103",
     "geom:latitude":39.877152,
     "geom:longitude":44.994365,
@@ -25,6 +25,39 @@
     "mps:longitude":44.994368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u0634\u0648\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "Qaraxa\u00e7"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u0634\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Lusashogh"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u057d\u0561\u0577\u0578\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Lusa\u0161ogh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10e1\u10d0\u10e8\u10dd\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lusashogh"
+    ],
+    "name:spa_x_preferred":[
+        "Lusashogh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u0448\u043e\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Lusashogh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783661,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159456,
     "wof:name":"Lusashogh",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

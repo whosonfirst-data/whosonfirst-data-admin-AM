@@ -25,8 +25,23 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0446\u0430\u0448\u044d\u043d"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0446\u0430\u0448\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Atsashen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062a\u0633\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hatsashen"
     ],
     "name:hye_x_preferred":[
         "Hats\u2019ashen"
@@ -34,7 +49,22 @@
     "name:hye_x_variant":[
         "\u0540\u0561\u0581\u0561\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Hatsashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ea\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hatsashen"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u0446\u0430\u0448\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Hatsashen"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u0446\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
@@ -65,7 +95,7 @@
         }
     ],
     "wof:id":1259497571,
-    "wof:lastmodified":1537584387,
+    "wof:lastmodified":1564159732,
     "wof:name":"Hats'ashen",
     "wof:parent_id":1108782925,
     "wof:placetype":"locality",

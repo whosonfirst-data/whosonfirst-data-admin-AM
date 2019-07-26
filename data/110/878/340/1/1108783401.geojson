@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001423,
-    "geom:area_square_m":13399399.668736,
+    "geom:area_square_m":13399399.668737,
     "geom:bbox":"45.020784037,40.4062261478,45.1142652189,40.4402102889",
     "geom:latitude":40.424122,
     "geom:longitude":45.070411,
@@ -25,6 +25,48 @@
     "mps:longitude":45.054115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u018fyriv\u0259ng"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0439\u0440\u0430\u0432\u0430\u043d\u043a"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0440\u0430\u0432\u0430\u043d\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u0631\u0627\u0648\u0627\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Hayravank"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u0580\u0561\u057e\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Hayravanq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d8\u10e0\u10d0\u10d5\u10d0\u10dc\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hayravank"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0440\u0430\u0432\u0430\u043d\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Hayravank"
+    ],
+    "name:spa_x_preferred":[
+        "Hayravank"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0440\u0430\u0432\u0430\u043d\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Hayravank"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783401,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159441,
     "wof:name":"Hayravank",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

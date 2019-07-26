@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2472789.510539,
+    "geom:area_square_m":2472789.510542,
     "geom:bbox":"44.5035986751,40.0029236587,44.5282710957,40.0235606181",
     "geom:latitude":40.013085,
     "geom:longitude":44.51651,
@@ -25,6 +25,48 @@
     "mps:longitude":44.516697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0631\u0627\u0641\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Qoylasar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u044e\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Byuravan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0631\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Byuravan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0575\u0578\u0582\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Byuravan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e3\u10e0\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Byuravan"
+    ],
+    "name:spa_x_preferred":[
+        "Byuravan"
+    ],
+    "name:swe_x_preferred":[
+        "Byuravan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Byuravan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783999,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159339,
     "wof:name":"Byuravan",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

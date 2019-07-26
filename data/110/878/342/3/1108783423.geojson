@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001737,
-    "geom:area_square_m":16492671.769316,
+    "geom:area_square_m":16492671.769318,
     "geom:bbox":"44.6425755265,39.7898291788,45.0515445414,39.9858952094",
     "geom:latitude":39.84615,
     "geom:longitude":44.739997,
@@ -25,6 +25,45 @@
     "mps:longitude":44.663076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0627\u0643\u064a\u0631\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Xalisa"
+    ],
+    "name:ceb_x_preferred":[
+        "Noyakert"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0627\u06a9\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Noyakert"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0575\u0561\u056f\u0565\u0580\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Noyakert"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d8\u10d0\u10d9\u10d4\u10e0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Noyakert"
+    ],
+    "name:spa_x_preferred":[
+        "Noyakert"
+    ],
+    "name:swe_x_preferred":[
+        "Noyakert"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u044f\u043a\u0435\u0440\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Noyakert"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783423,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159561,
     "wof:name":"Noyakert",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

@@ -25,7 +25,16 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631 \u0622\u0631\u062a\u064a\u0643"
+    ],
     "name:eng_x_preferred":[
+        "Nor Artik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631 \u0622\u0631\u062a\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Nor Artik"
     ],
     "name:hye_x_preferred":[
@@ -34,10 +43,28 @@
     "name:hye_x_variant":[
         "\u0546\u0578\u0580 \u0531\u0580\u0569\u056b\u056f"
     ],
+    "name:ita_x_preferred":[
+        "Nor Artik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0-\u10d0\u10e0\u10d7\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nor Artik"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440-\u0410\u0440\u0442\u0438\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Nor Artik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440-\u0410\u0440\u0442\u0456\u043a"
+    ],
     "name:und_x_variant":[
+        "Nor Artik"
+    ],
+    "name:vie_x_preferred":[
         "Nor Artik"
     ],
     "src:geom":"geonames",
@@ -64,7 +91,7 @@
         }
     ],
     "wof:id":1242974971,
-    "wof:lastmodified":1537584370,
+    "wof:lastmodified":1564159707,
     "wof:name":"Nor Art'ik",
     "wof:parent_id":1108782933,
     "wof:placetype":"locality",

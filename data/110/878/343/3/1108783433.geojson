@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006539,
-    "geom:area_square_m":62118716.289247,
+    "geom:area_square_m":62118716.289262,
     "geom:bbox":"45.5639187171,39.7040648603,45.7461385347,39.8538118023",
     "geom:latitude":39.801994,
     "geom:longitude":45.671753,
@@ -25,6 +25,108 @@
     "mps:longitude":45.685515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0645\u0648\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0631\u0645\u0648\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130stisu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u044d\u0440\u043c\u0443\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Jermuk"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Dschermuk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b5\u03c1\u03bc\u03bf\u03cd\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "\u011cermuk"
+    ],
+    "name:est_x_preferred":[
+        "D\u017eermuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0645\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Djermouk"
+    ],
+    "name:hsb_x_preferred":[
+        "D\u017eermuk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0565\u0580\u0574\u0578\u0582\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054b\u0565\u0580\u0574\u0578\u0582\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Jermuk"
+    ],
+    "name:ita_x_preferred":[
+        "Jermuk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10e0\u10db\u10e3\u10d9\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eermukas"
+    ],
+    "name:msa_x_preferred":[
+        "Jermuk"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0631\u0645\u0648\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Dzjermoek"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cermuk"
+    ],
+    "name:ron_x_preferred":[
+        "Jermuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Jermuk"
+    ],
+    "name:spa_x_preferred":[
+        "Jermuk"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Jermuk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Jermuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u723e\u7a46\u514b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +148,7 @@
         }
     ],
     "wof:id":1108783433,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159584,
     "wof:name":"Jermuk",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

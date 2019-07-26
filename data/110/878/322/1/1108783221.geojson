@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000515,
-    "geom:area_square_m":4798227.355943,
+    "geom:area_square_m":4798227.355941,
     "geom:bbox":"44.7460702969,41.1387090438,44.7939793611,41.1613744486",
     "geom:latitude":41.151762,
     "geom:longitude":44.771445,
@@ -25,6 +25,93 @@
     "mps:longitude":44.773078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u062e\u062a\u0627\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Axtala"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0445\u0442\u0430\u043b\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0445\u0442\u0430\u043b\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0442\u0430\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Achtala"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03c4\u03b1\u03bb\u03ac"
+    ],
+    "name:epo_x_preferred":[
+        "A\u0125tala"
+    ],
+    "name:est_x_preferred":[
+        "Ahthala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062e\u062a\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Akhtala"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0916\u0924\u0932\u093e"
+    ],
+    "name:hsb_x_preferred":[
+        "Achtala"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056d\u0569\u0561\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Akhtala"
+    ],
+    "name:ita_x_preferred":[
+        "Akhtala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10e2\u10d0\u10da\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Achtala"
+    ],
+    "name:msa_x_preferred":[
+        "Akhtala"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u062e\u062a\u0627\u0644\u0627"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0916\u0924\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Achtala"
+    ],
+    "name:pol_x_preferred":[
+        "Achtala"
+    ],
+    "name:ron_x_preferred":[
+        "Ahtala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0442\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ajtala"
+    ],
+    "name:swa_x_preferred":[
+        "Akhtala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0445\u0442\u0430\u043b\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Akhtala"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +133,7 @@
         }
     ],
     "wof:id":1108783221,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159448,
     "wof:name":"Akhtala",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

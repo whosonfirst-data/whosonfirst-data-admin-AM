@@ -25,18 +25,51 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarada\u015f"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u0432\u043a\u0430\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03b2\u03ba\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Sevk'ar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sevkar"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0587\u0584\u0561\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Sevkar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10d5\u10e5\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sevkar"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u043a\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Sevkar"
+    ],
+    "name:spa_x_preferred":[
+        "Sevkar"
     ],
     "name:und_x_variant":[
         "Karadash",
         "Sevk\u2019ar",
+        "Sevkar"
+    ],
+    "name:vie_x_preferred":[
         "Sevkar"
     ],
     "src:geom":"geonames",
@@ -63,7 +96,7 @@
         }
     ],
     "wof:id":1327024421,
-    "wof:lastmodified":1537584367,
+    "wof:lastmodified":1564159063,
     "wof:name":"Sevk'ar",
     "wof:parent_id":1108783267,
     "wof:placetype":"locality",

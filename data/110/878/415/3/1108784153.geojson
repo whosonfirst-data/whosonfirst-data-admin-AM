@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000865,
-    "geom:area_square_m":8156680.564806,
+    "geom:area_square_m":8156680.564799,
     "geom:bbox":"45.6802227726,40.2814069945,45.7216864078,40.3232886324",
     "geom:latitude":40.303306,
     "geom:longitude":45.706107,
@@ -25,6 +25,48 @@
     "mps:longitude":45.708149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "G\u00f6ysu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0432\u0430\u0437\u0430\u043d"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0432\u0430\u0437\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0627\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Avazan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057e\u0561\u0566\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Avazan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d5\u10d0\u10d6\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Avazan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0430\u0437\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Avazan"
+    ],
+    "name:spa_x_preferred":[
+        "Avazan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0430\u0437\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Avazan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108784153,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159372,
     "wof:name":"Avazan",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

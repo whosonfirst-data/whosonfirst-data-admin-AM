@@ -25,13 +25,35 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Loru Berd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u06cc \u0628\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Lorri Berd"
+    ],
     "name:hye_x_preferred":[
         "Lorri Berd"
     ],
     "name:hye_x_variant":[
-        "\u053c\u0578\u057c\u056b \u0532\u0565\u0580\u0564"
+        "\u053c\u0578\u057c\u056b \u0532\u0565\u0580\u0564",
+        "\u053c\u0578\u057c\u056b \u0562\u0565\u0580\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Lori Berd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e0\u10d4-\u10d1\u10d4\u10e0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lori Berd"
     ],
     "name:und_x_variant":[
+        "Lori Berd"
+    ],
+    "name:vie_x_preferred":[
         "Lori Berd"
     ],
     "src:geom":"geonames",
@@ -58,7 +80,7 @@
         }
     ],
     "wof:id":1276759743,
-    "wof:lastmodified":1537584374,
+    "wof:lastmodified":1564159200,
     "wof:name":"Lorri Berd",
     "wof:parent_id":1108783105,
     "wof:placetype":"locality",

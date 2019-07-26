@@ -25,6 +25,12 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Persi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0648\u062a"
+    ],
     "name:hye_x_preferred":[
         "Buravet"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1242888089,
-    "wof:lastmodified":1537584385,
+    "wof:lastmodified":1564159677,
     "wof:name":"Buravet",
     "wof:parent_id":1108783711,
     "wof:placetype":"locality",
