@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000469,
-    "geom:area_square_m":4369616.742862,
+    "geom:area_square_m":4369616.742865,
     "geom:bbox":"44.7595147103,41.1085326699,44.8280924168,41.1516097073",
     "geom:latitude":41.138208,
     "geom:longitude":44.789749,
@@ -25,6 +25,30 @@
     "mps:longitude":44.792099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0646\u063a\u0648\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Neghots"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0572\u0578\u0581"
+    ],
+    "name:ita_x_preferred":[
+        "Neghots"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10e6\u10dd\u10ea\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Neghots"
+    ],
+    "name:spa_x_preferred":[
+        "Neghots"
+    ],
+    "name:vie_x_preferred":[
+        "Neghots"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1108783205,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159552,
     "wof:name":"Neghots",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

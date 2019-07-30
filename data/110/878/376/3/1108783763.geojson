@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00216,
-    "geom:area_square_m":20195893.502216,
+    "geom:area_square_m":20195893.50222,
     "geom:bbox":"43.5578351564,40.8044436773,43.76817884,41.047507446",
     "geom:latitude":40.85888,
     "geom:longitude":43.710071,
@@ -25,6 +25,12 @@
     "mps:longitude":43.731789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:sco_x_preferred":[
+        "Voghji"
+    ],
+    "name:tur_x_preferred":[
+        "Voghji"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108783763,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159438,
     "wof:name":"Voghji",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

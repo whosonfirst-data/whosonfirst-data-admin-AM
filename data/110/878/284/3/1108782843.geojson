@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001682,
-    "geom:area_square_m":15795141.169836,
+    "geom:area_square_m":15795141.169837,
     "geom:bbox":"44.3489001524,40.532108901,44.4185683765,40.6451203742",
     "geom:latitude":40.595469,
     "geom:longitude":44.38297,
@@ -25,6 +25,21 @@
     "mps:longitude":44.387409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Lusagyugh"
+    ],
+    "name:ita_x_preferred":[
+        "Lusagyugh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10e1\u10d0\u10d2\u10d8\u10e3\u10e6\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Lusagyugh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u0491\u044e\u0445"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108782843,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159486,
     "wof:name":"Lusagyugh",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

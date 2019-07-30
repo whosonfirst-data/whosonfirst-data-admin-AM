@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001515,
-    "geom:area_square_m":14143929.862729,
+    "geom:area_square_m":14143929.862726,
     "geom:bbox":"43.6851920893,40.937028173,43.8431251127,41.037764012",
     "geom:latitude":40.972095,
     "geom:longitude":43.787759,
@@ -25,6 +25,45 @@
     "mps:longitude":43.811806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "B\u0259ndovan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0438\u0432\u0430\u043d"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0438\u0432\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03b9\u03b2\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u06cc\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bandivan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0564\u056b\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Bandivan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d3\u10d8\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bandivan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0438\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bandivan"
+    ],
+    "name:vie_x_preferred":[
+        "Bandivan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782597,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159393,
     "wof:name":"Bandivan",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

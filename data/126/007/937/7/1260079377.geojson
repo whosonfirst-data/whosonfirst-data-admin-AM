@@ -25,11 +25,29 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Avat"
+    ],
     "name:hye_x_preferred":[
         "Avat"
     ],
     "name:hye_x_variant":[
         "\u0531\u057e\u0561\u057f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0432\u0430\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0432\u0430\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Avat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0430\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1260079377,
-    "wof:lastmodified":1537584494,
+    "wof:lastmodified":1564159299,
     "wof:name":"Avat",
     "wof:parent_id":1108784319,
     "wof:placetype":"locality",

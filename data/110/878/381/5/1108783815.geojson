@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":7856593.567615,
+    "geom:area_square_m":7856593.567619,
     "geom:bbox":"43.9366984616,40.1048861075,43.979745642,40.1411450626",
     "geom:latitude":40.124465,
     "geom:longitude":43.959654,
@@ -25,6 +25,42 @@
     "mps:longitude":43.961743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 \u018fyl\u0259nli"
+    ],
+    "name:ceb_x_preferred":[
+        "Lenughi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u0648\u063a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Lenughi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0576\u0578\u0582\u0572\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Lenughi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dc\u10e3\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lenughi"
+    ],
+    "name:sco_x_preferred":[
+        "Lenughi"
+    ],
+    "name:spa_x_preferred":[
+        "Lenughi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0443\u0445\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Lenughi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783815,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159578,
     "wof:name":"Lenughi",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

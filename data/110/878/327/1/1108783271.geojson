@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001443,
-    "geom:area_square_m":13507530.277781,
+    "geom:area_square_m":13507530.277782,
     "geom:bbox":"45.0009534195,40.7665661666,45.0719945518,40.8263823237",
     "geom:latitude":40.794486,
     "geom:longitude":45.027869,
@@ -25,6 +25,39 @@
     "mps:longitude":45.024913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Haqq\u0131xl\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03b2\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Hovk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u057e\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Hovk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10d5\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hovk"
+    ],
+    "name:sco_x_preferred":[
+        "Hovk"
+    ],
+    "name:spa_x_preferred":[
+        "Hovk"
+    ],
+    "name:vie_x_preferred":[
+        "Hovk"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783271,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159555,
     "wof:name":"Hovk",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

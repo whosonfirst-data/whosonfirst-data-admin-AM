@@ -25,6 +25,45 @@
     "mps:longitude":43.805967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "B\u0259zirxana"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0437\u0438\u0442\u0430\u043d\u043a\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzit'hank'ov"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0437\u0438\u0442\u0430\u043d\u043a\u043e\u0432"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u06cc\u062a\u0647\u0627\u0646\u06a9\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Dzithankov"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u056b\u0569\u0570\u0561\u0576\u0584\u0578\u057e"
+    ],
+    "name:ita_x_preferred":[
+        "Dzirhankov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d8\u10d7\u10d0\u10dc\u10e5\u10dd\u10d5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzithankov"
+    ],
+    "name:sco_x_preferred":[
+        "Dzithankov"
+    ],
+    "name:spa_x_preferred":[
+        "Dzithankov"
+    ],
+    "name:swe_x_preferred":[
+        "Dzit'hank'ov"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782619,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159396,
     "wof:name":"Dzithankov",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

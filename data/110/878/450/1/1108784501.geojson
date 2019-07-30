@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001049,
-    "geom:area_square_m":10092307.607716,
+    "geom:area_square_m":10092307.607713,
     "geom:bbox":"46.1940930634,38.920320419,46.2382211036,38.98235912",
     "geom:latitude":38.945889,
     "geom:longitude":46.216815,
@@ -25,6 +25,36 @@
     "mps:longitude":46.220827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647\u0648\u0627\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0570\u057e\u0561\u0566"
+    ],
+    "name:ita_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10f0\u10d5\u10d0\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:sco_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:spa_x_preferred":[
+        "Lehvaz"
+    ],
+    "name:vie_x_preferred":[
+        "Lehvaz"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784501,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159532,
     "wof:name":"Lehvaz",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

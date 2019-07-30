@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002499,
-    "geom:area_square_m":23380062.206814,
+    "geom:area_square_m":23380062.20681,
     "geom:bbox":"45.4986396767,40.8109013207,45.5955463194,40.8601926257",
     "geom:latitude":40.834356,
     "geom:longitude":45.550299,
@@ -25,6 +25,45 @@
     "mps:longitude":45.550282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qulal\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0434\u0437\u043e\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03b3\u03ba\u03b5\u03bd\u03c4\u03b6\u03cc\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u06af\u062f\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Aygedzor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u0571\u0578\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Aygedzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d2\u10d4\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aygedzor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0434\u0437\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Aygedzor"
+    ],
+    "name:spa_x_preferred":[
+        "Aygedzor"
+    ],
+    "name:vie_x_preferred":[
+        "Aygedzor"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783339,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159476,
     "wof:name":"Aygedzor",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001096,
-    "geom:area_square_m":10487794.560047,
+    "geom:area_square_m":10487794.560048,
     "geom:bbox":"46.4452146274,39.2582173235,46.4822537189,39.3115460001",
     "geom:latitude":39.289073,
     "geom:longitude":46.460746,
@@ -25,6 +25,36 @@
     "mps:longitude":46.461024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u00c7\u0259pni"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Chapni"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u057a\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Chapni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Chapni"
+    ],
+    "name:sco_x_preferred":[
+        "Chapni"
+    ],
+    "name:spa_x_preferred":[
+        "Chapni"
+    ],
+    "name:vie_x_preferred":[
+        "Chapni"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784297,
-    "wof:lastmodified":1512517066,
+    "wof:lastmodified":1564159503,
     "wof:name":"Chapni",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

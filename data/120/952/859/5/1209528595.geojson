@@ -25,11 +25,168 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0648\u0645\u064a\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0718\u072a\u0721\u071d\u0710"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u064a\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0645\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Urmiya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u0440\u043c\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0440\u043c\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Urmia"
+    ],
+    "name:ceb_x_preferred":[
+        "Or\u016bm\u012byeh"
+    ],
+    "name:ces_x_preferred":[
+        "Orum\u00edje"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0648\u0631\u0645\u06ce"
+    ],
+    "name:dan_x_preferred":[
+        "Urmia"
+    ],
+    "name:deu_x_preferred":[
+        "Urmia"
+    ],
+    "name:diq_x_preferred":[
+        "Urm\u00eeye"
+    ],
+    "name:epo_x_preferred":[
+        "Urmijo"
+    ],
+    "name:eus_x_preferred":[
+        "Urmia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Urmia"
+    ],
+    "name:fra_x_preferred":[
+        "Ourmia"
+    ],
+    "name:gla_x_preferred":[
+        "Urmia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05de\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0930\u0941\u092e\u093f\u092f\u0947"
+    ],
+    "name:hrv_x_preferred":[
+        "Urmija"
+    ],
+    "name:hun_x_preferred":[
+        "Urmia"
+    ],
     "name:hye_x_preferred":[
         "Urmia"
     ],
     "name:hye_x_variant":[
-        "\u0548\u0552\u0580\u0574\u056b\u0561"
+        "\u0548\u0552\u0580\u0574\u056b\u0561",
+        "\u0548\u0582\u0580\u0574\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Urmia"
+    ],
+    "name:ita_x_preferred":[
+        "Urmia"
+    ],
+    "name:jav_x_preferred":[
+        "Urmia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30eb\u30fc\u30df\u30fc\u30a4\u30a7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10db\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ub974\ubbf8\uc544"
+    ],
+    "name:kur_x_preferred":[
+        "\u00dbrmiye"
+    ],
+    "name:lit_x_preferred":[
+        "Urmija"
+    ],
+    "name:mlg_x_preferred":[
+        "Urmia"
+    ],
+    "name:msa_x_preferred":[
+        "Urmia"
+    ],
+    "name:nld_x_preferred":[
+        "Urmia"
+    ],
+    "name:nor_x_preferred":[
+        "Urmia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Urmia"
+    ],
+    "name:por_x_preferred":[
+        "\u00darmia"
+    ],
+    "name:ron_x_preferred":[
+        "Urumieh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043c\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Urmia"
+    ],
+    "name:spa_x_preferred":[
+        "Urm\u00eda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0440\u043c\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Urmia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8a\u0bb0\u0bcd\u0bae\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "Urmiye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u043c\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u06cc\u06c1"
+    ],
+    "name:war_x_preferred":[
+        "Urmia"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u5c14\u7c73\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +205,7 @@
         }
     ],
     "wof:id":1209528595,
-    "wof:lastmodified":1537584520,
+    "wof:lastmodified":1564159247,
     "wof:name":"Urmia",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

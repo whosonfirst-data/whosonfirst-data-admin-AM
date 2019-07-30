@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004986,
-    "geom:area_square_m":46867586.239004,
+    "geom:area_square_m":46867586.239003,
     "geom:bbox":"43.8744692075,40.4825068173,43.999354534,40.5568961199",
     "geom:latitude":40.519254,
     "geom:longitude":43.921702,
@@ -25,6 +25,39 @@
     "mps:longitude":43.907039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "S\u00f6y\u00fcdl\u00fc"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u043d\u0430\u0445\u043f\u044e\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0646\u0627\u063a\u0628\u06cc\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sarnaghbyur"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u057c\u0576\u0561\u0572\u0562\u0575\u0578\u0582\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Sarnaghbyur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10dc\u10d0\u10e6\u10d1\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sarnaghbyur"
+    ],
+    "name:sco_x_preferred":[
+        "Sarnaghbyur"
+    ],
+    "name:spa_x_preferred":[
+        "Sarnaghbyur"
+    ],
+    "name:vie_x_preferred":[
+        "Sarnaghbyur"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782615,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159397,
     "wof:name":"Sarnaghbyur",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

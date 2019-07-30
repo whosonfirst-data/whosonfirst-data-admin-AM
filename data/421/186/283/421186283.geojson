@@ -19,11 +19,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Masis"
+    ],
+    "name:deu_x_preferred":[
+        "Masis"
+    ],
     "name:eng_x_preferred":[
         "Masis"
     ],
     "name:eng_x_variant":[
         "Masis Shrjan"
+    ],
+    "name:fra_x_preferred":[
+        "Massis"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Masis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Masis"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":421186283,
-    "wof:lastmodified":1555046994,
+    "wof:lastmodified":1564159657,
     "wof:name":"Masis",
     "wof:parent_id":85668105,
     "wof:placetype":"county",

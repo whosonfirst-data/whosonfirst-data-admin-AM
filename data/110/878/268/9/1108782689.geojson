@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003673,
-    "geom:area_square_m":34279862.404651,
+    "geom:area_square_m":34279862.404649,
     "geom:bbox":"43.6137436727,40.961104988,43.7028039659,41.0406383077",
     "geom:latitude":41.001579,
     "geom:longitude":43.656846,
@@ -25,6 +25,39 @@
     "mps:longitude":43.656163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qoncal\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0440\u0438\u0448\u0430\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03b9\u03c3\u03ac\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0631\u06cc\u0634\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Zarishat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0580\u056b\u0577\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Zarishat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10d8\u10e8\u10d0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zarishat"
+    ],
+    "name:spa_x_preferred":[
+        "Zarishat"
+    ],
+    "name:vie_x_preferred":[
+        "Zarishat"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782689,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159384,
     "wof:name":"Zarishat",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

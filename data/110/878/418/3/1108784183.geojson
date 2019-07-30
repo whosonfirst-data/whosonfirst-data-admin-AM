@@ -25,6 +25,42 @@
     "mps:longitude":44.2,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u00c7ubux\u00e7u"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0430\u043d\u0430\u0448\u044d\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0627\u0646\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vardanashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0564\u0561\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Vardanashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d0\u10dc\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vardanashen"
+    ],
+    "name:sco_x_preferred":[
+        "Vardanashen"
+    ],
+    "name:spa_x_preferred":[
+        "Vardanashen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0430\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Vardanashen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784183,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159510,
     "wof:name":"Vardanashen",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

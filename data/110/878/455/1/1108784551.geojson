@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001563,
-    "geom:area_square_m":14795612.064575,
+    "geom:area_square_m":14795612.064572,
     "geom:bbox":"44.3421417822,40.0274757526,44.411108562,40.0642030609",
     "geom:latitude":40.048708,
     "geom:longitude":44.378411,
@@ -25,6 +25,24 @@
     "mps:longitude":44.381201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Sis"
+    ],
+    "name:ceb_x_preferred":[
+        "Sis"
+    ],
+    "name:hun_x_preferred":[
+        "SIS"
+    ],
+    "name:srp_x_preferred":[
+        "SIS"
+    ],
+    "name:tur_x_preferred":[
+        "Sis"
+    ],
+    "name:zho_x_preferred":[
+        "Sis"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108784551,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159402,
     "wof:name":"Sis",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

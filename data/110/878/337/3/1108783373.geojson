@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001508,
-    "geom:area_square_m":14205662.664314,
+    "geom:area_square_m":14205662.664313,
     "geom:bbox":"45.5469084616,40.3421582962,45.6049104732,40.3951844803",
     "geom:latitude":40.367814,
     "geom:longitude":45.577822,
@@ -25,6 +25,39 @@
     "mps:longitude":45.575405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Daranak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0580\u0561\u0576\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Daranak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10d0\u10dc\u10d0\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Daranak"
+    ],
+    "name:sco_x_preferred":[
+        "Daranak"
+    ],
+    "name:spa_x_preferred":[
+        "Daranak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0440\u0430\u043d\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Daranak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783373,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159335,
     "wof:name":"Daranak",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

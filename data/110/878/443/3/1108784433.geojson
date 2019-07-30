@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000787,
-    "geom:area_square_m":7528798.603281,
+    "geom:area_square_m":7528798.603278,
     "geom:bbox":"46.2870548992,39.328813984,46.322335462,39.3714993626",
     "geom:latitude":39.35176,
     "geom:longitude":46.303608,
@@ -25,6 +25,45 @@
     "mps:longitude":46.307411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "A\u011fvani"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u043d\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u0648\u0627\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Aghvani"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0572\u057e\u0561\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Aghvani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aghvani"
+    ],
+    "name:nld_x_preferred":[
+        "Aghvani"
+    ],
+    "name:sco_x_preferred":[
+        "Aghvani"
+    ],
+    "name:spa_x_preferred":[
+        "Aghvani"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0642\u0648\u0627\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Aghvani"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784433,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159500,
     "wof:name":"Aghvani",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

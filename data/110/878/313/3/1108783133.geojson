@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002525,
-    "geom:area_square_m":23601789.380624,
+    "geom:area_square_m":23601789.380627,
     "geom:bbox":"44.2546362901,40.8472523327,44.310789991,40.9258375935",
     "geom:latitude":40.88757,
     "geom:longitude":44.280178,
@@ -25,6 +25,45 @@
     "mps:longitude":44.277413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u00c7ikdamal"
+    ],
+    "name:ceb_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0430\u0448\u043e\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648\u0627\u0634\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0561\u0577\u0578\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d4\u10d5\u10d0\u10e8\u10dd\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u0432\u0430\u0448\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:swe_x_preferred":[
+        "Arevashogh"
+    ],
+    "name:vie_x_preferred":[
+        "Arevashogh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783133,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159446,
     "wof:name":"Arevashogh",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

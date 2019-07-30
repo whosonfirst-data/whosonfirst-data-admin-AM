@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00146,
-    "geom:area_square_m":13753372.665371,
+    "geom:area_square_m":13753372.665374,
     "geom:bbox":"44.5869842928,40.3285972198,44.6589476129,40.3795915023",
     "geom:latitude":40.359923,
     "geom:longitude":44.622339,
@@ -25,6 +25,36 @@
     "mps:longitude":44.618794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Nurnus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0646\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Nurnus"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u057c\u0576\u0578\u0582\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Nurnus"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e0\u10dc\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nurnus"
+    ],
+    "name:sco_x_preferred":[
+        "Nurnus"
+    ],
+    "name:spa_x_preferred":[
+        "Nurnus"
+    ],
+    "name:vie_x_preferred":[
+        "Nurnus"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784369,
-    "wof:lastmodified":1512517066,
+    "wof:lastmodified":1564159405,
     "wof:name":"Nurnus",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

@@ -25,16 +25,43 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ltsen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ltsen"
+    ],
     "name:hye_x_preferred":[
         "Ltsen"
     ],
     "name:hye_x_variant":[
         "\u053c\u056e\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Ltsen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10ec\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ltsen"
+    ],
+    "name:sco_x_preferred":[
+        "Ltsen"
+    ],
+    "name:spa_x_preferred":[
+        "Ltsen"
+    ],
     "name:und_x_variant":[
         "Ltse",
         "Lizhin",
         "Lizin"
+    ],
+    "name:vie_x_preferred":[
+        "Ltsen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1343978071,
-    "wof:lastmodified":1537584356,
+    "wof:lastmodified":1564159096,
     "wof:name":"Ltsen",
     "wof:parent_id":1108784239,
     "wof:placetype":"locality",

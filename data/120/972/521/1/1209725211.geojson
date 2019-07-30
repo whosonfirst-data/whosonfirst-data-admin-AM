@@ -25,11 +25,18 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mirz\u0259yi r\u0259qsi"
+    ],
     "name:hye_x_preferred":[
         "Mirzayi"
     ],
     "name:hye_x_variant":[
-        "\u0544\u056b\u0580\u0566\u0561\u0575\u056b"
+        "\u0544\u056b\u0580\u0566\u0561\u0575\u056b",
+        "\u0544\u056b\u0580\u0566\u0561\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0437\u0430\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1209725211,
-    "wof:lastmodified":1537584431,
+    "wof:lastmodified":1564159281,
     "wof:name":"Mirzayi",
     "wof:parent_id":1108782955,
     "wof:placetype":"locality",

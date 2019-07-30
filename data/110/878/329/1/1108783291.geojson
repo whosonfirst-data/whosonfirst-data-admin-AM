@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":10235193.819558,
+    "geom:area_square_m":10235193.819559,
     "geom:bbox":"45.5554720355,40.7990272695,45.6089918577,40.8724707347",
     "geom:latitude":40.854796,
     "geom:longitude":45.584933,
@@ -25,6 +25,9 @@
     "mps:longitude":45.592259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:nld_x_preferred":[
+        "Chinari"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1108783291,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159557,
     "wof:name":"Chinari",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":7910771.795186,
+    "geom:area_square_m":7910771.795177,
     "geom:bbox":"45.6417053822,40.1406862434,45.6863071132,40.2015673005",
     "geom:latitude":40.174377,
     "geom:longitude":45.662319,
@@ -25,6 +25,45 @@
     "mps:longitude":45.669425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0641\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "K\u0259rkiba\u015f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043d\u0435\u0432\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0646\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vanevan"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576\u0565\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Vanevan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10dc\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vanevan"
+    ],
+    "name:sco_x_preferred":[
+        "Vanevan"
+    ],
+    "name:spa_x_preferred":[
+        "Vanevan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0435\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Vanevan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784093,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159408,
     "wof:name":"Vanevan",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

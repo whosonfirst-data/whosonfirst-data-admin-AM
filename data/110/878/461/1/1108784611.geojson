@@ -25,6 +25,33 @@
     "mps:longitude":44.618896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0627\u0631\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Antarashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0561\u057c\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Antarashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d0\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Antarashen"
+    ],
+    "name:sco_x_preferred":[
+        "Antarashen"
+    ],
+    "name:spa_x_preferred":[
+        "Antarashen"
+    ],
+    "name:vie_x_preferred":[
+        "Antarashen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108784611,
-    "wof:lastmodified":1512517069,
+    "wof:lastmodified":1564159535,
     "wof:name":"Antarashen",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

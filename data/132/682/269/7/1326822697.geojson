@@ -25,11 +25,20 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bado"
+    ],
+    "name:deu_x_preferred":[
+        "Bado"
+    ],
     "name:hye_x_preferred":[
         "Bado"
     ],
     "name:hye_x_variant":[
         "\u0532\u0561\u0564\u0578"
+    ],
+    "name:swe_x_preferred":[
+        "Bado"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326822697,
-    "wof:lastmodified":1537584462,
+    "wof:lastmodified":1564159069,
     "wof:name":"Bado",
     "wof:parent_id":1108783159,
     "wof:placetype":"locality",

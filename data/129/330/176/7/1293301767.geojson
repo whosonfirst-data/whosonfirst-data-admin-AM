@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bayburd"
+    ],
     "name:hye_x_preferred":[
         "Baberd"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293301767,
-    "wof:lastmodified":1537584386,
+    "wof:lastmodified":1564159143,
     "wof:name":"Baberd",
     "wof:parent_id":85668099,
     "wof:placetype":"locality",

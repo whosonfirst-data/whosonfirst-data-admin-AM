@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":10592163.431708,
+    "geom:area_square_m":10592163.431712,
     "geom:bbox":"45.2335534225,39.7114868956,45.2934148956,39.7601688407",
     "geom:latitude":39.737081,
     "geom:longitude":45.267275,
@@ -25,6 +25,24 @@
     "mps:longitude":45.264332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Arpi"
+    ],
+    "name:deu_x_preferred":[
+        "Arpi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03c0\u03bf\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Arpi"
+    ],
+    "name:ita_x_preferred":[
+        "Argos Hippium"
+    ],
+    "name:swe_x_preferred":[
+        "Arpi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108783435,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159584,
     "wof:name":"Arpi",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

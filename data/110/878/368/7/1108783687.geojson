@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00098,
-    "geom:area_square_m":9266062.148867,
+    "geom:area_square_m":9266062.148865,
     "geom:bbox":"44.3035900763,40.116685886,44.3502507877,40.1556348561",
     "geom:latitude":40.13642,
     "geom:longitude":44.325725,
@@ -25,6 +25,27 @@
     "mps:longitude":44.323426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Woskehat"
+    ],
+    "name:fra_x_preferred":[
+        "Voskehat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u057d\u056f\u0565\u0570\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Voskehat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0435\u0430\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Voskehat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0435\u0430\u0442"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108783687,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159458,
     "wof:name":"Voskehat",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

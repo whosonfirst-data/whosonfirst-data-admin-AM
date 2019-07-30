@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000691,
-    "geom:area_square_m":6492094.654808,
+    "geom:area_square_m":6492094.654818,
     "geom:bbox":"44.0079309776,40.5722185595,44.0595237559,40.6263701518",
     "geom:latitude":40.598597,
     "geom:longitude":44.030307,
@@ -25,6 +25,36 @@
     "mps:longitude":44.025699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Xa\u00e7akils\u0259"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0430\u043f\u0435\u0442\u0430\u0432\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0647\u0627\u067e\u062a\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nahapetavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0570\u0561\u057a\u0565\u057f\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Nahapetavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10f0\u10d0\u10de\u10d4\u10e2\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nahapetavan"
+    ],
+    "name:sco_x_preferred":[
+        "Nahapetavan"
+    ],
+    "name:spa_x_preferred":[
+        "Nahapetavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108782805,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159355,
     "wof:name":"Nahapetavan",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

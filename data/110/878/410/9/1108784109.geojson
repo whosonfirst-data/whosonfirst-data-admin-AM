@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003983,
-    "geom:area_square_m":37628983.349708,
+    "geom:area_square_m":37628983.349701,
     "geom:bbox":"45.6844995817,40.1396787879,45.7975273633,40.2312582268",
     "geom:latitude":40.184363,
     "geom:longitude":45.744778,
@@ -25,6 +25,120 @@
     "mps:longitude":45.745625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0646\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0646\u06cc\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Vardenis"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u044d\u043d\u0456\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Vardenis"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Wardenis"
+    ],
+    "name:diq_x_preferred":[
+        "Vardenis"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03bd\u03c4\u03b5\u03bd\u03af\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Vardenis"
+    ],
+    "name:est_x_preferred":[
+        "Vardenis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0646\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Vardenis"
+    ],
+    "name:fra_x_preferred":[
+        "Vardenis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d3\u05e0\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0930\u094d\u0926\u0947\u0928\u093f\u0938"
+    ],
+    "name:hsb_x_preferred":[
+        "Wardenis"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0564\u0565\u0576\u056b\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0561\u0580\u0564\u0565\u0576\u056b\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Vardenis"
+    ],
+    "name:ita_x_preferred":[
+        "Vardenis"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Vardenisas"
+    ],
+    "name:msa_x_preferred":[
+        "Vardenis"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u0627\u0631\u062f\u0646\u06cc\u0633"
+    ],
+    "name:nld_x_preferred":[
+        "Vardenis"
+    ],
+    "name:pol_x_preferred":[
+        "Wardenis"
+    ],
+    "name:ron_x_preferred":[
+        "Vardenis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Vardenis"
+    ],
+    "name:spa_x_preferred":[
+        "Vardenis"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Vardenis"
+    ],
+    "name:tur_x_preferred":[
+        "Vardenis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0435\u043d\u0456\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Vardenis"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u4ee3\u5c3c\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +160,7 @@
         }
     ],
     "wof:id":1108784109,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159497,
     "wof:name":"Vardenis",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

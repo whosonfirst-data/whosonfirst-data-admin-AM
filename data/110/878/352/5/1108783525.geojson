@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007134,
-    "geom:area_square_m":67892568.0989,
+    "geom:area_square_m":67892568.098889,
     "geom:bbox":"45.2053440076,39.6070422743,45.3387588895,39.7344793204",
     "geom:latitude":39.675809,
     "geom:longitude":45.279302,
@@ -25,6 +25,39 @@
     "mps:longitude":45.280362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "G\u0259n\u0259\u015fik"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u06cc\u0634\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Gnishik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0576\u056b\u0577\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Gnishik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dc\u10d8\u10e8\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gnishik"
+    ],
+    "name:sco_x_preferred":[
+        "Gnishik"
+    ],
+    "name:spa_x_preferred":[
+        "Gnishik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043d\u0438\u0448\u0456\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Gnishik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783525,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159342,
     "wof:name":"Gnishik",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

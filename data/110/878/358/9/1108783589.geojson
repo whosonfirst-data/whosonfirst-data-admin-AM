@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003966,
-    "geom:area_square_m":37794842.135208,
+    "geom:area_square_m":37794842.135195,
     "geom:bbox":"45.9717398739,39.5402171734,46.0466999486,39.6224405139",
     "geom:latitude":39.58604,
     "geom:longitude":46.007772,
@@ -25,6 +25,36 @@
     "mps:longitude":46.007054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Shaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e7\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Shaki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e5\u10d8"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0627\u06a9\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Shaki"
+    ],
+    "name:swe_x_preferred":[
+        "Shaki"
+    ],
+    "name:vie_x_preferred":[
+        "Shaki"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108783589,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159469,
     "wof:name":"Shaki",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

@@ -25,11 +25,32 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Opartsi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0628\u0627\u0631\u062f\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Hobards"
+    ],
     "name:hye_x_preferred":[
         "Hobardzi"
     ],
     "name:hye_x_variant":[
         "\u0540\u0578\u0562\u0561\u0580\u0571\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Hobardz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10d1\u10d0\u10e0\u10eb\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hobardz"
+    ],
+    "name:spa_x_preferred":[
+        "Hobardzi"
     ],
     "name:und_x_variant":[
         "Oparts",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326827827,
-    "wof:lastmodified":1537584370,
+    "wof:lastmodified":1564159069,
     "wof:name":"Hobardzi",
     "wof:parent_id":1108783117,
     "wof:placetype":"locality",

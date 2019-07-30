@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002611,
-    "geom:area_square_m":24414920.522177,
+    "geom:area_square_m":24414920.522165,
     "geom:bbox":"43.8859732086,40.8050647545,44.0446609701,40.9016465732",
     "geom:latitude":40.857731,
     "geom:longitude":43.973898,
@@ -25,6 +25,48 @@
     "mps:longitude":43.974662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Carcur"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0430\u0434\u0436\u0443\u0440"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0430\u0434\u0436\u0443\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03c4\u03b6\u03bf\u03cd\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u062c\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Jajur"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u057b\u0578\u0582\u057c"
+    ],
+    "name:ita_x_preferred":[
+        "Jajur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10ef\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Jajur"
+    ],
+    "name:sco_x_preferred":[
+        "Jajur"
+    ],
+    "name:spa_x_preferred":[
+        "Jajur"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u062c\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Jajur"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108782719,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159512,
     "wof:name":"Jajur",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

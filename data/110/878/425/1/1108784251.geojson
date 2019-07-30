@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001556,
-    "geom:area_square_m":14887055.247343,
+    "geom:area_square_m":14887055.24734,
     "geom:bbox":"46.4502005729,39.3004212646,46.5375538583,39.3455973906",
     "geom:latitude":39.321853,
     "geom:longitude":46.498592,
@@ -25,6 +25,48 @@
     "mps:longitude":46.499864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434-\u0431\u0435\u043a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0432\u0456\u0434-\u0411\u0435\u043a"
+    ],
+    "name:epo_x_preferred":[
+        "David Bek"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0648\u06cc\u062a \u0628\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "David Bek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057e\u056b\u0569 \u0532\u0565\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0534\u0561\u0582\u056b\u0569 \u0532\u0567\u056f"
+    ],
+    "name:por_x_preferred":[
+        "Davit Bek"
+    ],
+    "name:ron_x_preferred":[
+        "Davit Bek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434-\u0411\u0435\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "David Bek"
+    ],
+    "name:slv_x_preferred":[
+        "David Bek"
+    ],
+    "name:tur_x_preferred":[
+        "Davit Bek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0432\u0456\u0434 \u0411\u0435\u043a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108784251,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159359,
     "wof:name":"Davit Bek",
     "wof:parent_id":85668629,
     "wof:placetype":"localadmin",

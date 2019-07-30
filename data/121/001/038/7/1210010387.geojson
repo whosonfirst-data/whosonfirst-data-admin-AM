@@ -25,14 +25,62 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Naver"
+    ],
+    "name:epo_x_preferred":[
+        "Naver"
+    ],
+    "name:fra_x_preferred":[
+        "Naver"
+    ],
+    "name:hun_x_preferred":[
+        "Naver"
+    ],
     "name:hye_x_preferred":[
         "Naver"
     ],
     "name:hye_x_variant":[
         "\u0546\u0561\u057e\u0565\u0580"
     ],
+    "name:ind_x_preferred":[
+        "Naver"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30a4\u30d0\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uc774\ubc84"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093e\u092d\u0930"
+    ],
+    "name:nor_x_preferred":[
+        "Naver"
+    ],
+    "name:pol_x_preferred":[
+        "Naver"
+    ],
+    "name:por_x_preferred":[
+        "Naver"
+    ],
+    "name:rus_x_preferred":[
+        "Naver"
+    ],
+    "name:spa_x_preferred":[
+        "Naver"
+    ],
+    "name:tur_x_preferred":[
+        "Naver"
+    ],
+    "name:ukr_x_preferred":[
+        "Naver"
+    ],
     "name:und_x_variant":[
         "Navlar"
+    ],
+    "name:vie_x_preferred":[
+        "Naver"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +105,7 @@
         }
     ],
     "wof:id":1210010387,
-    "wof:lastmodified":1537584357,
+    "wof:lastmodified":1564159284,
     "wof:name":"Naver",
     "wof:parent_id":1108783409,
     "wof:placetype":"locality",

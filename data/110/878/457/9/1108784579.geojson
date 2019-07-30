@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001281,
-    "geom:area_square_m":12125705.580314,
+    "geom:area_square_m":12125705.580311,
     "geom:bbox":"44.1139244336,40.0293207519,44.1817304643,40.0614482304",
     "geom:latitude":40.045731,
     "geom:longitude":44.146762,
@@ -25,6 +25,54 @@
     "mps:longitude":44.141109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Evcil\u0259r"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u0437\u0430\u043f"
+    ],
+    "name:ceb_x_preferred":[
+        "Arazap"
+    ],
+    "name:dan_x_preferred":[
+        "Arazap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0632\u0627\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Arazap"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0561\u0566\u0561\u0583"
+    ],
+    "name:ita_x_preferred":[
+        "Arazap"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d6\u10d0\u10e4\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Arazap"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0437\u0430\u043f"
+    ],
+    "name:sco_x_preferred":[
+        "Arazap"
+    ],
+    "name:spa_x_preferred":[
+        "Arazap"
+    ],
+    "name:swe_x_preferred":[
+        "Arazap"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0437\u0430\u043f"
+    ],
+    "name:vie_x_preferred":[
+        "Arazap"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1108784579,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159533,
     "wof:name":"Arazap",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

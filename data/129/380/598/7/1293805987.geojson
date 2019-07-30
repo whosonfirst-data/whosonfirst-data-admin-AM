@@ -25,11 +25,23 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Levon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0646"
+    ],
     "name:hye_x_preferred":[
         "Levon"
     ],
     "name:hye_x_variant":[
         "\u053c\u0587\u0578\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Levon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293805987,
-    "wof:lastmodified":1537584476,
+    "wof:lastmodified":1564159184,
     "wof:name":"Levon",
     "wof:parent_id":1108783171,
     "wof:placetype":"locality",

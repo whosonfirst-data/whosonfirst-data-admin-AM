@@ -25,11 +25,17 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Apana"
+    ],
     "name:hye_x_preferred":[
         "Apana"
     ],
     "name:hye_x_variant":[
         "\u0531\u057a\u0561\u0576\u0561"
+    ],
+    "name:swe_x_preferred":[
+        "Apana"
     ],
     "name:und_x_variant":[
         "Abak",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1193132463,
-    "wof:lastmodified":1537584358,
+    "wof:lastmodified":1564159290,
     "wof:name":"Apana",
     "wof:parent_id":1108782975,
     "wof:placetype":"locality",

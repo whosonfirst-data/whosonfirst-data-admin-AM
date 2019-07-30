@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000983,
-    "geom:area_square_m":9212037.34516,
+    "geom:area_square_m":9212037.345162,
     "geom:bbox":"44.2346398291,40.6786382592,44.2851409202,40.7284418859",
     "geom:latitude":40.700461,
     "geom:longitude":44.255012,
@@ -25,6 +25,45 @@
     "mps:longitude":44.253287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0634\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Ki\u00e7ik Cam\u0131\u015fl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0645\u0634\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Jamshlu"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0574\u0577\u056c\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Jamshlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10db\u10e8\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Jamshlu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0443\u0448\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Jamshlu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0448\u043b\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0634\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Jamshlu"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782897,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159363,
     "wof:name":"Jamshlu",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

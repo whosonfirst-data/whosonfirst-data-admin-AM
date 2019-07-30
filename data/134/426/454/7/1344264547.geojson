@@ -26,6 +26,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0631 \u0634\u0627\u06af\u0631\u06cc\u0627\u0631"
+    ],
     "name:und_x_variant":[
         "Malyy Shagriar",
         "Pokr Shagriar"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344264547,
-    "wof:lastmodified":1537584368,
+    "wof:lastmodified":1564159124,
     "wof:name":"Pokr Shagriar",
     "wof:parent_id":1108783833,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":3605990.406032,
+    "geom:area_square_m":3605990.406023,
     "geom:bbox":"44.3790421712,40.0639915392,44.4008724448,40.0962457113",
     "geom:latitude":40.08239,
     "geom:longitude":44.389061,
@@ -25,6 +25,12 @@
     "mps:longitude":44.388147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ita_x_preferred":[
+        "Zorak"
+    ],
+    "name:por_x_preferred":[
+        "Zorak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108783983,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159331,
     "wof:name":"Zorak",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

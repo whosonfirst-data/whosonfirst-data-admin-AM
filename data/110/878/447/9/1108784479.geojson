@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002073,
-    "geom:area_square_m":19765088.545309,
+    "geom:area_square_m":19765088.545292,
     "geom:bbox":"46.0632401431,39.4964636486,46.1209091333,39.5847450482",
     "geom:latitude":39.543655,
     "geom:longitude":46.093979,
@@ -25,6 +25,51 @@
     "mps:longitude":46.093978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "A\u011fudi"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0438\u0442\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "Aghitu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u06cc\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Aghitu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0572\u056b\u057f\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Aghitu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d8\u10e2\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Aghitu"
+    ],
+    "name:nld_x_preferred":[
+        "Agitoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0438\u0442\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Aghitu"
+    ],
+    "name:spa_x_preferred":[
+        "Aghitu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0642\u06cc\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Aghitu"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1108784479,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159352,
     "wof:name":"Aghitu",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

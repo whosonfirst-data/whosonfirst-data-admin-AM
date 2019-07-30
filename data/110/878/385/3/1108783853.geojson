@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001245,
-    "geom:area_square_m":11774122.72851,
+    "geom:area_square_m":11774122.7285,
     "geom:bbox":"43.7542874907,40.0725174046,43.9515646246,40.111804427",
     "geom:latitude":40.090056,
     "geom:longitude":43.849761,
@@ -25,6 +25,42 @@
     "mps:longitude":43.770816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015eahvarut"
+    ],
+    "name:che_x_preferred":[
+        "\u0423\u0448\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0634\u0627\u06a9\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Hushakert"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u0577\u0561\u056f\u0565\u0580\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Hushakert"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10e8\u10d0\u10d9\u10d4\u10e0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hushakert"
+    ],
+    "name:sco_x_preferred":[
+        "Hushakert"
+    ],
+    "name:spa_x_preferred":[
+        "Hushakert"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0448\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Hushakert"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783853,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159435,
     "wof:name":"Hushakert",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

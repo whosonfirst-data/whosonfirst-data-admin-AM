@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001735,
-    "geom:area_square_m":16563863.004688,
+    "geom:area_square_m":16563863.004697,
     "geom:bbox":"45.904955893,39.3884345323,46.0357136465,39.5081552472",
     "geom:latitude":39.454837,
     "geom:longitude":45.980996,
@@ -25,6 +25,39 @@
     "mps:longitude":46.006114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "A\u011fk\u0259nd"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0448\u043e\u0442\u0430\u0432\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u0648\u062a\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ashotavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u0578\u057f\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Ashotavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10dd\u10e2\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ashotavan"
+    ],
+    "name:sco_x_preferred":[
+        "Ashotavan"
+    ],
+    "name:spa_x_preferred":[
+        "Ashotavan"
+    ],
+    "name:vie_x_preferred":[
+        "Ashotavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784471,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159352,
     "wof:name":"Ashotavan",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001732,
-    "geom:area_square_m":16276536.895309,
+    "geom:area_square_m":16276536.895306,
     "geom:bbox":"44.9255763995,40.531711278,45.0202321774,40.5699813057",
     "geom:latitude":40.548685,
     "geom:longitude":44.966841,
@@ -25,6 +25,48 @@
     "mps:longitude":44.967544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Sevan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043d"
+    ],
+    "name:fra_x_preferred":[
+        "Sevan"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0587\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Sevan"
+    ],
+    "name:lit_x_preferred":[
+        "Sevanas"
+    ],
+    "name:nno_x_preferred":[
+        "Sevan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Sevan"
+    ],
+    "name:slk_x_preferred":[
+        "Sevan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Sevan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Sevan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783561,
-    "wof:lastmodified":1512517059,
+    "wof:lastmodified":1564159467,
     "wof:name":"Sevan",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

@@ -25,6 +25,42 @@
     "mps:longitude":44.098645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0631\u064a\u0641\u0627\u0646\u0643"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043f\u0440\u0435\u0432\u0430\u043d\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u067e\u0631\u0648\u0627\u0646\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Dprevank"
+    ],
+    "name:fra_x_preferred":[
+        "Dprevank"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u057a\u0580\u0565\u057e\u0561\u0576\u0584"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0534\u057a\u0580\u0565\u057e\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Dprevank"
+    ],
+    "name:msa_x_preferred":[
+        "Dprevank"
+    ],
+    "name:spa_x_preferred":[
+        "Dprevank"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043f\u0440\u0435\u0432\u0430\u043d\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Dprevank"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783775,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159426,
     "wof:name":"Dprevank",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

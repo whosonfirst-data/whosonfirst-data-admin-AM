@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005055,
-    "geom:area_square_m":48184030.347837,
+    "geom:area_square_m":48184030.347853,
     "geom:bbox":"45.8317427828,39.5163827595,45.9264214468,39.6067141601",
     "geom:latitude":39.56881,
     "geom:longitude":45.879018,
@@ -25,6 +25,45 @@
     "mps:longitude":45.87993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015ealat"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaghat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u063a\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Shaghat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0572\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Shaghat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e6\u10d0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shaghat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0433\u0430\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Shaghat"
+    ],
+    "name:spa_x_preferred":[
+        "Shaghat"
+    ],
+    "name:swe_x_preferred":[
+        "Shaghat"
+    ],
+    "name:vie_x_preferred":[
+        "Shaghat"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784487,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159365,
     "wof:name":"Shaghat",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

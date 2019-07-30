@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001894,
-    "geom:area_square_m":17693550.545986,
+    "geom:area_square_m":17693550.545992,
     "geom:bbox":"45.155281255,40.8974995683,45.2345263967,40.9624793096",
     "geom:latitude":40.932564,
     "geom:longitude":45.192946,
@@ -25,6 +25,54 @@
     "mps:longitude":45.183098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0634\u062a\u0627\u0631\u0627\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Saratu"
+    ],
+    "name:ceb_x_preferred":[
+        "Khasht'arrak"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c3\u03c4\u03b1\u03c1\u03ac\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0634\u062a\u0627\u0631\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0577\u0569\u0561\u057c\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e8\u10d7\u10d0\u10e0\u10d0\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:spa_x_preferred":[
+        "Khashtarak"
+    ],
+    "name:swe_x_preferred":[
+        "Khasht'arrak"
+    ],
+    "name:vie_x_preferred":[
+        "Khashtarak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1108783257,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159449,
     "wof:name":"Khashtarak",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

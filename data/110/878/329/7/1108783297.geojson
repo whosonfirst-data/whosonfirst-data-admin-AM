@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002884,
-    "geom:area_square_m":27410773.151683,
+    "geom:area_square_m":27410773.151678,
     "geom:bbox":"45.1024446405,39.7379094168,45.1731881262,39.8311518013",
     "geom:latitude":39.777517,
     "geom:longitude":45.141596,
@@ -25,6 +25,33 @@
     "mps:longitude":45.142131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Chiva"
+    ],
+    "name:ceb_x_preferred":[
+        "Chiva"
+    ],
+    "name:deu_x_preferred":[
+        "Chiva"
+    ],
+    "name:fra_x_preferred":[
+        "Chiva"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u057e\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Chiva"
+    ],
+    "name:sco_x_preferred":[
+        "Chiva"
+    ],
+    "name:slk_x_preferred":[
+        "Chiva"
+    ],
+    "name:swe_x_preferred":[
+        "Chiva"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108783297,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159557,
     "wof:name":"Chiva",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

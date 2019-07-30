@@ -25,18 +25,54 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bozyoxu\u015f"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0441\u0430\u0435\u043b\u044f\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Musayelyan"
+    ],
     "name:eng_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0627\u06cc\u0644\u06cc\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Musayelyan"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u057d\u0561\u0575\u0565\u056c\u0575\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10e1\u10d0\u10d8\u10d4\u10da\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Musayelyan"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u0430\u0435\u043b\u044f\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:spa_x_preferred":[
+        "Musayelyan"
+    ],
+    "name:swe_x_preferred":[
+        "Musayelyan"
     ],
     "name:und_x_variant":[
         "Musayelian",
         "Bozekhush",
+        "Musayelyan"
+    ],
+    "name:vie_x_preferred":[
         "Musayelyan"
     ],
     "src:geom":"geonames",
@@ -63,7 +99,7 @@
         }
     ],
     "wof:id":1276250345,
-    "wof:lastmodified":1537584372,
+    "wof:lastmodified":1564159217,
     "wof:name":"Musayelyan",
     "wof:parent_id":1108782751,
     "wof:placetype":"locality",

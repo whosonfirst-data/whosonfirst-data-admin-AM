@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00407,
-    "geom:area_square_m":38800461.431818,
+    "geom:area_square_m":38800461.43182,
     "geom:bbox":"46.4088690917,39.515656779,46.5488303355,39.587566618",
     "geom:latitude":39.557836,
     "geom:longitude":46.480908,
@@ -25,6 +25,42 @@
     "mps:longitude":46.481983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tex"
+    ],
+    "name:ceb_x_preferred":[
+        "Tegh"
+    ],
+    "name:fra_x_preferred":[
+        "Tegh"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Tegh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tegh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Tegh"
+    ],
+    "name:spa_x_preferred":[
+        "Tegh"
+    ],
+    "name:swe_x_preferred":[
+        "Tegh"
+    ],
+    "name:vie_x_preferred":[
+        "Tegh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783725,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159581,
     "wof:name":"Tegh",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

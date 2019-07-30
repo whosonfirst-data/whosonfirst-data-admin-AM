@@ -25,17 +25,41 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259r\u00e7\u0259bed"
+    ],
     "name:eng_x_preferred":[
         "Sarch'apet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0686\u0627\u067e\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Sarchapet"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u0579\u0561\u057a\u0565\u057f"
     ],
+    "name:ita_x_preferred":[
+        "Sarchapet"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10e9\u10d0\u10de\u10d4\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sarchapet"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0447\u0430\u043f\u0435\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Sarchapet"
+    ],
     "name:und_x_variant":[
         "Sarch\u2019apet"
+    ],
+    "name:vie_x_preferred":[
+        "Sarchapet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1209028793,
-    "wof:lastmodified":1537584368,
+    "wof:lastmodified":1564159270,
     "wof:name":"Sarch'apet",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

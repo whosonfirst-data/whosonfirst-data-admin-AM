@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001334,
-    "geom:area_square_m":12602767.918136,
+    "geom:area_square_m":12602767.918146,
     "geom:bbox":"44.1524941596,40.1580025437,44.254244853,40.2130910936",
     "geom:latitude":40.187634,
     "geom:longitude":44.206164,
@@ -25,6 +25,45 @@
     "mps:longitude":44.194259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0410\u0439\u0442\u0430\u0445"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0442\u0430\u0445"
+    ],
+    "name:dan_x_preferred":[
+        "Haytagh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u062a\u0627\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Haytagh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u0569\u0561\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Haytagh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d8\u10d7\u10d0\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Haytagh"
+    ],
+    "name:sco_x_preferred":[
+        "Haytagh"
+    ],
+    "name:spa_x_preferred":[
+        "Haytagh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0442\u0430\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Haytagh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783905,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159349,
     "wof:name":"Haytagh",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

@@ -25,11 +25,17 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moz"
+    ],
     "name:hye_x_preferred":[
         "Moz"
     ],
     "name:hye_x_variant":[
         "\u0544\u0578\u0566"
+    ],
+    "name:swe_x_preferred":[
+        "Moz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310485369,
-    "wof:lastmodified":1537584402,
+    "wof:lastmodified":1564159588,
     "wof:name":"Moz",
     "wof:parent_id":1108783429,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130lm\u0259zli"
+    ],
     "name:eng_x_preferred":[
         "Ilmazlu"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1260174221,
-    "wof:lastmodified":1537584380,
+    "wof:lastmodified":1564159309,
     "wof:name":"Dashtadem",
     "wof:parent_id":1108783065,
     "wof:placetype":"locality",

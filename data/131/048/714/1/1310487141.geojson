@@ -25,14 +25,50 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bazar\u00e7ay"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorayk'"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Gorayk"
+    ],
     "name:hye_x_preferred":[
         "Gorayk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u0580\u0561\u0575\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Gorayk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0\u10d8\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gorayk"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0439\u043a"
     ],
+    "name:sco_x_preferred":[
+        "Gorayk"
+    ],
+    "name:spa_x_preferred":[
+        "Gorayk"
+    ],
+    "name:swe_x_preferred":[
+        "Gorayk'"
+    ],
     "name:und_x_variant":[
         "Bazarchay"
+    ],
+    "name:vie_x_preferred":[
+        "Gorayk"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +95,7 @@
         }
     ],
     "wof:id":1310487141,
-    "wof:lastmodified":1537584350,
+    "wof:lastmodified":1564159587,
     "wof:name":"Gorayk'",
     "wof:parent_id":1108783603,
     "wof:placetype":"locality",

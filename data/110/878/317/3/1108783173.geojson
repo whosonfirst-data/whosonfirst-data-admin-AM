@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001381,
-    "geom:area_square_m":12853754.150082,
+    "geom:area_square_m":12853754.150086,
     "geom:bbox":"44.7766305924,41.0050129863,45.0806281841,41.2053127555",
     "geom:latitude":41.158885,
     "geom:longitude":45.005777,
@@ -25,6 +25,45 @@
     "mps:longitude":45.040947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Balak\u0259nd"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0432\u0435\u0445"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03b2\u03ad\u03b3"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Dovegh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u057e\u0565\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Dovegh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10d5\u10d4\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dovegh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0432\u0435\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Dovegh"
+    ],
+    "name:spa_x_preferred":[
+        "Dovegh"
+    ],
+    "name:vie_x_preferred":[
+        "Dovegh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783173,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159571,
     "wof:name":"Dovegh",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

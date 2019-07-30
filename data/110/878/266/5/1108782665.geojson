@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":8859292.472973,
+    "geom:area_square_m":8859292.472971,
     "geom:bbox":"43.8786042096,40.8064977974,43.9427749356,40.8866156048",
     "geom:latitude":40.867221,
     "geom:longitude":43.921327,
@@ -25,6 +25,45 @@
     "mps:longitude":43.920949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ar\u0131xv\u0259li"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0440\u043d\u0443\u0442"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0440\u043d\u0443\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c1\u03bd\u03bf\u03cd\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u0646\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Lernut"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u057c\u0576\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Lernut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e0\u10dc\u10e3\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lernut"
+    ],
+    "name:sco_x_preferred":[
+        "Lernut"
+    ],
+    "name:spa_x_preferred":[
+        "Lernut"
+    ],
+    "name:vie_x_preferred":[
+        "Lernut"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782665,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159391,
     "wof:name":"Lernut",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

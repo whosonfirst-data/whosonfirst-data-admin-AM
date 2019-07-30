@@ -31,6 +31,9 @@
     "name:hye_x_variant":[
         "\u0544\u0561\u057d\u0580\u056b\u056f"
     ],
+    "name:sco_x_preferred":[
+        "Masrik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226362463,
-    "wof:lastmodified":1537584412,
+    "wof:lastmodified":1564159786,
     "wof:name":"Masrik",
     "wof:parent_id":1108784395,
     "wof:placetype":"locality",

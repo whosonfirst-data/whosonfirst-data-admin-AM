@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1888595.215049,
+    "geom:area_square_m":1888595.215048,
     "geom:bbox":"44.4093558364,40.13691759,44.439172534,40.1517214952",
     "geom:latitude":40.144377,
     "geom:longitude":44.42526,
@@ -25,6 +25,18 @@
     "mps:longitude":44.425258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Geghanist"
+    ],
+    "name:ita_x_preferred":[
+        "Geghanist"
+    ],
+    "name:sco_x_preferred":[
+        "Geghanist"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0445\u0430\u043d\u0456\u0441\u0442"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1108783957,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159451,
     "wof:name":"Geghanist",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

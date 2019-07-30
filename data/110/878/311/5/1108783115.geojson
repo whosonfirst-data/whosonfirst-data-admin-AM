@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002074,
-    "geom:area_square_m":19371047.475046,
+    "geom:area_square_m":19371047.475059,
     "geom:bbox":"44.5140599991,40.9302807811,44.5969544712,40.9838368645",
     "geom:latitude":40.958948,
     "geom:longitude":44.55194,
@@ -25,6 +25,33 @@
     "mps:longitude":44.551309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Kurtan"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kurtan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0569\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Kurtan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10d7\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kurtan"
+    ],
+    "name:spa_x_preferred":[
+        "Kurtan"
+    ],
+    "name:vie_x_preferred":[
+        "Kurtan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108783115,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159556,
     "wof:name":"Kurtan",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

@@ -25,11 +25,20 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zang"
+    ],
+    "name:fra_x_preferred":[
+        "Zang"
+    ],
     "name:hye_x_preferred":[
         "Zang"
     ],
     "name:hye_x_variant":[
         "\u0536\u0561\u0576\u0563"
+    ],
+    "name:ita_x_preferred":[
+        "Zang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243563595,
-    "wof:lastmodified":1537584426,
+    "wof:lastmodified":1564159697,
     "wof:name":"Zang",
     "wof:parent_id":85668099,
     "wof:placetype":"locality",

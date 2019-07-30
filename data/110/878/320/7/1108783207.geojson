@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000608,
-    "geom:area_square_m":5656369.356835,
+    "geom:area_square_m":5656369.356834,
     "geom:bbox":"44.6988822576,41.1512049605,44.7773192711,41.1808225588",
     "geom:latitude":41.169227,
     "geom:longitude":44.73349,
@@ -25,6 +25,90 @@
     "mps:longitude":44.721684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0645\u0644\u0648\u063a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0645\u0644\u0648\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eaml\u0131q"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u043c\u043b\u0443\u0433"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u043c\u043b\u0443\u0433"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u043c\u043b\u0443\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Schamlugh"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03bb\u03bf\u03cd\u03b3"
+    ],
+    "name:epo_x_preferred":[
+        "\u015camlugh"
+    ],
+    "name:est_x_preferred":[
+        "\u0160amlugh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u0644\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Shamlugh"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160amlug"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0574\u056c\u0578\u0582\u0572"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0574\u056c\u0578\u0582\u0572"
+    ],
+    "name:ind_x_preferred":[
+        "Shamlugh"
+    ],
+    "name:ita_x_preferred":[
+        "Shamlugh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10db\u10da\u10e3\u10e6\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160amluhas"
+    ],
+    "name:msa_x_preferred":[
+        "Shamlugh"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0634\u0627\u0645\u0644\u0648\u063a"
+    ],
+    "name:nld_x_preferred":[
+        "Sjamloeg"
+    ],
+    "name:pol_x_preferred":[
+        "Szamluch"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218amluh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u043b\u0443\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Shamlugh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u043b\u0443\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "Shamlugh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +130,7 @@
         }
     ],
     "wof:id":1108783207,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159551,
     "wof:name":"Shamlugh",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

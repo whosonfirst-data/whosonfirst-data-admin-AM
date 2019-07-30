@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006674,
-    "geom:area_square_m":63490601.94065,
+    "geom:area_square_m":63490601.940644,
     "geom:bbox":"45.5602128308,39.6622180756,45.7311461125,39.7397079978",
     "geom:latitude":39.702509,
     "geom:longitude":45.669133,
@@ -25,6 +25,27 @@
     "mps:longitude":45.670778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Saravan"
+    ],
+    "name:deu_x_preferred":[
+        "Saravan"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u0627\u0648\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Saravan"
+    ],
+    "name:swe_x_preferred":[
+        "Saravan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108783387,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159317,
     "wof:name":"Saravan",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

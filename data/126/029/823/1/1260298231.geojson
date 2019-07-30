@@ -31,6 +31,12 @@
     "name:hye_x_variant":[
         "\u0531\u0572\u0561\u057d\u056b"
     ],
+    "name:msa_x_preferred":[
+        "Aghasi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0491\u0430\u0441\u0456"
+    ],
     "name:und_x_variant":[
         "Razvaliny Agaslu"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260298231,
-    "wof:lastmodified":1537584397,
+    "wof:lastmodified":1564159308,
     "wof:name":"Aghasi",
     "wof:parent_id":85668099,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002681,
-    "geom:area_square_m":25449741.888105,
+    "geom:area_square_m":25449741.888107,
     "geom:bbox":"45.1899038209,39.834109324,45.2765771553,39.8879774707",
     "geom:latitude":39.862565,
     "geom:longitude":45.227775,
@@ -25,6 +25,57 @@
     "mps:longitude":45.227116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Chors"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u044a\u0440\u0441"
+    ],
+    "name:ces_x_preferred":[
+        "Chors"
+    ],
+    "name:deu_x_preferred":[
+        "Chors"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Khors"
+    ],
+    "name:hrv_x_preferred":[
+        "Hors"
+    ],
+    "name:ita_x_preferred":[
+        "Khors"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30eb\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub974\uc2a4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0440\u0441"
+    ],
+    "name:pol_x_preferred":[
+        "Chors"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Chors"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Chors"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0441"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +97,7 @@
         }
     ],
     "wof:id":1108783657,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159326,
     "wof:name":"Hors",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":7102099.983952,
+    "geom:area_square_m":7102099.983948,
     "geom:bbox":"44.2486071784,40.0928827494,44.2861231872,40.1300073429",
     "geom:latitude":40.11299,
     "geom:longitude":44.26846,
@@ -25,6 +25,18 @@
     "mps:longitude":44.26874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ita_x_preferred":[
+        "Griboedov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043e\u0435\u0434\u043e\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Griboyedov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0438\u0431\u043e\u0454\u0434\u043e\u0432"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1108783927,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159453,
     "wof:name":"Griboyedov",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

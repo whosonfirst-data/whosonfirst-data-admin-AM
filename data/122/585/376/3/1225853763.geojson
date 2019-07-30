@@ -25,11 +25,44 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0631\u0648\u06cc\u0631 \u0633\u0648\u0627\u06a9"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u0439\u0440 \u0421\u0435\u0432\u0430\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Paroujr Sewak"
+    ],
+    "name:est_x_preferred":[
+        "Parujr Sevak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u06cc\u0631 \u0633\u0648\u0627\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Parouir S\u00e9vak"
+    ],
     "name:hye_x_preferred":[
         "Paruyr Sevak"
     ],
     "name:hye_x_variant":[
         "\u054a\u0561\u0580\u0578\u0582\u0575\u0580 \u054d\u0587\u0561\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0580\u0578\u0575\u0580 \u054d\u0565\u0582\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Paruyr Sevak"
+    ],
+    "name:tur_x_preferred":[
+        "Paruir Sevak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u043a \u041f\u0430\u0440\u0443\u0439\u0440 \u0420\u0430\u0444\u0430\u0435\u043b\u043e\u0432\u0438\u0447"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1225853763,
-    "wof:lastmodified":1537584441,
+    "wof:lastmodified":1564159787,
     "wof:name":"Paruyr Sevak",
     "wof:parent_id":85668099,
     "wof:placetype":"locality",

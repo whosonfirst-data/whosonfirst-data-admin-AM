@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":5180003.173176,
+    "geom:area_square_m":5180003.173177,
     "geom:bbox":"44.37751817,40.5845363725,44.4229475571,40.6073512974",
     "geom:latitude":40.598031,
     "geom:longitude":44.397883,
@@ -25,6 +25,24 @@
     "mps:longitude":44.398228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Saralanj"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u056c\u0561\u0576\u057b"
+    ],
+    "name:ita_x_preferred":[
+        "Saralanj"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10da\u10d0\u10dc\u10ef\u10d8"
+    ],
+    "name:sco_x_preferred":[
+        "Saralanj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043b\u0430\u043d\u0434\u0436"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108782859,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159511,
     "wof:name":"Saralanj",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

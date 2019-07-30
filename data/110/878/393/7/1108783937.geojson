@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000475,
-    "geom:area_square_m":4484033.006208,
+    "geom:area_square_m":4484033.006206,
     "geom:bbox":"44.3728555462,40.1704912752,44.3996117057,40.1984460804",
     "geom:latitude":40.186549,
     "geom:longitude":44.385921,
@@ -25,6 +25,48 @@
     "mps:longitude":44.386175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Aygek"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0439\u0433\u0435\u0433"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u06af\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Aygek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Aygek"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d2\u10d4\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aygek"
+    ],
+    "name:sco_x_preferred":[
+        "Aygek"
+    ],
+    "name:spa_x_preferred":[
+        "Aygek"
+    ],
+    "name:swe_x_preferred":[
+        "Aygek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0491\u0435\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Aygek"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783937,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159472,
     "wof:name":"Aygek",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

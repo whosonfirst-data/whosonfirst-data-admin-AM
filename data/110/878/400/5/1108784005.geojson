@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
-    "geom:area_square_m":7492740.983486,
+    "geom:area_square_m":7492740.983485,
     "geom:bbox":"44.5665078485,40.0013335949,44.629178754,40.0360106061",
     "geom:latitude":40.019832,
     "geom:longitude":44.596475,
@@ -25,6 +25,12 @@
     "mps:longitude":44.584633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Dvin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u057e\u056b\u0576"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108784005,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159417,
     "wof:name":"Dvin",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

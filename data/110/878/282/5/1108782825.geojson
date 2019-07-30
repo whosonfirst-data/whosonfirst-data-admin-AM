@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001203,
-    "geom:area_square_m":11289053.241678,
+    "geom:area_square_m":11289053.241676,
     "geom:bbox":"43.9483332352,40.6231643696,44.0081766116,40.6598724658",
     "geom:latitude":40.643778,
     "geom:longitude":43.977876,
@@ -25,6 +25,51 @@
     "mps:longitude":43.979917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "B\u0259yk\u0259nd"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0443\u0448\u0430\u0432\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Anushavan"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0443\u0448\u0430\u0432\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0648\u0634\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Anushavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0578\u0582\u0577\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Anushavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e3\u10e8\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Anushavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0443\u0448\u0430\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Anushavan"
+    ],
+    "name:spa_x_preferred":[
+        "Anushavan"
+    ],
+    "name:swe_x_preferred":[
+        "Anushavan"
+    ],
+    "name:vie_x_preferred":[
+        "Anushavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1108782825,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159509,
     "wof:name":"Anushavan",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

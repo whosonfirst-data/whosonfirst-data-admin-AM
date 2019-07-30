@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":2019898.654865,
+    "geom:area_square_m":2019898.654869,
     "geom:bbox":"46.3294019772,39.2716865201,46.3557305318,39.2954295337",
     "geom:latitude":39.282922,
     "geom:longitude":46.342073,
@@ -25,6 +25,24 @@
     "mps:longitude":46.343369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Vanek"
+    ],
+    "name:deu_x_preferred":[
+        "Vanek"
+    ],
+    "name:fra_x_preferred":[
+        "Vanek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0435\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Vanek"
+    ],
+    "name:slk_x_preferred":[
+        "Vanek"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1108784419,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159368,
     "wof:name":"Vanek",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

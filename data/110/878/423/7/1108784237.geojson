@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002922,
-    "geom:area_square_m":27900439.086545,
+    "geom:area_square_m":27900439.086547,
     "geom:bbox":"46.086246128,39.429220597,46.2045863529,39.5023288923",
     "geom:latitude":39.459435,
     "geom:longitude":46.145805,
@@ -25,6 +25,36 @@
     "mps:longitude":46.13594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259bas"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0628\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Darbas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0580\u0562\u0561\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Darbas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10d1\u10d0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Darbas"
+    ],
+    "name:sco_x_preferred":[
+        "Darbas"
+    ],
+    "name:spa_x_preferred":[
+        "Darbas"
+    ],
+    "name:vie_x_preferred":[
+        "Darbas"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784237,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159377,
     "wof:name":"Darbas",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001789,
-    "geom:area_square_m":16837117.3795,
+    "geom:area_square_m":16837117.379495,
     "geom:bbox":"43.7296079536,40.4151726561,43.7787227422,40.4896370608",
     "geom:latitude":40.45391,
     "geom:longitude":43.752864,
@@ -25,6 +25,39 @@
     "mps:longitude":43.75454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0627\u0645\u0627\u0643\u0627\u0633\u064a\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Susuz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u0645\u0627\u06a9\u0627\u0633\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Tsamakasar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0561\u0574\u0561\u0584\u0561\u057d\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Tsamaqasar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d0\u10db\u10d0\u10e5\u10d0\u10e1\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tsamakasar"
+    ],
+    "name:spa_x_preferred":[
+        "Tsamakasar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u043c\u0430\u043a\u0430\u0441\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Tsamakasar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108782937,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159411,
     "wof:name":"Tsamakasar",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

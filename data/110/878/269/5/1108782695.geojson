@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001386,
-    "geom:area_square_m":12904717.043516,
+    "geom:area_square_m":12904717.04352,
     "geom:bbox":"44.0893663413,41.15295278,44.1475418695,41.1910743231",
     "geom:latitude":41.17194,
     "geom:longitude":44.113934,
@@ -25,6 +25,33 @@
     "mps:longitude":44.110471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Soyuqbulaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u063a\u0627\u063a\u0628\u06cc\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Paghaghbyur"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0572\u0561\u0572\u0562\u0575\u0578\u0582\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Paghaghbyur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e6\u10d0\u10e6\u10d1\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Paghaghbyur"
+    ],
+    "name:spa_x_preferred":[
+        "Paghaghbyur"
+    ],
+    "name:vie_x_preferred":[
+        "Paghaghbyur"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108782695,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159418,
     "wof:name":"Paghaghbyur",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001285,
-    "geom:area_square_m":12168514.886477,
+    "geom:area_square_m":12168514.88648,
     "geom:bbox":"44.3418149224,40.0030421193,44.4004517183,40.0430085453",
     "geom:latitude":40.024372,
     "geom:longitude":44.373688,
@@ -25,6 +25,39 @@
     "mps:longitude":44.379026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0646\u062a\u0634\u0628\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259ncb\u0259r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0646\u0686\u067e\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ranchpar"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0576\u0579\u057a\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Ranchpar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10dc\u10e9\u10de\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ranchpar"
+    ],
+    "name:spa_x_preferred":[
+        "Ranchpar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u0447\u043f\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Ranchpar"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784207,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159505,
     "wof:name":"Ranchpar",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

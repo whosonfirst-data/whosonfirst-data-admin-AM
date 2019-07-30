@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001892,
-    "geom:area_square_m":18072495.368745,
+    "geom:area_square_m":18072495.368736,
     "geom:bbox":"46.2389650884,39.3843389298,46.3135149781,39.4422984396",
     "geom:latitude":39.414742,
     "geom:longitude":46.279653,
@@ -25,6 +25,39 @@
     "mps:longitude":46.28588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Qalad\u0259r\u0259si"
+    ],
+    "name:est_x_preferred":[
+        "Halidzor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0644\u06cc\u062f\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Halidzor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056c\u056b\u0571\u0578\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Halidzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10da\u10d8\u10eb\u10dd\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Halidzor"
+    ],
+    "name:sco_x_preferred":[
+        "Halidzor"
+    ],
+    "name:spa_x_preferred":[
+        "Halidzor"
+    ],
+    "name:vie_x_preferred":[
+        "Halidzor"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108784443,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159499,
     "wof:name":"Halidzor",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

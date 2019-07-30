@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000771,
-    "geom:area_square_m":7279291.576527,
+    "geom:area_square_m":7279291.576522,
     "geom:bbox":"44.0238578467,40.2396652706,44.0585070995,40.2884991925",
     "geom:latitude":40.265149,
     "geom:longitude":44.042767,
@@ -25,6 +25,42 @@
     "mps:longitude":44.041061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u064a\u0632\u0627\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Ba\u011f\u00e7ac\u0131q"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u062a\u06cc\u0632\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Partizak"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u057f\u056b\u0566\u0561\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0580\u057f\u056b\u0566\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Partizak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10e2\u10d8\u10d6\u10d0\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Partizak"
+    ],
+    "name:spa_x_preferred":[
+        "Partizak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0456\u0437\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Partizak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108783793,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159423,
     "wof:name":"Partizak",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001451,
-    "geom:area_square_m":13631175.888446,
+    "geom:area_square_m":13631175.888449,
     "geom:bbox":"44.4632187031,40.5578779054,44.5363041544,40.5960051026",
     "geom:latitude":40.5784,
     "geom:longitude":44.496774,
@@ -25,6 +25,42 @@
     "mps:longitude":44.485146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0633\u0648\u0631\u0627\u063a\u0644\u0648\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "G\u00fclabl\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u0433\u043b\u0443\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0631\u0627\u06af\u0644\u0648\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Dsoraglukh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0541\u0578\u0580\u0561\u0563\u056c\u0578\u0582\u056d"
+    ],
+    "name:ita_x_preferred":[
+        "Dzoraglukh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10dd\u10e0\u10d0\u10d2\u10da\u10e3\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzoraglukh"
+    ],
+    "name:spa_x_preferred":[
+        "Dzoraglukh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u0491\u043b\u0443\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Dsoraglukh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108782851,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159511,
     "wof:name":"Dzoraglukh",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

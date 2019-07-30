@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003143,
-    "geom:area_square_m":29318796.58174,
+    "geom:area_square_m":29318796.581743,
     "geom:bbox":"43.7141623106,41.0036885011,43.7914398563,41.0597599392",
     "geom:latitude":41.033997,
     "geom:longitude":43.756149,
@@ -25,6 +25,33 @@
     "mps:longitude":43.760744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0432\u0430\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Alvar"
+    ],
+    "name:est_x_preferred":[
+        "Loopealne"
+    ],
+    "name:fin_x_preferred":[
+        "Alvari"
+    ],
+    "name:fra_x_preferred":[
+        "Alvar"
+    ],
+    "name:nor_x_preferred":[
+        "Alvar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Alvar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0430\u0440"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108782575,
-    "wof:lastmodified":1512517051,
+    "wof:lastmodified":1564159382,
     "wof:name":"Alvar",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

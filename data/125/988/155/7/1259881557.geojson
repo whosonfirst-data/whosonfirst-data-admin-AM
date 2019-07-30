@@ -25,19 +25,49 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Molla Dursun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647\u0648\u0645\u06cc\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Shahumyan"
+    ],
     "name:hye_x_preferred":[
         "Shahumyan"
     ],
     "name:hye_x_variant":[
         "\u0547\u0561\u0570\u0578\u0582\u0574\u0575\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Shahumyan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e3\u10db\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shahumyan"
+    ],
     "name:rus_x_preferred":[
+        "\u0428\u0430\u0443\u043c\u044f\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Shahumyan"
+    ],
+    "name:spa_x_preferred":[
+        "Shahumyan"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0430\u0443\u043c\u044f\u043d"
     ],
     "name:und_x_variant":[
         "Molla Dursun",
         "Shaumyan",
         "Shahumian"
+    ],
+    "name:vie_x_preferred":[
+        "Shahumyan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1259881557,
-    "wof:lastmodified":1537584367,
+    "wof:lastmodified":1564159744,
     "wof:name":"Shahumyan",
     "wof:parent_id":1108784343,
     "wof:placetype":"locality",

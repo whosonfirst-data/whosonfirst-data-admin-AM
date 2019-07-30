@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqaya"
+    ],
     "name:hye_x_preferred":[
         "Gharaghaya"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259968849,
-    "wof:lastmodified":1537584349,
+    "wof:lastmodified":1564159720,
     "wof:name":"Gharaghaya",
     "wof:parent_id":1108783871,
     "wof:placetype":"locality",

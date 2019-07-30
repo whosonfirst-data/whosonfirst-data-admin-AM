@@ -25,13 +25,49 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Q\u0131p\u00e7aq"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0438\u0447"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0438\u0447"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u06cc\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Harich"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u057c\u056b\u0573"
+    ],
+    "name:ita_x_preferred":[
+        "Harich"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d8\u10ed\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Harich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0438\u0447"
+    ],
+    "name:sco_x_preferred":[
+        "Harich"
+    ],
+    "name:spa_x_preferred":[
+        "Harich"
     ],
     "name:und_x_variant":[
         "Kipchag",
         "Arich",
         "Harrich"
+    ],
+    "name:vie_x_preferred":[
+        "Harich"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1209211741,
-    "wof:lastmodified":1537584390,
+    "wof:lastmodified":1564159277,
     "wof:name":"Harrich",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

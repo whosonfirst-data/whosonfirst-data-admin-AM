@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "Axum"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062e\u0648\u0645"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u0580\u0561\u0563\u0561\u057e\u0561\u0576"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243156499,
-    "wof:lastmodified":1537584392,
+    "wof:lastmodified":1564159690,
     "wof:name":"Varagavan",
     "wof:parent_id":1108783317,
     "wof:placetype":"locality",

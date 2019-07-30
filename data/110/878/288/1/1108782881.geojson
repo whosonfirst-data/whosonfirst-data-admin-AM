@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003102,
-    "geom:area_square_m":29099085.659969,
+    "geom:area_square_m":29099085.659966,
     "geom:bbox":"44.3076848267,40.6341033293,44.4079489884,40.6860949025",
     "geom:latitude":40.663518,
     "geom:longitude":44.357941,
@@ -25,6 +25,42 @@
     "mps:longitude":44.356973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0643\u062c\u064a\u0648\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259likk\u0259nd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u06a9\u200c\u06af\u06cc\u0648\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Melikgyugh"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056c\u056b\u0584\u0563\u0575\u0578\u0582\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Melikgyugh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10e5\u10d2\u10d8\u10e3\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Melikgyugh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043a\u0433\u044e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Melikgyugh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043a\u0491\u044e\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Melikgyugh"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108782881,
-    "wof:lastmodified":1512517053,
+    "wof:lastmodified":1564159370,
     "wof:name":"Melikgyugh",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

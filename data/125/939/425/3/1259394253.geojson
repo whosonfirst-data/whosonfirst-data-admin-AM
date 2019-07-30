@@ -25,6 +25,9 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kolanl\u0131"
+    ],
     "name:und_x_variant":[
         "Kharaba K\u00eblanlu",
         "K\u00eblanlu"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259394253,
-    "wof:lastmodified":1537584377,
+    "wof:lastmodified":1564159720,
     "wof:name":"Kelanlu",
     "wof:parent_id":1108783921,
     "wof:placetype":"locality",

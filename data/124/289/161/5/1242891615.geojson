@@ -25,11 +25,38 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u063a\u0627\u0643\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u063a\u0627\u06a9\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Shoghakn"
+    ],
     "name:hye_x_preferred":[
         "Shoghakn"
     ],
     "name:hye_x_variant":[
         "\u0547\u0578\u0572\u0561\u056f\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Shoghakn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10e6\u10d0\u10d9\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Norashen"
+    ],
+    "name:spa_x_preferred":[
+        "Shoghakn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u0445\u0430\u043a\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Shoghakn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242891615,
-    "wof:lastmodified":1537584444,
+    "wof:lastmodified":1564159675,
     "wof:name":"Shoghakn",
     "wof:parent_id":1108783577,
     "wof:placetype":"locality",

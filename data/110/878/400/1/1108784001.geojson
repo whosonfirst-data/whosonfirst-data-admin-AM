@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":3568645.330768,
+    "geom:area_square_m":3568645.330767,
     "geom:bbox":"44.506562855,40.0134933462,44.5461431488,40.0402952949",
     "geom:latitude":40.028211,
     "geom:longitude":44.524702,
@@ -25,6 +25,45 @@
     "mps:longitude":44.524402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0634\u0627\u0641\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Alpava"
+    ],
+    "name:ceb_x_preferred":[
+        "Nshavan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0634\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nshavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0577\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Nshavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e8\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nshavan"
+    ],
+    "name:spa_x_preferred":[
+        "Nshavan"
+    ],
+    "name:swe_x_preferred":[
+        "Nshavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0448\u0430\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Nshavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784001,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1564159416,
     "wof:name":"Nshavan",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

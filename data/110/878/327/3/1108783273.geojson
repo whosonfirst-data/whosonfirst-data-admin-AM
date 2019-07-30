@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":10108045.368407,
+    "geom:area_square_m":10108045.368409,
     "geom:bbox":"44.7585679853,40.7393000752,44.9533001989,40.8001234854",
     "geom:latitude":40.775955,
     "geom:longitude":44.863854,
@@ -25,6 +25,12 @@
     "mps:longitude":44.944792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ita_x_preferred":[
+        "Teghut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0445\u0443\u0442"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108783273,
-    "wof:lastmodified":1512517056,
+    "wof:lastmodified":1564159555,
     "wof:name":"Teghut",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":8279852.118962,
+    "geom:area_square_m":8279852.118966,
     "geom:bbox":"44.538224079,39.8681188009,44.5764059333,39.9896564745",
     "geom:latitude":39.940129,
     "geom:longitude":44.55782,
@@ -25,6 +25,45 @@
     "mps:longitude":44.546938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0633\u062a\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259c\u0259y\u0259zli"
+    ],
+    "name:cat_x_preferred":[
+        "Vostan"
+    ],
+    "name:ceb_x_preferred":[
+        "Vostan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vostan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u057d\u057f\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Vostan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10e1\u10e2\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vostan"
+    ],
+    "name:spa_x_preferred":[
+        "Vostan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Vostan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108782987,
-    "wof:lastmodified":1512517054,
+    "wof:lastmodified":1564159522,
     "wof:name":"Vostan",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

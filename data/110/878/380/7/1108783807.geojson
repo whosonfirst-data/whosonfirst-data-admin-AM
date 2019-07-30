@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00101,
-    "geom:area_square_m":9560214.800882,
+    "geom:area_square_m":9560214.800879,
     "geom:bbox":"43.9081754267,40.0357467882,43.9508077117,40.0794459546",
     "geom:latitude":40.058312,
     "geom:longitude":43.927769,
@@ -25,6 +25,27 @@
     "mps:longitude":43.927441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shenavan"
+    ],
+    "name:fra_x_preferred":[
+        "Shenavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0576\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Shenavan"
+    ],
+    "name:sco_x_preferred":[
+        "Shenavan"
+    ],
+    "name:swe_x_preferred":[
+        "Shenavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108783807,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159567,
     "wof:name":"Shenavan",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

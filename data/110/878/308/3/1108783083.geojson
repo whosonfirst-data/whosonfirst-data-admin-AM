@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000971,
-    "geom:area_square_m":9053436.206497,
+    "geom:area_square_m":9053436.206502,
     "geom:bbox":"44.2591516698,41.0488396217,44.3092734181,41.084468585",
     "geom:latitude":41.064555,
     "geom:longitude":44.279379,
@@ -25,6 +25,21 @@
     "mps:longitude":44.27729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Saratovka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u057f\u0578\u057e\u056f\u0561"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u043a\u0430"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108783083,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159336,
     "wof:name":"Saratovka",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

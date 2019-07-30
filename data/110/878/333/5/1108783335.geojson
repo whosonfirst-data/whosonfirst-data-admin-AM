@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001157,
-    "geom:area_square_m":10813994.035449,
+    "geom:area_square_m":10813994.035447,
     "geom:bbox":"45.237857549,40.8826414015,45.3728695125,40.9272262133",
     "geom:latitude":40.901109,
     "geom:longitude":45.331332,
@@ -25,6 +25,48 @@
     "mps:longitude":45.342942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0646\u062a\u0634\u064a\u0646"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u043d\u0447\u0438\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bd\u03c4\u03c3\u03af\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0646\u0686\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Chinchin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u0576\u0579\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Chinchin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10dc\u10e9\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Chinchin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0447\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Chinchin"
+    ],
+    "name:spa_x_preferred":[
+        "Chinchin"
+    ],
+    "name:vie_x_preferred":[
+        "Chinchin"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1108783335,
-    "wof:lastmodified":1512517057,
+    "wof:lastmodified":1564159478,
     "wof:name":"Chinchin",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

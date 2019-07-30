@@ -31,6 +31,9 @@
     "name:hye_x_variant":[
         "\u0547\u0565\u0576\u056b\u056f"
     ],
+    "name:sco_x_preferred":[
+        "Shenik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259884753,
-    "wof:lastmodified":1537584417,
+    "wof:lastmodified":1564159745,
     "wof:name":"Shenik",
     "wof:parent_id":1108784347,
     "wof:placetype":"locality",

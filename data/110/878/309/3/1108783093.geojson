@@ -25,6 +25,39 @@
     "mps:longitude":44.431097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Nikolayevka"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043c\u0440\u0430\u043a\u0438\u0446"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0631\u0627\u06a9\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Amrakits"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0580\u0561\u056f\u056b\u0581"
+    ],
+    "name:ita_x_preferred":[
+        "Amrakits"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10e0\u10d0\u10d9\u10d8\u10ea\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Amrakits"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0440\u0430\u043a\u0438\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Amrakits"
+    ],
+    "name:vie_x_preferred":[
+        "Amrakits"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1108783093,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159321,
     "wof:name":"Amrakits",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

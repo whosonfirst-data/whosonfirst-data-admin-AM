@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":11351646.698785,
+    "geom:area_square_m":11351646.698789,
     "geom:bbox":"44.2049835889,40.331907645,44.266345498,40.3923771115",
     "geom:latitude":40.362345,
     "geom:longitude":44.240551,
@@ -25,6 +25,45 @@
     "mps:longitude":44.237528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0648\u0631\u063a\u0648\u0641"
+    ],
+    "name:aze_x_preferred":[
+        "Orqov"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0433\u043e\u045e"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u0433\u043e\u0432"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u06af\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Orgov"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0563\u0578\u057e"
+    ],
+    "name:ita_x_preferred":[
+        "Orgov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d2\u10dd\u10d5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Orgov"
+    ],
+    "name:spa_x_preferred":[
+        "Orgov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0491\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Orgov"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783721,
-    "wof:lastmodified":1512517061,
+    "wof:lastmodified":1564159581,
     "wof:name":"Orgov",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

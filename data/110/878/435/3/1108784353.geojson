@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":3599030.953999,
+    "geom:area_square_m":3599030.953996,
     "geom:bbox":"44.5023159083,39.9401568342,44.5515563036,39.9947913642",
     "geom:latitude":39.970621,
     "geom:longitude":44.534383,
@@ -25,6 +25,45 @@
     "mps:longitude":44.536786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0641\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "G\u00f6d\u0259kli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06af\u0627\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0580\u0563\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e0\u10d2\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:spa_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:swe_x_preferred":[
+        "Mrgavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0491\u0430\u0432\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Mrgavan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784353,
-    "wof:lastmodified":1512517066,
+    "wof:lastmodified":1564159545,
     "wof:name":"Mrgavan",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

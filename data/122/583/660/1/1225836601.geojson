@@ -25,15 +25,54 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ox\u00e7uo\u011flu"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0445\u0447\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03b3\u03c4\u03b6\u03af"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u063a\u062c\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Voghji"
+    ],
     "name:hye_x_preferred":[
         "Oghji"
     ],
     "name:hye_x_variant":[
         "\u0548\u0572\u057b\u056b"
     ],
+    "name:ita_x_preferred":[
+        "Voghchi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10e6\u10ef\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Voghji"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0445\u0447\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Voghji"
+    ],
+    "name:spa_x_preferred":[
+        "Voghji"
+    ],
+    "name:tur_x_preferred":[
+        "Voghji"
+    ],
     "name:und_x_variant":[
         "Okhchogli",
         "Oghch\u2019oghli",
+        "Voghji"
+    ],
+    "name:vie_x_preferred":[
         "Voghji"
     ],
     "src:geom":"geonames",
@@ -60,7 +99,7 @@
         }
     ],
     "wof:id":1225836601,
-    "wof:lastmodified":1537584361,
+    "wof:lastmodified":1564159790,
     "wof:name":"Oghji",
     "wof:parent_id":1108783763,
     "wof:placetype":"locality",

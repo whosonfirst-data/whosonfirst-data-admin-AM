@@ -28,8 +28,35 @@
     "name:aze_x_preferred":[
         "Qaraqaya"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u0432\u0430\u043d\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0648\u0631\u0627\u0648\u0627\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Dzoravank"
+    ],
     "name:hye_x_preferred":[
         "\u0541\u0578\u0580\u0561\u057e\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Dzoravanq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10dd\u10e0\u10d0\u10d5\u10d0\u10dc\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dzoravank"
+    ],
+    "name:sco_x_preferred":[
+        "Dzoravank"
+    ],
+    "name:spa_x_preferred":[
+        "Dzoravank"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u0432\u0430\u043d\u043a"
     ],
     "name:und_x_variant":[
         "Karakaya",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1209247703,
-    "wof:lastmodified":1537584382,
+    "wof:lastmodified":1564159255,
     "wof:name":"Dzoravank'",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

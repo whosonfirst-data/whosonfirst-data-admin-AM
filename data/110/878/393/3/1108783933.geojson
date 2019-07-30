@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000476,
-    "geom:area_square_m":4505913.730559,
+    "geom:area_square_m":4505913.73056,
     "geom:bbox":"44.2764231575,40.0850312507,44.3100565112,40.1099507527",
     "geom:latitude":40.096428,
     "geom:longitude":44.293864,
@@ -25,6 +25,54 @@
     "mps:longitude":44.293607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Xat\u0131narx"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u043d\u0430\u0448\u044d\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Aknashen"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043a\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0646\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aknashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Aknashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10dc\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aknashen"
+    ],
+    "name:nld_x_preferred":[
+        "Aknasjen"
+    ],
+    "name:sco_x_preferred":[
+        "Aknashen"
+    ],
+    "name:spa_x_preferred":[
+        "Aknashen"
+    ],
+    "name:swe_x_preferred":[
+        "Aknasjen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Aknashen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1108783933,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159472,
     "wof:name":"Aknashen",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

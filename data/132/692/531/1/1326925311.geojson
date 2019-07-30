@@ -31,6 +31,12 @@
     "name:hye_x_variant":[
         "\u054d\u057a\u0561\u0576\u0564\u0561\u0580\u0575\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Spandaryan"
+    ],
+    "name:sco_x_preferred":[
+        "Spandaryan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326925311,
-    "wof:lastmodified":1537584479,
+    "wof:lastmodified":1564159052,
     "wof:name":"Spandaryan",
     "wof:parent_id":85668095,
     "wof:placetype":"locality",

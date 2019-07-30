@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001714,
-    "geom:area_square_m":16041394.469137,
+    "geom:area_square_m":16041394.469141,
     "geom:bbox":"43.7164782414,40.7755452214,43.7793459311,40.8229143439",
     "geom:latitude":40.797006,
     "geom:longitude":43.748892,
@@ -25,6 +25,21 @@
     "mps:longitude":43.74889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Haykavan"
+    ],
+    "name:ita_x_preferred":[
+        "Haykavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Haykavan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108783457,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159562,
     "wof:name":"Haykavan",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

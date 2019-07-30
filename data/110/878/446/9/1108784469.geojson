@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001996,
-    "geom:area_square_m":19069100.478605,
+    "geom:area_square_m":19069100.478601,
     "geom:bbox":"45.926790416,39.3888152047,45.9914250647,39.4608584031",
     "geom:latitude":39.424243,
     "geom:longitude":45.954022,
@@ -25,6 +25,33 @@
     "mps:longitude":45.949132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0633\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Tasik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u057d\u056b\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Tasik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10e1\u10d8\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tasik"
+    ],
+    "name:sco_x_preferred":[
+        "Tasik"
+    ],
+    "name:spa_x_preferred":[
+        "Tasik"
+    ],
+    "name:vie_x_preferred":[
+        "Tasik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1108784469,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159367,
     "wof:name":"Tasik",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

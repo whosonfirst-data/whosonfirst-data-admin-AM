@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004356,
-    "geom:area_square_m":41135738.577716,
+    "geom:area_square_m":41135738.577727,
     "geom:bbox":"45.8004887498,40.182752835,45.9488762177,40.234476031",
     "geom:latitude":40.208064,
     "geom:longitude":45.878001,
@@ -25,6 +25,45 @@
     "mps:longitude":45.879149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Zod"
+    ],
+    "name:cat_x_preferred":[
+        "Sotk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Sotk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0569\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Sotk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d7\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sotk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0442\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Sotk"
+    ],
+    "name:spa_x_preferred":[
+        "Sotk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0442\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Sotk"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108784107,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159497,
     "wof:name":"Sotk",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

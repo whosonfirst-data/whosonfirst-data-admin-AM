@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":4020410.141076,
+    "geom:area_square_m":4020410.141077,
     "geom:bbox":"44.1878467483,40.1815799796,44.2275588786,40.2036450914",
     "geom:latitude":40.190758,
     "geom:longitude":44.205104,
@@ -25,6 +25,9 @@
     "mps:longitude":44.199839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ita_x_preferred":[
+        "Ferik"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1108783893,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159561,
     "wof:name":"Ferik",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

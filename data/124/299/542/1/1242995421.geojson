@@ -25,13 +25,40 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Suvaranats"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0627\u0631\u0627\u0646\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Svarants"
+    ],
     "name:hye_x_preferred":[
         "Svarants\u2019"
     ],
     "name:hye_x_variant":[
         "\u054d\u057e\u0561\u0580\u0561\u0576\u0581"
     ],
+    "name:ita_x_preferred":[
+        "Svarants"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d5\u10d0\u10e0\u10d0\u10dc\u10ea\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Svarants"
+    ],
+    "name:sco_x_preferred":[
+        "Svarants"
+    ],
+    "name:spa_x_preferred":[
+        "Svarants"
+    ],
     "name:und_x_variant":[
+        "Svarants"
+    ],
+    "name:vie_x_preferred":[
         "Svarants"
     ],
     "src:geom":"geonames",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1242995421,
-    "wof:lastmodified":1537584342,
+    "wof:lastmodified":1564159709,
     "wof:name":"Svarants'",
     "wof:parent_id":1108784505,
     "wof:placetype":"locality",

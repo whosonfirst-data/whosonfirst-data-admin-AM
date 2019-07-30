@@ -25,6 +25,90 @@
     "mps:longitude":45.395856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Berd"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Berd"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Berd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03bd\u03c4"
+    ],
+    "name:epo_x_preferred":[
+        "Berd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Berd"
+    ],
+    "name:hsb_x_preferred":[
+        "Berd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Berd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d3\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Berdas"
+    ],
+    "name:msa_x_preferred":[
+        "Berd"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0631\u062f"
+    ],
+    "name:nld_x_preferred":[
+        "Berd"
+    ],
+    "name:pol_x_preferred":[
+        "Berd"
+    ],
+    "name:ron_x_preferred":[
+        "Berd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Berd"
+    ],
+    "name:spa_x_preferred":[
+        "Berd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Berd"
+    ],
+    "name:swe_x_preferred":[
+        "Berd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0434"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +130,7 @@
         }
     ],
     "wof:id":1108783337,
-    "wof:lastmodified":1535390410,
+    "wof:lastmodified":1564159477,
     "wof:name":"Berd",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

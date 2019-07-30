@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001479,
-    "geom:area_square_m":13999808.849165,
+    "geom:area_square_m":13999808.849169,
     "geom:bbox":"43.8704796977,40.0239585154,43.9623503106,40.0724576194",
     "geom:latitude":40.039966,
     "geom:longitude":43.934353,
@@ -25,6 +25,27 @@
     "mps:longitude":43.94511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Getashen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u057f\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Getashen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0442\u0430\u0448\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Getashen"
+    ],
+    "name:swe_x_preferred":[
+        "Getashen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0442\u0430\u0448\u0435\u043d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1108784577,
-    "wof:lastmodified":1512517068,
+    "wof:lastmodified":1564159533,
     "wof:name":"Getashen",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

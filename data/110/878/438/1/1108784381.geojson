@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002413,
-    "geom:area_square_m":23169060.0699,
+    "geom:area_square_m":23169060.069899,
     "geom:bbox":"46.1388408319,39.0032142279,46.2206519552,39.1158891188",
     "geom:latitude":39.068201,
     "geom:longitude":46.178769,
@@ -25,6 +25,36 @@
     "mps:longitude":46.156866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Ta\u015ftun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0634\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tashtun"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0577\u057f\u0578\u0582\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Tashtun"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e8\u10e2\u10e3\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tashtun"
+    ],
+    "name:sco_x_preferred":[
+        "Tashtun"
+    ],
+    "name:spa_x_preferred":[
+        "Tashtun"
+    ],
+    "name:vie_x_preferred":[
+        "Tashtun"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1108784381,
-    "wof:lastmodified":1512517067,
+    "wof:lastmodified":1564159415,
     "wof:name":"Tashtun",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

@@ -25,11 +25,26 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tandzut"
+    ],
     "name:hye_x_preferred":[
         "Tandzut"
     ],
     "name:hye_x_variant":[
         "\u054f\u0561\u0576\u0571\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Tandzut"
+    ],
+    "name:sco_x_preferred":[
+        "Tandzut"
+    ],
+    "name:swe_x_preferred":[
+        "Tandzut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0434\u0437\u0443\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309790333,
-    "wof:lastmodified":1537584474,
+    "wof:lastmodified":1564159641,
     "wof:name":"Tandzut",
     "wof:parent_id":85668095,
     "wof:placetype":"locality",

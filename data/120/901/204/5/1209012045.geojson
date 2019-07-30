@@ -31,6 +31,9 @@
     "name:hye_x_variant":[
         "\u0533\u0565\u057f\u056b\u056f"
     ],
+    "name:ita_x_preferred":[
+        "Getik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632773
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209012045,
-    "wof:lastmodified":1537584415,
+    "wof:lastmodified":1564159241,
     "wof:name":"Getik",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

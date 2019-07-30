@@ -25,11 +25,41 @@
     "iso:country":"AM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaz"
+    ],
+    "name:ceb_x_preferred":[
+        "Gaz"
+    ],
+    "name:fra_x_preferred":[
+        "Gaz"
+    ],
+    "name:hrv_x_preferred":[
+        "Gaz"
+    ],
     "name:hye_x_preferred":[
         "Gaz"
     ],
     "name:hye_x_variant":[
         "\u0533\u0561\u0566"
+    ],
+    "name:pol_x_preferred":[
+        "Gaz"
+    ],
+    "name:ron_x_preferred":[
+        "Gaz"
+    ],
+    "name:slv_x_preferred":[
+        "Gaz"
+    ],
+    "name:swe_x_preferred":[
+        "Gaz"
+    ],
+    "name:uzb_x_preferred":[
+        "Gaz"
+    ],
+    "name:vep_x_preferred":[
+        "Gaz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1242675407,
-    "wof:lastmodified":1537584516,
+    "wof:lastmodified":1564159686,
     "wof:name":"Gaz",
     "wof:parent_id":1108783219,
     "wof:placetype":"locality",

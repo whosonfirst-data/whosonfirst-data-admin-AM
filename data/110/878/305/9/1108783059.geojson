@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00101,
-    "geom:area_square_m":9412929.031553,
+    "geom:area_square_m":9412929.031557,
     "geom:bbox":"44.8514687122,41.0150724191,45.0275634128,41.1441254745",
     "geom:latitude":41.091251,
     "geom:longitude":44.950092,
@@ -25,6 +25,45 @@
     "mps:longitude":45.007767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u062c\u0648\u0627\u0646"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0443\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03c4\u03b6\u03b5\u03b2\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u062c\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Jujevan"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0582\u057b\u0587\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Jujevan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10e3\u10ef\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Jujevan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u0434\u0436\u0435\u0432\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Jujevan"
+    ],
+    "name:spa_x_preferred":[
+        "Jujevan"
+    ],
+    "name:vie_x_preferred":[
+        "Jujevan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783059,
-    "wof:lastmodified":1512517055,
+    "wof:lastmodified":1564159478,
     "wof:name":"Jujevan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

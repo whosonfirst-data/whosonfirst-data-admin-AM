@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00098,
-    "geom:area_square_m":9235785.338088,
+    "geom:area_square_m":9235785.338089,
     "geom:bbox":"44.2937718433,40.3068909674,44.3339023236,40.3829328118",
     "geom:latitude":40.351747,
     "geom:longitude":44.317042,
@@ -25,6 +25,51 @@
     "mps:longitude":44.318423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0632\u0645\u0627\u063a\u0628\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259kiy\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0437\u043c\u0430\u0445\u043f\u044e\u0440"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0437\u043c\u0430\u0445\u043f\u044e\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u0645\u0627\u063a\u0628\u06cc\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Bazmaghbyur"
+    ],
+    "name:fra_x_preferred":[
+        "Bazmaghbyur"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0566\u0574\u0561\u0572\u0562\u0575\u0578\u0582\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Bazmaghbyur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d6\u10db\u10d0\u10e6\u10d1\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bazmaghbyur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u043c\u0430\u0445\u043f\u044e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Bazmaghbyur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0437\u043c\u0430\u0445\u043f\u044e\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Bazmaghbyur"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1108783711,
-    "wof:lastmodified":1512517060,
+    "wof:lastmodified":1564159436,
     "wof:name":"Bazmaghbyur",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

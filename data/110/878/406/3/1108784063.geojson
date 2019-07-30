@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002607,
-    "geom:area_square_m":24719283.812538,
+    "geom:area_square_m":24719283.812541,
     "geom:bbox":"44.5541472241,39.8757679622,45.0232431756,39.9905972746",
     "geom:latitude":39.923953,
     "geom:longitude":44.732751,
@@ -25,6 +25,42 @@
     "mps:longitude":44.5919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0631\u0641\u064a\u062f\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Ki\u00e7ik Vedi"
+    ],
+    "name:est_x_preferred":[
+        "Phokhr Vedi"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0631 \u0648\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Pokr Vedi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0578\u0584\u0580 \u054e\u0565\u0564\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Pokr Vedi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10e5\u10e0-\u10d5\u10d4\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Pokr Vedi"
+    ],
+    "name:spa_x_preferred":[
+        "Pokr Vedi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043a\u0440-\u0412\u0435\u0434\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Pokr Vedi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1108784063,
-    "wof:lastmodified":1512517064,
+    "wof:lastmodified":1564159386,
     "wof:name":"Pokr Vedi",
     "wof:parent_id":85668099,
     "wof:placetype":"localadmin",

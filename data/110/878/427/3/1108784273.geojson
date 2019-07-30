@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001049,
-    "geom:area_square_m":9915174.288042,
+    "geom:area_square_m":9915174.288045,
     "geom:bbox":"44.7755412621,40.1528256238,44.8471815014,40.1831036612",
     "geom:latitude":40.166282,
     "geom:longitude":44.809033,
@@ -25,6 +25,99 @@
     "mps:longitude":44.803581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Geqard monast\u0131r\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:ces_x_preferred":[
+        "Kl\u00e1\u0161ter Geghard"
+    ],
+    "name:deu_x_preferred":[
+        "Kloster Geghard"
+    ],
+    "name:epo_x_preferred":[
+        "Mona\u0125ejo Geghard"
+    ],
+    "name:eus_x_preferred":[
+        "Geghard monasterioa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0645\u0639\u0647 \u06af\u063a\u0627\u0631\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Geghard"
+    ],
+    "name:fra_x_preferred":[
+        "Geghard"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d6\u05e8 \u05d2\u05e8\u05d0\u05e8\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Geghard"
+    ],
+    "name:hun_x_preferred":[
+        "Geghard kolostor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u0572\u0561\u0580\u0564\u056b \u057e\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Geghard"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30ac\u30eb\u30c9\u4fee\u9053\u9662\u3068\u30a2\u30b6\u30c8\u5ddd\u4e0a\u6d41\u57df"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10e6\u10d0\u10e0\u10d3\u10d8\u10e1 \u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d4\u10e0\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Gegardo vienuolynas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:pol_x_preferred":[
+        "Geghard"
+    ],
+    "name:por_x_preferred":[
+        "Geghard"
+    ],
+    "name:ron_x_preferred":[
+        "Geghard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Monastier Geghard"
+    ],
+    "name:slv_x_preferred":[
+        "Geghard"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440 \u0413\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Geghard"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc6\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Ge\u011fard Manast\u0131r\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440 \u0490\u0435\u0433\u0430\u0440\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u52a0\u723e\u5fb7\u4fee\u9053\u9662"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +139,7 @@
         }
     ],
     "wof:id":1108784273,
-    "wof:lastmodified":1512517065,
+    "wof:lastmodified":1564159513,
     "wof:name":"Geghard",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

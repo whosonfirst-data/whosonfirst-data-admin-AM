@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001772,
-    "geom:area_square_m":16575156.140854,
+    "geom:area_square_m":16575156.140861,
     "geom:bbox":"43.8832473074,40.8083001051,43.9361439358,40.8613096829",
     "geom:latitude":40.834779,
     "geom:longitude":43.91028,
@@ -25,6 +25,21 @@
     "mps:longitude":43.90979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015eirak"
+    ],
+    "name:ceb_x_preferred":[
+        "Shirak"
+    ],
+    "name:sco_x_preferred":[
+        "Shirak"
+    ],
+    "name:swe_x_preferred":[
+        "Shirak"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eirak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1108782717,
-    "wof:lastmodified":1512517052,
+    "wof:lastmodified":1564159512,
     "wof:name":"Shirak",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

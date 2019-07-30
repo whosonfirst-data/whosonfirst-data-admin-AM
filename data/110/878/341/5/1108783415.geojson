@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005348,
-    "geom:area_square_m":50962379.900241,
+    "geom:area_square_m":50962379.900234,
     "geom:bbox":"45.4097461635,39.5610026851,45.5805107797,39.6186755752",
     "geom:latitude":39.59304,
     "geom:longitude":45.500157,
@@ -25,6 +25,12 @@
     "mps:longitude":45.501423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u06cc\u0631\u0648\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u0440\u043e\u0441"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108783415,
-    "wof:lastmodified":1512517058,
+    "wof:lastmodified":1564159424,
     "wof:name":"Martiros",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

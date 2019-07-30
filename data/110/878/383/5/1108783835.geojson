@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000686,
-    "geom:area_square_m":6487426.108144,
+    "geom:area_square_m":6487426.108147,
     "geom:bbox":"43.9773637137,40.0778452595,44.0192026855,40.1053830098",
     "geom:latitude":40.091228,
     "geom:longitude":43.997177,
@@ -25,6 +25,45 @@
     "mps:longitude":43.996783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Yeni Armavir"
+    ],
+    "name:ceb_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631 \u0622\u0631\u0645\u0627\u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580 \u0531\u0580\u0574\u0561\u057e\u056b\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0-\u10d0\u10e0\u10db\u10d0\u10d5\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:sco_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:spa_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:swe_x_preferred":[
+        "Nor Armavir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440-\u0410\u0440\u043c\u0430\u0432\u0456\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Nor Armavir"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1108783835,
-    "wof:lastmodified":1512517062,
+    "wof:lastmodified":1564159425,
     "wof:name":"Nor Armavir",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",
