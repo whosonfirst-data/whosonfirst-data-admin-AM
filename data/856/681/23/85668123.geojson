@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VD"
+    ],
     "lbl:latitude":39.739472,
     "lbl:longitude":45.448387,
     "mps:latitude":39.739472,
@@ -359,16 +362,13 @@
         }
     ],
     "wof:id":85668123,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324272,
+    "wof:lastmodified":1565651778,
     "wof:name":"Vayots Dzor",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LO"
+    ],
     "lbl:latitude":40.937581,
     "lbl:longitude":44.468723,
     "mps:latitude":40.937581,
@@ -354,16 +357,13 @@
         }
     ],
     "wof:id":85668109,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324271,
+    "wof:lastmodified":1565651778,
     "wof:name":"Lori",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

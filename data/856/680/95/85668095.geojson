@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TV"
+    ],
     "lbl:latitude":40.864635,
     "lbl:longitude":45.076665,
     "mps:latitude":40.864635,
@@ -354,16 +357,13 @@
         }
     ],
     "wof:id":85668095,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324275,
+    "wof:lastmodified":1565651778,
     "wof:name":"Tavush",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

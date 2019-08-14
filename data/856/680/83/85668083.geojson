@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":40.396265,
     "lbl:longitude":44.299127,
     "mps:latitude":40.396265,
@@ -358,16 +361,13 @@
         }
     ],
     "wof:id":85668083,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324279,
+    "wof:lastmodified":1565651779,
     "wof:name":"Aragatsotn",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

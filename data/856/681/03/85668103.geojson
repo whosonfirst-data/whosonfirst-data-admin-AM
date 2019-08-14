@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":40.261378,
     "lbl:longitude":45.29547,
     "mps:latitude":40.261378,
@@ -353,16 +356,13 @@
         }
     ],
     "wof:id":85668103,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324269,
+    "wof:lastmodified":1565651777,
     "wof:name":"Gegharkunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":39.374087,
     "lbl:longitude":46.146743,
     "mps:latitude":39.374087,
@@ -358,16 +361,13 @@
         }
     ],
     "wof:id":85668119,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324270,
+    "wof:lastmodified":1565651778,
     "wof:name":"Syunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

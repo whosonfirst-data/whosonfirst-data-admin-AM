@@ -15,6 +15,9 @@
     "itu:country_code":[
         "374"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":40.474724,
     "lbl:longitude":44.80561,
     "mps:latitude":40.474724,
@@ -1103,16 +1106,13 @@
         }
     ],
     "wof:id":85632773,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324284,
+    "wof:lastmodified":1565651779,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

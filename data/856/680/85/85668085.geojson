@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AV"
+    ],
     "lbl:latitude":40.12615,
     "lbl:longitude":43.925224,
     "mps:latitude":40.12615,
@@ -346,16 +349,13 @@
         }
     ],
     "wof:id":85668085,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324280,
+    "wof:lastmodified":1565651779,
     "wof:name":"Armavir",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

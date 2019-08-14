@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ER"
+    ],
     "lbl:latitude":40.155704,
     "lbl:longitude":44.524938,
     "mps:latitude":40.155704,
@@ -661,16 +664,13 @@
         }
     ],
     "wof:id":85668115,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324274,
+    "wof:lastmodified":1565651778,
     "wof:name":"Yerevan",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

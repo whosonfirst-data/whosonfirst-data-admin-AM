@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":39.919408,
     "lbl:longitude":44.833621,
     "mps:latitude":39.919408,
@@ -348,16 +351,13 @@
         }
     ],
     "wof:id":85668099,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "hye"
     ],
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1563324278,
+    "wof:lastmodified":1565651779,
     "wof:name":"Ararat",
     "wof:parent_id":85632773,
     "wof:placetype":"region",
