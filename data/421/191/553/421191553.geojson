@@ -10,8 +10,12 @@
     "geom:latitude":40.31356,
     "geom:longitude":44.40483,
     "iso:country":"AM",
+    "lbl:bbox":"44.38483,40.29356,44.42483,40.33356",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Nor Yerznka"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":823791,
         "gp:id":2214193,
-        "qs:id":1142692,
+        "qs_pg:id":1142692,
         "wd:id":"Q1920915",
         "wk:page":"Nor Yerznka"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421191553,
-    "wof:lastmodified":1563324797,
+    "wof:lastmodified":1566585504,
     "wof:name":"Nor Yerznka",
     "wof:parent_id":1108784315,
     "wof:placetype":"locality",

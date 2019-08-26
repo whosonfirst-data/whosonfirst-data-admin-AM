@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.39528,40.56472,44.43528,40.60472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u044d\u043c\u0435\u0440"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1226052187,
-    "wof:lastmodified":1564159763,
+    "wof:lastmodified":1566585604,
     "wof:name":"Demer",
     "wof:parent_id":1108782853,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":39.6377,
     "lbl:longitude":45.221126,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"VAYOTZ DZOR",
     "meso:admin_1r":"Yeghegnadzor",
     "meso:gaul_adm2":"Azizbekov (Vayk)",
@@ -25,11 +27,12 @@
     "mps:longitude":45.221126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:sco_x_preferred":[
         "Khachik"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1108783419,
-    "wof:lastmodified":1564159423,
+    "wof:lastmodified":1566585350,
     "wof:name":"Khachik",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

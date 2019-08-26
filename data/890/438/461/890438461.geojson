@@ -11,10 +11,14 @@
     "geom:longitude":44.46934,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1041,
+    "gn:population":1041,
     "iso:country":"AM",
+    "lbl:bbox":"44.44934,40.01712,44.48934,40.05712",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Xarratl\u0131"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":866138,
         "gp:id":2214636,
-        "qs:id":1029247,
+        "qs_pg:id":1029247,
         "wd:id":"Q2630431",
         "wk:page":"Arevabuyr"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890438461,
-    "wof:lastmodified":1563324884,
+    "wof:lastmodified":1566585526,
     "wof:name":"Arevabuyr",
     "wof:parent_id":1108783943,
     "wof:placetype":"locality",

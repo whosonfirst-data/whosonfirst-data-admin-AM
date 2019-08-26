@@ -10,8 +10,12 @@
     "geom:latitude":40.86763,
     "geom:longitude":44.43978,
     "iso:country":"AM",
+    "lbl:bbox":"44.41978,40.84763,44.45978,40.88763",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Bozabdal"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Bazum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bzovdal"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":616806,
         "gp:id":2213624,
-        "qs:id":184809,
+        "qs_pg:id":184809,
         "wd:id":"Q785295",
         "wk:page":"Bazum"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421198693,
-    "wof:lastmodified":1563324786,
+    "wof:lastmodified":1566585501,
     "wof:name":"Bazum",
     "wof:parent_id":1108783229,
     "wof:placetype":"locality",

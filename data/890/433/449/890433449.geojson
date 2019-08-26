@@ -11,10 +11,14 @@
     "geom:longitude":44.68474,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":3308,
+    "gn:population":3308,
     "iso:country":"AM",
+    "lbl:bbox":"44.66474,40.71381,44.70474,40.75381",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Bozg\u00f6y"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Margahovit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gamzachemanskaya"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616445,
-        "qs:id":126185,
+        "qs_pg:id":126185,
         "wd:id":"Q648909",
         "wk:page":"Margahovit"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890433449,
-    "wof:lastmodified":1563324893,
+    "wof:lastmodified":1566585529,
     "wof:name":"Margahovit",
     "wof:parent_id":1108784589,
     "wof:placetype":"locality",

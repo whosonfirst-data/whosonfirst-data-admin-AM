@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.10231,40.62447,45.14231,40.66447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Vranat\u2019agh"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293595291,
-    "wof:lastmodified":1537584503,
+    "wof:lastmodified":1566585190,
     "wof:name":"Vranat'agh",
     "wof:parent_id":1108783357,
     "wof:placetype":"locality",

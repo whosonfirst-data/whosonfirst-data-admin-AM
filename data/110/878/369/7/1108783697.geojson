@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":41.035379,
     "lbl:longitude":43.802683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"SHIRAK",
     "meso:admin_1r":"Ashotck",
     "meso:gaul_adm2":"Goukasjan (Achotsk)",
@@ -25,6 +27,7 @@
     "mps:longitude":43.802683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ki\u00e7ik \u015ei\u015ft\u0259p\u0259"
     ],
@@ -56,7 +59,7 @@
         "Pokr Sepasar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108783697,
-    "wof:lastmodified":1564159465,
+    "wof:lastmodified":1566585373,
     "wof:name":"Pokr Sepasar",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

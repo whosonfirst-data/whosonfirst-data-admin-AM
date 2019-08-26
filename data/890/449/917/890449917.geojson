@@ -11,8 +11,11 @@
     "geom:longitude":44.54447,
     "gn:country":"AM",
     "gn:fcode":"PPLA",
-    "gn:pop":20562,
+    "gn:population":20562,
     "iso:country":"AM",
+    "lbl:bbox":"44.52447,39.94144,44.56447,39.98144",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -295,7 +298,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0430\u0448\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamarl"
     ],
     "name:urd_x_preferred":[
@@ -439,10 +442,12 @@
     "wof:concordances":{
         "gn:id":174979,
         "gp:id":2214599,
-        "qs:id":73597,
-        "qs_pg:id":209469,
+        "qs_pg:id":73597,
         "wd:id":"Q20818076",
         "wk:page":"Artashat"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":209469
     },
     "wof:country":"AM",
     "wof:created":1469052716,
@@ -457,7 +462,7 @@
         }
     ],
     "wof:id":890449917,
-    "wof:lastmodified":1563324871,
+    "wof:lastmodified":1566585523,
     "wof:name":"Artashat",
     "wof:parent_id":1108784229,
     "wof:placetype":"locality",

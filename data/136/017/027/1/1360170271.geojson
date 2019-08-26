@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.23848,38.8843,46.27848,38.9243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Mkats\u2019 Aghbyur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360170271,
-    "wof:lastmodified":1537584485,
+    "wof:lastmodified":1566585473,
     "wof:name":"Mkats' Aghbyur",
     "wof:parent_id":1108783751,
     "wof:placetype":"locality",

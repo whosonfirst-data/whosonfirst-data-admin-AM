@@ -10,8 +10,12 @@
     "geom:latitude":39.51224,
     "geom:longitude":46.43284,
     "iso:country":"AM",
+    "lbl:bbox":"46.41284,39.49224,46.45284,39.53224",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "X\u0131nz\u0131r\u0259k"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":174849,
         "gp:id":2213994,
-        "qs:id":184821,
+        "qs_pg:id":184821,
         "wd:id":"Q2640140",
         "wk:page":"Khndzoresk"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421198701,
-    "wof:lastmodified":1563324785,
+    "wof:lastmodified":1566585501,
     "wof:name":"Khndzoresk",
     "wof:parent_id":1108783691,
     "wof:placetype":"locality",

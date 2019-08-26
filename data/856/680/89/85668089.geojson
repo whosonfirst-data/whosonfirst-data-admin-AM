@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.924868,
     "lbl:longitude":43.845763,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.924868,
     "mps:longitude":43.845763,
     "mz:hierarchy_label":1,
@@ -206,7 +207,7 @@
         "Sjirak"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0bbf\u0bb0\u0bcd\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb7\u0bbf\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3f\u0c30\u0c3e\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -225,9 +226,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0440\u0430\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Shiraki Marz"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0631\u0627\u06a9 \u0635\u0648\u0628\u06c1"
@@ -311,9 +309,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-10-10",
+    "src:population_date":"2001-10-10",
     "statoids:area_km":"2,679",
     "statoids:area_mi":"1,034",
     "statoids:as_of_date":"2001-10-10",
@@ -337,7 +335,7 @@
         "gp:id":20070203,
         "hasc:id":"AM.SH",
         "iso:id":"AM-SH",
-        "qs:id":1102965,
+        "qs_pg:id":1102965,
         "wd:id":"Q201063",
         "wk:page":"Shirak Province"
     },
@@ -357,11 +355,10 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1565651778,
+    "wof:lastmodified":1566585171,
     "wof:name":"Shirak",
     "wof:parent_id":85632773,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":257242,
     "wof:population_rank":10,

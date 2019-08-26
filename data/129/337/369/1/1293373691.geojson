@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.17873,39.7939,45.21873,39.8339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Verin Ulnots\u2019"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293373691,
-    "wof:lastmodified":1537584400,
+    "wof:lastmodified":1566585177,
     "wof:name":"Verin Ulnots'",
     "wof:parent_id":1108783489,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.75789,40.41048,43.79789,40.45048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sabun\u00e7u"
     ],
@@ -68,8 +72,7 @@
         "\u0410\u0446\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Sabunchi",
-        "Atsashen"
+        "Sabunchi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1259497571,
-    "wof:lastmodified":1564159732,
+    "wof:lastmodified":1566585583,
     "wof:name":"Hats'ashen",
     "wof:parent_id":1108782925,
     "wof:placetype":"locality",

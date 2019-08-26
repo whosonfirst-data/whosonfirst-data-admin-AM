@@ -10,8 +10,12 @@
     "geom:latitude":40.07015,
     "geom:longitude":44.07476,
     "iso:country":"AM",
+    "lbl:bbox":"44.05476,40.05015,44.09476,40.09015",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Armudlu"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0434\u0437\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Armutlu"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616184,
         "gp:id":2214391,
-        "qs:id":918163,
+        "qs_pg:id":918163,
         "wd:id":"Q2222614",
         "wk:page":"Tandzut, Armavir"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421201225,
-    "wof:lastmodified":1563324826,
+    "wof:lastmodified":1566585511,
     "wof:name":"Tandzut",
     "wof:parent_id":1108783839,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.12185,40.99599,45.16185,41.03599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarada\u015f"
     ],
@@ -66,8 +70,7 @@
     ],
     "name:und_x_variant":[
         "Karadash",
-        "Sevk\u2019ar",
-        "Sevkar"
+        "Sevk\u2019ar"
     ],
     "name:vie_x_preferred":[
         "Sevkar"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1327024421,
-    "wof:lastmodified":1564159063,
+    "wof:lastmodified":1566585120,
     "wof:name":"Sevk'ar",
     "wof:parent_id":1108783267,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":39.76532,
     "geom:longitude":44.80902,
     "iso:country":"AM",
+    "lbl:bbox":"44.78902,39.74532,44.82902,39.78532",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0631\u0645\u0627\u0634"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":174983,
         "gp:id":2213514,
-        "qs:id":1093366,
+        "qs_pg:id":1093366,
         "wd:id":"Q2667041",
         "wk:page":"Armash, Armenia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421176991,
-    "wof:lastmodified":1563324857,
+    "wof:lastmodified":1566585519,
     "wof:name":"Armash",
     "wof:parent_id":1108783023,
     "wof:placetype":"locality",

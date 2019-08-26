@@ -10,8 +10,12 @@
     "geom:latitude":40.22664,
     "geom:longitude":43.87538,
     "iso:country":"AM",
+    "lbl:bbox":"43.85538,40.20664,43.89538,40.24664",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dalarik"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u0430\u0440\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mastara"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":616769,
         "gp:id":2213674,
-        "qs:id":462174,
+        "qs_pg:id":462174,
         "wd:id":"Q2272491",
         "wk:page":"Dalarik"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421197871,
-    "wof:lastmodified":1563324802,
+    "wof:lastmodified":1566585505,
     "wof:name":"Dalarik",
     "wof:parent_id":1108783855,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.35734,40.08764,44.39734,40.12764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mets Shorlu Demurchi",
         "Bol\u2019shiye Demurchi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242686397,
-    "wof:lastmodified":1537584366,
+    "wof:lastmodified":1566585547,
     "wof:name":"Shorlu",
     "wof:parent_id":1108784549,
     "wof:placetype":"locality",

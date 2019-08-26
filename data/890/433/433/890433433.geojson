@@ -11,10 +11,14 @@
     "geom:longitude":44.21619,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1346,
+    "gn:population":1346,
     "iso:country":"AM",
+    "lbl:bbox":"44.19619,40.05167,44.23619,40.09167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Quru Araz"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0440\u0430\u0441\u0445\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuru-Araz"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616055,
-        "qs:id":126157,
+        "qs_pg:id":126157,
         "wd:id":"Q2222448",
         "wk:page":"Yeraskhahun"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890433433,
-    "wof:lastmodified":1563324900,
+    "wof:lastmodified":1566585531,
     "wof:name":"Yeraskhahun",
     "wof:parent_id":1108784557,
     "wof:placetype":"locality",

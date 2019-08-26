@@ -11,10 +11,14 @@
     "geom:longitude":44.6415,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":2011,
+    "gn:population":2011,
     "iso:country":"AM",
+    "lbl:bbox":"44.6215,40.18412,44.6615,40.22412",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Tacirabaq"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Dzoraghbyur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzorakhpyur"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":616712,
         "gp:id":2213724,
-        "qs:id":126242,
+        "qs_pg:id":126242,
         "wd:id":"Q2636363",
         "wk:page":"Dzoraghbyur"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890433457,
-    "wof:lastmodified":1563324900,
+    "wof:lastmodified":1566585531,
     "wof:name":"Dzoraghbyur",
     "wof:parent_id":1108784545,
     "wof:placetype":"locality",

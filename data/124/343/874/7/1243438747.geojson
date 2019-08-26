@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.01332,40.99813,45.05332,41.03813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u063a\u062f\u0632\u0648\u062a"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1243438747,
-    "wof:lastmodified":1564159717,
+    "wof:lastmodified":1566585572,
     "wof:name":"Deghdzut",
     "wof:parent_id":85668095,
     "wof:placetype":"locality",

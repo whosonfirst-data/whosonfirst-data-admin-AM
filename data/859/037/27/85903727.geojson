@@ -12,8 +12,10 @@
     "gn:latitude":40.18333,
     "gn:longitude":44.48333,
     "iso:country":"AM",
+    "lbl:bbox":"44.481642,40.180406,44.491642,40.190406",
     "lbl:latitude":40.185406,
     "lbl:longitude":44.486642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.183998,
     "mps:longitude":44.474307,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0438\u043c\u0435\u043d\u0438 \u0422\u0430\u0438\u0440\u043e\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Imeni Tairova"
     ],
     "qs:gn_adm0_cc":"AM",
     "qs:gn_fcode":"PPLX",
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191569,
@@ -82,7 +81,6 @@
     "wof:concordances":{
         "gn:id":616618,
         "gp:id":2213863,
-        "qs:id":1083722,
         "qs_pg:id":1083722,
         "wd:id":"Q6003835",
         "wk:page":"Imeni Tairova"
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324268,
+    "wof:lastmodified":1566585169,
     "wof:name":"Imeni Tairova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

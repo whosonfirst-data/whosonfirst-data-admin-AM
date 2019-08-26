@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.77449,40.64949,43.81449,40.68949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Hin Zhamategh"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343356107,
-    "wof:lastmodified":1537584454,
+    "wof:lastmodified":1566585155,
     "wof:name":"Hin Zhamategh",
     "wof:parent_id":1108782631,
     "wof:placetype":"locality",

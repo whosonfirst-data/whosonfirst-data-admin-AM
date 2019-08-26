@@ -10,8 +10,12 @@
     "geom:latitude":39.691,
     "geom:longitude":45.46653,
     "iso:country":"AM",
+    "lbl:bbox":"45.44653,39.671,45.48653,39.711",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u064a\u0643"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0439\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azizbekov"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":174726,
         "gp:id":2214486,
-        "qs:id":122631,
+        "qs_pg:id":122631,
         "wd:id":"Q1253628"
     },
     "wof:country":"AM",
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":421167019,
-    "wof:lastmodified":1563324753,
+    "wof:lastmodified":1566585492,
     "wof:name":"Vayk'",
     "wof:parent_id":1108783437,
     "wof:placetype":"locality",

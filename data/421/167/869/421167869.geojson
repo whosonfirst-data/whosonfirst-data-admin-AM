@@ -10,8 +10,12 @@
     "geom:latitude":40.67259,
     "geom:longitude":43.95783,
     "iso:country":"AM",
+    "lbl:bbox":"43.93783,40.65259,43.97783,40.69259",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qazan\u00e7\u0131"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Meghrashen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Megrashen"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":616421,
         "gp:id":2214116,
-        "qs:id":462235,
+        "qs_pg:id":462235,
         "wd:id":"Q614997",
         "wk:page":"Meghrashen"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421167869,
-    "wof:lastmodified":1563324752,
+    "wof:lastmodified":1566585491,
     "wof:name":"Meghrashen",
     "wof:parent_id":1108782811,
     "wof:placetype":"locality",

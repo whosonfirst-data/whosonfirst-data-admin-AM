@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.83687,41.08553,44.87687,41.12553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dzoragyugh"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1343558653,
-    "wof:lastmodified":1564159095,
+    "wof:lastmodified":1566585140,
     "wof:name":"Dzoragyugh",
     "wof:parent_id":1108783185,
     "wof:placetype":"locality",

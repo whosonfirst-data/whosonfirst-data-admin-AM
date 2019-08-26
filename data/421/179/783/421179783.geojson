@@ -10,8 +10,12 @@
     "geom:latitude":40.86039,
     "geom:longitude":44.27438,
     "iso:country":"AM",
+    "lbl:bbox":"44.25438,40.84039,44.29438,40.88039",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "\u00c7ikdamal"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Arevashogh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chikdamal"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":616920,
         "gp:id":2213498,
-        "qs:id":462159,
+        "qs_pg:id":462159,
         "wd:id":"Q2222733",
         "wk:page":"Arevashogh"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179783,
-    "wof:lastmodified":1563324841,
+    "wof:lastmodified":1566585515,
     "wof:name":"Arevashogh",
     "wof:parent_id":1108783133,
     "wof:placetype":"locality",

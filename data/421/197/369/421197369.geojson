@@ -10,8 +10,12 @@
     "geom:latitude":40.96715,
     "geom:longitude":44.47144,
     "iso:country":"AM",
+    "lbl:bbox":"44.45144,40.94715,44.49144,40.98715",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "G\u00fcl\u0259k\u0259r\u0259k"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Gyulagarak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gyulabarrak"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":616639,
         "gp:id":2214619,
-        "qs:id":126230,
+        "qs_pg:id":126230,
         "wd:id":"Q693771",
         "wk:page":"Gyulagarak"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421197369,
-    "wof:lastmodified":1563324801,
+    "wof:lastmodified":1566585505,
     "wof:name":"Gyulagarak",
     "wof:parent_id":1108783101,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.15651,41.01192,45.19651,41.05192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Tsakageghi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193002717,
-    "wof:lastmodified":1537584508,
+    "wof:lastmodified":1566585271,
     "wof:name":"Tsakageghi",
     "wof:parent_id":1108783267,
     "wof:placetype":"locality",

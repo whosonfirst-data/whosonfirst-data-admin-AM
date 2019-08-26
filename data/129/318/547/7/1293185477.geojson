@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.01332,40.95229,45.05332,40.99229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Khndzorkut"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293185477,
-    "wof:lastmodified":1537584478,
+    "wof:lastmodified":1566585200,
     "wof:name":"Khndzorkut",
     "wof:parent_id":85668095,
     "wof:placetype":"locality",

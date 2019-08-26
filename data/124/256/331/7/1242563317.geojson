@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.35243,39.24316,46.39243,39.28316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Araqadzor"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1242563317,
-    "wof:lastmodified":1537584354,
+    "wof:lastmodified":1566585552,
     "wof:name":"Arrajadzor",
     "wof:parent_id":1108784411,
     "wof:placetype":"locality",

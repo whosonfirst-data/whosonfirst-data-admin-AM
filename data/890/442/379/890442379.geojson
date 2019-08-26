@@ -11,10 +11,14 @@
     "geom:longitude":46.30732,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1028,
+    "gn:population":1028,
     "iso:country":"AM",
+    "lbl:bbox":"46.28732,39.51491,46.32732,39.55491",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Akner"
     ],
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":174941,
         "gp:id":2214512,
-        "qs:id":532187,
+        "qs_pg:id":532187,
         "wd:id":"Q69147",
         "wk:page":"Brun"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890442379,
-    "wof:lastmodified":1563324891,
+    "wof:lastmodified":1566585529,
     "wof:name":"Brun",
     "wof:parent_id":1108783727,
     "wof:placetype":"locality",

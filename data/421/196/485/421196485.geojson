@@ -10,8 +10,12 @@
     "geom:latitude":39.73758,
     "geom:longitude":45.39004,
     "iso:country":"AM",
+    "lbl:bbox":"45.37004,39.71758,45.41004,39.75758",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Mal\u0131\u015fka"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":174828,
         "gp:id":2214096,
-        "qs:id":1307541,
+        "qs_pg:id":1307541,
         "wd:id":"Q949136",
         "wk:page":"Malishka"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421196485,
-    "wof:lastmodified":1563324789,
+    "wof:lastmodified":1566585502,
     "wof:name":"Malishka",
     "wof:parent_id":1108783429,
     "wof:placetype":"locality",

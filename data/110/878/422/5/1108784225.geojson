@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.267905,
     "lbl:longitude":45.135835,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"GEGHARKUNIK",
     "meso:admin_1r":"Gavar",
     "meso:gaul_adm2":"Kamo",
@@ -25,6 +27,7 @@
     "mps:longitude":45.135835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u00fcz\u0259cik"
     ],
@@ -74,7 +77,7 @@
         "Lanjaghbyur"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108784225,
-    "wof:lastmodified":1564159356,
+    "wof:lastmodified":1566585311,
     "wof:name":"Lanjaghbyur",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

@@ -10,8 +10,11 @@
     "geom:latitude":40.21917,
     "geom:longitude":44.47944,
     "iso:country":"AM",
+    "lbl:bbox":"44.47444,40.21417,44.48444,40.22417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0646\u0633\u062a\u0627\u0633\u0627\u0641\u064a\u0646"
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":616964,
         "gp:id":2213462,
-        "qs:id":901848,
+        "qs_pg:id":901848,
         "wd:id":"Q15180048",
         "wk:page":"Anastasavan"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421200969,
-    "wof:lastmodified":1563324817,
+    "wof:lastmodified":1566585509,
     "wof:name":"Anastasavan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

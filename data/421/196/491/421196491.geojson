@@ -10,8 +10,12 @@
     "geom:latitude":40.03865,
     "geom:longitude":44.06629,
     "iso:country":"AM",
+    "lbl:bbox":"44.04629,40.01865,44.08629,40.05865",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "\u0130yd\u0259li"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0430\u0442\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Igdalu"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616290,
         "gp:id":2214267,
-        "qs:id":1307562,
+        "qs_pg:id":1307562,
         "wd:id":"Q770615",
         "wk:page":"Pshatavan"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421196491,
-    "wof:lastmodified":1563324792,
+    "wof:lastmodified":1566585503,
     "wof:name":"Pshatavan",
     "wof:parent_id":1108783865,
     "wof:placetype":"locality",

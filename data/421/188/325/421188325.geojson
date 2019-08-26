@@ -10,8 +10,12 @@
     "geom:latitude":40.25373,
     "geom:longitude":44.60426,
     "iso:country":"AM",
+    "lbl:bbox":"44.58426,40.23373,44.62426,40.27373",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "M\u0259\u0259g\u00fcb"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043e\u0432\u0456\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mgub"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":616824,
         "gp:id":2213604,
-        "qs:id":1093404,
+        "qs_pg:id":1093404,
         "wd:id":"Q1921847",
         "wk:page":"Balahovit"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421188325,
-    "wof:lastmodified":1563324777,
+    "wof:lastmodified":1566585498,
     "wof:name":"Balaovit",
     "wof:parent_id":1108784321,
     "wof:placetype":"locality",

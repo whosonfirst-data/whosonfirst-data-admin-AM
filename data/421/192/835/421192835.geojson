@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "shrjan"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tsakhkaovit"
@@ -52,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15022551,
-        "qs:id":1176630
+        "qs_pg:id":1176630
     },
     "wof:country":"AM",
     "wof:created":1459009750,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421192835,
-    "wof:lastmodified":1555046995,
+    "wof:lastmodified":1566585488,
     "wof:name":"Tsakhkaovit",
     "wof:parent_id":85668089,
     "wof:placetype":"county",

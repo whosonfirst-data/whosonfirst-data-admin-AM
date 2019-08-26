@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.4731,40.55788,44.5131,40.59788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Narekats\u2019i G."
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277078425,
-    "wof:lastmodified":1537584465,
+    "wof:lastmodified":1566585213,
     "wof:name":"Narekats'i G.",
     "wof:parent_id":1108782851,
     "wof:placetype":"locality",

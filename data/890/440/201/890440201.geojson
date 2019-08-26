@@ -11,10 +11,14 @@
     "geom:longitude":44.05797,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1606,
+    "gn:population":1606,
     "iso:country":"AM",
+    "lbl:bbox":"44.03797,40.05641,44.07797,40.09641",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Aygeshat"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Aygeshat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuzigidan"
     ],
     "qs:name":"Aygeshat",
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616851,
-        "qs:id":275145,
+        "qs_pg:id":275145,
         "wd:id":"Q1144238",
         "wk:page":"Aygeshat"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890440201,
-    "wof:lastmodified":1563324864,
+    "wof:lastmodified":1566585521,
     "wof:name":"Aygeshat",
     "wof:parent_id":1108783837,
     "wof:placetype":"locality",

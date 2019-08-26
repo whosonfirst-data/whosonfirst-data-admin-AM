@@ -11,10 +11,14 @@
     "geom:longitude":44.52319,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1167,
+    "gn:population":1167,
     "iso:country":"AM",
+    "lbl:bbox":"44.50319,40.33326,44.54319,40.37326",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Zoravan"
     ],
@@ -69,7 +73,7 @@
     "name:swe_x_variant":[
         "Verin Akhtala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kargavank"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":616299,
         "gp:id":2214189,
-        "qs:id":275133,
+        "qs_pg:id":275133,
         "wd:id":"Q1920843",
         "wk:page":"Zoravan"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890431291,
-    "wof:lastmodified":1563324882,
+    "wof:lastmodified":1566585526,
     "wof:name":"Zoravan",
     "wof:parent_id":1108784531,
     "wof:placetype":"locality",

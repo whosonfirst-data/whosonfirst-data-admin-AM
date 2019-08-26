@@ -10,8 +10,12 @@
     "geom:latitude":40.09109,
     "geom:longitude":44.39209,
     "iso:country":"AM",
+    "lbl:bbox":"44.37209,40.07109,44.41209,40.11109",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0632\u0648\u0631\u0627\u0643"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u043e\u0440\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donguzyan"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616039,
         "gp:id":2214576,
-        "qs:id":126141,
+        "qs_pg:id":126141,
         "wd:id":"Q2388034",
         "wk:page":"Zorak, Armenia"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421167119,
-    "wof:lastmodified":1563324753,
+    "wof:lastmodified":1566585491,
     "wof:name":"Zorak",
     "wof:parent_id":1108783983,
     "wof:placetype":"locality",

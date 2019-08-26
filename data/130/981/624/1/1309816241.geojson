@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.99837,39.92854,45.03837,39.96854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309816241,
-    "wof:lastmodified":1536916465,
+    "wof:lastmodified":1566585486,
     "wof:name":"Dashnoa",
     "wof:parent_id":1108783003,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.83513,39.64723,45.87513,39.68723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Borisovka"
     ],
@@ -56,8 +60,7 @@
         "Tsghuk"
     ],
     "name:und_x_variant":[
-        "Murkuz",
-        "Borisovka"
+        "Murkuz"
     ],
     "name:vie_x_preferred":[
         "Tsghuk"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1277061905,
-    "wof:lastmodified":1564159193,
+    "wof:lastmodified":1566585210,
     "wof:name":"Tsghuk",
     "wof:parent_id":1108783601,
     "wof:placetype":"locality",

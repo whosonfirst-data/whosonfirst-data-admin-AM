@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.67171,40.36611,43.71171,40.40611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0643\u0648"
     ],
@@ -68,8 +72,7 @@
         "\u0410\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Akko",
-        "Hakko"
+        "Akko"
     ],
     "name:vie_x_preferred":[
         "Hako"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1343675735,
-    "wof:lastmodified":1564159121,
+    "wof:lastmodified":1566585157,
     "wof:name":"Hako",
     "wof:parent_id":1108782955,
     "wof:placetype":"locality",

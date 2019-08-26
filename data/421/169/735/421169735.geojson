@@ -10,8 +10,12 @@
     "geom:latitude":40.15466,
     "geom:longitude":44.65141,
     "iso:country":"AM",
+    "lbl:bbox":"44.63141,40.13466,44.67141,40.17466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "K\u0259rpicli"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0435\u0445\u0430\u0434\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyarpichlu"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":616686,
         "gp:id":2213754,
-        "qs:id":235533,
+        "qs_pg:id":235533,
         "wd:id":"Q1922488",
         "wk:page":"Geghadir, Kotayk"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421169735,
-    "wof:lastmodified":1563324756,
+    "wof:lastmodified":1566585492,
     "wof:name":"Geghadir",
     "wof:parent_id":1108784271,
     "wof:placetype":"locality",

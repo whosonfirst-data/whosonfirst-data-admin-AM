@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.76607,40.89949,44.80607,40.93949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Motkor"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360107059,
-    "wof:lastmodified":1537584517,
+    "wof:lastmodified":1566585475,
     "wof:name":"Motkor",
     "wof:parent_id":1108783189,
     "wof:placetype":"locality",

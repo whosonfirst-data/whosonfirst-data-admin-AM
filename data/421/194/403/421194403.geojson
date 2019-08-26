@@ -10,8 +10,12 @@
     "geom:latitude":40.18516,
     "geom:longitude":44.24331,
     "iso:country":"AM",
+    "lbl:bbox":"44.22331,40.16516,44.26331,40.20516",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Samaqar"
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0435\u0445\u0430\u043a\u0435\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gekhakert"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616278,
         "gp:id":2214282,
-        "qs:id":1093498,
+        "qs_pg:id":1093498,
         "wd:id":"Q2389968",
         "wk:page":"Geghakert"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421194403,
-    "wof:lastmodified":1563324747,
+    "wof:lastmodified":1566585490,
     "wof:name":"Samaghar",
     "wof:parent_id":1108783897,
     "wof:placetype":"locality",

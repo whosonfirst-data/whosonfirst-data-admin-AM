@@ -10,8 +10,12 @@
     "geom:latitude":39.87398,
     "geom:longitude":44.58961,
     "iso:country":"AM",
+    "lbl:bbox":"44.56961,39.85398,44.60961,39.89398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u0627\u0631\u0627\u062a"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":391231,
         "gp:id":2214088,
-        "qs:id":1168495,
+        "qs_pg:id":1168495,
         "wd:id":"Q2371758",
         "wk:page":"Lusarat"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421192595,
-    "wof:lastmodified":1563324738,
+    "wof:lastmodified":1566585487,
     "wof:name":"Lusarrat",
     "wof:parent_id":1108783307,
     "wof:placetype":"locality",

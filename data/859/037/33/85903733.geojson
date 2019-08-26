@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9926204.031242,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.522282,40.169407,44.522282,40.169407",
     "geom:latitude":40.169407,
     "geom:longitude":44.522282,
     "gn:id":"",
     "iso:country":"AM",
+    "lbl:bbox":"44.517282,40.164407,44.527282,40.174407",
     "lbl:latitude":40.169407,
     "lbl:longitude":44.522282,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.165413,
     "mps:longitude":44.535947,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Sari T'ag"
-    ],
-    "name:unk_x_variant":[
         "Sari T'ag"
     ],
     "qs:gn_adm0_cc":"AM",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2214304,
-        "qs:id":1130268,
         "qs_pg:id":1130268
     },
     "wof:country":"AM",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936080,
+    "wof:lastmodified":1566585169,
     "wof:name":"Sari T'ag",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.44112,39.76192,45.48112,39.80192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Sandu K\u2019arer"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242858131,
-    "wof:lastmodified":1537584432,
+    "wof:lastmodified":1566585563,
     "wof:name":"Sandu K'arer",
     "wof:parent_id":1108783483,
     "wof:placetype":"locality",

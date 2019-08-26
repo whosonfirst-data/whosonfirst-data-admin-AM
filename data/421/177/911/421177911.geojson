@@ -10,8 +10,12 @@
     "geom:latitude":40.97951,
     "geom:longitude":45.25033,
     "iso:country":"AM",
+    "lbl:bbox":"45.23033,40.95951,45.27033,40.99951",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Ayqeovit"
@@ -67,9 +71,6 @@
     "name:swe_x_preferred":[
         "Aygehovit"
     ],
-    "name:unk_x_variant":[
-        "Uzuntala"
-    ],
     "name:vie_x_preferred":[
         "Aygehovit"
     ],
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":616855,
         "gp:id":2213568,
-        "qs:id":275146,
+        "qs_pg:id":275146,
         "wd:id":"Q2672616",
         "wk:page":"Aygehovit"
     },
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":421177911,
-    "wof:lastmodified":1563324836,
+    "wof:lastmodified":1566585514,
     "wof:name":"Aygehovit",
     "wof:parent_id":1108783181,
     "wof:placetype":"locality",

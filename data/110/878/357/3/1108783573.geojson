@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.447397,
     "lbl:longitude":44.603921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"KOTAYK",
     "meso:admin_1r":"Hrazdan",
     "meso:gaul_adm2":"Razdan",
@@ -25,6 +27,7 @@
     "mps:longitude":44.603921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018frz\u0259k\u0259nd"
     ],
@@ -74,7 +77,7 @@
         "Arzakan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108783573,
-    "wof:lastmodified":1564159460,
+    "wof:lastmodified":1566585369,
     "wof:name":"Arzakan",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

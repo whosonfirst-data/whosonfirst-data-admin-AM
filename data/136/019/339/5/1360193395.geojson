@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.31612,40.02449,44.35612,40.06449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Koghan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360193395,
-    "wof:lastmodified":1537584423,
+    "wof:lastmodified":1566585475,
     "wof:name":"Koghan",
     "wof:parent_id":1108784567,
     "wof:placetype":"locality",

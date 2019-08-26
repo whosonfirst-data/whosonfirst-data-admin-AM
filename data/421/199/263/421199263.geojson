@@ -10,8 +10,12 @@
     "geom:latitude":40.81538,
     "geom:longitude":44.39344,
     "iso:country":"AM",
+    "lbl:bbox":"44.37344,40.79538,44.41344,40.83538",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Hac\u0131qara"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Lerrnapat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makarashen"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":616476,
         "gp:id":2214070,
-        "qs:id":462220,
+        "qs_pg:id":462220,
         "wd:id":"Q1920941",
         "wk:page":"Lernapat"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421199263,
-    "wof:lastmodified":1563324806,
+    "wof:lastmodified":1566585507,
     "wof:name":"Lerrnapat",
     "wof:parent_id":1108783249,
     "wof:placetype":"locality",

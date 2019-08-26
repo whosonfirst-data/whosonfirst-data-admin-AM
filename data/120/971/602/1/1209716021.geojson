@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.74532,40.18569,45.78532,40.22569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Atichani Papi Melik\u2019beki"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209716021,
-    "wof:lastmodified":1537584407,
+    "wof:lastmodified":1566585251,
     "wof:name":"Atichani Papi Melik'beki",
     "wof:parent_id":1108784089,
     "wof:placetype":"locality",

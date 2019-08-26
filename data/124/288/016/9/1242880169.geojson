@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.00368,40.21889,45.04368,40.25889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Grridzori"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242880169,
-    "wof:lastmodified":1537584488,
+    "wof:lastmodified":1566585543,
     "wof:name":"Grridzori",
     "wof:parent_id":1108784227,
     "wof:placetype":"locality",

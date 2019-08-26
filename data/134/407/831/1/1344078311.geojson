@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.89248,40.92873,43.93248,40.96873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Lerrnagyugh"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1344078311,
-    "wof:lastmodified":1537584374,
+    "wof:lastmodified":1566585146,
     "wof:name":"Lerrnagyugh",
     "wof:parent_id":1108782775,
     "wof:placetype":"locality",

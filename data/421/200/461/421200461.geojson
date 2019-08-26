@@ -10,8 +10,12 @@
     "geom:latitude":39.97726,
     "geom:longitude":44.51394,
     "iso:country":"AM",
+    "lbl:bbox":"44.49394,39.95726,44.53394,39.99726",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0643\u0627\u0646\u0648\u0634"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u043a\u0430\u043d\u0443\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ogurbeklu"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":174947,
         "gp:id":2213630,
-        "qs:id":1307482,
+        "qs_pg:id":1307482,
         "wd:id":"Q2631503",
         "wk:page":"Berkanush"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421200461,
-    "wof:lastmodified":1563324823,
+    "wof:lastmodified":1566585511,
     "wof:name":"Berkanush",
     "wof:parent_id":1108784067,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.38428,
     "geom:longitude":43.87387,
     "iso:country":"AM",
+    "lbl:bbox":"43.85387,40.36428,43.89387,40.40428",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u064a\u0646"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhniy Talin"
     ],
     "name:vie_x_preferred":[
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":616187,
         "gp:id":2214648,
-        "qs:id":1307609,
+        "qs_pg:id":1307609,
         "wd:id":"Q608156"
     },
     "wof:country":"AM",
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":421200515,
-    "wof:lastmodified":1563324824,
+    "wof:lastmodified":1566585511,
     "wof:name":"T'alin",
     "wof:parent_id":1108782973,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.13289,40.68288,45.17289,40.72288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Hanesi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292904089,
-    "wof:lastmodified":1537584503,
+    "wof:lastmodified":1566585198,
     "wof:name":"Hanesi",
     "wof:parent_id":1108783367,
     "wof:placetype":"locality",

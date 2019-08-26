@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":41.012092,
     "lbl:longitude":44.502883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"LORI",
     "meso:admin_1r":"Stepanavan",
     "meso:gaul_adm2":"Stepanovan",
@@ -25,6 +27,7 @@
     "mps:longitude":44.502883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ya\u011fdan"
     ],
@@ -56,7 +59,7 @@
         "Yaghdan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108783121,
-    "wof:lastmodified":1564159434,
+    "wof:lastmodified":1566585356,
     "wof:name":"Yaghdan",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

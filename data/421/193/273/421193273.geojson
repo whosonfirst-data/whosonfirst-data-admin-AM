@@ -10,8 +10,12 @@
     "geom:latitude":40.02857,
     "geom:longitude":44.55831,
     "iso:country":"AM",
+    "lbl:bbox":"44.53831,40.00857,44.57831,40.04857",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0631\u063a\u0627\u0646\u0648\u0634\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0440\u0491\u0430\u043d\u0443\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zograblu"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616401,
         "gp:id":2214136,
-        "qs:id":1307545,
+        "qs_pg:id":1307545,
         "wd:id":"Q2631920",
         "wk:page":"Mrganush"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421193273,
-    "wof:lastmodified":1563324748,
+    "wof:lastmodified":1566585490,
     "wof:name":"Mrganush",
     "wof:parent_id":1108784009,
     "wof:placetype":"locality",

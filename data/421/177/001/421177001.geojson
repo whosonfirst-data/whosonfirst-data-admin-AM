@@ -10,8 +10,12 @@
     "geom:latitude":40.79028,
     "geom:longitude":44.18664,
     "iso:country":"AM",
+    "lbl:bbox":"44.16664,40.77028,44.20664,40.81028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0634\u064a\u0646"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Jrashen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vortnav"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":616722,
         "gp:id":2213886,
-        "qs:id":1093433,
+        "qs_pg:id":1093433,
         "wd:id":"Q2016848",
         "wk:page":"Jrashen"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421177001,
-    "wof:lastmodified":1563324832,
+    "wof:lastmodified":1566585513,
     "wof:name":"Jrashen",
     "wof:parent_id":1108783515,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.76426,
     "geom:longitude":43.77474,
     "iso:country":"AM",
+    "lbl:bbox":"43.75474,40.74426,43.79474,40.78426",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Molla Musa"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Voskehask"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Musakan"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":616076,
         "gp:id":2214526,
-        "qs:id":263463,
+        "qs_pg:id":263463,
         "wd:id":"Q2222820",
         "wk:page":"Voskehask"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421205497,
-    "wof:lastmodified":1563324764,
+    "wof:lastmodified":1566585495,
     "wof:name":"Voskehask",
     "wof:parent_id":1108783455,
     "wof:placetype":"locality",

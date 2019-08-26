@@ -10,8 +10,12 @@
     "geom:latitude":40.1425,
     "geom:longitude":44.37068,
     "iso:country":"AM",
+    "lbl:bbox":"44.35068,40.1225,44.39068,40.1625",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "A\u011f Ba\u015f"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0430\u0448\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varmaziar"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":616921,
         "gp:id":2213497,
-        "qs:id":1093353,
+        "qs_pg:id":1093353,
         "wd:id":"Q2667172",
         "wk:page":"Arevashat"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421176985,
-    "wof:lastmodified":1563324860,
+    "wof:lastmodified":1566585519,
     "wof:name":"Arevashat",
     "wof:parent_id":1108783931,
     "wof:placetype":"locality",

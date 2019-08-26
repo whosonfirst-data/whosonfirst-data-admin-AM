@@ -11,10 +11,14 @@
     "geom:longitude":44.96847,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":3370,
+    "gn:population":3370,
     "iso:country":"AM",
+    "lbl:bbox":"44.94847,40.75614,44.98847,40.79614",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u0410\u0433\u0430\u0440\u0446\u044b\u043d"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u0440\u0446\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzharkhedzh"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616634,
-        "qs:id":275143,
+        "qs_pg:id":275143,
         "wd:id":"Q2536499"
     },
     "wof:country":"AM",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890431297,
-    "wof:lastmodified":1563324883,
+    "wof:lastmodified":1566585526,
     "wof:name":"Haghartsin",
     "wof:parent_id":1108784055,
     "wof:placetype":"locality",

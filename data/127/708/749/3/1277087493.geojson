@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.63832,39.99813,44.67832,40.03813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Shrrlani Zham"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277087493,
-    "wof:lastmodified":1537584490,
+    "wof:lastmodified":1566585211,
     "wof:name":"Shrrlani Zham",
     "wof:parent_id":1108783013,
     "wof:placetype":"locality",

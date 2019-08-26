@@ -10,8 +10,12 @@
     "geom:latitude":40.4709,
     "geom:longitude":45.05879,
     "iso:country":"AM",
+    "lbl:bbox":"45.03879,40.4509,45.07879,40.4909",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Hac\u0131 Muxan"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u043e\u0432\u0430\u0437\u0430\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gadzhi Mukhan"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616137,
         "gp:id":2214442,
-        "qs:id":126178,
+        "qs_pg:id":126178,
         "wd:id":"Q1528427",
         "wk:page":"Tsovazard"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421178495,
-    "wof:lastmodified":1563324851,
+    "wof:lastmodified":1566585518,
     "wof:name":"Tsovazard",
     "wof:parent_id":1108783519,
     "wof:placetype":"locality",

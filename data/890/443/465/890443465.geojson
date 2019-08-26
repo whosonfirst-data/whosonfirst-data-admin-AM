@@ -11,10 +11,14 @@
     "geom:longitude":44.45129,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1134,
+    "gn:population":1134,
     "iso:country":"AM",
+    "lbl:bbox":"44.43129,40.0051,44.47129,40.0451",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u0627\u062a\u0627\u0634\u064a\u0646\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0432\u0442\u0430\u0448\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ovtashen"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":866134,
         "gp:id":2214636,
-        "qs:id":1029242,
+        "qs_pg:id":1029242,
         "wd:id":"Q2456540",
         "wk:page":"Hovtashen"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890443465,
-    "wof:lastmodified":1563324886,
+    "wof:lastmodified":1566585527,
     "wof:name":"Hovtashen",
     "wof:parent_id":1108782989,
     "wof:placetype":"locality",

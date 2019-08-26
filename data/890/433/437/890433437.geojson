@@ -11,10 +11,14 @@
     "geom:longitude":44.16018,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1746,
+    "gn:population":1746,
     "iso:country":"AM",
+    "lbl:bbox":"44.14018,40.07186,44.18018,40.11186",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Molla B\u0259d\u0259l"
     ],
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0445\u0435\u0491\u043d\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Badal"
     ],
     "name:urd_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616061,
-        "qs:id":126159,
+        "qs_pg:id":126159,
         "wd:id":"Q2639831",
         "wk:page":"Yeghegnut"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890433437,
-    "wof:lastmodified":1563324894,
+    "wof:lastmodified":1566585529,
     "wof:name":"Yeghegnut",
     "wof:parent_id":1108783841,
     "wof:placetype":"locality",

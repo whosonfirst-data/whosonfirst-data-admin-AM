@@ -11,10 +11,14 @@
     "geom:longitude":44.6514,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":2354,
+    "gn:population":2354,
     "iso:country":"AM",
+    "lbl:bbox":"44.6314,39.88195,44.6714,39.92195",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0644\u064a\u0632\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043b\u0435\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aralek"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":391233,
         "gp:id":2214603,
-        "qs:id":124554,
+        "qs_pg:id":124554,
         "wd:id":"Q338107",
         "wk:page":"Aralez"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890441695,
-    "wof:lastmodified":1563324873,
+    "wof:lastmodified":1566585524,
     "wof:name":"Aralez",
     "wof:parent_id":1108783015,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.85793,40.83968,43.89793,40.87968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Hats\u2019ikavan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327354901,
-    "wof:lastmodified":1537584501,
+    "wof:lastmodified":1566585122,
     "wof:name":"Hats'ikavan",
     "wof:parent_id":1108782673,
     "wof:placetype":"locality",

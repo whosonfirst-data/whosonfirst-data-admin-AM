@@ -10,8 +10,12 @@
     "geom:latitude":40.12248,
     "geom:longitude":45.35698,
     "iso:country":"AM",
+    "lbl:bbox":"45.33698,40.10248,45.37698,40.14248",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "A\u011fq\u0131raq"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0445\u0430\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alikrykh"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616874,
         "gp:id":2213544,
-        "qs:id":1307478,
+        "qs_pg:id":1307478,
         "wd:id":"Q2636216",
         "wk:page":"Astghadzor"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421200457,
-    "wof:lastmodified":1563324822,
+    "wof:lastmodified":1566585511,
     "wof:name":"Astghadzor",
     "wof:parent_id":1108784521,
     "wof:placetype":"locality",

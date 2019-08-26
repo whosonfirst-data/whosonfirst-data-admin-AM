@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "shrjan"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u0631\u0627\u0646"
@@ -157,7 +160,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15022528,
-        "qs:id":911458
+        "qs_pg:id":911458
     },
     "wof:country":"AM",
     "wof:created":1459009819,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421194769,
-    "wof:lastmodified":1564159652,
+    "wof:lastmodified":1566585489,
     "wof:name":"Aparan",
     "wof:parent_id":85668083,
     "wof:placetype":"county",

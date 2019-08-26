@@ -10,8 +10,12 @@
     "geom:latitude":40.1382,
     "geom:longitude":45.19096,
     "iso:country":"AM",
+    "lbl:bbox":"45.17096,40.1182,45.21096,40.1582",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Tazagyukh"
@@ -196,9 +200,6 @@
     "name:swe_x_preferred":[
         "Tazagyukh"
     ],
-    "name:unk_x_variant":[
-        "Tazagyukh"
-    ],
     "name:vec_x_preferred":[
         "Tazagyukh"
     ],
@@ -251,7 +252,7 @@
     "wof:concordances":{
         "gn:id":616174,
         "gp:id":2214403,
-        "qs:id":1307573,
+        "qs_pg:id":1307573,
         "wd:id":"Q7690391"
     },
     "wof:country":"AM",
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":421200493,
-    "wof:lastmodified":1563324820,
+    "wof:lastmodified":1566585510,
     "wof:name":"T'azagyugh",
     "wof:parent_id":1108784217,
     "wof:placetype":"locality",

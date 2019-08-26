@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.785928,
     "lbl:longitude":43.954309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"SHIRAK",
     "meso:admin_1r":"Akhuryan",
     "meso:gaul_adm2":"Akhourjan",
@@ -25,6 +27,7 @@
     "mps:longitude":43.954309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dir\u0259kl\u0259r"
     ],
@@ -62,7 +65,7 @@
         "Karnut"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108782671,
-    "wof:lastmodified":1564159409,
+    "wof:lastmodified":1566585341,
     "wof:name":"Karnut",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

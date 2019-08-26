@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.75067,40.51016,44.79067,40.55016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Atarbekyan",
         "At\u2019arbekyan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226447241,
-    "wof:lastmodified":1537584388,
+    "wof:lastmodified":1566585598,
     "wof:name":"At'arbekyan",
     "wof:parent_id":1108784609,
     "wof:placetype":"locality",

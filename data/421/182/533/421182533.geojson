@@ -10,8 +10,12 @@
     "geom:latitude":40.54031,
     "geom:longitude":44.86918,
     "iso:country":"AM",
+    "lbl:bbox":"44.84918,40.52031,44.88918,40.56031",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qaqarin"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":616699,
         "gp:id":2213743,
-        "qs:id":918151,
+        "qs_pg:id":918151,
         "wd:id":"Q5516814",
         "wk:page":"Gagarin, Armenia"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421182533,
-    "wof:lastmodified":1563324853,
+    "wof:lastmodified":1566585518,
     "wof:name":"Gagarin",
     "wof:parent_id":1108783639,
     "wof:placetype":"locality",

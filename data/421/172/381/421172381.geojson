@@ -10,8 +10,12 @@
     "geom:latitude":40.93717,
     "geom:longitude":44.77142,
     "iso:country":"AM",
+    "lbl:bbox":"44.75142,40.91717,44.79142,40.95717",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Lorut"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":616465,
         "gp:id":2214078,
-        "qs:id":1307538,
+        "qs_pg:id":1307538,
         "wd:id":"Q687064",
         "wk:page":"Lorut"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421172381,
-    "wof:lastmodified":1563324780,
+    "wof:lastmodified":1566585499,
     "wof:name":"Lorut",
     "wof:parent_id":1108783189,
     "wof:placetype":"locality",

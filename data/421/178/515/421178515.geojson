@@ -10,8 +10,12 @@
     "geom:latitude":40.88149,
     "geom:longitude":45.38985,
     "iso:country":"AM",
+    "lbl:bbox":"45.36985,40.86149,45.40985,40.90149",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u0631\u062f"
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ovuz"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":616802,
         "gp:id":2214605,
-        "qs:id":126249,
+        "qs_pg:id":126249,
         "wd:id":"Q1886688",
         "wk:page":"Berd"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421178515,
-    "wof:lastmodified":1563324853,
+    "wof:lastmodified":1566585518,
     "wof:name":"Berd",
     "wof:parent_id":1108783337,
     "wof:placetype":"locality",

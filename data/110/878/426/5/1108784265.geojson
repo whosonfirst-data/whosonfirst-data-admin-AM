@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.299483,
     "lbl:longitude":43.822374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARAGATSOTN",
     "meso:admin_1r":"Talin",
     "meso:gaul_adm2":"Achtarak",
@@ -25,6 +27,7 @@
     "mps:longitude":43.822374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0633\u0627\u0643\u0646"
     ],
@@ -56,7 +59,7 @@
         "Lusakn"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108784265,
-    "wof:lastmodified":1564159485,
+    "wof:lastmodified":1566585384,
     "wof:name":"Lusakn",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

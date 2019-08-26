@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.35109,39.18374,46.39109,39.22374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u0259yda\u011f"
     ],
@@ -48,8 +52,7 @@
         "Baykht\u2019ash",
         "Baydash",
         "Bekh",
-        "Bebdash",
-        "Khordzor"
+        "Bebdash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1193037969,
-    "wof:lastmodified":1564159291,
+    "wof:lastmodified":1566585274,
     "wof:name":"Khordzor",
     "wof:parent_id":1108784409,
     "wof:placetype":"locality",

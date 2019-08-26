@@ -10,8 +10,12 @@
     "geom:latitude":41.12072,
     "geom:longitude":44.28462,
     "iso:country":"AM",
+    "lbl:bbox":"44.26462,41.10072,44.30462,41.14072",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0634\u064a\u0631"
@@ -103,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0448\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaliniko"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +144,7 @@
     "wof:concordances":{
         "gn:id":616178,
         "gp:id":2214397,
-        "qs:id":1307574,
+        "qs_pg:id":1307574,
         "wd:id":"Q598741",
         "wk:page":"Tashir"
     },
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":421200497,
-    "wof:lastmodified":1563324811,
+    "wof:lastmodified":1566585508,
     "wof:name":"Tashir",
     "wof:parent_id":1108783079,
     "wof:placetype":"locality",

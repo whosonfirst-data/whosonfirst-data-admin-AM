@@ -10,8 +10,12 @@
     "geom:latitude":40.02384,
     "geom:longitude":44.42403,
     "iso:country":"AM",
+    "lbl:bbox":"44.40403,40.00384,44.44403,40.04384",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0627\u0645\u0627\u0631\u063a\u060c \u0623\u0631\u0627\u0631\u0627\u062a"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0430\u043c\u0430\u0440\u0491"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalinin"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616356,
         "gp:id":2214203,
-        "qs:id":1307553,
+        "qs_pg:id":1307553,
         "wd:id":"Q2634323",
         "wk:page":"Noramarg"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421200487,
-    "wof:lastmodified":1563324819,
+    "wof:lastmodified":1566585510,
     "wof:name":"Noramarg",
     "wof:parent_id":1108782983,
     "wof:placetype":"locality",

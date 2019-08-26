@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.21187,40.76192,44.25187,40.80192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Peboyi Surb"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259575867,
-    "wof:lastmodified":1537584463,
+    "wof:lastmodified":1566585585,
     "wof:name":"Peboyi Surb",
     "wof:parent_id":1108783163,
     "wof:placetype":"locality",

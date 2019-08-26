@@ -10,8 +10,12 @@
     "geom:latitude":40.48296,
     "geom:longitude":44.383,
     "iso:country":"AM",
+    "lbl:bbox":"44.363,40.46296,44.403,40.50296",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u0627\u0641\u0627\u0646"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blkher"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616230,
         "gp:id":2214338,
-        "qs:id":884467,
+        "qs_pg:id":884467,
         "wd:id":"Q2535621",
         "wk:page":"Shenavan, Aragatsotn"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421185135,
-    "wof:lastmodified":1563324862,
+    "wof:lastmodified":1566585520,
     "wof:name":"Shenavan",
     "wof:parent_id":1108783605,
     "wof:placetype":"locality",

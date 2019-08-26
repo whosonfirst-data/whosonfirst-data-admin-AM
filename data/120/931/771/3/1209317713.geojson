@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.06472,39.9703,45.10472,40.0103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0633\u062a\u0627\u0643\u0631\u062a"
     ],
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1209317713,
-    "wof:lastmodified":1564159238,
+    "wof:lastmodified":1566585239,
     "wof:name":"Dastakert",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":41.130969,
     "lbl:longitude":45.007767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"TAVUSH",
     "meso:admin_1r":"Noyemberyan",
     "meso:gaul_adm2":"Noemberjan",
@@ -25,6 +27,7 @@
     "mps:longitude":45.007767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u062c\u0648\u0627\u0646"
     ],
@@ -65,7 +68,7 @@
         "Jujevan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108783059,
-    "wof:lastmodified":1564159478,
+    "wof:lastmodified":1566585380,
     "wof:name":"Jujevan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

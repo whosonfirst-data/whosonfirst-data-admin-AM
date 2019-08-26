@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.27271,
     "lbl:longitude":44.291116,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARAGATSOTN",
     "meso:admin_1r":"Ashtarak",
     "meso:gaul_adm2":"Achtarak",
@@ -25,6 +27,7 @@
     "mps:longitude":44.291116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0643\u064a\u0641\u0627\u0632"
     ],
@@ -71,7 +74,7 @@
         "Voskevaz"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108784203,
-    "wof:lastmodified":1564159506,
+    "wof:lastmodified":1566585395,
     "wof:name":"Voskevaz",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

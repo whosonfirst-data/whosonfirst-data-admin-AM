@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":39.689726,
     "lbl:longitude":45.402408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"VAYOTZ DZOR",
     "meso:admin_1r":"Vayk",
     "meso:gaul_adm2":"Azizbekov (Vayk)",
@@ -25,6 +27,7 @@
     "mps:longitude":45.402408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Zeyt\u0259"
     ],
@@ -59,7 +62,7 @@
         "Zedea"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108783031,
-    "wof:lastmodified":1564159461,
+    "wof:lastmodified":1566585369,
     "wof:name":"Zedea",
     "wof:parent_id":85668123,
     "wof:placetype":"localadmin",

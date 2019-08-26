@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17206050.01308,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.545565,40.202043,44.545565,40.202043",
     "geom:latitude":40.202043,
     "geom:longitude":44.545565,
     "gn:latitude":40.17843,
     "gn:longitude":44.54375,
     "iso:country":"AM",
+    "lbl:bbox":"44.540565,40.197043,44.550565,40.207043",
     "lbl:latitude":40.202043,
     "lbl:longitude":44.545565,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.197482,
     "mps:longitude":44.541956,
     "mz:hierarchy_label":0,
@@ -34,9 +36,8 @@
     "name:ita_x_preferred":[
         "Nork"
     ],
-    "name:unk_x_variant":[
-        "Norka",
-        "Nork"
+    "name:und_x_variant":[
+        "Norka"
     ],
     "qs:gn_adm0_cc":"AM",
     "qs:gn_fcode":"PPLX",
@@ -66,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191569,
@@ -77,7 +78,6 @@
     "wof:concordances":{
         "gn:id":616339,
         "gp:id":2214215,
-        "qs:id":1083723,
         "qs_pg:id":1083723
     },
     "wof:country":"AM",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936079,
+    "wof:lastmodified":1566585169,
     "wof:name":"Nork",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

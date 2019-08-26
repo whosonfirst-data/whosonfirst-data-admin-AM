@@ -10,8 +10,12 @@
     "geom:latitude":40.64026,
     "geom:longitude":44.04666,
     "iso:country":"AM",
+    "lbl:bbox":"44.02666,40.62026,44.06666,40.66026",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Ki\u00e7ik Ar\u0131xv\u0259li"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Pokr Mantash"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malyy Mantash"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616297,
         "gp:id":2214257,
-        "qs:id":462249,
+        "qs_pg:id":462249,
         "wd:id":"Q2223066",
         "wk:page":"Pokr Mantash"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421180837,
-    "wof:lastmodified":1563324773,
+    "wof:lastmodified":1566585497,
     "wof:name":"Pokr Mantash",
     "wof:parent_id":1108782797,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":44.11998,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1081,
+    "gn:population":1081,
     "iso:country":"AM",
+    "lbl:bbox":"44.09998,40.12481,44.13998,40.16481",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062a\u0633\u0627\u0645\u0648\u0631"
     ],
@@ -144,7 +148,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":823807,
-        "qs:id":129710,
+        "qs_pg:id":129710,
         "wd:id":"Q1136307",
         "wk:page":"Metsamor"
     },
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":890415381,
-    "wof:lastmodified":1563324876,
+    "wof:lastmodified":1566585524,
     "wof:name":"Metsamor",
     "wof:parent_id":1108783847,
     "wof:placetype":"locality",

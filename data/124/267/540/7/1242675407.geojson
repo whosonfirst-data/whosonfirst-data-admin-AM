@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.83687,40.86751,44.87687,40.90751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaz"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1242675407,
-    "wof:lastmodified":1564159686,
+    "wof:lastmodified":1566585551,
     "wof:name":"Gaz",
     "wof:parent_id":1108783219,
     "wof:placetype":"locality",

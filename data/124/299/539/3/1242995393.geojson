@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.9161,39.55233,45.9561,39.59233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Vardan Zoravar Surb"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242995393,
-    "wof:lastmodified":1537584414,
+    "wof:lastmodified":1566585567,
     "wof:name":"Vardan Zoravar Surb",
     "wof:parent_id":1108783597,
     "wof:placetype":"locality",

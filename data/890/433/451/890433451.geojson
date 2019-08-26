@@ -11,8 +11,11 @@
     "geom:longitude":44.4939,
     "gn:country":"AM",
     "gn:fcode":"PPLA",
-    "gn:pop":101098,
+    "gn:population":101098,
     "iso:country":"AM",
+    "lbl:bbox":"44.4739,40.78456,44.5139,40.82456",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -217,7 +220,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirovakan"
     ],
     "name:urd_x_preferred":[
@@ -349,10 +352,12 @@
     "wof:concordances":{
         "gn:id":616530,
         "gp:id":2214468,
-        "qs:id":126192,
-        "qs_pg:id":1209607,
+        "qs_pg:id":126192,
         "wd:id":"Q62337",
         "wk:page":"Vanadzor"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1209607
     },
     "wof:country":"AM",
     "wof:created":1469051981,
@@ -367,7 +372,7 @@
         }
     ],
     "wof:id":890433451,
-    "wof:lastmodified":1563324899,
+    "wof:lastmodified":1566585531,
     "wof:name":"Vanadzor",
     "wof:parent_id":1108783523,
     "wof:placetype":"locality",

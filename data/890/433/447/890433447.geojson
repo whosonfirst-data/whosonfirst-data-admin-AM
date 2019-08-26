@@ -11,10 +11,14 @@
     "geom:longitude":44.43591,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":18911,
+    "gn:population":18911,
     "iso:country":"AM",
+    "lbl:bbox":"44.41591,40.04762,44.45591,40.08762",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Masis"
     ],
@@ -45,7 +49,7 @@
     "name:sco_x_preferred":[
         "Masis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tokhanshalu"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":616435,
         "gp:id":2214636,
-        "qs:id":126184,
+        "qs_pg:id":126184,
         "wd:id":"Q2046941",
         "wk:page":"Masis"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890433447,
-    "wof:lastmodified":1563324893,
+    "wof:lastmodified":1566585529,
     "wof:name":"Masis",
     "wof:parent_id":1108784177,
     "wof:placetype":"locality",

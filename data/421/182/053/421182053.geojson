@@ -10,8 +10,12 @@
     "geom:latitude":40.880424,
     "geom:longitude":45.140419,
     "iso:country":"AM",
+    "lbl:bbox":"45.120419,40.860424,45.160419,40.900424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u064a\u062c\u0648\u0627\u0646"
@@ -231,7 +235,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2213858,
-        "qs:id":654514,
+        "qs_pg:id":654514,
         "wd:id":"Q62367"
     },
     "wof:country":"AM",
@@ -247,7 +251,7 @@
         }
     ],
     "wof:id":421182053,
-    "wof:lastmodified":1563324853,
+    "wof:lastmodified":1566585518,
     "wof:name":"Idzhevan",
     "wof:parent_id":1108783279,
     "wof:placetype":"locality",

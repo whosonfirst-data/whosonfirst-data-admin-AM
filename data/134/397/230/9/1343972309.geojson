@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.73568,40.35793,43.77568,40.39793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Bad"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1343972309,
-    "wof:lastmodified":1564159096,
+    "wof:lastmodified":1566585141,
     "wof:name":"Bad",
     "wof:parent_id":1108782957,
     "wof:placetype":"locality",

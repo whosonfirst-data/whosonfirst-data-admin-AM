@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12498714.842568,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.494685,40.199341,44.494685,40.199341",
     "geom:latitude":40.199341,
     "geom:longitude":44.494685,
     "iso:country":"AM",
+    "lbl:bbox":"44.489685,40.194341,44.499685,40.204341",
     "lbl:latitude":40.199341,
     "lbl:longitude":44.494685,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.206836,
     "mps:longitude":44.494026,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Spandaryan"
     ],
     "name:sco_x_preferred":[
-        "Spandaryan"
-    ],
-    "name:unk_x_variant":[
         "Spandaryan"
     ],
     "qs:gn_adm0_cc":"AM",
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191569,
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936080,
+    "wof:lastmodified":1566585169,
     "wof:name":"Spandaryan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

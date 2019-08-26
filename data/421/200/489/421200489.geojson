@@ -10,8 +10,12 @@
     "geom:latitude":39.76022,
     "geom:longitude":45.17907,
     "iso:country":"AM",
+    "lbl:bbox":"45.15907,39.74022,45.19907,39.78022",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Rind"
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Rind"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Rind"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":174794,
         "gp:id":2214274,
-        "qs:id":1307559,
+        "qs_pg:id":1307559,
         "wd:id":"Q2710126",
         "wk:page":"Rind, Armenia"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421200489,
-    "wof:lastmodified":1563324820,
+    "wof:lastmodified":1566585510,
     "wof:name":"Rrind",
     "wof:parent_id":1108783489,
     "wof:placetype":"locality",
