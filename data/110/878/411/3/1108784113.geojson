@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":39.462919,
     "lbl:longitude":46.358477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"SYUNIK",
     "meso:admin_1r":"Goris",
     "meso:gaul_adm2":"Goris",
@@ -25,6 +27,7 @@
     "mps:longitude":46.358477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraunc"
     ],
@@ -56,7 +59,7 @@
         "Karahunj"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108784113,
-    "wof:lastmodified":1564159502,
+    "wof:lastmodified":1566585393,
     "wof:name":"Karahunj",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",

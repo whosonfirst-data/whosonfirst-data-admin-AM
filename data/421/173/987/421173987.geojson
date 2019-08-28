@@ -10,8 +10,12 @@
     "geom:latitude":40.83486,
     "geom:longitude":43.7779,
     "iso:country":"AM",
+    "lbl:bbox":"43.7579,40.81486,43.7979,40.85486",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Yuxar\u0131 Qanl\u0131ca"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Marmashen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verin Kanlidzha"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":616442,
         "gp:id":2214106,
-        "qs:id":645313,
+        "qs_pg:id":645313,
         "wd:id":"Q1110040",
         "wk:page":"Marmashen"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421173987,
-    "wof:lastmodified":1563324775,
+    "wof:lastmodified":1566585498,
     "wof:name":"Marmashen",
     "wof:parent_id":1108782709,
     "wof:placetype":"locality",

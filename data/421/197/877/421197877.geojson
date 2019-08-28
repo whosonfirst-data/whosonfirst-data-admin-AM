@@ -10,8 +10,12 @@
     "geom:latitude":40.01984,
     "geom:longitude":44.58376,
     "iso:country":"AM",
+    "lbl:bbox":"44.56376,39.99984,44.60376,40.03984",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0641\u064a\u0646"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0432\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhniy Dvin"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":616741,
         "gp:id":2213711,
-        "qs:id":462189,
+        "qs_pg:id":462189,
         "wd:id":"Q1774051",
         "wk:page":"Dvin (village)"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421197877,
-    "wof:lastmodified":1563324801,
+    "wof:lastmodified":1566585505,
     "wof:name":"Dvin",
     "wof:parent_id":1108784005,
     "wof:placetype":"locality",

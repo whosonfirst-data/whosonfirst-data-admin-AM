@@ -10,8 +10,12 @@
     "geom:latitude":41.20156,
     "geom:longitude":44.22877,
     "iso:country":"AM",
+    "lbl:bbox":"44.20877,41.18156,44.24877,41.22156",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "\u015eahn\u0259z\u0259r"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Metsavan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shakhnazar"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616416,
         "gp:id":2214130,
-        "qs:id":462234,
+        "qs_pg:id":462234,
         "wd:id":"Q1921873",
         "wk:page":"Metsavan"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421167867,
-    "wof:lastmodified":1563324753,
+    "wof:lastmodified":1566585491,
     "wof:name":"Metsavan",
     "wof:parent_id":1108783177,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.16957,
     "geom:longitude":45.18336,
     "iso:country":"AM",
+    "lbl:bbox":"45.16336,40.14957,45.20336,40.18957",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "V\u0259lia\u011fal\u0131"
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u043e\u0440\u0430\u0491\u044e\u0445"
     ],
-    "name:unk_x_variant":[
-        "Dzoragyukh"
-    ],
     "name:vie_x_preferred":[
         "Dzoragyukh"
     ],
@@ -110,7 +111,7 @@
     "wof:concordances":{
         "gn:id":616716,
         "gp:id":2213727,
-        "qs:id":462187,
+        "qs_pg:id":462187,
         "wd:id":"Q2636104",
         "wk:page":"Dzoragyugh, Gegharkunik"
     },
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421197873,
-    "wof:lastmodified":1563324799,
+    "wof:lastmodified":1566585505,
     "wof:name":"Dzoragyugh",
     "wof:parent_id":1108784077,
     "wof:placetype":"locality",

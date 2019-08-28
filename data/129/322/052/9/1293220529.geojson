@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.11348,39.1357,46.15348,39.1757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062c\u0627\u0631\u0627\u0646"
     ],
@@ -119,8 +123,7 @@
         "\u041a\u0430\u0434\u0436\u0430\u0440\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Kadzharan",
-        "Qacaran"
+        "Kadzharan"
     ],
     "name:vie_x_preferred":[
         "Kajaran"
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1293220529,
-    "wof:lastmodified":1564159162,
+    "wof:lastmodified":1566585189,
     "wof:name":"K'ajaran",
     "wof:parent_id":1108784387,
     "wof:placetype":"locality",

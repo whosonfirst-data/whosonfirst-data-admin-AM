@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.274201,
     "lbl:longitude":44.629089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"KOTAYK",
     "meso:admin_1r":"Kotayk",
     "meso:gaul_adm2":"Abovjan (Kotashkent)",
@@ -25,6 +27,7 @@
     "mps:longitude":44.629089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u0641\u064a\u0627\u0646"
     ],
@@ -155,7 +158,7 @@
         "\u963f\u535a\u7dad\u63da"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1108784591,
-    "wof:lastmodified":1564159537,
+    "wof:lastmodified":1566585414,
     "wof:name":"Abovyan",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

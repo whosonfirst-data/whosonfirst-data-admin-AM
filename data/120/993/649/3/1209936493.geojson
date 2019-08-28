@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.32679,38.91794,46.36679,38.95794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Alvank\u2019"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209936493,
-    "wof:lastmodified":1537584354,
+    "wof:lastmodified":1566585256,
     "wof:name":"Alvank'",
     "wof:parent_id":1108783749,
     "wof:placetype":"locality",

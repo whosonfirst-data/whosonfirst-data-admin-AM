@@ -10,8 +10,12 @@
     "geom:latitude":40.25095,
     "geom:longitude":44.66351,
     "iso:country":"AM",
+    "lbl:bbox":"44.64351,40.23095,44.68351,40.27095",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "\u018fr\u0259mus"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616936,
         "gp:id":2213481,
-        "qs:id":462150,
+        "qs_pg:id":462150,
         "wd:id":"Q2006361",
         "wk:page":"Aramus, Armenia"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421179775,
-    "wof:lastmodified":1563324842,
+    "wof:lastmodified":1566585516,
     "wof:name":"Aramus",
     "wof:parent_id":1108784267,
     "wof:placetype":"locality",

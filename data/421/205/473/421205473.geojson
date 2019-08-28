@@ -10,8 +10,12 @@
     "geom:latitude":41.24358,
     "geom:longitude":44.81737,
     "iso:country":"AM",
+    "lbl:bbox":"44.79737,41.22358,44.83737,41.26358",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "L\u0259mb\u0259li"
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Bagrata\u015fen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lambalu"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":616828,
         "gp:id":2213598,
-        "qs:id":263432,
+        "qs_pg:id":263432,
         "wd:id":"Q33812",
         "wk:page":"Bagratashen"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421205473,
-    "wof:lastmodified":1563324766,
+    "wof:lastmodified":1566585495,
     "wof:name":"Bagratashen",
     "wof:parent_id":1108783041,
     "wof:placetype":"locality",

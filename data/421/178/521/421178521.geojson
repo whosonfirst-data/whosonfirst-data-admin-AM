@@ -10,8 +10,12 @@
     "geom:latitude":40.23238,
     "geom:longitude":44.24974,
     "iso:country":"AM",
+    "lbl:bbox":"44.22974,40.21238,44.26974,40.25238",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Aqavnatun"
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u0432\u043d\u0430\u0442\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agavnatun"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":617002,
         "gp:id":2213405,
-        "qs:id":126254,
+        "qs_pg:id":126254,
         "wd:id":"Q2626777",
         "wk:page":"Aghavnatun"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421178521,
-    "wof:lastmodified":1563324847,
+    "wof:lastmodified":1566585517,
     "wof:name":"Aghavnatun",
     "wof:parent_id":1108783911,
     "wof:placetype":"locality",

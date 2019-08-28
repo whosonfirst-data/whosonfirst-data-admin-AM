@@ -10,8 +10,12 @@
     "geom:latitude":40.58195,
     "geom:longitude":44.69581,
     "iso:country":"AM",
+    "lbl:bbox":"44.67581,40.56195,44.71581,40.60195",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Babaki\u015fi"
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u0432\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Agavnadzor"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0642\u0627\u0648\u0646\u0632\u0648\u0631\u060c \u06a9\u0648\u062a\u0627\u0626\u06a9"
     ],
@@ -119,7 +120,7 @@
     "wof:concordances":{
         "gn:id":617003,
         "gp:id":2213403,
-        "qs:id":1307461,
+        "qs_pg:id":1307461,
         "wd:id":"Q2303688",
         "wk:page":"Aghavnadzor, Kotayk"
     },
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421200451,
-    "wof:lastmodified":1563324822,
+    "wof:lastmodified":1566585510,
     "wof:name":"Aghavnadzor",
     "wof:parent_id":1108783529,
     "wof:placetype":"locality",

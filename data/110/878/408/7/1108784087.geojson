@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.090278,
     "lbl:longitude":45.392048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"GEGHARKUNIK",
     "meso:admin_1r":"Martuni",
     "meso:gaul_adm2":"Martouni",
@@ -25,6 +27,7 @@
     "mps:longitude":45.392048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Zolaxa\u00e7"
     ],
@@ -62,7 +65,7 @@
         "Zolakar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108784087,
-    "wof:lastmodified":1564159399,
+    "wof:lastmodified":1566585336,
     "wof:name":"Zolakar",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

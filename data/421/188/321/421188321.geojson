@@ -10,8 +10,12 @@
     "geom:latitude":40.15444,
     "geom:longitude":45.50222,
     "iso:country":"AM",
+    "lbl:bbox":"45.48222,40.13444,45.52222,40.17444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Al\u00e7al\u0131"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":823818,
         "gp:id":2213534,
-        "qs:id":1093383,
+        "qs_pg:id":1093383,
         "wd:id":"Q2636140",
         "wk:page":"Artsvanist"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421188321,
-    "wof:lastmodified":1563324778,
+    "wof:lastmodified":1566585499,
     "wof:name":"Artsvanist",
     "wof:parent_id":1108784085,
     "wof:placetype":"locality",

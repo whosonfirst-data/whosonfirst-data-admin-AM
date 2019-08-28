@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.41108,39.21619,46.45108,39.25619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Khalaj"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209126163,
-    "wof:lastmodified":1537584347,
+    "wof:lastmodified":1566585248,
     "wof:name":"Achanan",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

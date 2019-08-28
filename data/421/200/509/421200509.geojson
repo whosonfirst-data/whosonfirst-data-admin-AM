@@ -10,8 +10,12 @@
     "geom:latitude":41.12022,
     "geom:longitude":45.06532,
     "iso:country":"AM",
+    "lbl:bbox":"45.04532,41.10022,45.08532,41.14022",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Xo\u015fkotan"
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Voskevan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koshkotan"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":616072,
         "gp:id":2214530,
-        "qs:id":1307589,
+        "qs_pg:id":1307589,
         "wd:id":"Q33809",
         "wk:page":"Voskevan"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421200509,
-    "wof:lastmodified":1563324818,
+    "wof:lastmodified":1566585509,
     "wof:name":"Voskevan",
     "wof:parent_id":1108783057,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.1689,40.28292,45.2089,40.32292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Mets Manuch\u2019ar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344257305,
-    "wof:lastmodified":1537584419,
+    "wof:lastmodified":1566585142,
     "wof:name":"Mets Manuch'ar",
     "wof:parent_id":1108784513,
     "wof:placetype":"locality",

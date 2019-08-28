@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.91189,40.2593,43.95189,40.2993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Seyrani"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193029789,
-    "wof:lastmodified":1537584435,
+    "wof:lastmodified":1566585276,
     "wof:name":"Seyrani",
     "wof:parent_id":85668083,
     "wof:placetype":"locality",

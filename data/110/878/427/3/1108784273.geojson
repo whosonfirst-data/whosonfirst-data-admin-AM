@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.166912,
     "lbl:longitude":44.803581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"KOTAYK",
     "meso:admin_1r":"Kotayk",
     "meso:gaul_adm2":"Abovjan (Kotashkent)",
@@ -25,6 +27,7 @@
     "mps:longitude":44.803581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Geqard monast\u0131r\u0131"
     ],
@@ -119,7 +122,7 @@
         "\u683c\u52a0\u723e\u5fb7\u4fee\u9053\u9662"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1108784273,
-    "wof:lastmodified":1564159513,
+    "wof:lastmodified":1566585399,
     "wof:name":"Geghard",
     "wof:parent_id":85668105,
     "wof:placetype":"localadmin",

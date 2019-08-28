@@ -10,8 +10,12 @@
     "geom:latitude":40.5851,
     "geom:longitude":43.94021,
     "iso:country":"AM",
+    "lbl:bbox":"43.92021,40.5651,43.96021,40.6051",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0435\u043c\u0437\u0430\u0448\u0435\u043d"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Pemzashen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mahmutcuk"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":616303,
         "gp:id":2214250,
-        "qs:id":462250,
+        "qs_pg:id":462250,
         "wd:id":"Q2671137",
         "wk:page":"Pemzashen"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421180841,
-    "wof:lastmodified":1563324772,
+    "wof:lastmodified":1566585497,
     "wof:name":"Pemzashen",
     "wof:parent_id":1108782821,
     "wof:placetype":"locality",

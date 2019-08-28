@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.88393,40.89609,43.92393,40.93609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u043f\u0435\u043d\u0456"
     ],
@@ -71,8 +75,7 @@
         "\u0410\u0440\u043f\u0435\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Palutli",
-        "Arpeni"
+        "Palutli"
     ],
     "name:vie_x_preferred":[
         "Arpeni"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1225866275,
-    "wof:lastmodified":1564159768,
+    "wof:lastmodified":1566585608,
     "wof:name":"Arp'eni",
     "wof:parent_id":1108782777,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":46.47723,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":2120,
+    "gn:population":2120,
     "iso:country":"AM",
+    "lbl:bbox":"46.45723,39.53792,46.49723,39.57792",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Tex"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Tegh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tekh"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":174743,
-        "qs:id":73454,
+        "qs_pg:id":73454,
         "wd:id":"Q2670423",
         "wk:page":"Tegh"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890449905,
-    "wof:lastmodified":1563324868,
+    "wof:lastmodified":1566585522,
     "wof:name":"Tegh",
     "wof:parent_id":1108783725,
     "wof:placetype":"locality",

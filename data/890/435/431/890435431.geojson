@@ -11,10 +11,14 @@
     "geom:longitude":44.40032,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":2702,
+    "gn:population":2702,
     "iso:country":"AM",
+    "lbl:bbox":"44.38032,40.1614,44.42032,40.2014",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mertsavan"
     ],
@@ -63,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0434\u0437\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Merdzavan"
-    ],
     "name:vie_x_preferred":[
         "Merdzavan"
     ],
@@ -84,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616418,
-        "qs:id":1027134,
+        "qs_pg:id":1027134,
         "wd:id":"Q2222146",
         "wk:page":"Merdzavan"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890435431,
-    "wof:lastmodified":1563324902,
+    "wof:lastmodified":1566585531,
     "wof:name":"Mertsavan",
     "wof:parent_id":1108784189,
     "wof:placetype":"locality",

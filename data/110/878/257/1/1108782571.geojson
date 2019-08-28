@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.680929,
     "lbl:longitude":44.10028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARAGATSOTN",
     "meso:admin_1r":"Aragats",
     "meso:gaul_adm2":"Aragats",
@@ -25,6 +27,7 @@
     "mps:longitude":44.10028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Nora\u015fen"
     ],
@@ -56,7 +59,7 @@
         "\u041d\u043e\u0440\u0430\u0448\u0435\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108782571,
-    "wof:lastmodified":1564159381,
+    "wof:lastmodified":1566585327,
     "wof:name":"Norashen",
     "wof:parent_id":85668089,
     "wof:placetype":"localadmin",

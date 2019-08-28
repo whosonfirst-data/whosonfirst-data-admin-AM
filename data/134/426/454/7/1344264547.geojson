@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.98833,40.0525,44.02833,40.0925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u067e\u0648\u06a9\u0631 \u0634\u0627\u06af\u0631\u06cc\u0627\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344264547,
-    "wof:lastmodified":1564159124,
+    "wof:lastmodified":1566585159,
     "wof:name":"Pokr Shagriar",
     "wof:parent_id":1108783833,
     "wof:placetype":"locality",

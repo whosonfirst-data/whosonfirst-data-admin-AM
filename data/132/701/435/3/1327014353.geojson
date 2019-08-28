@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.10793,40.9551,45.14793,40.9951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Astvatsatsin Surb"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327014353,
-    "wof:lastmodified":1537584476,
+    "wof:lastmodified":1566585106,
     "wof:name":"Astvatsatsin Surb",
     "wof:parent_id":1108783285,
     "wof:placetype":"locality",

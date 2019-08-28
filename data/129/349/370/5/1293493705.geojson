@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.12587,40.0967,45.16587,40.1367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Ahasar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293493705,
-    "wof:lastmodified":1537584489,
+    "wof:lastmodified":1566585186,
     "wof:name":"Ahasar",
     "wof:parent_id":1108784217,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":39.84173,
     "geom:longitude":45.6723,
     "iso:country":"AM",
+    "lbl:bbox":"45.6523,39.82173,45.6923,39.86173",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0631\u0645\u0648\u0643"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u0440\u043c\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhermuk"
     ],
     "name:vie_x_preferred":[
@@ -173,7 +177,7 @@
     "wof:concordances":{
         "gn:id":174884,
         "gp:id":2213876,
-        "qs:id":122632,
+        "qs_pg:id":122632,
         "wd:id":"Q39556",
         "wk:page":"Jermuk"
     },
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":421197315,
-    "wof:lastmodified":1563324801,
+    "wof:lastmodified":1566585505,
     "wof:name":"Jermuk",
     "wof:parent_id":1108783433,
     "wof:placetype":"locality",

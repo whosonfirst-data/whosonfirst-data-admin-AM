@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.284276,
     "lbl:longitude":45.062871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"GEGHARKUNIK",
     "meso:admin_1r":"Gavar",
     "meso:gaul_adm2":"Kamo",
@@ -25,6 +27,7 @@
     "mps:longitude":45.062871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gandzak"
     ],
@@ -44,7 +47,7 @@
         "\u0490\u0430\u043d\u0434\u0437\u0430\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1108784509,
-    "wof:lastmodified":1564159531,
+    "wof:lastmodified":1566585411,
     "wof:name":"Gandzak",
     "wof:parent_id":85668103,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":43.842487,
     "gn:country":"AM",
     "gn:fcode":"PPLA",
-    "gn:pop":148381,
+    "gn:population":148381,
     "iso:country":"AM",
+    "lbl:bbox":"43.822487,40.76522,43.862487,40.80522",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Gjoemri"
@@ -247,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u044e\u043c\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gumry"
     ],
     "name:urd_x_preferred":[
@@ -305,12 +309,12 @@
     "wof:concordances":{
         "gn:id":616635,
         "gp:id":2213821,
-        "qs:id":1130261,
+        "qs_pg:id":1130261,
         "wd:id":"Q199500",
         "wk:page":"Gyumri"
     },
     "wof:concordances_alt":{
-        "qs:id":275140
+        "qs_pg:id":275140
     },
     "wof:country":"AM",
     "wof:created":1459009820,
@@ -325,7 +329,7 @@
         }
     ],
     "wof:id":421194815,
-    "wof:lastmodified":1563324745,
+    "wof:lastmodified":1566585489,
     "wof:name":"Gyumri",
     "wof:parent_id":1108782637,
     "wof:placetype":"locality",

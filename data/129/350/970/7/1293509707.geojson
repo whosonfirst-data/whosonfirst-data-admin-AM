@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.23803,39.35454,46.27803,39.39454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Tandzat\u2019ap\u2019"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293509707,
-    "wof:lastmodified":1537584342,
+    "wof:lastmodified":1566585191,
     "wof:name":"Tandzatap'",
     "wof:parent_id":1108784437,
     "wof:placetype":"locality",

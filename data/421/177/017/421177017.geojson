@@ -10,8 +10,12 @@
     "geom:latitude":40.66105,
     "geom:longitude":44.01551,
     "iso:country":"AM",
+    "lbl:bbox":"43.99551,40.64105,44.03551,40.68105",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qulucan"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Spandaryan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kulidzhan"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":616202,
         "gp:id":2214372,
-        "qs:id":1093511,
+        "qs_pg:id":1093511,
         "wd:id":"Q430887",
         "wk:page":"Spandaryan, Shirak"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421177017,
-    "wof:lastmodified":1563324834,
+    "wof:lastmodified":1566585513,
     "wof:name":"Spandaryan",
     "wof:parent_id":1108782829,
     "wof:placetype":"locality",

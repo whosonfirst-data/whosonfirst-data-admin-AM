@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.964219,
     "lbl:longitude":45.350986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"TAVUSH",
     "meso:admin_1r":"Tavush",
     "meso:gaul_adm2":"Shamshadinskiy (Berd)",
@@ -25,6 +27,7 @@
     "mps:longitude":45.350986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0433\u0430\u0432\u0430\u043d"
     ],
@@ -62,7 +65,7 @@
         "Varagavan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108783317,
-    "wof:lastmodified":1564159322,
+    "wof:lastmodified":1566585293,
     "wof:name":"Varagavan",
     "wof:parent_id":85668095,
     "wof:placetype":"localadmin",

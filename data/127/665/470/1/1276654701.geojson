@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.33828,40.84951,44.37828,40.88951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "T\u2019oroyi Och\u2019kharanots\u2019"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276654701,
-    "wof:lastmodified":1537584513,
+    "wof:lastmodified":1566585235,
     "wof:name":"T'oroyi Och'kharanots'",
     "wof:parent_id":1108783581,
     "wof:placetype":"locality",

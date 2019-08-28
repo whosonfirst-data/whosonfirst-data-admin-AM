@@ -10,8 +10,12 @@
     "geom:latitude":40.64376,
     "geom:longitude":44.05653,
     "iso:country":"AM",
+    "lbl:bbox":"44.03653,40.62376,44.07653,40.66376",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Ar\u0131xv\u0259li"
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Mets Mant'ash"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shoy Mantash"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":616412,
         "gp:id":2214639,
-        "qs:id":1307611,
+        "qs_pg:id":1307611,
         "wd:id":"Q2223248"
     },
     "wof:country":"AM",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":421200519,
-    "wof:lastmodified":1563324815,
+    "wof:lastmodified":1566585509,
     "wof:name":"Mets Mant'ash",
     "wof:parent_id":1108782799,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":39.63732,
     "geom:longitude":45.51162,
     "iso:country":"AM",
+    "lbl:bbox":"45.49162,39.61732,45.53162,39.65732",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Pa\u015fal\u0131"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0440\u0456\u0442\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pashalu"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":174703,
         "gp:id":2214567,
-        "qs:id":1307597,
+        "qs_pg:id":1307597,
         "wd:id":"Q554368",
         "wk:page":"Zaritap"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421184873,
-    "wof:lastmodified":1563324827,
+    "wof:lastmodified":1566585512,
     "wof:name":"Zarrit'ap'",
     "wof:parent_id":1108783403,
     "wof:placetype":"locality",

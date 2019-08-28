@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.9268,40.8646,43.9668,40.9046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Sar\u0131yal"
     ],
@@ -59,8 +63,7 @@
         "Mets Sariar"
     ],
     "name:und_x_variant":[
-        "Sariar Bol\u2019shoy",
-        "Mets Sariar"
+        "Sariar Bol\u2019shoy"
     ],
     "name:vie_x_preferred":[
         "Mets Sariar"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1243193513,
-    "wof:lastmodified":1564159714,
+    "wof:lastmodified":1566585571,
     "wof:name":"Mets Sariar",
     "wof:parent_id":1108782713,
     "wof:placetype":"locality",

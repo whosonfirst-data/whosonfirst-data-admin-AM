@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.67873,40.56472,44.71873,40.60472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Gerezmank\u2019"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209110907,
-    "wof:lastmodified":1537584518,
+    "wof:lastmodified":1566585260,
     "wof:name":"Gerezmank'",
     "wof:parent_id":85632773,
     "wof:placetype":"locality",

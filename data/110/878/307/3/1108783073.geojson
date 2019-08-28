@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":41.118819,
     "lbl:longitude":44.350345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"LORI",
     "meso:admin_1r":"Tashir",
     "meso:gaul_adm2":"Kalinino (Tachir)",
@@ -25,6 +27,7 @@
     "mps:longitude":44.350345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Medovka"
     ],
@@ -53,7 +56,7 @@
         "Medovka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108783073,
-    "wof:lastmodified":1564159316,
+    "wof:lastmodified":1566585289,
     "wof:name":"Medovka",
     "wof:parent_id":85668109,
     "wof:placetype":"localadmin",

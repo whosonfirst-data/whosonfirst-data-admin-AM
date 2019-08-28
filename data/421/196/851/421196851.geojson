@@ -10,8 +10,12 @@
     "geom:latitude":40.83674,
     "geom:longitude":44.42494,
     "iso:country":"AM",
+    "lbl:bbox":"44.40494,40.81674,44.44494,40.85674",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Darbaz"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Darpas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darbas"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":616763,
         "gp:id":2213683,
-        "qs:id":1300429,
+        "qs_pg:id":1300429,
         "wd:id":"Q1920811",
         "wk:page":"Darpas"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421196851,
-    "wof:lastmodified":1563324792,
+    "wof:lastmodified":1566585503,
     "wof:name":"Darpas",
     "wof:parent_id":1108783631,
     "wof:placetype":"locality",

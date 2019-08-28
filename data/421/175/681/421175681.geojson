@@ -10,8 +10,12 @@
     "geom:latitude":40.25576,
     "geom:longitude":44.58407,
     "iso:country":"AM",
+    "lbl:bbox":"44.56407,40.23576,44.60407,40.27576",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Ptxni"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Ptghni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ptgni"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616288,
         "gp:id":2214268,
-        "qs:id":1027128,
+        "qs_pg:id":1027128,
         "wd:id":"Q1920828",
         "wk:page":"Ptghni"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421175681,
-    "wof:lastmodified":1563324783,
+    "wof:lastmodified":1566585500,
     "wof:name":"Ptghni",
     "wof:parent_id":1108784361,
     "wof:placetype":"locality",

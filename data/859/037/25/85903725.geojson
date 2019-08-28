@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13559742.539117,
+    "geom:area_square_m":0.0,
     "geom:bbox":"44.514267,40.179486,44.514267,40.179486",
     "geom:latitude":40.179486,
     "geom:longitude":44.514267,
     "gn:id":"",
     "iso:country":"AM",
+    "lbl:bbox":"44.509267,40.174486,44.519267,40.184486",
     "lbl:latitude":40.179486,
     "lbl:longitude":44.514267,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.178538,
     "mps:longitude":44.506641,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Charbakh"
-    ],
-    "name:unk_x_variant":[
         "Charbakh"
     ],
     "qs:gn_adm0_cc":"AM",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":10,
     "wof:belongsto":[
         102191569,
@@ -65,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2213655,
-        "qs:id":1130257
+        "qs_pg:id":1130257
     },
     "wof:country":"AM",
     "wof:geomhash":"f7182e57be3c9b53e3f849eb70d054ae",
@@ -82,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936077,
+    "wof:lastmodified":1566585169,
     "wof:name":"Charbakh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

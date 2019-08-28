@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.491819,
     "lbl:longitude":44.40282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARAGATSOTN",
     "meso:admin_1r":"Aparan",
     "meso:gaul_adm2":"Aparan",
@@ -25,6 +27,7 @@
     "mps:longitude":44.40282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shenavan"
     ],
@@ -47,7 +50,7 @@
         "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108783605,
-    "wof:lastmodified":1564159475,
+    "wof:lastmodified":1566585379,
     "wof:name":"Shenavan",
     "wof:parent_id":85668083,
     "wof:placetype":"localadmin",

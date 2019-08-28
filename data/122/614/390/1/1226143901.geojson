@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"45.12172,40.1689,45.16172,40.2089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "K\u2019aravani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226143901,
-    "wof:lastmodified":1537584489,
+    "wof:lastmodified":1566585610,
     "wof:name":"K'aravani",
     "wof:parent_id":1108784075,
     "wof:placetype":"locality",

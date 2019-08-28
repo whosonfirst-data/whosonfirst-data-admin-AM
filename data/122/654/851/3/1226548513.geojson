@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.98974,39.99885,45.02974,40.03885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vanik"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226548513,
-    "wof:lastmodified":1564159784,
+    "wof:lastmodified":1566585619,
     "wof:name":"Vanik",
     "wof:parent_id":85668099,
     "wof:placetype":"locality",

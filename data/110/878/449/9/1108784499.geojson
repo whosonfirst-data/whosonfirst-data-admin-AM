@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":38.862719,
     "lbl:longitude":46.200475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"SYUNIK",
     "meso:admin_1r":"Meghri",
     "meso:gaul_adm2":"Megri",
@@ -25,6 +27,7 @@
     "mps:longitude":46.200475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fk\u0259r\u0259k"
     ],
@@ -68,7 +71,7 @@
         "\u0410\u0491\u0430\u0440\u0430\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108784499,
-    "wof:lastmodified":1564159353,
+    "wof:lastmodified":1566585310,
     "wof:name":"Agarak",
     "wof:parent_id":85672373,
     "wof:placetype":"localadmin",

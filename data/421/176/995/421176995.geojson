@@ -10,8 +10,12 @@
     "geom:latitude":40.1684,
     "geom:longitude":44.21375,
     "iso:country":"AM",
+    "lbl:bbox":"44.19375,40.1484,44.23375,40.1884",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "K\u00f6rp\u0259li"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0448\u0430\u043b\u0443\u0439\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00ebrpalu"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":616898,
         "gp:id":2213522,
-        "qs:id":1093382,
+        "qs_pg:id":1093382,
         "wd:id":"Q2221680",
         "wk:page":"Arshaluys"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421176995,
-    "wof:lastmodified":1563324860,
+    "wof:lastmodified":1566585520,
     "wof:name":"Arshaluys",
     "wof:parent_id":1108783903,
     "wof:placetype":"locality",

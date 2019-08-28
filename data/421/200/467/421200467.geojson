@@ -10,8 +10,12 @@
     "geom:latitude":40.8046,
     "geom:longitude":44.54025,
     "iso:country":"AM",
+    "lbl:bbox":"44.52025,40.7846,44.56025,40.8246",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Yaqublu"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Gugark'"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yagublu"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":616648,
         "gp:id":2213811,
-        "qs:id":1307499,
+        "qs_pg:id":1307499,
         "wd:id":"Q2682375",
         "wk:page":"Gugark (village)"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421200467,
-    "wof:lastmodified":1563324821,
+    "wof:lastmodified":1566585510,
     "wof:name":"Gugark'",
     "wof:parent_id":1108783237,
     "wof:placetype":"locality",

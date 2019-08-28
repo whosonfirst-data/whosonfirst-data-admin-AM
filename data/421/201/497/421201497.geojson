@@ -10,8 +10,12 @@
     "geom:latitude":39.71913,
     "geom:longitude":45.17991,
     "iso:country":"AM",
+    "lbl:bbox":"45.15991,39.69913,45.19991,39.73913",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Arpa"
@@ -82,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u043d\u0456"
     ],
-    "name:unk_x_variant":[
-        "Arpa"
-    ],
     "name:vie_x_preferred":[
         "Areni"
     ],
@@ -125,7 +126,7 @@
     "wof:concordances":{
         "gn:id":174984,
         "gp:id":2213496,
-        "qs:id":211632,
+        "qs_pg:id":211632,
         "wd:id":"Q207291",
         "wk:page":"Areni"
     },
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421201497,
-    "wof:lastmodified":1563324825,
+    "wof:lastmodified":1566585511,
     "wof:name":"Areni",
     "wof:parent_id":1108783301,
     "wof:placetype":"locality",

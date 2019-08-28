@@ -10,8 +10,12 @@
     "geom:latitude":40.66012,
     "geom:longitude":43.88819,
     "iso:country":"AM",
+    "lbl:bbox":"43.86819,40.64012,43.90819,40.68012",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u043c"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Horrom"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orom"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":612561,
         "gp:id":2213851,
-        "qs:id":1307507,
+        "qs_pg:id":1307507,
         "wd:id":"Q2223275",
         "wk:page":"Horom, Armenia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421200473,
-    "wof:lastmodified":1563324819,
+    "wof:lastmodified":1566585510,
     "wof:name":"Horrom",
     "wof:parent_id":1108782785,
     "wof:placetype":"locality",

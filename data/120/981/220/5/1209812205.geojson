@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.83748,40.92874,43.87748,40.96874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u0551\u0578\u0572\u0561\u0574\u0561\u0580\u0563"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209812205,
-    "wof:lastmodified":1537584363,
+    "wof:lastmodified":1566585266,
     "wof:name":"Ts'oghamarg",
     "wof:parent_id":1108782767,
     "wof:placetype":"locality",

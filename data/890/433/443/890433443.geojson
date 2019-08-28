@@ -11,10 +11,14 @@
     "geom:longitude":44.27026,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1089,
+    "gn:population":1089,
     "iso:country":"AM",
+    "lbl:bbox":"44.25026,40.16075,44.29026,40.20075",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tsaghkunk"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0443\u043d\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verin Aylanlu"
     ],
     "qs:name":"Tsaghkunk\u2019",
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616150,
-        "qs:id":126180,
+        "qs_pg:id":126180,
         "wd:id":"Q400910",
         "wk:page":"Tsaghkunk"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890433443,
-    "wof:lastmodified":1563324896,
+    "wof:lastmodified":1566585530,
     "wof:name":"Tsaghkunk\u2019",
     "wof:parent_id":1108783887,
     "wof:placetype":"locality",

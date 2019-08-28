@@ -10,8 +10,12 @@
     "geom:latitude":40.18254,
     "geom:longitude":45.63286,
     "iso:country":"AM",
+    "lbl:bbox":"45.61286,40.16254,45.65286,40.20254",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Za\u011fal\u0131"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u043e\u0432\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nerkin Zagalu"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":616138,
         "gp:id":2214441,
-        "qs:id":126179,
+        "qs_pg:id":126179,
         "wd:id":"Q2639716",
         "wk:page":"Tsovak"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421178497,
-    "wof:lastmodified":1563324846,
+    "wof:lastmodified":1566585517,
     "wof:name":"Tsovak",
     "wof:parent_id":1108784095,
     "wof:placetype":"locality",

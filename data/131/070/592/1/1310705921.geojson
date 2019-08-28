@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.3329,40.64669,44.3729,40.68669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "P\u2019ok\u2019rik Avetaran"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310705921,
-    "wof:lastmodified":1537584466,
+    "wof:lastmodified":1566585445,
     "wof:name":"P'ok'rik Avetaran",
     "wof:parent_id":1108782881,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.74226,
     "geom:longitude":43.9029,
     "iso:country":"AM",
+    "lbl:bbox":"43.8829,40.72226,43.9229,40.76226",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "T\u0259p\u0259d\u00f6l\u0259k"
@@ -70,7 +74,7 @@
     "name:swe_x_preferred":[
         "Arevik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tapadolak"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616917,
         "gp:id":2213500,
-        "qs:id":1307475,
+        "qs_pg:id":1307475,
         "wd:id":"Q2639707",
         "wk:page":"Arevik, Shirak"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421196479,
-    "wof:lastmodified":1563324791,
+    "wof:lastmodified":1566585502,
     "wof:name":"Arevik",
     "wof:parent_id":1108782651,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.53259,
     "geom:longitude":44.72025,
     "iso:country":"AM",
+    "lbl:bbox":"44.70025,40.51259,44.74025,40.55259",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u062a\u0633\u0627\u063a\u06a9\u0627\u062f\u0632\u0648\u0631"
@@ -121,7 +125,7 @@
     "name:ukr_x_variant":[
         "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darachichag"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":616160,
         "gp:id":2214650,
-        "qs:id":184856,
+        "qs_pg:id":184856,
         "wd:id":"Q140342",
         "wk:page":"Tsaghkadzor"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421198711,
-    "wof:lastmodified":1563324789,
+    "wof:lastmodified":1566585502,
     "wof:name":"Tsakhkadzor",
     "wof:parent_id":1108783549,
     "wof:placetype":"locality",

@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.37972,39.33111,46.41972,39.37111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0428\u0430\u043c\u0441\u0443\u0437"
-    ],
-    "name:und_x_variant":[
         "\u0428\u0430\u043c\u0441\u0443\u0437"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1242700097,
-    "wof:lastmodified":1537584358,
+    "wof:lastmodified":1566585559,
     "wof:name":"Shamsuz",
     "wof:parent_id":1108784249,
     "wof:placetype":"locality",

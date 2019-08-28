@@ -10,8 +10,12 @@
     "geom:latitude":40.09945,
     "geom:longitude":44.09127,
     "iso:country":"AM",
+    "lbl:bbox":"44.07127,40.07945,44.11127,40.11945",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "A\u011fcaarx"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agdzharkh"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":616918,
         "gp:id":2213501,
-        "qs:id":462158,
+        "qs_pg:id":462158,
         "wd:id":"Q2639886",
         "wk:page":"Arevik"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421179781,
-    "wof:lastmodified":1563324843,
+    "wof:lastmodified":1566585516,
     "wof:name":"Arevik",
     "wof:parent_id":1108783801,
     "wof:placetype":"locality",

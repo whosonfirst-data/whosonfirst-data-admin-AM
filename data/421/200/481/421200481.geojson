@@ -10,8 +10,12 @@
     "geom:latitude":40.75767,
     "geom:longitude":43.99274,
     "iso:country":"AM",
+    "lbl:bbox":"43.97274,40.73767,44.01274,40.77767",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Musayelyan"
@@ -196,7 +200,7 @@
     "name:swe_x_preferred":[
         "Musayelyan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mets Kyapanak"
     ],
     "name:vec_x_preferred":[
@@ -251,7 +255,7 @@
     "wof:concordances":{
         "gn:id":616391,
         "gp:id":2214149,
-        "qs:id":1307544,
+        "qs_pg:id":1307544,
         "wd:id":"Q6940195"
     },
     "wof:country":"AM",
@@ -267,7 +271,7 @@
         }
     ],
     "wof:id":421200481,
-    "wof:lastmodified":1563324818,
+    "wof:lastmodified":1566585509,
     "wof:name":"Musayelyan",
     "wof:parent_id":1108782715,
     "wof:placetype":"locality",

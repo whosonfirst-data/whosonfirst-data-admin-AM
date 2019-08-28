@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.8315,41.07027,44.8715,41.11027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Kughpakadzor"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343553823,
-    "wof:lastmodified":1537584476,
+    "wof:lastmodified":1566585139,
     "wof:name":"Kughpakadzor",
     "wof:parent_id":1108783171,
     "wof:placetype":"locality",

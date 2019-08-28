@@ -10,8 +10,12 @@
     "geom:latitude":40.25196,
     "geom:longitude":44.63928,
     "iso:country":"AM",
+    "lbl:bbox":"44.61928,40.23196,44.65928,40.27196",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "\u015eahab"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Mayakovski"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaab"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":616429,
         "gp:id":2214112,
-        "qs:id":1093464,
+        "qs_pg:id":1093464,
         "wd:id":"Q3302935",
         "wk:page":"Mayakovski, Armenia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421177011,
-    "wof:lastmodified":1563324833,
+    "wof:lastmodified":1566585513,
     "wof:name":"Mayakovski",
     "wof:parent_id":1108784543,
     "wof:placetype":"locality",

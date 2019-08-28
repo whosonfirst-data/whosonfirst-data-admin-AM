@@ -10,8 +10,12 @@
     "geom:latitude":39.79759,
     "geom:longitude":44.77397,
     "iso:country":"AM",
+    "lbl:bbox":"44.75397,39.77759,44.79397,39.81759",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u064a\u0646\u0627\u0641\u0627\u0646"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":174755,
         "gp:id":2214379,
-        "qs:id":1307572,
+        "qs_pg:id":1307572,
         "wd:id":"Q645308",
         "wk:page":"Surenavan"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421200491,
-    "wof:lastmodified":1563324813,
+    "wof:lastmodified":1566585508,
     "wof:name":"Surenavan",
     "wof:parent_id":1108783019,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.64949,40.58553,44.68949,40.62553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "huriki Khach\u2019"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293806735,
-    "wof:lastmodified":1537584518,
+    "wof:lastmodified":1566585203,
     "wof:name":"huriki Khach'",
     "wof:parent_id":1108783547,
     "wof:placetype":"locality",

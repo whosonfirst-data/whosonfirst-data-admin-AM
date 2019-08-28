@@ -11,10 +11,14 @@
     "geom:longitude":44.75811,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1989,
+    "gn:population":1989,
     "iso:country":"AM",
+    "lbl:bbox":"44.73811,41.14838,44.77811,41.18838",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Yuxar\u0131 Axtala"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Verin Akhtala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnyaya Akhtala"
     ],
     "qs:name":"Verin Akhtala",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":616101,
         "gp:id":2213435,
-        "qs:id":275127,
+        "qs_pg:id":275127,
         "wd:id":"Q7921347",
         "wk:page":"Verin Akhtala"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890431283,
-    "wof:lastmodified":1563324882,
+    "wof:lastmodified":1566585526,
     "wof:name":"Verin Akhtala",
     "wof:parent_id":1108783207,
     "wof:placetype":"locality",

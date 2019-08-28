@@ -9,15 +9,18 @@
     "geom:bbox":"44.8879,40.5634,44.8879,40.5634",
     "geom:latitude":40.5634,
     "geom:longitude":44.8879,
-    "gn:gn_country":"AM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1597,
+    "gn:country":"AM",
+    "gn:fcode":"PPL",
     "gn:population":1597,
     "iso:country":"AM",
+    "lbl:bbox":"44.8679,40.5434,44.9079,40.5834",
     "lbl:latitude":40.5634,
     "lbl:longitude":44.8879,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "\u015e\u0259hriz"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0435\u0433\u0430\u043c\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shagriz"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:qs_id":126240,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125862297,
-    "wof:lastmodified":1563324904,
+    "wof:lastmodified":1566585532,
     "wof:name":"Geghamavan",
     "wof:parent_id":1108783639,
     "wof:placetype":"locality",

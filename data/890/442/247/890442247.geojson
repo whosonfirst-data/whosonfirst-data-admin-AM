@@ -11,10 +11,14 @@
     "geom:longitude":44.25862,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1018,
+    "gn:population":1018,
     "iso:country":"AM",
+    "lbl:bbox":"44.23862,40.16347,44.27862,40.20347",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Mu\u011fan"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0432\u0442\u0430\u043c\u0435\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ovtamech"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":616396,
-        "qs:id":275138,
+        "qs_pg:id":275138,
         "wd:id":"Q2222182",
         "wk:page":"Hovtamej"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890442247,
-    "wof:lastmodified":1563324892,
+    "wof:lastmodified":1566585529,
     "wof:name":"Hovtamej",
     "wof:parent_id":1108783901,
     "wof:placetype":"locality",

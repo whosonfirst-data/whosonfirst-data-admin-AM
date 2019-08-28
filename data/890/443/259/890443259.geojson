@@ -11,10 +11,14 @@
     "geom:longitude":44.2222,
     "gn:country":"AM",
     "gn:fcode":"PPL",
-    "gn:pop":1111,
+    "gn:population":1111,
     "iso:country":"AM",
+    "lbl:bbox":"44.2022,40.75487,44.2422,40.79487",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "\u00c7otur"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Saramech"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chotur"
     ],
     "qs:name":"Saramech",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":616265,
         "gp:id":2213886,
-        "qs:id":1027124,
+        "qs_pg:id":1027124,
         "wd:id":"Q543774",
         "wk:page":"Saramej"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890443259,
-    "wof:lastmodified":1563324885,
+    "wof:lastmodified":1566585527,
     "wof:name":"Saramech",
     "wof:parent_id":1108783163,
     "wof:placetype":"locality",

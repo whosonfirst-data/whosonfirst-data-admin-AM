@@ -10,8 +10,12 @@
     "geom:latitude":41.03531,
     "geom:longitude":45.14486,
     "iso:country":"AM",
+    "lbl:bbox":"45.12486,41.01531,45.16486,41.05531",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Sar\u0131gah"
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Sarigyugh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srigekh"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":616259,
         "gp:id":2214305,
-        "qs:id":918164,
+        "qs_pg:id":918164,
         "wd:id":"Q69271",
         "wk:page":"Sarigyugh"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421193571,
-    "wof:lastmodified":1563324750,
+    "wof:lastmodified":1566585491,
     "wof:name":"Sarigyugh",
     "wof:parent_id":1108783461,
     "wof:placetype":"locality",

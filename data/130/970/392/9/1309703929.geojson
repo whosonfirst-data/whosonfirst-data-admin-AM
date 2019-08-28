@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.90042,40.84704,43.94042,40.88704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ar\u0131xv\u0259li"
     ],
@@ -65,8 +69,7 @@
         "Lernut"
     ],
     "name:und_x_variant":[
-        "Arikhvali",
-        "Lernut"
+        "Arikhvali"
     ],
     "name:vie_x_preferred":[
         "Lernut"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1309703929,
-    "wof:lastmodified":1564159639,
+    "wof:lastmodified":1566585479,
     "wof:name":"Lerrnut",
     "wof:parent_id":1108782665,
     "wof:placetype":"locality",

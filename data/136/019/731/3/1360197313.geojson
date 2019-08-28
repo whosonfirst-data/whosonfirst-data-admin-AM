@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.58687,40.05507,44.62687,40.09507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Khchut"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360197313,
-    "wof:lastmodified":1537584491,
+    "wof:lastmodified":1566585475,
     "wof:name":"Khchut",
     "wof:parent_id":1108784293,
     "wof:placetype":"locality",

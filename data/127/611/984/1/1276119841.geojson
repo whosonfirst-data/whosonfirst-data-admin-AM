@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.27309,40.13832,44.31309,40.17832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Amenayn Hayots\u2019 Kat\u2019oghikos Hovsep\u2019 Arghut\u2019yan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276119841,
-    "wof:lastmodified":1537584421,
+    "wof:lastmodified":1566585221,
     "wof:name":"Amenayn Hayots' Kat'oghikos Hovsep' Arghut'yan",
     "wof:parent_id":1108784341,
     "wof:placetype":"locality",

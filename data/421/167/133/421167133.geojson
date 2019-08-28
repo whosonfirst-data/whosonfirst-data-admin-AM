@@ -10,8 +10,12 @@
     "geom:latitude":41.20503,
     "geom:longitude":44.99967,
     "iso:country":"AM",
+    "lbl:bbox":"44.97967,41.18503,45.01967,41.22503",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qala\u00e7a"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":823723,
         "gp:id":2213628,
-        "qs:id":129706,
+        "qs_pg:id":129706,
         "wd:id":"Q33876",
         "wk:page":"Berdavan, Armenia"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421167133,
-    "wof:lastmodified":1563324751,
+    "wof:lastmodified":1566585491,
     "wof:name":"Berdavan",
     "wof:parent_id":1108783609,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"43.80092,41.03011,43.84092,41.07011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Dari Surb"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276869103,
-    "wof:lastmodified":1537584451,
+    "wof:lastmodified":1566585214,
     "wof:name":"Dari Surb",
     "wof:parent_id":1108782759,
     "wof:placetype":"locality",

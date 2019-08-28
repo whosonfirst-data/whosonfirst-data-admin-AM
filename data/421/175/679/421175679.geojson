@@ -10,8 +10,12 @@
     "geom:latitude":40.84042,
     "geom:longitude":43.91582,
     "iso:country":"AM",
+    "lbl:bbox":"43.89582,40.82042,43.93582,40.86042",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qonaqq\u0131ran"
@@ -67,7 +71,7 @@
     "name:spa_x_preferred":[
         "Shirak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konakhkran"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":616224,
         "gp:id":2214347,
-        "qs:id":1027122,
+        "qs_pg:id":1027122,
         "wd:id":"Q2643853",
         "wk:page":"Shirak, Armenia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421175679,
-    "wof:lastmodified":1563324784,
+    "wof:lastmodified":1566585501,
     "wof:name":"Shirak",
     "wof:parent_id":1108782717,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":39.91421,
     "geom:longitude":44.72217,
     "iso:country":"AM",
+    "lbl:bbox":"44.70217,39.89421,44.74217,39.93421",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u064a"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beyuk-Vedi"
     ],
     "name:vie_x_preferred":[
@@ -170,7 +174,7 @@
     "wof:concordances":{
         "gn:id":174725,
         "gp:id":2214657,
-        "qs:id":190643,
+        "qs_pg:id":190643,
         "wd:id":"Q750689",
         "wk:page":"Vedi"
     },
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":421199213,
-    "wof:lastmodified":1563324805,
+    "wof:lastmodified":1566585506,
     "wof:name":"Vedi",
     "wof:parent_id":1108784027,
     "wof:placetype":"locality",

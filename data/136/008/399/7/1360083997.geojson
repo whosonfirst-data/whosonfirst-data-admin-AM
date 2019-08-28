@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.64248,40.52169,44.68248,40.56169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Jrarrati Kolkhozi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360083997,
-    "wof:lastmodified":1537584518,
+    "wof:lastmodified":1566585469,
     "wof:name":"Jrarrati Kolkhozi",
     "wof:parent_id":1108784609,
     "wof:placetype":"locality",

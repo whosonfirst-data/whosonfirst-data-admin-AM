@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.135905,
     "lbl:longitude":44.39569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARARAT",
     "meso:admin_1r":"Masis",
     "meso:gaul_adm2":"Masis",
@@ -25,8 +27,9 @@
     "mps:longitude":44.39569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1108783969,
-    "wof:lastmodified":1512517063,
+    "wof:lastmodified":1566585296,
     "wof:name":"Arbat",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",

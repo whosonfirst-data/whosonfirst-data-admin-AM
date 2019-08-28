@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"46.45369,39.2911,46.49369,39.3311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u00c7axmaq"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1310002779,
-    "wof:lastmodified":1564159595,
+    "wof:lastmodified":1566585449,
     "wof:name":"Kamkhut",
     "wof:parent_id":1108784251,
     "wof:placetype":"locality",

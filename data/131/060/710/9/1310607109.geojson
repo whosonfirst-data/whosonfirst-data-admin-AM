@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
+    "lbl:bbox":"44.91048,40.50228,44.95048,40.54228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Argishti A-i Ardzanagrut\u2019yun"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310607109,
-    "wof:lastmodified":1537584447,
+    "wof:lastmodified":1566585465,
     "wof:name":"Argishti A-i Ardzanagrut'yun",
     "wof:parent_id":1108783379,
     "wof:placetype":"locality",

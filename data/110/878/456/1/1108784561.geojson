@@ -12,6 +12,8 @@
     "iso:country":"AM",
     "lbl:latitude":40.083915,
     "lbl:longitude":44.272507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:adm1_en":"ARMAVIR",
     "meso:admin_1r":"Vagharshapat",
     "meso:gaul_adm2":"Etchmiadzin",
@@ -25,6 +27,7 @@
     "mps:longitude":44.272507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lusagyugh"
     ],
@@ -41,7 +44,7 @@
         "\u041b\u0443\u0441\u0430\u0491\u044e\u0445"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108784561,
-    "wof:lastmodified":1564159518,
+    "wof:lastmodified":1566585402,
     "wof:name":"Lusagyugh",
     "wof:parent_id":85668085,
     "wof:placetype":"localadmin",
