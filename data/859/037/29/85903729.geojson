@@ -81,6 +81,10 @@
         "qs_pg:id":1083723
     },
     "wof:country":"AM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99c3570341f30fb3f7c2d39e4e2a99c1",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585169,
+    "wof:lastmodified":1582318246,
     "wof:name":"Nork",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

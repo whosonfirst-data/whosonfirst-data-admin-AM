@@ -361,6 +361,9 @@
     },
     "wof:country":"AM",
     "wof:created":1469051981,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0976eb6ffb8ba69dcea84a2d52e6927",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":890433451,
-    "wof:lastmodified":1566585531,
+    "wof:lastmodified":1582318253,
     "wof:name":"Vanadzor",
     "wof:parent_id":1108783523,
     "wof:placetype":"locality",
