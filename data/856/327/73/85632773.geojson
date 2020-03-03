@@ -1040,7 +1040,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1113,7 +1112,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1582318247,
+    "wof:lastmodified":1583204874,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
