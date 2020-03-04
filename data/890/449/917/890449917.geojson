@@ -451,6 +451,9 @@
     },
     "wof:country":"AM",
     "wof:created":1469052716,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13bd6b81e79dc39042d78fb46dde51b3",
     "wof:hierarchy":[
         {
@@ -462,7 +465,7 @@
         }
     ],
     "wof:id":890449917,
-    "wof:lastmodified":1566585523,
+    "wof:lastmodified":1582318253,
     "wof:name":"Artashat",
     "wof:parent_id":1108784229,
     "wof:placetype":"locality",

@@ -67,6 +67,10 @@
         "qs_pg:id":1130268
     },
     "wof:country":"AM",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7b30f888723784503baedad62ec8659",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585169,
+    "wof:lastmodified":1582318246,
     "wof:name":"Sari T'ag",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

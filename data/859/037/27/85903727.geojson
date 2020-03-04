@@ -86,6 +86,10 @@
         "wk:page":"Imeni Tairova"
     },
     "wof:country":"AM",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e60102b6284ad69ecc3f5b1d4e03a14d",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585169,
+    "wof:lastmodified":1582318246,
     "wof:name":"Imeni Tairova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -72,6 +72,9 @@
         "gp:id":2214371
     },
     "wof:country":"AM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ac5fb3585819cb05a6322d2ea0123da",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585169,
+    "wof:lastmodified":1582318246,
     "wof:name":"Spandaryan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

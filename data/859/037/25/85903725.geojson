@@ -67,6 +67,9 @@
         "qs_pg:id":1130257
     },
     "wof:country":"AM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7182e57be3c9b53e3f849eb70d054ae",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585169,
+    "wof:lastmodified":1582318247,
     "wof:name":"Charbakh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

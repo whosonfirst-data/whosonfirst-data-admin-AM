@@ -1094,6 +1094,10 @@
     },
     "wof:country":"AM",
     "wof:country_alpha3":"ARM",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"41bcce129722b6c9b76440b6c1e3ff2e",
     "wof:hierarchy":[
         {
@@ -1108,7 +1112,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1566585172,
+    "wof:lastmodified":1583204874,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

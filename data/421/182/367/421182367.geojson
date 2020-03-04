@@ -689,6 +689,10 @@
     },
     "wof:country":"AM",
     "wof:created":1459009327,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ebde5e604774ebe72a942980b9802dfa",
     "wof:hierarchy":[
         {
@@ -699,7 +703,7 @@
         }
     ],
     "wof:id":421182367,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1582318253,
     "wof:name":"Yerevan",
     "wof:parent_id":85668115,
     "wof:placetype":"locality",
