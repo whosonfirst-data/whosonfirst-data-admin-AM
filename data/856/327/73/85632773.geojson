@@ -1071,9 +1071,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Armenia",
-        "digitalenvoy:country_code":[
-            51
-        ],
+        "digitalenvoy:country_code":51,
         "fb:id":"en.armenia",
         "fifa:id":"ARM",
         "fips:code":"AM",
@@ -1115,7 +1113,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1583529072,
+    "wof:lastmodified":1583797275,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
