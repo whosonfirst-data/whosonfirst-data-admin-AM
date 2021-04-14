@@ -1105,7 +1105,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1164,7 +1165,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"6f22dbeb5259c86f4c27a9a005dbcb1f",
     "wof:hierarchy":[
@@ -1180,7 +1182,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1617827401,
+    "wof:lastmodified":1618362156,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
