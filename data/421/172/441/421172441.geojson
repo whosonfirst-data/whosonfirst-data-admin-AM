@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Yegvard Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Eghvard"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421172441,
-    "wof:lastmodified":1566585499,
+    "wof:lastmodified":1627521475,
     "wof:name":"Yegvard",
     "wof:parent_id":85668105,
     "wof:placetype":"county",

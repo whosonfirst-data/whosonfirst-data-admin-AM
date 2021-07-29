@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.7173705,40.530501,44.7173705,40.530501",
+    "geom:bbox":"44.717371,40.530501,44.717371,40.530501",
     "geom:latitude":40.530501,
     "geom:longitude":44.717371,
     "iso:country":"AM",
@@ -27,6 +27,9 @@
     ],
     "name:eng_x_variant":[
         "Razdan Shrjan"
+    ],
+    "name:fra_x_preferred":[
+        "Hrazdan"
     ],
     "name:uzb_x_preferred":[
         "Razdan"
@@ -62,7 +65,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009012,
-    "wof:geomhash":"5962ca486647113441341d88f2f28d9c",
+    "wof:geomhash":"e33962b33e2be93a7294c70ae881bfac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421173949,
-    "wof:lastmodified":1566585498,
+    "wof:lastmodified":1627521475,
     "wof:name":"Razdan",
     "wof:parent_id":85668105,
     "wof:placetype":"county",
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.7173705,
+    44.717371,
     40.530501,
-    44.7173705,
+    44.717371,
     40.530501
 ],
-  "geometry": {"coordinates":[44.7173705,40.530501],"type":"Point"}
+  "geometry": {"coordinates":[44.717371,40.530501],"type":"Point"}
 }

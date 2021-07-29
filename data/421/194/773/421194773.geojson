@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Azizbekov Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Vayk"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421194773,
-    "wof:lastmodified":1566585490,
+    "wof:lastmodified":1627521475,
     "wof:name":"Azizbekov",
     "wof:parent_id":85668123,
     "wof:placetype":"county",

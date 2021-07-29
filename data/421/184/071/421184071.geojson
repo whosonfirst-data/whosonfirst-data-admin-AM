@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Krasnoselsk Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Krasnoselsk"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421184071,
-    "wof:lastmodified":1566585512,
+    "wof:lastmodified":1627521475,
     "wof:name":"Krasnoselsk",
     "wof:parent_id":85668103,
     "wof:placetype":"county",

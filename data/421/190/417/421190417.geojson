@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Megri Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Meghri"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0572\u0580\u056b"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421190417,
-    "wof:lastmodified":1566585504,
+    "wof:lastmodified":1627521475,
     "wof:name":"Megri",
     "wof:parent_id":85672373,
     "wof:placetype":"county",

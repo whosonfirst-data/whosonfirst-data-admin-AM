@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Arabkir"
     ],
+    "name:fra_x_preferred":[
+        "Arabkir"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0561\u0562\u056f\u056b\u0580"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890420051,
-    "wof:lastmodified":1566585528,
+    "wof:lastmodified":1627521474,
     "wof:name":"Arabkir",
     "wof:parent_id":85668115,
     "wof:placetype":"county",

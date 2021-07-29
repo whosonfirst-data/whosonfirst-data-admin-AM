@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Idzhevan Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Idjevan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421187993,
-    "wof:lastmodified":1566585497,
+    "wof:lastmodified":1627521475,
     "wof:name":"Idzhevan",
     "wof:parent_id":85668095,
     "wof:placetype":"county",

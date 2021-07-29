@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Oktemberyan Shrjan"
     ],
+    "name:fra_x_preferred":[
+        "Armavir"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421166665,
-    "wof:lastmodified":1566585487,
+    "wof:lastmodified":1627521474,
     "wof:name":"Oktemberyan",
     "wof:parent_id":85668085,
     "wof:placetype":"county",
