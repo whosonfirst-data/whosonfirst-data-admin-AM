@@ -88,6 +88,9 @@
     "name:hbs_x_preferred":[
         "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05ea\u05e8\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0937\u094d\u0924\u093e\u0930\u093e\u0915"
     ],
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":1125898507,
-    "wof:lastmodified":1566585533,
+    "wof:lastmodified":1636495575,
     "wof:name":"Ashtarak",
     "wof:parent_id":1108784213,
     "wof:placetype":"locality",

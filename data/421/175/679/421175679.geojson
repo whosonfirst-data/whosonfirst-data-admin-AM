@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Shirak"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e8\u05d0\u05e7"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u056b\u0580\u0561\u056f"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421175679,
-    "wof:lastmodified":1566585501,
+    "wof:lastmodified":1636495573,
     "wof:name":"Shirak",
     "wof:parent_id":1108782717,
     "wof:placetype":"locality",

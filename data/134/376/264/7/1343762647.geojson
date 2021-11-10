@@ -80,6 +80,9 @@
     "name:hsb_x_preferred":[
         "Id\u017aewan"
     ],
+    "name:hun_x_preferred":[
+        "Ijevan"
+    ],
     "name:hye_x_preferred":[
         "Ijevan"
     ],
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1343762647,
-    "wof:lastmodified":1566585150,
+    "wof:lastmodified":1636495566,
     "wof:name":"Ijevan",
     "wof:parent_id":85668103,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Armavir"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05de\u05d0\u05d1\u05d9\u05e8"
+    ],
     "name:hrv_x_preferred":[
         "Armavir"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890420407,
-    "wof:lastmodified":1566585528,
+    "wof:lastmodified":1636495574,
     "wof:name":"Armavir",
     "wof:parent_id":1108784191,
     "wof:placetype":"locality",

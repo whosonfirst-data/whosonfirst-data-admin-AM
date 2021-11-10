@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09cd\u09a4\u09be\u09b6\u09be\u09a4"
+    ],
     "name:eng_x_preferred":[
         "Artashat"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Artachat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05e9\u05d0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u0924\u093e\u0936\u093e\u0924"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":421194661,
-    "wof:lastmodified":1627521475,
+    "wof:lastmodified":1636495572,
     "wof:name":"Artashat",
     "wof:parent_id":85668105,
     "wof:placetype":"county",

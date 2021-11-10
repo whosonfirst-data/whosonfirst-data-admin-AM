@@ -73,6 +73,9 @@
     "name:fra_x_preferred":[
         "Achtarak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05ea\u05e8\u05e7"
+    ],
     "name:hsb_x_preferred":[
         "A\u0161tarak"
     ],
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421194665,
-    "wof:lastmodified":1566585489,
+    "wof:lastmodified":1636495572,
     "wof:name":"Ashtarak",
     "wof:parent_id":85668083,
     "wof:placetype":"county",

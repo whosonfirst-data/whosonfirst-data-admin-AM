@@ -85,6 +85,9 @@
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0ab5\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d5\u05d0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u0935\u093e\u0930"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:hsb_x_preferred":[
         "Gawar"
+    ],
+    "name:hun_x_preferred":[
+        "Gavarr"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u057e\u0561\u057c"
@@ -253,7 +259,7 @@
         }
     ],
     "wof:id":1125819727,
-    "wof:lastmodified":1566585533,
+    "wof:lastmodified":1636495574,
     "wof:name":"Gavarr",
     "wof:parent_id":1108784221,
     "wof:placetype":"locality",

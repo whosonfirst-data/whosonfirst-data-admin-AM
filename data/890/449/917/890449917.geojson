@@ -37,6 +37,9 @@
     "name:bar_x_preferred":[
         "Artashat"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09cd\u09a4\u09be\u09b6\u09be\u09a4"
+    ],
     "name:bre_x_preferred":[
         "Artashat"
     ],
@@ -135,6 +138,12 @@
     ],
     "name:hbs_x_preferred":[
         "Arta\u0161at"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05e9\u05d0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u0924\u093e\u0936\u093e\u0924"
     ],
     "name:hrv_x_preferred":[
         "Artashat"
@@ -465,7 +474,7 @@
         }
     ],
     "wof:id":890449917,
-    "wof:lastmodified":1582318253,
+    "wof:lastmodified":1636495574,
     "wof:name":"Artashat",
     "wof:parent_id":1108784229,
     "wof:placetype":"locality",
