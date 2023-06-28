@@ -39,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85668109,
         102191569,
         1108783129,
         85632773,
-        1310693893
+        1310693893,
+        85668109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +62,15 @@
         }
     ],
     "wof:id":1863991055,
-    "wof:lastmodified":1687990135,
+    "wof:lastmodified":1687996203,
     "wof:name":"Ch'imanis Bnakateghi",
     "wof:parent_id":1108783129,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310693893
+    ],
     "wof:tags":[]
 },
   "bbox": [
