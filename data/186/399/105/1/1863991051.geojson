@@ -1,79 +1,81 @@
 {
-  "id": 1310693893,
+  "id": 1863991051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2023-06-28",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.37653,41.00409,44.37653,41.00409",
-    "geom:latitude":41.00409,
-    "geom:longitude":44.37653,
+    "geom:bbox":"44.38611,41.01611,44.38611,41.01611",
+    "geom:latitude":41.01611,
+    "geom:longitude":44.38611,
     "gn:admin1_code":"6.0",
-    "gn:asciiname":"Ch'imanis Bnakateghi",
+    "gn:asciiname":"Desin",
     "gn:country_code":"AM",
-    "gn:dem":1439,
+    "gn:dem":1399,
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
-    "gn:geonameid":11319449,
-    "gn:latitude":41.00409,
-    "gn:longitude":44.37653,
+    "gn:geonameid":11319440,
+    "gn:latitude":41.01611,
+    "gn:longitude":44.38611,
     "gn:modification_date":"2016-11-24",
-    "gn:name":"Ch\u2019imanis Bnakateghi",
+    "gn:name":"Desin",
     "gn:population":0,
     "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
-    "lbl:bbox":"44.35653,40.98409,44.39653,41.02409",
+    "lbl:bbox":"44.36611,40.99611,44.40611,41.03611",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hierarchy_label":1,
     "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
-        "Ch\u2019imanis Bnakateghi"
+        "Desin"
     ],
     "name:hye_x_variant":[
-        "\u0549\u056b\u0574\u0561\u0576\u056b\u057d \u0562\u0576\u0561\u056f\u0561\u057f\u0565\u0572\u056b"
+        "\u0534\u0565\u057d\u056b\u0576"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85668109,
         102191569,
         1108783129,
         85632773,
-        85668109
+        1310598707
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11319449
+        "gn:id":11319440
     },
     "wof:country":"AM",
-    "wof:geomhash":"bf96a0e30f91741846bb785e4d4d4b90",
+    "wof:geomhash":"dc40591f15bd58bbcc1ca36a0c635f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632773,
             "localadmin_id":1108783129,
-            "locality_id":1310693893,
+            "locality_id":1310598707,
+            "neighbourhood_id":1863991051,
             "region_id":85668109
         }
     ],
-    "wof:id":1310693893,
+    "wof:id":1863991051,
     "wof:lastmodified":1687990135,
-    "wof:name":"Ch'imanis Bnakateghi",
+    "wof:name":"Desin",
     "wof:parent_id":1108783129,
-    "wof:placetype":"locality",
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-am",
-    "wof:superseded_by":[
-        1863991055
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    44.37653,
-    41.00409,
-    44.37653,
-    41.00409
+    44.38611,
+    41.01611,
+    44.38611,
+    41.01611
 ],
-  "geometry": {"coordinates":[44.37653,41.00409],"type":"Point"}
+  "geometry": {"coordinates":[44.38611,41.01611],"type":"Point"}
 }
