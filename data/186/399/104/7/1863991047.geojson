@@ -39,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85668089,
         102191569,
         1108782637,
         85632773,
-        1360076925,
-        85668089
+        421194815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +56,15 @@
             "continent_id":102191569,
             "country_id":85632773,
             "localadmin_id":1108782637,
-            "locality_id":1360076925,
+            "locality_id":421194815,
             "neighbourhood_id":1863991047,
             "region_id":85668089
         }
     ],
     "wof:id":1863991047,
-    "wof:lastmodified":1687996203,
+    "wof:lastmodified":1688094574,
     "wof:name":"Hayastan",
-    "wof:parent_id":1108782637,
+    "wof:parent_id":421194815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],

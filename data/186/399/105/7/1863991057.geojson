@@ -39,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85668109,
         102191569,
         1108783129,
         85632773,
-        1259977481,
-        85668109
+        1276224845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +56,15 @@
             "continent_id":102191569,
             "country_id":85632773,
             "localadmin_id":1108783129,
-            "locality_id":1259977481,
+            "locality_id":1276224845,
             "neighbourhood_id":1863991057,
             "region_id":85668109
         }
     ],
     "wof:id":1863991057,
-    "wof:lastmodified":1687996203,
+    "wof:lastmodified":1688094577,
     "wof:name":"Shahumyan S.",
-    "wof:parent_id":1108783129,
+    "wof:parent_id":1276224845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
