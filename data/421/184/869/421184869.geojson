@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Shenavan"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03b1\u03b2\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Shenavan"
     ],
@@ -41,6 +47,9 @@
     "name:kat_x_preferred":[
         "\u10e8\u10d4\u10dc\u10d0\u10d5\u10d0\u10dc\u10d8"
     ],
+    "name:kur_x_preferred":[
+        "Kelegerx"
+    ],
     "name:msa_x_preferred":[
         "Shenavan"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:nld_x_preferred":[
         "Shenavan"
+    ],
+    "name:pol_x_preferred":[
+        "Szenawan"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u043d\u0430\u0432\u0430\u043d"
@@ -67,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Kyalagarkh"
+    ],
+    "name:uzb_x_preferred":[
+        "Shenavan"
     ],
     "name:vie_x_preferred":[
         "Shenavan"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421184869,
-    "wof:lastmodified":1566585512,
+    "wof:lastmodified":1690849848,
     "wof:name":"Shenavan",
     "wof:parent_id":1108783807,
     "wof:placetype":"locality",

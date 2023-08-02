@@ -29,6 +29,9 @@
     "name:che_x_preferred":[
         "\u0414\u0437\u0438\u0442\u0430\u043d\u043a\u043e\u0432"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03b9\u03c4\u03c7\u03b1\u03bd\u03ba\u03cc\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Dzit'hank'ov"
     ],
@@ -62,6 +65,9 @@
     "name:nld_x_preferred":[
         "Dzithankov"
     ],
+    "name:pol_x_preferred":[
+        "Dzithankow"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0437\u0438\u0442\u0430\u043d\u043a\u043e\u0432"
     ],
@@ -74,8 +80,17 @@
     "name:swe_x_preferred":[
         "Dzit'hank'ov"
     ],
+    "name:swe_x_variant":[
+        "Dzithankov"
+    ],
     "name:und_x_variant":[
         "Dzitkhankov"
+    ],
+    "name:uzb_x_preferred":[
+        "Dzithankov"
+    ],
+    "name:vie_x_preferred":[
+        "Dzitankov"
     ],
     "name:zho_min_nan_x_preferred":[
         "Dzithankov"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":421197875,
-    "wof:lastmodified":1566585505,
+    "wof:lastmodified":1690849834,
     "wof:name":"Dzit'hank'ov",
     "wof:parent_id":1108782619,
     "wof:placetype":"locality",

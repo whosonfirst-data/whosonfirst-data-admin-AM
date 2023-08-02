@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Zovaber"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u043e\u0432\u0430\u0431\u0435\u0440"
+    ],
     "name:eng_x_preferred":[
         "Zovaber"
     ],
@@ -53,6 +56,9 @@
     "name:nld_x_preferred":[
         "Zovaber"
     ],
+    "name:pol_x_preferred":[
+        "Zowaber"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u0432\u0430\u0431\u0435\u0440"
     ],
@@ -65,11 +71,17 @@
     "name:swe_x_preferred":[
         "Zovaber"
     ],
+    "name:tur_x_preferred":[
+        "Zovaber"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0432\u0430\u0431\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Yaydzhi"
+    ],
+    "name:uzb_x_preferred":[
+        "Zovaber"
     ],
     "name:vie_x_preferred":[
         "Zovaber"
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421183821,
-    "wof:lastmodified":1566585514,
+    "wof:lastmodified":1690849852,
     "wof:name":"Zovaber",
     "wof:parent_id":1108783541,
     "wof:placetype":"locality",

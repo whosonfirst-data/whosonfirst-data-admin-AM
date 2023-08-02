@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Getahovit"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u0442\u0430\u043e\u0432\u0438\u0442"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03b5\u03c4\u03b1\u03c7\u03bf\u03b2\u03af\u03c4"
     ],
@@ -62,6 +65,9 @@
     "name:oci_x_preferred":[
         "Getahovit"
     ],
+    "name:pol_x_preferred":[
+        "Getahowit"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0442\u0430\u043e\u0432\u0438\u0442"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:und_x_variant":[
         "Getaovit"
+    ],
+    "name:uzb_x_preferred":[
+        "Getahovit"
     ],
     "name:vie_x_preferred":[
         "Getahovit"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421198699,
-    "wof:lastmodified":1566585502,
+    "wof:lastmodified":1690849829,
     "wof:name":"Getahovit",
     "wof:parent_id":1108783283,
     "wof:placetype":"locality",

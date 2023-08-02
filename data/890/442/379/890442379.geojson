@@ -41,6 +41,9 @@
         "Akner",
         "\u0531\u056f\u0576\u0565\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056f\u0576\u0565\u0580"
+    ],
     "name:ita_x_preferred":[
         "Akner"
     ],
@@ -59,6 +62,9 @@
     "name:oci_x_preferred":[
         "Akner"
     ],
+    "name:pol_x_preferred":[
+        "Akner"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u043d\u0435\u0440"
     ],
@@ -66,6 +72,9 @@
         "Akner"
     ],
     "name:spa_x_preferred":[
+        "Akner"
+    ],
+    "name:tur_x_preferred":[
         "Akner"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890442379,
-    "wof:lastmodified":1566585529,
+    "wof:lastmodified":1690849877,
     "wof:name":"Brun",
     "wof:parent_id":1108783727,
     "wof:placetype":"locality",

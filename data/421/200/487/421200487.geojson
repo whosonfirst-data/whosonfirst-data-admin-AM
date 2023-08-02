@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Noramarg"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u043c\u0430\u0440\u043a"
+    ],
     "name:eng_x_preferred":[
         "Noramarg"
     ],
@@ -56,6 +59,9 @@
     "name:nld_x_preferred":[
         "Noramarg"
     ],
+    "name:pol_x_preferred":[
+        "Noramarg"
+    ],
     "name:rus_x_preferred":[
         "Pos\u00eblok Imeni Kalinina"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Kalinin"
+    ],
+    "name:uzb_x_preferred":[
+        "Noramarg"
     ],
     "name:vie_x_preferred":[
         "Noramarg"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":421200487,
-    "wof:lastmodified":1566585510,
+    "wof:lastmodified":1690849843,
     "wof:name":"Noramarg",
     "wof:parent_id":1108782983,
     "wof:placetype":"locality",

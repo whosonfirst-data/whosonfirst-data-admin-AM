@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0415\u0440\u0435\u0432\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Y\u00e8r\u00e8van"
     ],
@@ -40,6 +43,12 @@
     "name:arg_x_preferred":[
         "Erevan"
     ],
+    "name:ary_x_preferred":[
+        "\u064a\u0631\u064a\u06a4\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u064a\u0631\u064a\u0641\u064a\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Yerevan"
     ],
@@ -49,6 +58,12 @@
     "name:ava_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d"
     ],
+    "name:avk_x_preferred":[
+        "Yerevan"
+    ],
+    "name:awa_x_preferred":[
+        "\u092f\u0947\u0930\u0947\u0935\u0928"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0631\u0648\u0627\u0646"
     ],
@@ -57,6 +72,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d"
+    ],
+    "name:ban_x_preferred":[
+        "Yerevan"
     ],
     "name:bcl_x_preferred":[
         "Yerevan"
@@ -75,6 +93,9 @@
     ],
     "name:bos_x_preferred":[
         "Erevan"
+    ],
+    "name:bos_x_variant":[
+        "Jerevan"
     ],
     "name:bre_x_preferred":[
         "Yerevan"
@@ -179,6 +200,9 @@
     "name:glv_x_preferred":[
         "Yerevan"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf34\ud800\udf42\ud800\udf34\ud800\udf48\ud800\udf30\ud800\udf3d"
+    ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac7\u0ab0\u0ac7\u0ab5\u0aa8"
     ],
@@ -187,6 +211,12 @@
     ],
     "name:hat_x_preferred":[
         "Erev\u00e0n"
+    ],
+    "name:hau_x_preferred":[
+        "Yerevan"
+    ],
+    "name:haw_x_preferred":[
+        "Helewan"
     ],
     "name:hbs_x_preferred":[
         "Erevan"
@@ -225,6 +255,9 @@
     "name:ile_x_preferred":[
         "Jerevan"
     ],
+    "name:ile_x_variant":[
+        "Yerevan"
+    ],
     "name:ilo_x_preferred":[
         "Yerevan"
     ],
@@ -249,6 +282,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30d0\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30a7\u30ec\u30f4\u30a1\u30f3"
     ],
     "name:kaa_x_preferred":[
         "Erevan"
@@ -285,6 +321,9 @@
     ],
     "name:lat_x_preferred":[
         "Erevanum"
+    ],
+    "name:lat_x_variant":[
+        "Erivanum"
     ],
     "name:lav_x_preferred":[
         "Erev\u0101na"
@@ -325,6 +364,9 @@
     "name:mdf_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d \u043e\u0448\u0441\u044c"
     ],
+    "name:mdf_x_variant":[
+        "\u0415\u0440\u0435\u0432\u0430\u043d"
+    ],
     "name:mhr_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d"
     ],
@@ -334,6 +376,12 @@
     "name:mlg_x_preferred":[
         "Yerevan"
     ],
+    "name:mlt_x_preferred":[
+        "Yerevan"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcc\uabe6\uabd4\uabe6\uabda\uabe5\uabdf"
+    ],
     "name:mon_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d"
     ],
@@ -342,6 +390,9 @@
     ],
     "name:msa_x_preferred":[
         "Yerevan"
+    ],
+    "name:mya_x_preferred":[
+        "\u101a\u1031\u101b\u1031\u1017\u1014\u103a"
     ],
     "name:myv_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d \u043e\u0448"
@@ -354,6 +405,9 @@
     ],
     "name:nan_x_preferred":[
         "Erevan"
+    ],
+    "name:nav_x_preferred":[
+        "H\u00f3k\u02bc\u0105\u0301\u0105\u0301s\u02bc\u00e1n\u00ed"
     ],
     "name:nep_x_preferred":[
         "\u092f\u0947\u0930\u0935\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -391,6 +445,9 @@
     "name:pap_x_preferred":[
         "Yerevan"
     ],
+    "name:pih_x_preferred":[
+        "Yerevan"
+    ],
     "name:pms_x_preferred":[
         "Erevan"
     ],
@@ -407,13 +464,17 @@
         "Erevan"
     ],
     "name:por_x_variant":[
-        "Yerevan"
+        "Yerevan",
+        "Erev\u00e3"
     ],
     "name:que_x_preferred":[
         "Yiriwan"
     ],
     "name:ron_x_preferred":[
         "Erevan"
+    ],
+    "name:rue_x_preferred":[
+        "\u0415\u0440\u0435\u0432\u0430\u043d"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u0435\u0432\u0430\u043d"
@@ -433,6 +494,9 @@
     "name:sco_x_preferred":[
         "Yerevan"
     ],
+    "name:sgs_x_preferred":[
+        "Jerevans"
+    ],
     "name:sin_x_preferred":[
         "\u0dba\u0dda\u0dbb\u0dc0\u0dcf\u0db1\u0dca"
     ],
@@ -444,6 +508,9 @@
     ],
     "name:sna_x_preferred":[
         "Yerevan"
+    ],
+    "name:snd_x_preferred":[
+        "\u064a\u0631\u064a\u0648\u0627\u0646"
     ],
     "name:spa_x_preferred":[
         "Erev\u00e1n"
@@ -465,6 +532,9 @@
     ],
     "name:swe_x_preferred":[
         "Jerevan"
+    ],
+    "name:szl_x_preferred":[
+        "Erywa\u0144"
     ],
     "name:tam_x_preferred":[
         "\u0baf\u0bc6\u0bb0\u0bc6\u0bb5\u0bbe\u0ba9\u0bcd"
@@ -537,6 +607,9 @@
     ],
     "name:war_x_preferred":[
         "Yerevan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u91cc\u6e29"
     ],
     "name:xmf_x_preferred":[
         "\u10d4\u10e0\u10d4\u10d5\u10d0\u10dc\u10d8"
@@ -706,7 +779,7 @@
         }
     ],
     "wof:id":421182367,
-    "wof:lastmodified":1608688179,
+    "wof:lastmodified":1690849861,
     "wof:megacity":1,
     "wof:name":"Yerevan",
     "wof:parent_id":85668115,

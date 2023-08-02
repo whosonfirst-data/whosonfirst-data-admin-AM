@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Tsaghkunk"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u063a\u06a9\u0648\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Tsaghkunk"
+    ],
     "name:hye_x_preferred":[
         "Tsaghkunk\u2019"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890433443,
-    "wof:lastmodified":1566585530,
+    "wof:lastmodified":1690849880,
     "wof:name":"Tsaghkunk\u2019",
     "wof:parent_id":1108783887,
     "wof:placetype":"locality",

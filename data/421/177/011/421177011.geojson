@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mayakovski"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u044f\u043a\u043e\u0432\u0441\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Mayakovski"
     ],
@@ -41,6 +44,9 @@
     "name:hye_x_variant":[
         "Mayakovski"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0575\u0561\u0584\u0578\u057e\u057d\u0584\u056b"
+    ],
     "name:ita_x_preferred":[
         "Majakovskij"
     ],
@@ -56,6 +62,9 @@
     "name:nld_x_preferred":[
         "Mayakovski"
     ],
+    "name:pol_x_preferred":[
+        "Majakowski"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u044f\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Shaab"
+    ],
+    "name:uzb_x_preferred":[
+        "Mayakovski"
     ],
     "name:vie_x_preferred":[
         "Mayakovski"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":421177011,
-    "wof:lastmodified":1566585513,
+    "wof:lastmodified":1690849850,
     "wof:name":"Mayakovski",
     "wof:parent_id":1108784543,
     "wof:placetype":"locality",

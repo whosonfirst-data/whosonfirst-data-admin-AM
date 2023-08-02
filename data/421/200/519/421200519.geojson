@@ -29,6 +29,9 @@
     "name:che_x_preferred":[
         "\u041c\u0435\u0446 \u041c\u0430\u043d\u0442\u0430\u0448"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03b6 \u039c\u03b1\u03bd\u03c4\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Mets Mant'ash"
     ],
@@ -62,6 +65,9 @@
     "name:nld_x_preferred":[
         "Mets Mantash"
     ],
+    "name:pol_x_preferred":[
+        "Mec Mantasz"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446-\u041c\u0430\u043d\u0442\u0430\u0448"
     ],
@@ -77,8 +83,14 @@
     "name:swe_x_preferred":[
         "Mets Mant'ash"
     ],
+    "name:swe_x_variant":[
+        "Mets Mantasj"
+    ],
     "name:und_x_variant":[
         "Bol\u2019shoy Mantash"
+    ],
+    "name:uzb_x_preferred":[
+        "Mets Mantash"
     ],
     "name:vie_x_preferred":[
         "Mets Mantash"
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":421200519,
-    "wof:lastmodified":1566585509,
+    "wof:lastmodified":1690849841,
     "wof:name":"Mets Mant'ash",
     "wof:parent_id":1108782799,
     "wof:placetype":"locality",

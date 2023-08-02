@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Dimitrov"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432"
+    ],
     "name:eng_x_preferred":[
         "Dimitrov"
     ],
@@ -73,6 +76,9 @@
     "name:nld_x_preferred":[
         "Dimitrov"
     ],
+    "name:pol_x_preferred":[
+        "Dimitrow"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043c\u0456\u0442\u0440\u043e\u0432"
+    ],
+    "name:uzb_x_preferred":[
+        "Dimitrov"
     ],
     "name:vie_x_preferred":[
         "Dimitrov"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":890443469,
-    "wof:lastmodified":1566585527,
+    "wof:lastmodified":1690849875,
     "wof:name":"Dimitrov",
     "wof:parent_id":1108782995,
     "wof:placetype":"locality",

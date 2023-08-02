@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Zangakatun"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u043d\u0433\u0430\u043a\u0430\u0442\u0443\u043d"
+    ],
     "name:eng_x_preferred":[
         "Zangakatun"
     ],
@@ -59,6 +62,9 @@
     "name:nld_x_preferred":[
         "Zangakatun"
     ],
+    "name:pol_x_preferred":[
+        "Zangakatun"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043d\u0433\u0430\u043a\u0430\u0442\u0443\u043d"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Sovetashen"
+    ],
+    "name:uzb_x_preferred":[
+        "Zangakatun"
     ],
     "name:vie_x_preferred":[
         "Zangakatun"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421204875,
-    "wof:lastmodified":1566585493,
+    "wof:lastmodified":1690849817,
     "wof:name":"Zangakatun",
     "wof:parent_id":1108783295,
     "wof:placetype":"locality",

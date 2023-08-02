@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0627\u062c\u0643\u0627\u062f\u0632\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u0627\u062c\u0643\u0627\u062f\u0632\u0648\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0633\u0627\u063a\u06a9\u0627\u062f\u0632\u0648\u0631"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u0430\u0433\u043a\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0426\u0430\u0433\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:bul_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
@@ -43,6 +52,12 @@
     ],
     "name:che_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0633\u0627\u063a\u06a9\u0627\u062f\u0632\u06c6\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Tsaghkadjor"
     ],
     "name:deu_x_preferred":[
         "Zaghkadsor"
@@ -65,11 +80,23 @@
     "name:fra_x_preferred":[
         "Tsakhkadzor"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e1\u05d0\u05d2\u05d3\u05d6\u05d5\u05e8"
+    ],
     "name:hsb_x_preferred":[
         "Cachkadzor"
     ],
+    "name:hun_x_preferred":[
+        "Cagkadzor"
+    ],
     "name:hye_x_preferred":[
         "\u053e\u0561\u0572\u056f\u0561\u0571\u0578\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053e\u0561\u0572\u056f\u0561\u0571\u0578\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Tsaghkadzor"
     ],
     "name:ind_x_preferred":[
         "Tsakhkadzor"
@@ -86,6 +113,9 @@
     "name:lit_x_preferred":[
         "Cachkadzoras"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d18\u0d21\u0d4d\u0d38\u0d7c"
+    ],
     "name:msa_x_preferred":[
         "Tsakhkadzor"
     ],
@@ -94,6 +124,9 @@
     ],
     "name:nld_x_preferred":[
         "Tsachkadzor"
+    ],
+    "name:nob_x_preferred":[
+        "Tsaghkadzor"
     ],
     "name:pol_x_preferred":[
         "Cachkadzor"
@@ -119,6 +152,9 @@
     "name:swe_x_preferred":[
         "Tsaghkadzor"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e31\u0e06\u0e01\u0e31\u0e14\u0e0b\u0e2d\u0e23\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0433\u043a\u0430\u0434\u0437\u043e\u0440"
     ],
@@ -133,6 +169,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tsakhkadzor"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u8428\u5361\u5fb7\u82cf\u5c14"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -182,7 +221,7 @@
         }
     ],
     "wof:id":421198711,
-    "wof:lastmodified":1566585502,
+    "wof:lastmodified":1690849830,
     "wof:name":"Tsakhkadzor",
     "wof:parent_id":1108783549,
     "wof:placetype":"locality",

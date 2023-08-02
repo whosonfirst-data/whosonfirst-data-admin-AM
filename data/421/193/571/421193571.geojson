@@ -47,6 +47,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u056b\u0563\u0575\u0578\u0582\u0572"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0561\u0580\u056b\u0563\u056b\u0582\u0572"
+    ],
     "name:ita_x_preferred":[
         "Sarigyugh"
     ],
@@ -65,6 +68,9 @@
     "name:oci_x_preferred":[
         "Sarigyugh"
     ],
+    "name:pol_x_preferred":[
+        "Sarigjuch"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0438\u0433\u044e\u0445"
     ],
@@ -77,8 +83,14 @@
     "name:swe_x_preferred":[
         "Sarigyugh"
     ],
+    "name:swe_x_variant":[
+        "Sarigjugh"
+    ],
     "name:und_x_variant":[
         "Srigekh"
+    ],
+    "name:uzb_x_preferred":[
+        "Sarigyugh"
     ],
     "name:vie_x_preferred":[
         "Sarigyukh"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":421193571,
-    "wof:lastmodified":1566585491,
+    "wof:lastmodified":1690849813,
     "wof:name":"Sarigyugh",
     "wof:parent_id":1108783461,
     "wof:placetype":"locality",

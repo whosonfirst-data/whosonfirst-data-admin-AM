@@ -25,8 +25,17 @@
     "name:ara_x_variant":[
         "\u0631\u0627\u0646\u062a\u0634\u0628\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0646\u062a\u0634\u0628\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "R\u0259ncb\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Rranch'par"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u043d\u0447\u043f\u0430\u0440"
     ],
     "name:eng_x_preferred":[
         "Ranchpar"
@@ -58,14 +67,23 @@
     "name:nld_x_preferred":[
         "Ranchpar"
     ],
+    "name:pol_x_preferred":[
+        "Ranczpar"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043d\u0447\u043f\u0430\u0440"
     ],
     "name:spa_x_preferred":[
         "Ranchpar"
     ],
+    "name:swe_x_preferred":[
+        "Rranch'par"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043d\u0447\u043f\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Ranchpar"
     ],
     "name:vie_x_preferred":[
         "Ranchpar"
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":890420053,
-    "wof:lastmodified":1566585528,
+    "wof:lastmodified":1690849876,
     "wof:name":"Rranch\u2019par",
     "wof:parent_id":1108784207,
     "wof:placetype":"locality",

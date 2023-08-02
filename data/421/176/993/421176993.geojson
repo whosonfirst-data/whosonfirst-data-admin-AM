@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0622\u0631\u0632\u0646\u064a"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u072a\u0719\u0722\u071d"
+    ],
     "name:aze_x_preferred":[
         "\u018frzni"
     ],
@@ -71,6 +77,9 @@
     "name:pih_x_preferred":[
         "Arzni"
     ],
+    "name:pol_x_preferred":[
+        "Arzni"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0437\u043d\u0438"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0437\u043d\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Arzni"
     ],
     "name:vie_x_preferred":[
         "Arzni"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":421176993,
-    "wof:lastmodified":1566585520,
+    "wof:lastmodified":1690849863,
     "wof:name":"Arzni",
     "wof:parent_id":1108784347,
     "wof:placetype":"locality",

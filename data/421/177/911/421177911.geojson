@@ -44,6 +44,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0575\u0563\u0565\u0570\u0578\u057e\u056b\u057f"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u0570\u0578\u057e\u056b\u057f"
+    ],
     "name:ita_x_preferred":[
         "Aygehovit"
     ],
@@ -59,6 +62,9 @@
     "name:nld_x_preferred":[
         "Aygehovit"
     ],
+    "name:pol_x_preferred":[
+        "Ajgehowit"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0433\u0435\u043e\u0432\u0438\u0442"
     ],
@@ -69,6 +75,9 @@
         "Aygehovit"
     ],
     "name:swe_x_preferred":[
+        "Aygehovit"
+    ],
+    "name:uzb_x_preferred":[
         "Aygehovit"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":421177911,
-    "wof:lastmodified":1566585514,
+    "wof:lastmodified":1690849852,
     "wof:name":"Aygehovit",
     "wof:parent_id":1108783181,
     "wof:placetype":"locality",

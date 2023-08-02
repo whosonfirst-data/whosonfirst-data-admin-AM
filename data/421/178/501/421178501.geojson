@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Shnogh"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u043d\u043e\u0445"
+    ],
     "name:eng_x_preferred":[
         "Shnogh"
     ],
@@ -50,6 +53,9 @@
     "name:nld_x_preferred":[
         "Shnogh"
     ],
+    "name:pol_x_preferred":[
+        "Sznoch"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043d\u043e\u0445"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Shnokh"
+    ],
+    "name:uzb_x_preferred":[
+        "Shnogh"
     ],
     "name:vie_x_preferred":[
         "Shnogh"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421178501,
-    "wof:lastmodified":1566585517,
+    "wof:lastmodified":1690849858,
     "wof:name":"Shnogh",
     "wof:parent_id":1108783171,
     "wof:placetype":"locality",

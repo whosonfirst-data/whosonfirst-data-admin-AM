@@ -53,6 +53,9 @@
     "name:hye_x_preferred":[
         "\u053d\u0561\u0577\u0569\u0561\u057c\u0561\u056f"
     ],
+    "name:hyw_x_preferred":[
+        "\u053d\u0561\u0577\u0569\u0561\u057c\u0561\u056f"
+    ],
     "name:ita_x_preferred":[
         "Khashtarak"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Khashtarak"
     ],
+    "name:pol_x_preferred":[
+        "Chasztarrak"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0448\u0442\u0430\u0440\u0430\u043a"
     ],
@@ -82,6 +88,12 @@
     ],
     "name:swe_x_preferred":[
         "Khasht'arrak"
+    ],
+    "name:swe_x_variant":[
+        "Chasjtarak"
+    ],
+    "name:uzb_x_preferred":[
+        "Khashtarak"
     ],
     "name:vie_x_preferred":[
         "Khashtarak"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":421177007,
-    "wof:lastmodified":1566585513,
+    "wof:lastmodified":1690849849,
     "wof:name":"Khasht'arrak",
     "wof:parent_id":1108783257,
     "wof:placetype":"locality",

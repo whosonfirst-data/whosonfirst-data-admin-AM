@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Mrgavan"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0440\u0433\u0430\u0432\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Mrgavan"
     ],
@@ -56,6 +59,9 @@
     "name:nld_x_preferred":[
         "Mrgavan"
     ],
+    "name:pol_x_preferred":[
+        "Myrgawan"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0433\u0440\u0430\u0432\u0430\u043d"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Gedaklu"
+    ],
+    "name:uzb_x_preferred":[
+        "Mrgavet"
     ],
     "name:vie_x_preferred":[
         "Mrgavan"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":421174357,
-    "wof:lastmodified":1566585496,
+    "wof:lastmodified":1690849822,
     "wof:name":"Mrgavan",
     "wof:parent_id":1108784353,
     "wof:placetype":"locality",

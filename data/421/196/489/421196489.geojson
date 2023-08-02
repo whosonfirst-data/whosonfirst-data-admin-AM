@@ -20,6 +20,12 @@
     "name:aze_x_preferred":[
         "G\u00fcll\u00fcc\u0259"
     ],
+    "name:ceb_x_preferred":[
+        "Sarahart'"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0430\u0440\u0442"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03b1\u03c7\u03ac\u03c1\u03c4"
     ],
@@ -47,14 +53,23 @@
     "name:nld_x_preferred":[
         "Sarahart"
     ],
+    "name:pol_x_preferred":[
+        "Sarahart"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0430\u0440\u0442"
     ],
     "name:spa_x_preferred":[
         "Sarahart"
     ],
+    "name:swe_x_preferred":[
+        "Sarahart"
+    ],
     "name:und_x_variant":[
         "Gyullidzha"
+    ],
+    "name:uzb_x_preferred":[
+        "Sarahart"
     ],
     "name:vie_x_preferred":[
         "Sarahart"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":421196489,
-    "wof:lastmodified":1566585503,
+    "wof:lastmodified":1690849833,
     "wof:name":"Sarahart'",
     "wof:parent_id":1108783159,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
     "name:eus_x_preferred":[
         "Tazagyukh"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0632\u0627\u06af\u06cc\u0648\u062e"
+    ],
     "name:fin_x_preferred":[
         "Tazagyukh"
     ],
@@ -200,6 +203,9 @@
     "name:swe_x_preferred":[
         "Tazagyukh"
     ],
+    "name:swe_x_variant":[
+        "Tazagjugh"
+    ],
     "name:vec_x_preferred":[
         "Tazagyukh"
     ],
@@ -268,7 +274,7 @@
         }
     ],
     "wof:id":421200493,
-    "wof:lastmodified":1566585510,
+    "wof:lastmodified":1690849844,
     "wof:name":"T'azagyugh",
     "wof:parent_id":1108784217,
     "wof:placetype":"locality",

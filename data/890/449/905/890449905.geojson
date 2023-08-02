@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Tegh"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0445"
+    ],
+    "name:deu_x_preferred":[
+        "Tegh"
+    ],
     "name:eng_x_preferred":[
         "Tegh"
     ],
@@ -55,6 +61,9 @@
     "name:nld_x_preferred":[
         "Tegh"
     ],
+    "name:pol_x_preferred":[
+        "Tech"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0445"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "Tekh"
+    ],
+    "name:uzb_x_preferred":[
+        "Tegh"
     ],
     "name:vie_x_preferred":[
         "Tegh"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":890449905,
-    "wof:lastmodified":1566585522,
+    "wof:lastmodified":1690849866,
     "wof:name":"Tegh",
     "wof:parent_id":1108783725,
     "wof:placetype":"locality",

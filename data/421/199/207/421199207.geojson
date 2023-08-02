@@ -56,6 +56,12 @@
     "name:nld_x_preferred":[
         "Akunk"
     ],
+    "name:pol_x_preferred":[
+        "Akunk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0443\u043d\u043a"
+    ],
     "name:sco_x_preferred":[
         "Akunk"
     ],
@@ -65,11 +71,20 @@
     "name:swe_x_preferred":[
         "Akunk'"
     ],
+    "name:swe_x_variant":[
+        "Akunk"
+    ],
+    "name:tur_x_preferred":[
+        "Akunk"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0443\u043d\u043a"
     ],
     "name:und_x_variant":[
         "Kirkhbulag"
+    ],
+    "name:uzb_x_preferred":[
+        "Akunk"
     ],
     "name:vie_x_preferred":[
         "Akunk"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":421199207,
-    "wof:lastmodified":1566585506,
+    "wof:lastmodified":1690849837,
     "wof:name":"Akunk'",
     "wof:parent_id":1108784099,
     "wof:placetype":"locality",

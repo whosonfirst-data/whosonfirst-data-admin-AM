@@ -41,6 +41,9 @@
     "name:hye_x_preferred":[
         "\u053e\u0578\u057e\u0561\u0563\u0575\u0578\u0582\u0572"
     ],
+    "name:hyw_x_preferred":[
+        "\u053e\u0578\u057e\u0561\u0563\u056b\u0582\u0572"
+    ],
     "name:ita_x_preferred":[
         "Tsovagyugh"
     ],
@@ -77,11 +80,20 @@
     "name:swe_x_preferred":[
         "Tsovagyugh"
     ],
+    "name:swe_x_variant":[
+        "Tsovagjugh"
+    ],
+    "name:tur_x_preferred":[
+        "Tsovagyu\u011f"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u043e\u0432\u0430\u0491\u044e\u0445"
     ],
     "name:und_x_variant":[
         "Chubukhly"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsovagyugh"
     ],
     "name:vie_x_preferred":[
         "Tsovagyugh"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":421192993,
-    "wof:lastmodified":1566585488,
+    "wof:lastmodified":1690849810,
     "wof:name":"Tsovagyugh",
     "wof:parent_id":1108784507,
     "wof:placetype":"locality",

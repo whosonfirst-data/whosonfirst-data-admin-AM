@@ -59,6 +59,9 @@
     "name:nld_x_preferred":[
         "Aygavan"
     ],
+    "name:pol_x_preferred":[
+        "Ajgawan"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0433\u0430\u0432\u0430\u043d"
     ],
@@ -68,11 +71,17 @@
     "name:swe_x_preferred":[
         "Aygavan"
     ],
+    "name:tam_x_preferred":[
+        "\u0b90\u0b95\u0bb5\u0ba9\u0bcd"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0491\u0430\u0432\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Reganlu"
+    ],
+    "name:uzb_x_preferred":[
+        "Aygavan"
     ],
     "name:vie_x_preferred":[
         "Aygavan"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":421167021,
-    "wof:lastmodified":1566585492,
+    "wof:lastmodified":1690849815,
     "wof:name":"Aygavan",
     "wof:parent_id":1108783003,
     "wof:placetype":"locality",

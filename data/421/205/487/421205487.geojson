@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Oshakan"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0448\u0430\u043a\u0430\u043d"
+    ],
     "name:deu_x_preferred":[
         "Oschakan"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:hye_x_variant":[
         "Oshakan"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0555\u0577\u0561\u056f\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Oshakan"
@@ -95,8 +101,14 @@
     "name:swe_x_preferred":[
         "Oshakan"
     ],
+    "name:swe_x_variant":[
+        "Osjakan"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0448\u0430\u043a\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Oshakan"
     ],
     "name:vie_x_preferred":[
         "Oshakan"
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":421205487,
-    "wof:lastmodified":1566585495,
+    "wof:lastmodified":1690849820,
     "wof:name":"Oshakan",
     "wof:parent_id":1108784209,
     "wof:placetype":"locality",

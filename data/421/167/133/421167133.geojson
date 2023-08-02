@@ -50,6 +50,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u0580\u0564\u0561\u057e\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0532\u0565\u0580\u0564\u0561\u0582\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Berdavan"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:oci_x_preferred":[
         "Berdavan"
+    ],
+    "name:pol_x_preferred":[
+        "Berdawan"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0434\u0430\u0432\u0430\u043d"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421167133,
-    "wof:lastmodified":1566585491,
+    "wof:lastmodified":1690849814,
     "wof:name":"Berdavan",
     "wof:parent_id":1108783609,
     "wof:placetype":"locality",

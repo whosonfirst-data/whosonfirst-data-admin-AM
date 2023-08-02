@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Armash"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u043c\u0430\u0448"
+    ],
     "name:eng_x_preferred":[
         "Armash"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:nld_x_preferred":[
         "Armash"
+    ],
+    "name:pol_x_preferred":[
+        "Armasz"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u043c\u0430\u0448"
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421176991,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1690849861,
     "wof:name":"Armash",
     "wof:parent_id":1108783023,
     "wof:placetype":"locality",

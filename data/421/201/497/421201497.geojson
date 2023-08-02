@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "Areni"
+    ],
     "name:aze_x_preferred":[
         "Arpa"
     ],
@@ -32,13 +35,22 @@
     "name:deu_x_preferred":[
         "Areni"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ad\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Areni"
+    ],
+    "name:epo_x_preferred":[
         "Areni"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Areni"
+    ],
+    "name:hsb_x_preferred":[
         "Areni"
     ],
     "name:hun_x_preferred":[
@@ -56,8 +68,14 @@
     "name:ita_x_preferred":[
         "Areni"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30cb"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:lav_x_preferred":[
+        "Areni"
     ],
     "name:msa_x_preferred":[
         "Areni"
@@ -77,20 +95,32 @@
     "name:sco_x_preferred":[
         "Areni"
     ],
+    "name:slv_x_preferred":[
+        "Areni"
+    ],
     "name:spa_x_preferred":[
         "Areni"
     ],
     "name:swe_x_preferred":[
         "Areni"
     ],
+    "name:tur_x_preferred":[
+        "Arpa"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u043d\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Areni"
     ],
     "name:vie_x_preferred":[
         "Areni"
     ],
     "name:zho_min_nan_x_preferred":[
         "Areni"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u96f7\u5c3c"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -143,7 +173,7 @@
         }
     ],
     "wof:id":421201497,
-    "wof:lastmodified":1566585511,
+    "wof:lastmodified":1690849846,
     "wof:name":"Areni",
     "wof:parent_id":1108783301,
     "wof:placetype":"locality",

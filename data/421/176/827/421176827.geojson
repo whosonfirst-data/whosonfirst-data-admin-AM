@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Garni"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u0440\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Garni"
     ],
@@ -54,6 +57,9 @@
         "Garni"
     ],
     "name:hye_x_preferred":[
+        "\u0533\u0561\u057c\u0576\u056b"
+    ],
+    "name:hyw_x_preferred":[
         "\u0533\u0561\u057c\u0576\u056b"
     ],
     "name:ita_x_preferred":[
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421176827,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1690849862,
     "wof:name":"Garni",
     "wof:parent_id":1108784269,
     "wof:placetype":"locality",

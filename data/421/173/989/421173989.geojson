@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Lukashin"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0448\u0438\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ba\u03b1\u03c3\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Lukashin"
     ],
@@ -53,6 +59,9 @@
     "name:nld_x_preferred":[
         "Lukashin"
     ],
+    "name:pol_x_preferred":[
+        "Lukaszin"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0448\u0438\u043d"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Imeni Mikoyana"
+    ],
+    "name:uzb_x_preferred":[
+        "Lukashin"
     ],
     "name:vie_x_preferred":[
         "Lukashin"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421173989,
-    "wof:lastmodified":1566585498,
+    "wof:lastmodified":1690849825,
     "wof:name":"Lukashin",
     "wof:parent_id":1108784171,
     "wof:placetype":"locality",

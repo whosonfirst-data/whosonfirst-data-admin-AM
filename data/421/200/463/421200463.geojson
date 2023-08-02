@@ -29,6 +29,9 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u043c\u0431\u0430\u043a\u0430\u0448\u0430\u0442"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1\u03c3\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Bambakashat"
     ],
@@ -44,6 +47,9 @@
     "name:ita_x_preferred":[
         "Bambakashat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d0\u30ab\u30b7\u30e3\u30c3\u30c8"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10db\u10d1\u10d0\u10d9\u10d0\u10e8\u10d0\u10e2\u10d8"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:nld_x_preferred":[
         "Bambakashat"
+    ],
+    "name:pol_x_preferred":[
+        "Bambakaszat"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043c\u0431\u0430\u043a\u0430\u0448\u0430\u0442"
@@ -74,6 +83,9 @@
     "name:und_x_variant":[
         "Molla Bayazet"
     ],
+    "name:uzb_x_preferred":[
+        "Bambakashat"
+    ],
     "name:vie_x_preferred":[
         "Bambakashat"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bambakashat"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u5df4\u5361\u85a9\u7279"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":421200463,
-    "wof:lastmodified":1566585508,
+    "wof:lastmodified":1690849839,
     "wof:name":"Bambakashat",
     "wof:parent_id":1108783805,
     "wof:placetype":"locality",

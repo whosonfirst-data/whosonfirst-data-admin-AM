@@ -20,6 +20,9 @@
     "name:aze_x_preferred":[
         "\u015e\u0259ki"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Shaki"
     ],
@@ -63,6 +66,12 @@
         "Shaki"
     ],
     "name:spa_x_preferred":[
+        "Shaki"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eaki"
+    ],
+    "name:vie_x_preferred":[
         "Shaki"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421184069,
-    "wof:lastmodified":1566585512,
+    "wof:lastmodified":1690849848,
     "wof:name":"Shak'i",
     "wof:parent_id":1108783589,
     "wof:placetype":"locality",

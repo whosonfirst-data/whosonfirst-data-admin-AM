@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Norashen"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0440\u0430\u0448\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Norashen"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u0577\u0567\u0576"
     ],
     "name:ita_x_preferred":[
         "Norashen"
@@ -53,6 +59,9 @@
     "name:nld_x_preferred":[
         "Norashen"
     ],
+    "name:pol_x_preferred":[
+        "Noraszen"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0430\u0448\u0435\u043d"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:und_x_variant":[
         "Bogdanovka"
+    ],
+    "name:uzb_x_preferred":[
+        "Norashen"
     ],
     "name:vie_x_preferred":[
         "Norashen"
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":421200483,
-    "wof:lastmodified":1566585507,
+    "wof:lastmodified":1690849838,
     "wof:name":"Norashen",
     "wof:parent_id":1108783085,
     "wof:placetype":"locality",

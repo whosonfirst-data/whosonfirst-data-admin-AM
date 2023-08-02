@@ -64,6 +64,9 @@
     "name:nld_x_preferred":[
         "Aygepat"
     ],
+    "name:pol_x_preferred":[
+        "Ajgepat"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0433\u0435\u043f\u0430\u0442"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Verkhniy Dargalu"
+    ],
+    "name:uzb_x_preferred":[
+        "Aygepat"
     ],
     "name:vie_x_preferred":[
         "Aygepat"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890435659,
-    "wof:lastmodified":1566585531,
+    "wof:lastmodified":1690849883,
     "wof:name":"Aygepat",
     "wof:parent_id":1108783993,
     "wof:placetype":"locality",

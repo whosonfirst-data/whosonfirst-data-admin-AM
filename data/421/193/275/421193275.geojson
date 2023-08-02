@@ -21,13 +21,17 @@
         "Mosesqex"
     ],
     "name:aze_x_variant":[
-        "Mosesgex"
+        "Mosesgex",
+        "Mosesge\u011f"
     ],
     "name:cat_x_preferred":[
         "Mosesgegh"
     ],
     "name:ceb_x_preferred":[
         "Mosesgegh"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0432\u0441\u0435\u0441"
     ],
     "name:deu_x_preferred":[
         "Mosesgegh"
@@ -53,6 +57,9 @@
     "name:hye_x_variant":[
         "\u0544\u0578\u057d\u0565\u057d\u0563\u0565\u0572"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0578\u057e\u057d\u0567\u057d\u0563\u056b\u0582\u0572"
+    ],
     "name:ita_x_preferred":[
         "Mosesgegh"
     ],
@@ -70,6 +77,9 @@
     ],
     "name:oci_x_preferred":[
         "Mosesgegh"
+    ],
+    "name:pol_x_preferred":[
+        "Mowses"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0441\u0435\u0441\u0433\u0435\u0445"
@@ -143,7 +153,7 @@
         }
     ],
     "wof:id":421193275,
-    "wof:lastmodified":1566585490,
+    "wof:lastmodified":1690849812,
     "wof:name":"Mosesgegh",
     "wof:parent_id":1108783289,
     "wof:placetype":"locality",

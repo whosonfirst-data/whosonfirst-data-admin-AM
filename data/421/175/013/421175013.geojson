@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "Getap"
+    ],
     "name:aze_x_preferred":[
         "Qoytur"
     ],
     "name:ceb_x_preferred":[
         "Getap'"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u0442\u0430\u043f"
     ],
     "name:eng_x_preferred":[
         "Getap"
@@ -54,6 +60,9 @@
         "Getap"
     ],
     "name:nld_x_preferred":[
+        "Getap"
+    ],
+    "name:pol_x_preferred":[
         "Getap"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":421175013,
-    "wof:lastmodified":1566585501,
+    "wof:lastmodified":1690849827,
     "wof:name":"Getap'",
     "wof:parent_id":1108782727,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:aze_x_preferred":[
         "Pro\u015fyan"
     ],
+    "name:ceb_x_preferred":[
+        "Prroshyan"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u043e\u0448\u044f\u043d"
+    ],
     "name:eng_x_preferred":[
         "Proshyan"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:hye_x_variant":[
         "Prroshyan"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u057c\u0578\u0577\u0565\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Proshyan"
@@ -50,6 +59,9 @@
     "name:nld_x_preferred":[
         "Proshyan"
     ],
+    "name:pol_x_preferred":[
+        "Proszjan"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0448\u044f\u043d"
     ],
@@ -57,6 +69,12 @@
         "Proshyan"
     ],
     "name:spa_x_preferred":[
+        "Proshyan"
+    ],
+    "name:swe_x_preferred":[
+        "Prroshyan"
+    ],
+    "name:uzb_x_preferred":[
         "Proshyan"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":421198705,
-    "wof:lastmodified":1566585501,
+    "wof:lastmodified":1690849829,
     "wof:name":"Prroshyan",
     "wof:parent_id":1108784317,
     "wof:placetype":"locality",

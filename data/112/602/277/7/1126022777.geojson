@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Qrampa"
+    ],
     "name:ceb_x_preferred":[
         "Tsiatsan"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u0430\u0446\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03b1\u03c4\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tsiatsan"
@@ -55,6 +64,9 @@
     "name:nld_x_preferred":[
         "Tsiatsan"
     ],
+    "name:pol_x_preferred":[
+        "Ciacan"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0438\u0430\u0446\u0430\u043d"
     ],
@@ -75,6 +87,9 @@
     ],
     "name:und_x_variant":[
         "Grampa"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsiatsan"
     ],
     "name:vie_x_preferred":[
         "Tsiatsan"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1126022777,
-    "wof:lastmodified":1566585532,
+    "wof:lastmodified":1690849883,
     "wof:name":"Tsiatsan",
     "wof:parent_id":1108783895,
     "wof:placetype":"locality",

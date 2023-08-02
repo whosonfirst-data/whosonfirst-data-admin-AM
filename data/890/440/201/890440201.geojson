@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Aygeshat"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u06af\u0634\u0627\u062a"
+    ],
     "name:fra_x_preferred":[
         "Aygeshat"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "Aygeshat"
+    ],
+    "name:pol_x_preferred":[
+        "Ajgeszat"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0433\u0435\u0448\u0430\u0442"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890440201,
-    "wof:lastmodified":1566585521,
+    "wof:lastmodified":1690849864,
     "wof:name":"Aygeshat",
     "wof:parent_id":1108783837,
     "wof:placetype":"locality",

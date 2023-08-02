@@ -23,6 +23,15 @@
     "name:aze_x_preferred":[
         "\u015e\u0131xlar"
     ],
+    "name:cat_x_preferred":[
+        "Lussarat"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u0440\u0430\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03c3\u03b1\u03c1\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Lusarat"
     ],
@@ -50,6 +59,9 @@
     "name:nld_x_preferred":[
         "Lusarat"
     ],
+    "name:pol_x_preferred":[
+        "Lusarrat"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0441\u0430\u0440\u0430\u0442"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0441\u0430\u0440\u0430\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Lusarat"
     ],
     "name:vie_x_preferred":[
         "Lusarat"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421192595,
-    "wof:lastmodified":1566585487,
+    "wof:lastmodified":1690849810,
     "wof:name":"Lusarrat",
     "wof:parent_id":1108783307,
     "wof:placetype":"locality",

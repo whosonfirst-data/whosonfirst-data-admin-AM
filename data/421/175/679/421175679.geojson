@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u0440\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Shirak"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0438\u0440\u0430\u043a"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03c1\u03ac\u03ba"
     ],
@@ -59,6 +65,9 @@
     "name:nld_x_preferred":[
         "Shirak"
     ],
+    "name:pol_x_preferred":[
+        "Szirak"
+    ],
     "name:ron_x_preferred":[
         "Shirak"
     ],
@@ -74,8 +83,14 @@
     "name:spa_x_preferred":[
         "Shirak"
     ],
+    "name:swe_x_preferred":[
+        "Sjirak"
+    ],
     "name:und_x_variant":[
         "Konakhkran"
+    ],
+    "name:vie_x_preferred":[
+        "Shirak"
     ],
     "name:zho_min_nan_x_preferred":[
         "Shirak"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":421175679,
-    "wof:lastmodified":1636495573,
+    "wof:lastmodified":1690849828,
     "wof:name":"Shirak",
     "wof:parent_id":1108782717,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Lorut"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0440\u0443\u0442"
+    ],
     "name:eng_x_preferred":[
         "Lorut"
     ],
@@ -50,6 +53,9 @@
     "name:nld_x_preferred":[
         "Lorut"
     ],
+    "name:pol_x_preferred":[
+        "Lorut"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0440\u0443\u0442"
     ],
@@ -57,6 +63,9 @@
         "Lorut"
     ],
     "name:swe_x_preferred":[
+        "Lorut"
+    ],
+    "name:uzb_x_preferred":[
         "Lorut"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421172381,
-    "wof:lastmodified":1566585499,
+    "wof:lastmodified":1690849827,
     "wof:name":"Lorut",
     "wof:parent_id":1108783189,
     "wof:placetype":"locality",

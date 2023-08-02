@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Arbat'"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0431\u0430\u0442"
+    ],
     "name:eng_x_preferred":[
         "Arbat"
     ],
@@ -62,6 +65,9 @@
     "name:nld_x_preferred":[
         "Arbat"
     ],
+    "name:pol_x_preferred":[
+        "Arbat"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0431\u0430\u0442"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0431\u0430\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Arbat"
     ],
     "name:zho_min_nan_x_preferred":[
         "Arbat"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421176989,
-    "wof:lastmodified":1566585520,
+    "wof:lastmodified":1690849863,
     "wof:name":"Arbat'",
     "wof:parent_id":1108783969,
     "wof:placetype":"locality",

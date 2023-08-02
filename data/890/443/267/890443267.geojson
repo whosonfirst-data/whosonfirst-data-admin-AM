@@ -25,6 +25,9 @@
     "name:che_x_preferred":[
         "\u041f\u0442\u0445\u0443\u043d\u043a"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03b3\u03bf\u03c5\u03bd\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Ptghunk"
     ],
@@ -76,6 +79,9 @@
     "name:und_x_variant":[
         "Ptkhunk"
     ],
+    "name:uzb_x_preferred":[
+        "Ptghunk"
+    ],
     "name:vie_x_preferred":[
         "Ptghunk"
     ],
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890443267,
-    "wof:lastmodified":1566585527,
+    "wof:lastmodified":1690849875,
     "wof:name":"Ptghunk\u2019",
     "wof:parent_id":1108784185,
     "wof:placetype":"locality",
