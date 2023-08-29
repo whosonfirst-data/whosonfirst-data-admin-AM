@@ -64,6 +64,9 @@
     "name:nld_x_preferred":[
         "Mayisyan"
     ],
+    "name:pol_x_preferred":[
+        "Majisjan"
+    ],
     "name:por_x_preferred":[
         "Mayisyan"
     ],
@@ -79,8 +82,14 @@
     "name:swe_x_preferred":[
         "Mayisyan"
     ],
+    "name:swe_x_variant":[
+        "Majisjan"
+    ],
     "name:und_x_variant":[
         "Ortakilisa"
+    ],
+    "name:uzb_x_preferred":[
+        "Mayisyan"
     ],
     "name:vie_x_preferred":[
         "Mayisyan"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":890431177,
-    "wof:lastmodified":1566585526,
+    "wof:lastmodified":1690849873,
     "wof:name":"Mayisyan",
     "wof:parent_id":1108782707,
     "wof:placetype":"locality",

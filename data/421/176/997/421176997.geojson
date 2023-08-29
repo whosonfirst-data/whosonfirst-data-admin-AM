@@ -62,6 +62,9 @@
     "name:eus_x_preferred":[
         "Hatsavan"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062a\u0633\u0627\u0648\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Hatsavan"
     ],
@@ -206,6 +209,9 @@
     "name:und_x_variant":[
         "Sisian"
     ],
+    "name:uzb_x_preferred":[
+        "Hatsavan"
+    ],
     "name:vec_x_preferred":[
         "Hatsavan"
     ],
@@ -274,7 +280,7 @@
         }
     ],
     "wof:id":421176997,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1690849861,
     "wof:name":"Hats'avan",
     "wof:parent_id":1108784235,
     "wof:placetype":"locality",

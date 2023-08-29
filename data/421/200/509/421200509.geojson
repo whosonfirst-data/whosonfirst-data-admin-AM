@@ -47,6 +47,9 @@
     "name:hye_x_preferred":[
         "\u0548\u057d\u056f\u0565\u057e\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0548\u057d\u056f\u0565\u0582\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Voskevan"
     ],
@@ -65,6 +68,9 @@
     "name:oci_x_preferred":[
         "Voskevan"
     ],
+    "name:pol_x_preferred":[
+        "Woskewan"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0435\u0432\u0430\u043d"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:und_x_variant":[
         "Koshkotan"
+    ],
+    "name:uzb_x_preferred":[
+        "Voskevan"
     ],
     "name:vie_x_preferred":[
         "Voskevan"
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":421200509,
-    "wof:lastmodified":1566585509,
+    "wof:lastmodified":1690849843,
     "wof:name":"Voskevan",
     "wof:parent_id":1108783057,
     "wof:placetype":"locality",

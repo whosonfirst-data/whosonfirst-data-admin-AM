@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Marmarashen"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0448\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Marmarashen"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hye_x_variant":[
         "Marmarashen"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0580\u0574\u0561\u0580\u0561\u0577\u0567\u0576"
     ],
     "name:ita_x_preferred":[
         "Marmara\u0161en"
@@ -59,6 +65,9 @@
     "name:nld_x_preferred":[
         "Marmarashen"
     ],
+    "name:pol_x_preferred":[
+        "Marmaraszen"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0448\u0435\u043d"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:und_x_variant":[
         "Marmorashen"
+    ],
+    "name:uzb_x_preferred":[
+        "Marmarashen"
     ],
     "name:vie_x_preferred":[
         "Marmarashen"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421183275,
-    "wof:lastmodified":1566585514,
+    "wof:lastmodified":1690849852,
     "wof:name":"Marmarashen",
     "wof:parent_id":1108783975,
     "wof:placetype":"locality",

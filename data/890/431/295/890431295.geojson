@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Nor Geghi"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0440 \u0413\u0435\u0445\u0438"
+    ],
     "name:eng_x_preferred":[
         "Nor Geghi"
     ],
@@ -55,6 +58,9 @@
     "name:nld_x_preferred":[
         "Nor Geghi"
     ],
+    "name:pol_x_preferred":[
+        "Nor Geghi"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440 \u0413\u0435\u0445\u0438"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Bazmavan"
+    ],
+    "name:uzb_x_preferred":[
+        "Nor Geghi"
     ],
     "name:vie_x_preferred":[
         "Nor Geghi"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":890431295,
-    "wof:lastmodified":1566585525,
+    "wof:lastmodified":1690849871,
     "wof:name":"Nor Geghi",
     "wof:parent_id":1108784325,
     "wof:placetype":"locality",

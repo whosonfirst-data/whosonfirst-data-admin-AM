@@ -43,6 +43,9 @@
     "name:che_x_preferred":[
         "\u0410\u0440\u043c\u0430\u0432\u0438\u0440"
     ],
+    "name:chv_x_preferred":[
+        "\u0410\u0440\u043c\u0430\u0432\u0438\u0440"
+    ],
     "name:deu_x_preferred":[
         "Armawir"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:kur_x_preferred":[
         "Armaw\u00eer"
+    ],
+    "name:lat_x_preferred":[
+        "Armavirum"
     ],
     "name:lit_x_preferred":[
         "Armaviras"
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":890420407,
-    "wof:lastmodified":1636495574,
+    "wof:lastmodified":1690849876,
     "wof:name":"Armavir",
     "wof:parent_id":1108784191,
     "wof:placetype":"locality",

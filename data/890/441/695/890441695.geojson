@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Aralez"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0430\u043b\u0435\u0437"
+    ],
     "name:eng_x_preferred":[
         "Aralez"
     ],
@@ -61,6 +64,9 @@
     "name:nld_x_preferred":[
         "Aralez"
     ],
+    "name:pol_x_preferred":[
+        "Aralez"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u043b\u0435\u0437"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Aralek"
+    ],
+    "name:uzb_x_preferred":[
+        "Aralez"
     ],
     "name:vie_x_preferred":[
         "Aralez"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":890441695,
-    "wof:lastmodified":1566585524,
+    "wof:lastmodified":1690849869,
     "wof:name":"Aralez",
     "wof:parent_id":1108783015,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
     "name:nld_x_preferred":[
         "Azatan"
     ],
+    "name:pol_x_preferred":[
+        "Azatan"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0437\u0430\u0442\u0430\u043d"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:und_x_variant":[
         "Karakhs"
+    ],
+    "name:uzb_x_preferred":[
+        "Azatan"
     ],
     "name:vie_x_preferred":[
         "Azatan"
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421200465,
-    "wof:lastmodified":1566585508,
+    "wof:lastmodified":1690849840,
     "wof:name":"Azatan",
     "wof:parent_id":1108782645,
     "wof:placetype":"locality",

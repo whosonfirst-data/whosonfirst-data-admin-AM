@@ -31,6 +31,9 @@
     "name:che_x_preferred":[
         "\u0410\u043a\u043d\u0430\u0448\u0435\u043d"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03bd\u03b1\u03c3\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Aknashen"
     ],
@@ -61,6 +64,9 @@
     "name:nld_x_preferred":[
         "Aknashen"
     ],
+    "name:pol_x_preferred":[
+        "Aknaszen"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u043d\u0430\u0448\u0435\u043d"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Aknashen"
     ],
     "name:vie_x_preferred":[
         "Aknashen"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":890445297,
-    "wof:lastmodified":1566585529,
+    "wof:lastmodified":1690849878,
     "wof:name":"Aknashen",
     "wof:parent_id":1108783933,
     "wof:placetype":"locality",

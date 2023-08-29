@@ -44,6 +44,9 @@
     "name:hye_x_preferred":[
         "\u0546\u0561\u057e\u0578\u0582\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0561\u0582\u0578\u0582\u0580"
+    ],
     "name:ita_x_preferred":[
         "Navur"
     ],
@@ -62,6 +65,9 @@
     "name:oci_x_preferred":[
         "Navur"
     ],
+    "name:pol_x_preferred":[
+        "Nawur"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0432\u0443\u0440"
     ],
@@ -74,14 +80,23 @@
     "name:swe_x_preferred":[
         "Navur"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbe\u0bb5\u0bc2\u0bb0\u0bcd"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0432\u0443\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Navur"
     ],
     "name:vie_x_preferred":[
         "Navur"
     ],
     "name:zho_min_nan_x_preferred":[
         "Navur"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6b66\u723e"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":421200479,
-    "wof:lastmodified":1566585507,
+    "wof:lastmodified":1690849839,
     "wof:name":"Navur",
     "wof:parent_id":1108783331,
     "wof:placetype":"locality",

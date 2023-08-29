@@ -23,11 +23,20 @@
     "name:aze_x_preferred":[
         "Babaki\u015fi"
     ],
+    "name:aze_x_variant":[
+        "Byurakan"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u044e\u0440\u0430\u043a\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Biurakan"
+    ],
     "name:ceb_x_preferred":[
         "Byurakan"
+    ],
+    "name:ces_x_preferred":[
+        "Bjurakan"
     ],
     "name:che_x_preferred":[
         "\u0411\u044e\u0440\u0430\u043a\u0430\u043d"
@@ -43,6 +52,9 @@
     ],
     "name:eng_x_preferred":[
         "Byurakan"
+    ],
+    "name:epo_x_preferred":[
+        "Bjurakan"
     ],
     "name:est_x_preferred":[
         "Bjurakan"
@@ -86,6 +98,9 @@
     "name:nld_x_preferred":[
         "Byurakan"
     ],
+    "name:pol_x_preferred":[
+        "Bjurakan"
+    ],
     "name:ron_x_preferred":[
         "Byurakan"
     ],
@@ -98,17 +113,26 @@
     "name:swe_x_preferred":[
         "Byurakan"
     ],
+    "name:swe_x_variant":[
+        "Bjurakan"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u044e\u0440\u0430\u043a\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Biurakan"
     ],
+    "name:uzb_x_preferred":[
+        "Byurakan"
+    ],
     "name:vie_x_preferred":[
         "Byurakan"
     ],
     "name:zho_min_nan_x_preferred":[
         "Byurakan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u582a"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -158,7 +182,7 @@
         }
     ],
     "wof:id":421178513,
-    "wof:lastmodified":1566585518,
+    "wof:lastmodified":1690849859,
     "wof:name":"Byurakan",
     "wof:parent_id":1108783713,
     "wof:placetype":"locality",

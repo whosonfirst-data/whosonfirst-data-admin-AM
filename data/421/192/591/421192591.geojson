@@ -64,6 +64,9 @@
     "name:tur_x_preferred":[
         "Avan"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u4e07\u533a"
+    ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":616864,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421192591,
-    "wof:lastmodified":1566585488,
+    "wof:lastmodified":1690849811,
     "wof:name":"Avan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

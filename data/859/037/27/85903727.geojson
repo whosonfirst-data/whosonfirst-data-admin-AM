@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0645\u0646\u064a \u062a\u064a\u064a\u0631\u0648\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0645\u0646\u0649 \u062a\u064a\u064a\u0631\u0648\u0641\u0627"
+    ],
     "name:eng_x_preferred":[
         "Imeni Tairova"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582318246,
+    "wof:lastmodified":1690849802,
     "wof:name":"Imeni Tairova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

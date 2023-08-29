@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Ptghni"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0442\u0445\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Ptghni"
     ],
@@ -56,6 +59,9 @@
     "name:nld_x_preferred":[
         "Ptghni"
     ],
+    "name:pol_x_preferred":[
+        "Pytghni"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0442\u0445\u043d\u0438"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Ptgni"
+    ],
+    "name:uzb_x_preferred":[
+        "Ptghni"
     ],
     "name:vie_x_preferred":[
         "Ptghni"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421175681,
-    "wof:lastmodified":1566585500,
+    "wof:lastmodified":1690849827,
     "wof:name":"Ptghni",
     "wof:parent_id":1108784361,
     "wof:placetype":"locality",

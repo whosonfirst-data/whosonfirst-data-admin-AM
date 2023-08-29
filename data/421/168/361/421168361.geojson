@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Mrgashat"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0440\u0433\u0430\u0448\u0430\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c1\u03b3\u03ba\u03b1\u03c3\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Mrgashat"
     ],
@@ -50,6 +56,9 @@
     "name:nld_x_preferred":[
         "Mrgashat"
     ],
+    "name:pol_x_preferred":[
+        "Myrgaszat"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0440\u0433\u0430\u0448\u0430\u0442"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Gecherlau"
+    ],
+    "name:uzb_x_preferred":[
+        "Mrgashat"
     ],
     "name:vie_x_preferred":[
         "Mrgashat"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":421168361,
-    "wof:lastmodified":1566585486,
+    "wof:lastmodified":1690849809,
     "wof:name":"Mrgashat",
     "wof:parent_id":1108784197,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Bjni"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0436\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Bjni"
     ],
@@ -44,6 +47,9 @@
         "Bjni"
     ],
     "name:hye_x_variant":[
+        "\u0532\u057b\u0576\u056b"
+    ],
+    "name:hyw_x_preferred":[
         "\u0532\u057b\u0576\u056b"
     ],
     "name:ind_x_preferred":[
@@ -64,6 +70,9 @@
     "name:nld_x_preferred":[
         "Bjni"
     ],
+    "name:pol_x_preferred":[
+        "Byd\u017cni"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0436\u043d\u0438"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:und_x_variant":[
         "Bzhni"
+    ],
+    "name:uzb_x_preferred":[
+        "Bjni"
     ],
     "name:vie_x_preferred":[
         "Bjini"
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":890437781,
-    "wof:lastmodified":1566585525,
+    "wof:lastmodified":1690849871,
     "wof:name":"Bjni",
     "wof:parent_id":1108783565,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:che_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0430\u0448\u0430\u0442"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b5\u03b2\u03b1\u03c3\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Arevashat"
     ],
@@ -59,6 +62,9 @@
     "name:nld_x_preferred":[
         "Arevashat"
     ],
+    "name:pol_x_preferred":[
+        "Arewaszat"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0435\u0432\u0448\u0430\u0442"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:und_x_variant":[
         "Varmaziar"
+    ],
+    "name:uzb_x_preferred":[
+        "Arevashat"
     ],
     "name:vie_x_preferred":[
         "Arevashat"
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":421176985,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1690849862,
     "wof:name":"Arevashat",
     "wof:parent_id":1108783931,
     "wof:placetype":"locality",

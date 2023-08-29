@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Brrnakot'"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u043d\u0430\u043a\u043e\u0442"
+    ],
     "name:eng_x_preferred":[
         "Brnakot"
     ],
@@ -56,6 +59,9 @@
     "name:nld_x_preferred":[
         "Brnakot"
     ],
+    "name:pol_x_preferred":[
+        "Byrnakot"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u043d\u0430\u043a\u043e\u0442"
     ],
@@ -67,6 +73,15 @@
     ],
     "name:swe_x_preferred":[
         "Brrnakot'"
+    ],
+    "name:swe_x_variant":[
+        "Brnakot"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u043d\u0430\u043a\u043e\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Brnakot"
     ],
     "name:vie_x_preferred":[
         "Brnakot"
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":421205471,
-    "wof:lastmodified":1566585494,
+    "wof:lastmodified":1690849818,
     "wof:name":"Brrnakot'",
     "wof:parent_id":1108784483,
     "wof:placetype":"locality",

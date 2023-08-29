@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0440\u0430\u0437\u0433\u0430\u0432\u043e\u0440\u0441"
     ],
+    "name:che_x_preferred":[
+        "\u0415\u0440\u0430\u0437\u0433\u0430\u0432\u043e\u0440\u0441"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c1\u03b1\u03b6\u03b3\u03ba\u03b1\u03b2\u03cc\u03c1\u03c2"
     ],
@@ -58,6 +61,9 @@
     "name:nld_x_preferred":[
         "Yerazgavors"
     ],
+    "name:pol_x_preferred":[
+        "Jerazgawors"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u0430\u0437\u0433\u0430\u0432\u043e\u0440\u0441"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0631\u06c1\u0632\u06af\u0648\u0648\u0631\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Yerazgavors"
     ],
     "name:vie_x_preferred":[
         "Yerazgavors"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":890437775,
-    "wof:lastmodified":1566585524,
+    "wof:lastmodified":1690849870,
     "wof:name":"Yerazgavors",
     "wof:parent_id":1108782979,
     "wof:placetype":"locality",

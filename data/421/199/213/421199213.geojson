@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u0434\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u0435\u0434\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u0434\u0438"
     ],
@@ -89,6 +92,9 @@
     "name:lit_x_preferred":[
         "Vedis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d47\u0d26\u0d3f"
+    ],
     "name:msa_x_preferred":[
         "Vedi"
     ],
@@ -99,6 +105,9 @@
         "Vedi"
     ],
     "name:nld_x_preferred":[
+        "Vedi"
+    ],
+    "name:nob_x_preferred":[
         "Vedi"
     ],
     "name:pol_x_preferred":[
@@ -191,7 +200,7 @@
         }
     ],
     "wof:id":421199213,
-    "wof:lastmodified":1566585506,
+    "wof:lastmodified":1690849836,
     "wof:name":"Vedi",
     "wof:parent_id":1108784027,
     "wof:placetype":"locality",

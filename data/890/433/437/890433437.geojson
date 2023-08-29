@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Yeghegnut"
     ],
+    "name:che_x_preferred":[
+        "\u0415\u0445\u0435\u0433\u043d\u0443\u0442"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03b3\u03b5\u03b3\u03ba\u03bd\u03bf\u03cd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Yeghegnut"
     ],
@@ -49,6 +55,9 @@
     "name:kat_x_preferred":[
         "\u10d4\u10e6\u10d4\u10d2\u10dc\u10e3\u10e2\u10d8"
     ],
+    "name:kur_x_preferred":[
+        "Qami\u015flo"
+    ],
     "name:msa_x_preferred":[
         "Yeghegnut"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:nld_x_preferred":[
         "Yeghegnut"
+    ],
+    "name:pol_x_preferred":[
+        "Jeghegnut"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0445\u0435\u0433\u043d\u0443\u0442"
@@ -84,6 +96,9 @@
     ],
     "name:urd_x_variant":[
         "\u06cc\u063a\u06af\u0646\u0679"
+    ],
+    "name:uzb_x_preferred":[
+        "Yeghegnut"
     ],
     "name:vie_x_preferred":[
         "Yeghegnut"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":890433437,
-    "wof:lastmodified":1566585529,
+    "wof:lastmodified":1690849879,
     "wof:name":"Yeghegnut",
     "wof:parent_id":1108783841,
     "wof:placetype":"locality",

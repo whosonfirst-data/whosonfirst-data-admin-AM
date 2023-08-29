@@ -38,6 +38,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0580\u056e\u057e\u0561\u0562\u0565\u0580\u0564"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u056e\u0578\u0582\u0561\u0562\u0565\u0580\u0564"
+    ],
     "name:ita_x_preferred":[
         "Artsvaberd"
     ],
@@ -53,6 +56,9 @@
     "name:nld_x_preferred":[
         "Artsvaberd"
     ],
+    "name:pol_x_preferred":[
+        "Arcwaberd"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0446\u0432\u0430\u0431\u0435\u0440\u0434"
     ],
@@ -63,6 +69,9 @@
         "Artsvaberd"
     ],
     "name:swe_x_preferred":[
+        "Artsvaberd"
+    ],
+    "name:uzb_x_preferred":[
         "Artsvaberd"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421199209,
-    "wof:lastmodified":1566585506,
+    "wof:lastmodified":1690849837,
     "wof:name":"Artsvaberd",
     "wof:parent_id":1108783477,
     "wof:placetype":"locality",

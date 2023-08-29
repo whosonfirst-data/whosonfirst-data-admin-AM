@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mets Masrik"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0446 \u041c\u0430\u0441\u0440\u0438\u043a"
+    ],
     "name:eng_x_preferred":[
         "Mets Masrik"
     ],
@@ -38,6 +41,9 @@
     "name:ita_x_preferred":[
         "Mets Masrik"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30c3\u30c4\u30de\u30b9\u30ea\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10ec-\u10db\u10d0\u10e1\u10e0\u10d8\u10d9\u10d8"
     ],
@@ -50,8 +56,14 @@
     "name:nld_x_preferred":[
         "Mets Masrik"
     ],
+    "name:pol_x_preferred":[
+        "Mec Masrik"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446 \u041c\u0430\u0437\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0446-\u041c\u0430\u0441\u0440\u0438\u043a"
     ],
     "name:sco_x_preferred":[
         "Mets Masrik"
@@ -60,6 +72,9 @@
         "Mets Masrik"
     ],
     "name:swe_x_preferred":[
+        "Mets Masrik"
+    ],
+    "name:tur_x_preferred":[
         "Mets Masrik"
     ],
     "name:ukr_x_preferred":[
@@ -73,6 +88,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Mets Masrik"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9a6c\u65af\u91cc\u514b"
     ],
     "qs:gn_country":"AM",
     "qs:gn_fcode":"PPL",
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":421197881,
-    "wof:lastmodified":1566585505,
+    "wof:lastmodified":1690849834,
     "wof:name":"Mets Masrik",
     "wof:parent_id":1108784089,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:che_x_preferred":[
         "\u0410\u0431\u043e\u0432\u044f\u043d"
     ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0628\u06c6\u06a4\u06cc\u0627\u0646"
+    ],
     "name:dan_x_preferred":[
         "Abovyan"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03cc\u03b2\u03b9\u03b1\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03bf\u03b2\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Abovyan"
@@ -79,6 +85,9 @@
     ],
     "name:fra_x_preferred":[
         "Abovyan"
+    ],
+    "name:fry_x_preferred":[
+        "Abovjan"
     ],
     "name:glg_x_preferred":[
         "Abovian"
@@ -104,6 +113,9 @@
     "name:hye_x_variant":[
         "Abovyan"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0562\u0578\u057e\u0565\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Abovyan"
     ],
@@ -122,11 +134,17 @@
     "name:kor_x_preferred":[
         "\uc544\ubcf4\ube44\uc548"
     ],
+    "name:kur_x_preferred":[
+        "Abovyan"
+    ],
     "name:lav_x_preferred":[
         "Abovjana"
     ],
     "name:lit_x_preferred":[
         "Abovianas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2c\u0d4b\u0d35\u0d4d\u0d2f\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0905\u092c\u094b\u0935\u0947\u0928\u092c\u0930\u0947\u0935 \u0935\u0949\u0928\u0915"
@@ -269,7 +287,7 @@
         }
     ],
     "wof:id":421192605,
-    "wof:lastmodified":1566585487,
+    "wof:lastmodified":1690849810,
     "wof:name":"Abovyan",
     "wof:parent_id":1108784591,
     "wof:placetype":"locality",

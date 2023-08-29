@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Drakhtik"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0430\u0445\u0442\u0438\u043a"
+    ],
     "name:eng_x_preferred":[
         "Drakhtik"
     ],
@@ -52,8 +55,14 @@
     "name:nld_x_preferred":[
         "Drakhtik"
     ],
+    "name:pol_x_preferred":[
+        "Drachtik"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0445\u043b\u0443\u0434\u0436\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0440\u0430\u0445\u0442\u0438\u043a"
     ],
     "name:sco_x_preferred":[
         "Drakhtik"
@@ -64,11 +73,20 @@
     "name:swe_x_preferred":[
         "Drakhtik"
     ],
+    "name:swe_x_variant":[
+        "Drachtik"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0430\u0445\u0442\u0456\u043a"
     ],
     "name:und_x_variant":[
         "Tokhludzha"
+    ],
+    "name:uzb_x_preferred":[
+        "Drakhtik"
+    ],
+    "name:vie_x_preferred":[
+        "Drakhtik"
     ],
     "qs:name":"Drakhtik",
     "qs:photos_9r":0,
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":890433463,
-    "wof:lastmodified":1566585529,
+    "wof:lastmodified":1690849879,
     "wof:name":"Drakhtik",
     "wof:parent_id":1108783349,
     "wof:placetype":"locality",

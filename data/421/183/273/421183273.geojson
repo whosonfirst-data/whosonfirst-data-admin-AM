@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0643\u064a\u0631\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Hac\u0131 Ell\u0259z"
+    ],
     "name:ceb_x_preferred":[
         "Darakert"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0440\u0430\u043a\u0435\u0440\u0442"
     ],
     "name:eng_x_preferred":[
         "Darakert"
@@ -67,6 +73,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Darakert"
     ],
     "name:vie_x_preferred":[
         "Darakert"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":421183273,
-    "wof:lastmodified":1566585514,
+    "wof:lastmodified":1690849852,
     "wof:name":"Darakert",
     "wof:parent_id":1108783961,
     "wof:placetype":"locality",

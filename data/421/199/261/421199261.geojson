@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Dashtavan"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0448\u0442\u0430\u0432\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Dashtavan"
     ],
@@ -53,6 +56,9 @@
     "name:nld_x_preferred":[
         "Dashtavan"
     ],
+    "name:pol_x_preferred":[
+        "Dasztawan"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0448\u0442\u0430\u0432\u0430\u043d"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u0442\u0430\u0432\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Dashtavan"
     ],
     "name:vie_x_preferred":[
         "Dashtavan"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421199261,
-    "wof:lastmodified":1566585506,
+    "wof:lastmodified":1690849836,
     "wof:name":"Dashtavan",
     "wof:parent_id":1108783955,
     "wof:placetype":"locality",

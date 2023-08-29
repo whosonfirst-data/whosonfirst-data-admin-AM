@@ -34,6 +34,12 @@
     "name:ceb_x_variant":[
         "Apaga"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043f\u0430\u0433\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03b1\u03b3\u03ba\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Apaga"
     ],
@@ -62,6 +68,9 @@
         "Apaga"
     ],
     "name:nld_x_preferred":[
+        "Apaga"
+    ],
+    "name:pol_x_preferred":[
         "Apaga"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125862319,
-    "wof:lastmodified":1566585532,
+    "wof:lastmodified":1690849884,
     "wof:name":"Apaga",
     "wof:parent_id":1108784559,
     "wof:placetype":"locality",

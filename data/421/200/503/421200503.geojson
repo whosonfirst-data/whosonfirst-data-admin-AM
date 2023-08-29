@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Tsaghkaber"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0430\u0445\u043a\u0430\u0431\u0435\u0440"
+    ],
     "name:eng_x_preferred":[
         "Tsaghkaber"
     ],
@@ -50,6 +53,9 @@
     "name:nld_x_preferred":[
         "Tsaghkaber"
     ],
+    "name:pol_x_preferred":[
+        "Cachkaber"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u0445\u043a\u0430\u0431\u0435\u0440"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Avdibek"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsaghkaber"
     ],
     "name:vie_x_preferred":[
         "Tsaghkaber"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421200503,
-    "wof:lastmodified":1566585507,
+    "wof:lastmodified":1690849838,
     "wof:name":"Tsaghkaber",
     "wof:parent_id":1108783145,
     "wof:placetype":"locality",
