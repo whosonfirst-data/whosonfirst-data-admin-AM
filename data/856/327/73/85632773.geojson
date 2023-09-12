@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.147476,
-    "geom:area_square_m":29683320919.581371,
+    "geom:area_square_m":29683319793.309738,
     "geom:bbox":"43.447213,38.840244,46.634222,41.300993",
     "geom:latitude":40.294682,
     "geom:longitude":44.938953,
@@ -14,6 +14,9 @@
     "iso:country":"AM",
     "itu:country_code":[
         "374"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AM"
@@ -1202,7 +1205,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"374",
     "statoids:ds":"AM",
     "statoids:fifa":"ARM",
@@ -1261,7 +1265,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"6f22dbeb5259c86f4c27a9a005dbcb1f",
+    "wof:geomhash":"7d22c2274e1753653e09901a938367e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1275,12 +1279,12 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849806,
+    "wof:lastmodified":1694492142,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":2976566,
-    "wof:population_rank":12,
+    "wof:population":2957731,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:shortcode":"AM",
     "wof:superseded_by":[],
