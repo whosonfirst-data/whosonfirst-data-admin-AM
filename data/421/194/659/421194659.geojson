@@ -182,7 +182,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009815,
-    "wof:geomhash":"96531f5a0186ab96c487343d01b78637",
+    "wof:geomhash":"5a4af340a917d2a1b3061e4efa03342e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":421194659,
-    "wof:lastmodified":1566585488,
+    "wof:lastmodified":1695886950,
     "wof:name":"Goris",
     "wof:parent_id":85668119,
     "wof:placetype":"county",

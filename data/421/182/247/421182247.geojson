@@ -107,7 +107,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009323,
-    "wof:geomhash":"8333c6eede784010accf6c19ab7c29f1",
+    "wof:geomhash":"04ca35fd4ceac95b93a8c0f75e083665",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421182247,
-    "wof:lastmodified":1566585519,
+    "wof:lastmodified":1695886951,
     "wof:name":"Kamo",
     "wof:parent_id":85668103,
     "wof:placetype":"county",

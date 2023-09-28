@@ -158,7 +158,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009676,
-    "wof:geomhash":"94fa352f77e002cd3813ac078f179473",
+    "wof:geomhash":"7a5cfe4becd6ef13f809627d0b3e61f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":421190999,
-    "wof:lastmodified":1566585504,
+    "wof:lastmodified":1695886951,
     "wof:name":"Artik",
     "wof:parent_id":85668083,
     "wof:placetype":"county",
