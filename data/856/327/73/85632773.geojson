@@ -1244,6 +1244,7 @@
         "hasc:id":"AM",
         "icao:code":"EK",
         "ioc:id":"ARM",
+        "iso:code":"AM",
         "itu:id":"ARM",
         "m49:code":"051",
         "marc:id":"ai",
@@ -1257,6 +1258,7 @@
         "wk:page":"Armenia",
         "wmo:id":"AY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
     "wof:country_alpha3":"ARM",
     "wof:geom_alt":[
@@ -1279,7 +1281,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1694639595,
+    "wof:lastmodified":1695881255,
     "wof:name":"Armenia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
