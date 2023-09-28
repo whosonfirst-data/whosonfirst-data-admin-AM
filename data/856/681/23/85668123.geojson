@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250202,
-    "geom:area_square_m":2378605962.373631,
+    "geom:area_square_m":2378605956.693638,
     "geom:bbox":"45.074999,39.487513,45.809177,39.999058",
     "geom:latitude":39.751157,
     "geom:longitude":45.441486,
@@ -383,12 +383,14 @@
         "gn:id":409315,
         "gp:id":20070205,
         "hasc:id":"AM.VD",
+        "iso:code":"AM-VD",
         "iso:id":"AM-VD",
         "qs_pg:id":1064704,
         "wd:id":"Q200124"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"d3051d2a33d1077b3c654fff4e9e62ed",
+    "wof:geomhash":"17c7f18b6111c7b0961f3da6970d6925",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -403,7 +405,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849803,
+    "wof:lastmodified":1695884798,
     "wof:name":"Vayots Dzor",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

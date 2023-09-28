@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022924,
-    "geom:area_square_m":216676642.070711,
+    "geom:area_square_m":216676382.816114,
     "geom:bbox":"44.418405,40.054093,44.64759,40.229173",
     "geom:latitude":40.147433,
     "geom:longitude":44.536223,
@@ -727,14 +727,16 @@
         "gn:id":616051,
         "gp:id":20070212,
         "hasc:id":"AM.ER",
+        "iso:code":"AM-ER",
         "iso:id":"AM-ER",
         "qs_pg:id":892919,
         "unlc:id":"AM-ER",
         "wd:id":"Q1953",
         "wk:page":"Yerevan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"9e2e783876283f51b3b0c4ba64ca5228",
+    "wof:geomhash":"59874d8fb625c46257c57cc852347177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -749,7 +751,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849804,
+    "wof:lastmodified":1695884324,
     "wof:name":"Yerevan",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225174,
-    "geom:area_square_m":2120964175.075218,
+    "geom:area_square_m":2120962778.122659,
     "geom:bbox":"44.408328,40.08329,45.029789,40.699687",
     "geom:latitude":40.380148,
     "geom:longitude":44.692995,
@@ -375,13 +375,15 @@
         "gn:id":828262,
         "gp:id":20070208,
         "hasc:id":"AM.KT",
+        "iso:code":"AM-KT",
         "iso:id":"AM-KT",
         "qs_pg:id":219650,
         "unlc:id":"AM-KT",
         "wd:id":"Q4511"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"05b1f116cbef36b2471d44d73a3f3a8c",
+    "wof:geomhash":"ae89c86347d02c6895fc2df4aa2cc1ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849802,
+    "wof:lastmodified":1695884324,
     "wof:name":"Kotayk",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

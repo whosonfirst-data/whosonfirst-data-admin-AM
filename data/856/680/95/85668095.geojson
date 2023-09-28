@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.280658,
-    "geom:area_square_m":2623130354.340147,
+    "geom:area_square_m":2623131704.768621,
     "geom:bbox":"44.751873,40.637649,45.600968,41.290452",
     "geom:latitude":40.899125,
     "geom:longitude":45.119388,
@@ -376,13 +376,15 @@
         "gn:id":828265,
         "gp:id":20070202,
         "hasc:id":"AM.TV",
+        "iso:code":"AM-TV",
         "iso:id":"AM-TV",
         "qs_pg:id":523994,
         "wd:id":"Q201140",
         "wk:page":"Tavush Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"0d799e2ab5fd366fc4c9e2a3c340ff52",
+    "wof:geomhash":"a583aec1d7e684cd00f4dae9c560e6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -397,7 +399,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849804,
+    "wof:lastmodified":1695884797,
     "wof:name":"Tavush",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

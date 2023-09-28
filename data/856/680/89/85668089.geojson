@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308063,
-    "geom:area_square_m":2883509817.737524,
+    "geom:area_square_m":2883509649.899809,
     "geom:bbox":"43.436294,40.409317,44.199607,41.164537",
     "geom:latitude":40.80142,
     "geom:longitude":43.851535,
@@ -367,13 +367,15 @@
         "gn:id":828264,
         "gp:id":20070203,
         "hasc:id":"AM.SH",
+        "iso:code":"AM-SH",
         "iso:id":"AM-SH",
         "qs_pg:id":1102965,
         "wd:id":"Q201063",
         "wk:page":"Shirak Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"f6283657bf8fe87b58a2666e155c4a46",
+    "wof:geomhash":"0bf0fa008e8bdb03ea6b97619987fcf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -388,7 +390,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849804,
+    "wof:lastmodified":1695884797,
     "wof:name":"Shirak",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

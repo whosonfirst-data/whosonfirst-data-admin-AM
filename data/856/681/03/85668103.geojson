@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558372,
-    "geom:area_square_m":5266267502.938733,
+    "geom:area_square_m":5266268517.226079,
     "geom:bbox":"44.788047,39.865784,45.981772,40.733793",
     "geom:latitude":40.292772,
     "geom:longitude":45.337342,
@@ -375,13 +375,15 @@
         "gn:id":828261,
         "gp:id":20070204,
         "hasc:id":"AM.GR",
+        "iso:code":"AM-GR",
         "iso:id":"AM-GR",
         "qs_pg:id":1030251,
         "wd:id":"Q199905",
         "wk:page":"Gegharkunik Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"dfe1a957f24612a132ac86f132d916a4",
+    "wof:geomhash":"8191eab8a85a374d24bc03936aba4fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849802,
+    "wof:lastmodified":1695884797,
     "wof:name":"Gegharkunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

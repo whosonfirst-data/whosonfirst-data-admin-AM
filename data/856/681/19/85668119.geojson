@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.460184,
-    "geom:area_square_m":4400389718.080212,
+    "geom:area_square_m":4400387798.690931,
     "geom:bbox":"45.701221,38.863701,46.602612,39.851262",
     "geom:latitude":39.346663,
     "geom:longitude":46.139942,
@@ -374,13 +374,15 @@
         "gn:id":409314,
         "gp:id":20070206,
         "hasc:id":"AM.SU",
+        "iso:code":"AM-SU",
         "iso:id":"AM-SU",
         "qs_pg:id":1098498,
         "unlc:id":"AM-SU",
         "wd:id":"Q2523428"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"27d34c3f57ed1484d07f824657e47ac7",
+    "wof:geomhash":"9891453fb9f7a78789cf744d71f35e71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849803,
+    "wof:lastmodified":1695884798,
     "wof:name":"Syunik",
     "wof:parent_id":85632773,
     "wof:placetype":"region",

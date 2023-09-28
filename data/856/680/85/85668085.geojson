@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131778,
-    "geom:area_square_m":1245779755.959867,
+    "geom:area_square_m":1245779062.372537,
     "geom:bbox":"43.652508,40.008618,44.440471,40.284932",
     "geom:latitude":40.134845,
     "geom:longitude":44.035734,
@@ -367,14 +367,16 @@
         "gn:id":828260,
         "gp:id":20070210,
         "hasc:id":"AM.AV",
+        "iso:code":"AM-AV",
         "iso:id":"AM-AV",
         "qs_pg:id":1102976,
         "unlc:id":"AM-AV",
         "wd:id":"Q201147",
         "wk:page":"Armavir Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AM",
-    "wof:geomhash":"102573e24cc6223ebb773f3acf17b093",
+    "wof:geomhash":"775b376fa5dceaf530364c1caf2e486e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +391,7 @@
     "wof:lang_x_spoken":[
         "hye"
     ],
-    "wof:lastmodified":1690849805,
+    "wof:lastmodified":1695884798,
     "wof:name":"Armavir",
     "wof:parent_id":85632773,
     "wof:placetype":"region",
