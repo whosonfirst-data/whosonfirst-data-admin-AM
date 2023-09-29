@@ -101,7 +101,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009473,
-    "wof:geomhash":"1063aab4f2054a00060f932dd1efe9e0",
+    "wof:geomhash":"818e87b9e7566bcfc935190eb0aa284f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421186199,
-    "wof:lastmodified":1566585500,
+    "wof:lastmodified":1695886951,
     "wof:name":"Sevan",
     "wof:parent_id":85668103,
     "wof:placetype":"county",

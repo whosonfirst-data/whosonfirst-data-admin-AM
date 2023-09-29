@@ -173,7 +173,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009676,
-    "wof:geomhash":"500567ea4d57c34cbdb2a8247ed61cf6",
+    "wof:geomhash":"701adef5ae5bd40a6bab72982fd7fc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":421191001,
-    "wof:lastmodified":1566585504,
+    "wof:lastmodified":1695886951,
     "wof:name":"Vardenis",
     "wof:parent_id":85668103,
     "wof:placetype":"county",

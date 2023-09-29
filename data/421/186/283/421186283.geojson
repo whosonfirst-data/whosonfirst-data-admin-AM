@@ -80,7 +80,7 @@
     },
     "wof:country":"AM",
     "wof:created":1459009476,
-    "wof:geomhash":"06bc9844812bfbdf4de192fdb1ea3155",
+    "wof:geomhash":"d5acbc587411b20659a6047ad0eb2657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":421186283,
-    "wof:lastmodified":1566585500,
+    "wof:lastmodified":1695886951,
     "wof:name":"Masis",
     "wof:parent_id":85668105,
     "wof:placetype":"county",
