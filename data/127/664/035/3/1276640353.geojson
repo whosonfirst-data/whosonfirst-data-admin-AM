@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":11342987
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11342986
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"e39d370a59691c5268f9d3d8efa9ba9a",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1276640353,
-    "wof:lastmodified":1566585232,
+    "wof:lastmodified":1706219588,
     "wof:name":"Chermakavan",
     "wof:parent_id":1108783259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309995691
+    ],
     "wof:tags":[]
 },
   "bbox": [

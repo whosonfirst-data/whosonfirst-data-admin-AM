@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11341825
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11341826
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"103f99f475ecd11922272ee08e947c71",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209707511,
-    "wof:lastmodified":1566585247,
+    "wof:lastmodified":1706219587,
     "wof:name":"Khorroch'aver",
     "wof:parent_id":1108782667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243475725
+    ],
     "wof:tags":[]
 },
   "bbox": [

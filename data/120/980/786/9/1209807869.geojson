@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11323361
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11323362
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"96b8dbd8faf9195888c1d39ff48bc75c",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209807869,
-    "wof:lastmodified":1566585262,
+    "wof:lastmodified":1706219587,
     "wof:name":"Bover",
     "wof:parent_id":1108783171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343383259
+    ],
     "wof:tags":[]
 },
   "bbox": [

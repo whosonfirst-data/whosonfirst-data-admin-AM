@@ -9,6 +9,19 @@
     "geom:bbox":"44.58961,39.87398,44.58961,39.87398",
     "geom:latitude":39.87398,
     "geom:longitude":44.58961,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lusarrat",
+    "gn:country_code":"AM",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":174770,
+    "gn:latitude":39.87403,
+    "gn:longitude":44.58678,
+    "gn:modification_date":"2018-03-16",
+    "gn:name":"Lusarrat",
+    "gn:population":2780,
+    "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
     "lbl:bbox":"44.56961,39.85398,44.60961,39.89398",
     "lbl:max_zoom":18.0,
@@ -44,6 +57,9 @@
     "name:hye_x_preferred":[
         "\u053c\u0578\u0582\u057d\u0561\u057c\u0561\u057f"
     ],
+    "name:hye_x_variant":[
+        "\u053c\u0578\u0582\u057d\u0561\u057c\u0561\u057f"
+    ],
     "name:ita_x_preferred":[
         "Lusarat"
     ],
@@ -70,6 +86,11 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0441\u0430\u0440\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Shkhlar",
+        "Shikhlar",
+        "Lusarat"
     ],
     "name:uzb_x_preferred":[
         "Lusarat"
@@ -99,6 +120,7 @@
     "qs:woe_adm0":23424743,
     "qs:woe_id":2214088,
     "src:geom":"quattroshapes",
+    "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191569,
@@ -114,6 +136,14 @@
         "wd:id":"Q2371758",
         "wk:page":"Lusarat"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            174770
+        ],
+        "wk:page":[
+            "Shikhlar"
+        ]
+    },
     "wof:country":"AM",
     "wof:created":1459009742,
     "wof:geomhash":"d7b3833c2e3943c1dda9dca5ce2d7f9a",
@@ -127,13 +157,17 @@
         }
     ],
     "wof:id":421192595,
-    "wof:lastmodified":1690849810,
+    "wof:lastmodified":1706219587,
     "wof:name":"Lusarrat",
     "wof:parent_id":1108783307,
     "wof:placetype":"locality",
+    "wof:population":2780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327137483
+    ],
     "wof:tags":[]
 },
   "bbox": [
