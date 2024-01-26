@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11341402
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11341403
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"29ab6479c927f083905b649846b42bc3",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259804769,
-    "wof:lastmodified":1566585590,
+    "wof:lastmodified":1706239302,
     "wof:name":"Nerk'in Bandivan",
     "wof:parent_id":1108782597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343382521
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.79449,40.95428,43.79449,40.95428",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "Nerk\u2019in Bandivan"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1343382521,
-    "wof:lastmodified":1566585136,
+    "wof:lastmodified":1706239302,
     "wof:name":"Nerk'in Bandivan",
     "wof:parent_id":1108782597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259804769
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11225557
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11225558
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"1688174d62f7c0511fb99018f4e8f946",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242887059,
-    "wof:lastmodified":1566585543,
+    "wof:lastmodified":1706239302,
     "wof:name":"Chgnavori Dasht",
     "wof:parent_id":1108782977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293592321
+    ],
     "wof:tags":[]
 },
   "bbox": [

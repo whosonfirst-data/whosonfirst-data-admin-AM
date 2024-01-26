@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Charbakh"
@@ -50,12 +51,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2214662,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Charbakh",
+    "qs_pg:name_adm0":"Armenia",
+    "qs_pg:name_adm1":"Armavir",
+    "qs_pg:photos":2430,
+    "qs_pg:photos_1k":492,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2430,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1130257,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424743,
+    "qs_pg:woe_id":2213655,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":10,
+    "woe:adm0_id":23424743,
+    "woe:name_adm0":"Armenia",
+    "woe:name_adm1":"Armavir",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191569,
         85632773,
@@ -65,6 +85,14 @@
     "wof:concordances":{
         "gp:id":2213655,
         "qs_pg:id":1130257
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2213655
+        ],
+        "qs_pg:id":[
+            1130257
+        ]
     },
     "wof:country":"AM",
     "wof:geom_alt":[
@@ -84,13 +112,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1697478372,
+    "wof:lastmodified":1706239301,
     "wof:name":"Charbakh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126090537
+    ],
     "wof:tags":[]
 },
   "bbox": [

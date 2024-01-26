@@ -9,6 +9,19 @@
     "geom:bbox":"45.35498,40.59655,45.35498,40.59655",
     "geom:latitude":40.59655,
     "geom:longitude":45.35498,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chambarak",
+    "gn:country_code":"AM",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616098,
+    "gn:latitude":40.59655,
+    "gn:longitude":45.35498,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chambarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
     "iso:country":"AM",
     "lbl:bbox":"45.33498,40.57655,45.37498,40.61655",
     "lbl:max_zoom":15.0,
@@ -25,6 +38,9 @@
     ],
     "name:aze_x_preferred":[
         "\u00c7\u0259mb\u0259r\u0259k"
+    ],
+    "name:aze_x_variant":[
+        "Yuxar\u0131 \u00c7\u0259mb\u0259r\u0259k"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0427\u0430\u043c\u0431\u0430\u0440\u0430\u043a"
@@ -66,6 +82,9 @@
         "\u010cambarak"
     ],
     "name:hye_x_preferred":[
+        "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f"
+    ],
+    "name:hye_x_variant":[
         "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f"
     ],
     "name:ind_x_preferred":[
@@ -187,6 +206,14 @@
         "wd:id":"Q1024822",
         "wk:page":"Chambarak"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            616098
+        ],
+        "wk:page":[
+            "Verin-Chambarak"
+        ]
+    },
     "wof:country":"AM",
     "wof:created":1459009233,
     "wof:geomhash":"53a70c1254085cec3f25ede9645d65b0",
@@ -200,7 +227,7 @@
         }
     ],
     "wof:id":421179787,
-    "wof:lastmodified":1690849855,
+    "wof:lastmodified":1706239301,
     "wof:name":"Chambarak",
     "wof:parent_id":1108783369,
     "wof:placetype":"locality",
@@ -208,7 +235,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310106775
+    ],
     "wof:tags":[]
 },
   "bbox": [

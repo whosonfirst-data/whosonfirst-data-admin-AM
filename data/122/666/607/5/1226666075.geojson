@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11330622
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11330621
+        ]
+    },
     "wof:country":"AM",
     "wof:geomhash":"266b9766d81a09d50becaf211d4dfb05",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226666075,
-    "wof:lastmodified":1566585607,
+    "wof:lastmodified":1706239302,
     "wof:name":"Anapat",
     "wof:parent_id":1108784243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-am",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344147701
+    ],
     "wof:tags":[]
 },
   "bbox": [
